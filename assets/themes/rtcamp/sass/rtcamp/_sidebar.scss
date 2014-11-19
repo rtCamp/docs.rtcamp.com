@@ -1,0 +1,51 @@
+.sidebar {
+
+}
+
+.widgettitle {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.textwidget {
+    margin-bottom: 14px !important;
+}
+
+section.widget {
+    border-style: solid;
+    border-width: 0;
+    border-color: #CEDBE4;
+    padding: 20px;
+    background: #EFF3F6;
+    @include border-radius(5px);
+    label{
+        font-weight:normal;
+    }
+    h3{
+        margin-top: 0px;
+        color: #EB5B4C;
+        font-weight: normal;
+        font-size: 24px;
+    }
+    ul{
+        padding-left: 0px;
+        li{
+            list-style: none;
+            padding-left: 18px;
+            line-height: 25px;
+            margin-bottom: 12px;
+            position: relative;
+            &:before{
+                background-color: $gray-soft-lighter;
+                @include border-radius(100%);
+                content: '';
+                display: inline-block;
+                height: 8px;
+                left: 0;
+                position: absolute;
+                top: 9px;
+                width: 8px;
+            }
+        }
+    }
+}

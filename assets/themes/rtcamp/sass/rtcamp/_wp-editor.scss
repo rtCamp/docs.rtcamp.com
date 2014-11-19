@@ -1,0 +1,8 @@
+/* WP-Editor TinyMCE Style */
+body#tinymce {
+    background: $white; font-size: 16px; margin: 0 10px; padding: 10px 5px;
+    p, ul, ol, dl { font-size: inherit; }
+}
+
+// WP-Editor Caption
+.wp-caption-dt { border: 0; padding: 0; }

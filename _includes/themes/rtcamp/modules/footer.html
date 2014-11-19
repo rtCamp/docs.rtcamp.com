@@ -1,0 +1,44 @@
+<footer id="footer-wrapper" role="contentinfo" class="row rtp-footer-wrapper rtp-section-wrap">
+
+	<div id="footer" class="rtp-secondary-footer clearfix">
+
+		<div class="col-lg-3 col-md-6 col-sm-12 rtp-secondary-footer-widget">
+			<a role="link" href="{{ HOME_PATH }}" title="{{ site.title }}">
+				<img class="rtp-margin-bottom-10" src="{{ ASSET_PATH }}/img/logo-dark.png" alt="rtCamp" width="143" height="42"/>
+			</a>
+
+			<div class="rtp-social-icons">
+				{% for network in site.social %}
+					<a href="{{ network.url }}" target="_blank"><i class="rtcamp-{{ network.title }}"></i></a>
+				{% endfor %}
+			</div>
+		</div>
+
+		<div class="col-lg-3 col-md-6 col-sm-12 rtp-secondary-footer-widget">
+			<ul class="rtp-conatct-list">
+				<li><p class="rtp-title">Phone</p><span>+91-20-41224981/2/3</span></li>
+				<li><p class="rtp-title">Call</p><span>+1-650-433-9030</span></li>
+				<li><p class="rtp-title">Fax</p><span>+91-20-41224984</span></li>
+			</ul>
+		</div>
+
+		<div class="col-lg-3 col-md-6 col-sm-12 rtp-secondary-footer-widget">
+			<ul class="no-bullet rtp-conatct-list rtp-margin-0">
+				<li><p class="rtp-title">Skype</p><span>contact-rtcamp</span></li>
+				<li><p class="rtp-title">Email</p><span><a href="mailto:contact@rtcamp.com">contact@rtcamp.com</a></span></li>
+				<li><p class="rtp-title">Location</p><span><a href="http://rt.cx/map" target="_blank">View Map</a></span></li>
+			</ul>
+		</div>
+
+		<div class="col-lg-3 col-md-6 col-sm-12 rtp-secondary-footer-widget">
+			<img src="{{ ASSET_PATH }}/img/locator-map.png" alt="Location" width="231" height="85"/>
+		</div>
+	</div>
+
+	<div class="rtp-copyright-section col-lg-12">
+
+		<p class="rtp-copyright-info">&copy; {{ site.time | date: '%Y' }} - rtCamp Solutions Private Limited</p>
+
+	</div>
+
+</footer><!-- #footer-wrapper-->

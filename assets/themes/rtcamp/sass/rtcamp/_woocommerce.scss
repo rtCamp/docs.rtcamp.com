@@ -1,0 +1,210 @@
+.woocommerce,.woocommerce-page{
+    .rtp-product-list {
+        list-style: none;
+        padding-left: 0px;
+
+        li {
+            &:hover {
+                background: #EFF3F6;
+            }
+
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+            img {
+                display: block;
+                margin: 0 auto;
+            }
+
+            a {
+                text-align: center;
+                color: #2E68A6;
+                text-decoration: none;
+
+                .rtp-product-title {
+                    font-size: 16px;
+                    font-weight: 800;
+                }
+
+                &:hover, &:focus {
+                    text-decoration: none;
+
+                    .rtp-product-title {
+                        color: $brand-danger;
+                    }
+
+                    .star-rating {
+                        color: $golden-star;
+                    }
+                }
+            }
+
+            div.wc-rating-container {
+                height: 16px;
+            }
+
+            .star-rating {
+                margin: 0 auto;
+                float: none;
+            }
+
+            .rtp-price {
+                color: $brand-success;
+                font-size: 28px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+
+                del {
+                    font-size: 16px;
+                }
+
+                ins {
+                    text-decoration: none
+                }
+            }
+
+            max-height: 400px;
+
+            .wc-add-cart-container {
+                text-align: center;
+
+                a {
+                    color: $white
+                }
+            }
+        }
+    }
+
+    .single_add_to_cart_button {
+        margin-right: 20px;
+    }
+
+    .tab-pane {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #reviews {
+        #comments {
+            h3 {
+                margin-bottom: 30px;
+                border-bottom: 1px solid $gray-soft-lighter;
+                padding-bottom: 5px;
+            }
+
+            .comment {
+                padding-top: 10px;
+                padding-bottom: 20px;
+
+                .rtp-comment-content {
+                    border: 1px solid $gray-soft-lighter;
+                    padding: 20px;
+                }
+
+                .star-rating:hover {
+                    color: $golden-star;
+                }
+            }
+        }
+
+        #review_form #respond .form-submit {
+            #submit {
+                display: inline-block;
+                margin-bottom: 0; // For input.btn
+                font-weight: $btn-font-weight;
+                text-align: center;
+                vertical-align: middle;
+                cursor: pointer;
+                background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+                border: 1px solid transparent;
+                white-space: nowrap;
+                @include button-size($padding-base-vertical, $padding-base-horizontal, $line-height-base, $border-radius-base);
+                @include user-select(none);
+                @include button-variant($btn-primary-color, $btn-primary-bg, $btn-primary-border);
+                @include box-shadow(none);
+                @include text-shadow(none);
+            }
+        }
+    }
+
+    #gallery {
+        div {
+            a {
+                padding-bottom: 40px;
+            }
+        }
+    }
+
+    .row span.onsale {
+        background: $brand-success;
+        width: 35px;
+        height: 35px;
+        line-height: 28px;
+        @include box-shadow(none);
+    }
+}
+
+ul.rt-nav-cart-header {
+    width: 240px;
+
+    li {
+        a.rt-cart-list {
+            color: #fff;
+            padding: 12px 20px;
+            display: block;
+            height: auto;
+            line-height: 26px;
+            &:hover, &:focus {
+                background-color: #EFF3F6;
+                color: #333;
+            }
+
+            figure {
+                float: left;
+                margin-right: 20px;
+            }
+
+            span.sub {
+                display: block;
+                font-size: 12px;
+                color: $gray-light;
+            }
+        }
+
+        .rt-woo-action {
+            padding:10px;
+        }
+    }
+}
+
+// Woocommerce Messages
+.woocommerce, .woocommerce-page {
+    .woocommerce-message,
+    .woocommerce-info,
+    .woocommerce-error,
+    .woocommerce-success {
+        &:before {
+            padding-top: 0;
+        }
+    }
+}
+
+.woocommerce .rtp-product-list li img,
+.woocommerce-page .rtp-product-list li img {
+    background: $gray-soft-lighter;
+}
+
+#billing_email-2_field {
+    width: 100%;
+}
+
+div[itemprop="aggregateRating"] {
+    .star-rating {
+        right: 10px;
+        top: 12px;
+    }
+}
+
+.rtp-pay-method {
+    padding: 0 16px;
+}

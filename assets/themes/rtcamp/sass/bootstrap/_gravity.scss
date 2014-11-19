@@ -1,0 +1,60 @@
+.gform_wrapper ul {
+    @extend .list-unstyled;
+}
+.gform_wrapper li {
+    @extend .form-group;
+}
+.gform_wrapper form {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.gform_wrapper .gfield_label {
+    font-weight: 600 !important;
+}
+
+.gform_wrapper ul.right_label li, .gform_wrapper form ul.right_label li, .gform_wrapper ul.left_label li, .gform_wrapper form ul.left_label li {
+    margin-bottom: 28px !important;
+}
+
+.gform_wrapper .gfield_required {
+    padding-left: 1px;
+    color: $state-danger-text;
+}
+.ginput_container input,
+.ginput_container select,
+.ginput_container textarea {
+    @extend .form-control;
+}
+.ginput_container textarea {
+    height: auto;
+}
+.gform_button,.gform_next_button {
+    @extend .btn;
+    @extend .btn-primary;
+}
+.gform_wrapper .gfield_error {
+    .gfield_label {
+        color: $state-danger-text;
+    }
+    input,
+    select,
+    textarea {
+        border-color: $alert-danger-border;
+        background-color: $alert-danger-bg;
+        color: $alert-danger-text;
+        @include form-control-focus($alert-danger-text);
+    }
+}
+.validation_error {
+    @extend .alert;
+    @extend .alert-danger;
+}
+#gforms_confirmation_message {
+    @extend .alert;
+    @extend .alert-success;
+}
+.ginput_container input[type=radio]{
+    height: auto;
+    margin-left: 2px;
+}

@@ -1,0 +1,100 @@
+#footer-wrapper {
+    background-color: #17232A;
+    color: $gray-light;
+    font-weight: 400;
+    padding-bottom: 40px;
+    padding-top: 50px;
+
+    a {
+        color: $gray-light;
+        &:hover, &:focus {
+            color: $brand-info;
+            text-decoration: none;
+        }
+    }
+
+    .rtp-title {
+        color: $white;
+        float: left;
+        font-size: inherit;
+        font-weight: 400;
+        margin: 0 0 5px;
+        min-width: 70px;
+    }
+
+    .rtp-conatct-list {
+        li {
+            overflow: hidden;
+            list-style: none;
+        }
+    }
+
+    hr {
+        border: dotted $gray-soft-lighter;
+        border-width: 1px 0 0;
+        clear: both;
+        margin: 20px 0;
+        height: 0;
+        opacity: 0.2;
+        margin: 0 15px 40px;
+    }
+}
+
+// Footer Widgets
+.footerbar-widget {
+    margin-bottom: 30px;
+
+    #footer-wrapper & h3 { color: $white; font-size: 14px; font-weight: 400; margin-top: 0; margin-bottom: 15px; }
+
+    ul, ol { font-size: 13px; list-style: none; margin: 0; padding: 0; }
+
+    li { padding-bottom: 5px; }
+
+    .current-menu-item, .current_page_item {
+        > a { color: #35B5EB; }
+    }
+
+}
+
+// Secondary Footer
+.rtp-secondary-footer {
+    font-size: 13px;
+
+    ul, ol, dl, p {
+        font-size: inherit;
+    }
+}
+
+.rtp-secondary-footer-widget { margin-bottom: 40px; }
+
+/* Copyrights */
+.rtp-copyright-section {
+    font-size: 12px;
+    text-align: center;
+
+    ul, ol, dl, p {
+        font-size: inherit;
+    }
+}
+
+.rtp-copyright-info { display: inline-block; margin: 0; }
+
+#rtp-footer-menu {
+    display: inline-block;
+    margin-bottom: 0;
+
+    li {
+        display: inline-block;
+        list-style: none;
+        padding: 0 14px;
+        position: relative;
+
+        &:after { content: "."; font-size: 18px; left: -4px; line-height: 1; position: absolute; top: -4px; }
+        &:first-child:after { display: none; }
+    }
+
+    // Current Menu
+    .current-menu-item, .current_page_item {
+        > a { color: #35B5EB; }
+    }
+}

@@ -1,0 +1,328 @@
+// Landing page template
+.page-template-template-landing-php .rtp-section-wrap {
+    h2 {
+        font-size: 50px;
+        font-weight: 300;
+        //margin: 0 0 30px;
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 40px;
+        font-weight: 300;
+    }
+
+    h4 {
+        font-size: 24px;
+        //line-height: 1;
+        margin-top: 0;
+    }
+
+    h5 {
+        font-size: 20px;
+        //margin: 0 0 10px;
+    }
+
+    .wpb_wrapper .rtp-section-wrap {
+        .wpb_column {
+            //margin-bottom: 40px;
+        }
+    }
+
+    .icon-left {
+        .smicon-title {
+            font-size: 20px;
+            font-weight: 400;
+        }
+    }
+
+    .rtp-social-counts {
+        &.rtp-section-wrap {
+            .smicon-title {
+                font-size: 62px;
+                letter-spacing: 2px;
+                position: relative;
+                top: -4px;
+            }
+        }
+
+        .smicon-description {
+            font-size: 14px;
+            margin-top: 0;
+        }
+    }
+
+    .rtp-section-wrap {
+        h3 {
+            color: $red;
+        }
+    }
+
+
+    &.rtp-darkgray {
+        h3 {
+            color: $white;
+        }
+
+        .smicon-title {
+            color: $brand-success;
+        }
+    }
+}
+
+.vc_column_container {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.container > .rtp-section-wrap {
+    padding-bottom: 15px;
+}
+
+.rtp-section-wrap {
+    & + .wpb_button_a {
+        margin-bottom: 20px !important;
+        display: inline-block;
+        margin-top: 20px;
+    }
+}
+
+// Circle background
+.rtp-bg-circle {
+    text-align: center;
+
+    & > .vc_column_container > .wpb_wrapper {
+        background: $white;
+        border-radius: 100%;
+        @include box-shadow(0 -1px rgba(136, 136, 136, 0.1));
+        display: inline-block;
+        height: 170px;
+        line-height: 170px;
+        position: relative;
+        text-align: center;
+        vertical-align: top;
+        width: 170px;
+
+        img {
+            max-width: 150px;
+        }
+    }
+}
+
+div.pagination-centered { text-align: center; }
+
+.pagination,
+.pagination {
+    & > li {
+        & > a,
+        & > span {
+            padding: 10px 20px;
+            margin-left: 1px;
+        }
+    }
+}
+
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+
+.rtp-content-img-left {
+
+    & > .vc_column_container {
+        margin-bottom: 0;
+    }
+
+    img { border-radius: 100%; }
+
+    .wpb_single_image {
+        float: left;
+        margin: 0 0 10px;
+
+        & + .wpb_content_element {
+            font-size: 14px;
+            padding: 0 28px;
+        }
+    }
+
+    .wpb_content_element {
+        overflow: hidden;
+    }
+
+    blockquote {
+        margin: 0 0 10px;
+        padding: 0;
+
+        & + p {
+            font-size: 14px;
+        }
+    }
+}
+
+// Updated with new subheader
+.rtp-additional-sub-nav {
+    margin: 0; padding: 0; text-align: right;
+    li { display: inline-block; font-size: 14px; margin: 0; margin: 0 20px;
+
+         &:last-child {
+             margin-right: 0;
+             a {
+                 background: $red;
+                 border-radius: 3px;
+                 box-shadow: 0 -2px rgba(0, 0, 0, 0.14) inset;
+                 color: white;
+                 padding: 4px 8px;
+                 text-decoration: none;
+             }
+         }
+
+         &.current a { color: $color-error; cursor: pointer; }
+    }
+
+    a { color: inherit; padding: 0;
+        &:hover,
+            &:focus {
+            color: $red;
+        }
+    }
+
+    + .post-title { font-size: 25px; font-weight: 400; line-height: 1; margin: 0 0 17px; }
+}
+
+.rtp-main-title {
+    font-size: 25px;
+    margin: 0;
+    line-height: 1.1;
+}
+
+// rtCampers
+.rtcampers-list {
+    & > div { margin-bottom: 30px; max-height: 202px; overflow: hidden; }
+    h3 { background: rgba(0, 0, 0, 0.8); color: #FFF; font-size: 1em; font-weight: 700; line-height: 1.2em; margin: 30px 0 0; padding: 4px 10px; position: absolute; right: 0; top: 0; text-align: right; }
+    .rtp-social-icons { background: rgba(0, 0, 0, 0.6); display: none; margin: 0; padding: 5px; position: absolute; right: 0; bottom: 0; width: 100%; }
+    .rtp-social-icons [class^="rtcamp-"],
+    .rtp-social-icons [class*=" rtcamp-"] {
+        background-color: $gray-soft-lighter;
+        color: #37454d;
+    }
+    .rtp-designation { color: #FFF; font-size: 12px; font-weight: 400; line-height: 1.5; }
+}
+
+.rtp-member-container {
+    position: relative;
+    .rtcampers-list &:hover .rtp-social-icons {
+        display: block;
+    }
+}
+
+.rtp-inner-page-title {
+    border-bottom: 1px solid rgba($page-header-border-color, 0.8);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: (($line-height-computed / 2) - 1);
+}
+
+.breadcrumb {
+    span {
+        span {
+            font-size: 13px; margin: 0.3125rem 0.625rem;
+            &:first-child { margin-left: 0; }
+        }
+    }
+}
+
+// rtp-address
+.rtp-address {
+    display: inline-block;
+    margin: 0 0 1.25rem 0;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+// Table
+table {
+    background: white;
+    border: solid 2px #e1e6ea;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+
+    th, td {
+        padding: 0.9375rem;
+        color: #000;
+    }
+
+    tr.even, tr.alt, tr:nth-of-type(even) {
+        background: #eff3f6;
+    }
+}
+
+.content {
+    margin-bottom: 40px;
+}
+
+/*
+ * jquery.tocify.css 1.9.0
+ * Author: @gregfranko
+ */
+
+/* The Table of Contents container element */
+.tocify {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    max-height: 450px;
+    overflow: auto;
+    width: 100%;
+}
+
+/* The Table of Contents is composed of multiple nested unordered lists.  These styles remove the default styling of an unordered list because it is ugly. */
+.tocify ul, .tocify li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    line-height: 30px;
+}
+
+/* Top level header elements */
+.tocify-header {
+    text-indent: 10px;
+}
+
+/* Top level subheader elements.  These are the first nested items underneath a header element. */
+.tocify-subheader {
+    text-indent: 20px;
+    display: none;
+}
+
+/* Makes the font smaller for all subheader elements. */
+.tocify-subheader li {
+    font-size: 12px;
+}
+
+/* Further indents second level subheader elements. */
+.tocify-subheader .tocify-subheader {
+    text-indent: 30px;
+}
+
+/* Further indents third level subheader elements. You can continue this pattern if you have more nested elements. */
+.tocify-subheader .tocify-subheader .tocify-subheader {
+    text-indent: 40px;
+}
+
+/* Twitter Bootstrap Override Style */
+.nav-list > li > a, .nav-list .nav-header {
+    margin: 0px;
+}
+
+/* Twitter Bootstrap Override Style */
+.nav-list > li > a {
+    padding: 5px;
+}
+
+.tocify-extend-page {
+    clear: both;
+    width: 100%;
+    overflow: hidden;
+}

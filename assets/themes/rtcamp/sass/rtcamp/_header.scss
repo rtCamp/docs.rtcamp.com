@@ -1,0 +1,233 @@
+.rtp-header {
+    //margin-bottom: 40px;
+}
+
+.search-field.form-control {
+    line-height: 23px;
+}
+
+.rtp-search-wrapper {
+    background: #e1e6ea;
+    margin-bottom: 40px;
+    padding: 30px 0;
+
+    .search-form {
+        margin: auto;
+        max-width: 500px;
+    }
+}
+
+.navbar-brand {
+    padding: 5px 5px 0 15px;
+
+    &:hover {
+        @include opacity(0.9);
+    }
+}
+
+.rtp-nav-right {
+    float: right;
+    padding-right: 10px;
+}
+
+#rt_my_account_link {
+    padding: 5px;
+}
+
+.rtp-search-slide {
+    margin-top: 5px;
+    position: relative;
+    .search-form {
+        transition: all 0.15s linear 0s;
+        position: absolute;
+        right: 0;
+        width: 40px;
+        margin-top: 5px;
+        line-height: 32px;
+    }
+    .input-group {
+        overflow: hidden;
+        position: relative;
+        &:after {
+            color: $white;
+            content: '\e003';
+            display: block;
+            font-family: 'Glyphicons Halflings';
+            font-size: 16px;
+            font-weight: normal;
+            height: 30px;
+            position: absolute;
+            right: 0;
+            text-align: center;
+            top: 0;
+            width: 40px;
+            z-index: 5;
+        }
+
+        .search-field {
+            @include box-shadow(none);
+            background: transparent;
+            border: 0;
+            color: $gray-darker;
+            cursor: pointer;
+            font-size: 14px;
+            height: 30px;
+            line-height: 1;
+            padding: 0px 30px 0px 10px;
+            position: relative;
+            z-index: 10;
+            &:focus {
+                + .search-submit {
+                    display: block;
+                }
+            }
+        }
+
+        .search-submit {
+            display: none;
+            height: 30px;
+            right: 0;
+            width: 30px;
+        }
+    }
+
+    .rtp-open-search {
+        background: $white;
+        width: 200px;
+        .search-form {
+            &:after {
+                color: $brand-primary;
+            }
+            .search-field {
+                color: $gray-darker;
+                cursor: text;
+                width: 200px;
+            }
+        }
+        .input-group {
+            &:after {
+                color: $brand-primary;
+            }
+        }
+    }
+}
+
+.rtp-cart-link {
+    line-height: 1.5;
+    position: relative;
+}
+
+.rtcamp-basket {
+    font-size: 17px;
+    line-height: 1;
+}
+
+.rtcamp-search {
+    font-size: 18px;
+    line-height: 1;
+}
+
+.rtp-count {
+    background-color: $brand-success;
+    @include border-radius(16px);
+    display: inline-block;
+    font-size: 12px;
+    height: 16px;
+    line-height: 16px;
+    position: absolute;
+    right: 18px;
+    text-align: center;
+    top: 6px;
+    width: 16px;
+}
+
+.rtp-social-icons {
+    margin-top: 20px;
+    a {
+        float: left;
+        height: 28px;
+        line-height: 28px;
+        margin: 0px 3px;
+        text-align: center;
+        width: 28px;
+        &:first-child {
+            margin-left: 0;
+        }
+    }
+
+    [class^="rtcamp-"], [class*=" rtcamp-"] {
+        background-color: #37454D;
+        @include border-radius(100%);
+        color: $gray-light;
+        display: block;
+        font-size: 15px;
+
+        &:hover {
+            color: $white;
+        }
+    }
+
+    @mixin rtp-social-icon-bg($bg: #2085c7) {
+        background-color: $bg;
+    }
+
+    .rtcamp-linkedin {
+        &:hover {
+            @include rtp-social-icon-bg();
+        }
+    }
+
+    .rtcamp-github-circled {
+        &:hover {
+            @include rtp-social-icon-bg(#3f91cb);
+        }
+    }
+
+    .rtcamp-facebook {
+        &:hover {
+            @include rtp-social-icon-bg(#537bbd);
+        }
+    }
+
+    .rtcamp-twitter {
+        &:hover {
+            @include rtp-social-icon-bg(#40bff5);
+        }
+    }
+
+    .rtcamp-wordpress {
+        &:hover {
+            @include rtp-social-icon-bg(#2592c3);
+        }
+    }
+
+    .rtcamp-rss {
+        &:hover {
+            @include rtp-social-icon-bg(#faa33d);
+        }
+    }
+
+    .rtcamp-gplus {
+        &:hover {
+            @include rtp-social-icon-bg(#dd4b39);
+        }
+    }
+
+    .rtcamp-stackexchange {
+        &:hover {
+            @include rtp-social-icon-bg(#62b0df);
+        }
+    }
+}
+
+
+.navbar-nav>li>.dropdown-menu{
+    border-top:none;
+}
+
+.rtp-back-store {
+    display: inline-block;
+    float: right;
+    color: white;
+    line-height: 46px;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html class="rtp-html rtp-full-width-layout no-js">
+
+    {% include themes/rtcamp/modules/head.html %}
+
+    <body id="page-top" class="index">
+        <div id="main-wrapper" class="rtp-main-wrapper">
+            <div class="container" role="document">
+
+                {% include themes/rtcamp/modules/header.html %}
+
+                {{ content }}
+
+                {% include themes/rtcamp/modules/footer.html %}
+
+                {% include JB/analytics %}
+
+                <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+                <!-- Placed at the end of the document so the pages load faster -->
+                {% include themes/rtcamp/modules/js.html %}
+
+            </div>
+        </div>
+    </body>
+</html>

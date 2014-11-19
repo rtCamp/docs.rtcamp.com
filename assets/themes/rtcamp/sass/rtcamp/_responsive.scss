@@ -1,0 +1,56 @@
+@media (max-width: $screen-sm-min) {
+    .rtp-secondary-footer-widget {
+        overflow: hidden;
+
+        ul, ol, dl {
+            padding-left: 0;
+        }
+    }
+
+    #rtp-footer-menu {
+        margin-top: 20px;
+        padding-left: 0;
+    }
+}
+
+@media (max-width: $screen-md-min) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    // Circle background
+    .rtp-bg-circle {
+
+        & > .vc_column_container > .wpb_wrapper {
+            height: 132px;
+            line-height: 132px;
+            width: 132px;
+
+            img {
+                max-width: 100px;
+            }
+        }
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    // Circle background
+    .rtp-bg-circle {
+
+        & > .vc_column_container > .wpb_wrapper {
+            height: 95px;
+            line-height: 95px;
+            width: 95px;
+
+            img {
+                max-height: 50px;
+                max-width: 80px;
+                width: auto;
+            }
+        }
+    }
+}
+
+@media (min-width: $screen-lg-min) {
+
+}

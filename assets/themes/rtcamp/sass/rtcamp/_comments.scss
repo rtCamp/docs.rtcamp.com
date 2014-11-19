@@ -1,0 +1,26 @@
+#comments{
+    h3{
+        background-color: #EFF3F6;
+        font-size: 20px;
+        line-height: 1.2;
+        @include border-radius(5px);
+        padding: 10px 24px;
+        text-shadow: 0 1px #FFF;
+    }
+    .comment{
+        img.avatar{
+            @include border-radius(100%);
+        }
+        ul.comment li{
+            border-top: 1px solid $gray-soft-lighter;
+            padding-top: 20px;
+        }
+    }
+    ol.media-list>li{
+        border-top: 1px solid $gray-soft-lighter;
+        padding-top: 20px;
+        &:first-child{
+            border-top: none;
+        }
+    }
+}

@@ -1,0 +1,58 @@
+.main {
+
+}
+
+.content {
+
+}
+
+.content-info {
+
+}
+
+.rt-bg-dark{
+    background: $gray-darker;
+    color: $white;
+}
+
+.rtp-full-width-layout {
+    .rtp-header,
+    .rtp-footer-wrapper,
+    .rtp-darkgray,
+    .rtp-lightgray {
+        margin-left: calc(-500% - #{($grid-gutter-width / 2)} );
+        margin-right: calc(-500% - #{($grid-gutter-width / 2)} );
+        padding-left: 500%;
+        padding-right: 500%;
+    }
+
+    body {
+        background: $white;
+    }
+}
+
+.container {
+    background: $white;
+
+    & > .rtp-section-wrap {
+        //padding-bottom: 20px;
+        //padding-top: 50px;
+    }
+}
+
+.main {
+
+    & > .rtp-section-wrap {
+        //padding-bottom: 40px;
+    }
+}
+
+.rtp-darkgray {
+    background-color: #37454D;
+    color: $gray-soft-lighter;
+}
+
+.rtp-lightgray {
+    background-color: $gray-soft-lighter;
+    color: #000000;
+}

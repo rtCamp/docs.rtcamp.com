@@ -1,0 +1,226 @@
+// ***** This is removed since it prevents vertical scroll. ***** //
+// ***** Previously this was used for Full Browser Width Navigation Bar ***** //
+// html, body {
+//     overflow-x: hidden;
+// }
+
+// Alignleft
+.alignleft {
+    float: left;
+}
+
+// Alignright
+.alignright {
+    float: right;
+}
+
+// Aligncenter
+.aligncenter { display: block; margin-left: auto; margin-right: auto; text-align: center; }
+
+// Clear Both
+.clear-both { clear: both; }
+
+// Clear None
+.clear-none { clear: none; }
+
+// Clear Left
+.clear-left { clear: left; }
+
+// Clear Right
+.clear-right { clear: right; }
+
+figure.alignnone {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+// Messages
+.notice, .info, .success, .warning, .error, .alert, .clean, .alert-box, .secondary,
+.rtp-notice, .rtp-info, .rtp-success, .rtp-warning, .rtp-error, .rtp-alert, .rtp-clean,
+[class^="rtp-message-"],
+[class*=" rtp-message-"] {
+    padding: 10px 15px; text-shadow: 1px 0 0 $white; // box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 1em;
+    p:last-child { margin: 0; }
+}
+
+.rtp-message-notice, .notice, .rtp-notice, .clean, .secondary { @include rtp-notice(); }
+.rtp-message-info, .info, .rtp-info { @include rtp-info(); }
+.rtp-message-success, .success, .rtp-success { @include rtp-success(); }
+.rtp-message-warning, .warning, .rtp-warning { @include rtp-warning(); }
+.rtp-message-error, .error, .rtp-error, .alert, .rtp-alert { @include rtp-error(); }
+
+// inline-block
+.rtp-inline-block { display: inline-block; }
+
+// Text align
+.rtp-text-left { text-align: left; }
+.rtp-text-right { text-align: right; }
+.rtp-text-center { text-align: center; }
+
+// Borders
+.rtp-border-0 { border: 0 !important; }
+
+/* Font Sizes */
+.rtp-font-size-10 { font-size: 10px; }
+.rtp-font-size-11 { font-size: 11px; }
+.rtp-font-size-12 { font-size: 12px; }
+.rtp-font-size-13 { font-size: 13px; }
+.rtp-font-size-14 { font-size: 14px; }
+.rtp-font-size-15 { font-size: 15px; }
+.rtp-font-size-16 { font-size: 16px; }
+.rtp-font-size-18 { font-size: 18px; }
+.rtp-font-size-20 { font-size: 20px; }
+.rtp-font-size-22 { font-size: 22px; }
+.rtp-font-size-24 { font-size: 24px; }
+.rtp-font-size-28 { font-size: 28px; }
+.rtp-font-size-30 { font-size: 30px; }
+.rtp-font-size-40 { font-size: 40px; }
+.rtp-font-size-50 { font-size: 50px; }
+.rtp-font-size-60 { font-size: 60px; }
+
+/* Font Weights */
+.rtp-font-light { font-weight: 300; }
+.rtp-font-regular { font-weight: 400; }
+.rtp-font-semibold { font-weight: 600; }
+.rtp-font-bold { font-weight: 700; }
+
+
+// Titles
+[class*="rtp-block-medium"] {
+    max-width: 400px;
+}
+
+.rtp-block-medium {
+    &-center {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+p:empty {
+    display: none;
+}
+
+.rtp-image {
+    //margin-bottom: 1em;
+    //margin-top: 1em;
+}
+
+// Left arrow
+.rtp-arrow-left {
+    position: relative; background: $white; left: -20px; top: 20px;
+
+    &:after, &:before {
+        right: 100%;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+    }
+
+    &:after {
+        border-color: rgba(236, 0, 0, 0);
+        border-right-color: $white;
+        border-width: 10px;
+        top: 50%;
+        margin-top: -10px;
+    }
+    &:before {
+        border-color: rgba(236, 236, 236, 0);
+        border-right-color: $gray-soft-lighter;
+        border-width: 11px;
+        top: 50%;
+        margin-top: -11px;
+    }
+}
+
+// Hide breadcrumb on home
+.home .breadcrumb {
+    display: none;
+}
+
+// Composer
+.wpb-js-composer {
+    .wrap {
+        .wpb_column,
+        .container {
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+            .wrap {
+                .wpb_column,
+                .container {
+                    padding-top: 0;
+                    padding-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+.rtp-padding-bottom-10 {
+    padding-bottom: 10px !important;
+}
+
+.rtp-padding-bottom-20 {
+    padding-bottom: 20px !important;
+}
+
+.rtp-margin-bottom-20 {
+    margin-bottom: 20px !important;
+}
+
+.rtp-padding-bottom-40 {
+    padding-bottom: 40px !important;
+}
+
+//.rtp-set-section-space,
+.rtp-padding-bottom-60 {
+    padding-bottom: 60px !important;
+}
+
+.rtp-column-space-bottom {
+    margin-bottom: 40px !important;
+}
+
+.rtp-padding-top-0 {
+    padding-top: 0 !important;
+}
+
+.rtp-padding-bottom-0 {
+    padding-bottom: 0 !important;
+}
+
+.rtp-margin-bottom-0 {
+    margin-bottom: 0 !important;
+}
+
+.rtp-margin-top-0 {
+    margin-top: 0 !important;
+}
+
+iframe {
+    margin-bottom: -10px !important;
+    margin-top: 10px;
+    max-width: 100%;
+}
+
+// ***** Images ***** //
+$image-space: 20px;
+
+img {
+    // Floated Images
+    &.alignnone { margin-left: 0; margin-right: $image-space; }
+    &.alignleft { margin-left: 0; margin-right: $image-space; }
+    &.alignright { margin-left: $image-space; margin-right: 0; }
+
+    // IE8 image width issue fix.
+    .ie8 & { width: auto; }
+}
+
+.rtp-border-1 {
+    border: 3px solid #eee;
+}

@@ -1,0 +1,36 @@
+.hentry header {
+    
+}
+
+.hentry time {
+    
+}
+
+.hentry .byline,
+.hentry .post-cats {
+    color: $gray-light;
+    font-size: 14px;
+}
+
+.hentry .entry-summary {
+    //display: inline-block;
+}
+
+.hentry .entry-content {
+    
+}
+
+.hentry footer {
+    
+}
+
+.hentry {
+    border-bottom: 1px solid $gray-soft-lighter;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+// Gallery Shortcode
+.gallery-row {
+    padding: 15px 0;
+}

@@ -1,0 +1,80 @@
+/*!
+ * Roots 6.5.2
+ */
+
+$body-bg: #B6C1CB;
+$bootstrap-sass-asset-helper: false;
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$nav-link-padding: 10px 20px;
+$line-height-base: 1.75;
+$red: #EB5B4C;
+$gray-soft-lighter: #E1E6EA;
+$input-height-base: 32px;
+$nav-link-hover-bg: #3475ba;
+
+$blockquote-border-color: $gray-soft-lighter;
+$page-header-border-color: $gray-soft-lighter;
+$hr-border: $gray-soft-lighter;
+
+$font-size-h1: 35px;
+$font-size-h2: 30px;
+$font-size-h3: 24px;
+$font-size-h4: 20px;
+$font-size-h5: 18px;
+$font-size-h6: 16px;
+
+$zindex-navbar: 100;
+
+$grid-gutter-width: 30px;
+$container-large-desktop: 1200px;
+
+$padding-base-vertical:     5px;
+$padding-base-horizontal:   10px;
+
+$padding-large-vertical:    14px;
+$padding-large-horizontal:  32px;
+
+$padding-small-vertical:    8px;
+$padding-small-horizontal:  16px;
+
+$padding-xs-vertical:       4px;
+$padding-xs-horizontal:     6px;
+
+$border-radius-base:        5px;
+$border-radius-large:       5px;
+$border-radius-small:       5px;
+
+// ***** Messages Colors ***** //
+$color-notice: #BBBBBB;
+$color-info: #2EA2CC;
+$color-warning: #FFBA00;
+$color-success: #7AD03A;
+$color-error: #DD3D36;
+
+$blockquote-font-size: 16px;
+
+// compass
+@import "compass";
+
+// bootstrap
+@import "bootstrap/bootstrap";
+@import "bootstrap/lightbox";
+@import "bootstrap/gravity";
+
+// rtcamp
+@import "rtcamp/base";
+@import "rtcamp/mixins";
+@import "rtcamp/utility";
+@import "rtcamp/layout";
+@import "rtcamp/header";
+@import "rtcamp/sidebar";
+@import "rtcamp/blog";
+@import "rtcamp/comments";
+@import "rtcamp/templates";
+@import "rtcamp/components";
+@import "rtcamp/woocommerce";
+@import "rtcamp/bbpress";
+@import "rtcamp/footer";
+@import "rtcamp/responsive";
+@import "rtcamp/gform";
+@import "rtcamp/wp-editor";

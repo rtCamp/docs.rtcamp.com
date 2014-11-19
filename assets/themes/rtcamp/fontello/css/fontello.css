@@ -1,0 +1,167 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?54713287');
+  src: url('../font/fontello.eot?54713287#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?54713287') format('woff'),
+       url('../font/fontello.ttf?54713287') format('truetype'),
+       url('../font/fontello.svg?54713287#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?54713287#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="rtcamp-"]:before, [class*=" rtcamp-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.rtcamp-emo-happy:before { content: '\e86c'; } /* '' */
+.rtcamp-cog-1:before { content: '\e85b'; } /* '' */
+.rtcamp-spin5:before { content: '\e835'; } /* '' */
+.rtcamp-spin6:before { content: '\e836'; } /* '' */
+.rtcamp-search:before { content: '\e839'; } /* '' */
+.rtcamp-heart:before { content: '\e80f'; } /* '' */
+.rtcamp-star-1:before { content: '\e846'; } /* '' */
+.rtcamp-users-1:before { content: '\e82a'; } /* '' */
+.rtcamp-videocam:before { content: '\e821'; } /* '' */
+.rtcamp-picture:before { content: '\e812'; } /* '' */
+.rtcamp-camera-alt:before { content: '\e86d'; } /* '' */
+.rtcamp-ok:before { content: '\e80a'; } /* '' */
+.rtcamp-help-circled:before { content: '\e870'; } /* '' */
+.rtcamp-link:before { content: '\e832'; } /* '' */
+.rtcamp-lock:before { content: '\e831'; } /* '' */
+.rtcamp-lock-open-alt:before { content: '\e813'; } /* '' */
+.rtcamp-bookmark:before { content: '\e847'; } /* '' */
+.rtcamp-thumbs-up:before { content: '\e80c'; } /* '' */
+.rtcamp-download:before { content: '\e80d'; } /* '' */
+.rtcamp-upload:before { content: '\e811'; } /* '' */
+.rtcamp-code:before { content: '\e807'; } /* '' */
+.rtcamp-pencil:before { content: '\e840'; } /* '' */
+.rtcamp-gamepad:before { content: '\e85d'; } /* '' */
+.rtcamp-attention:before { content: '\e85f'; } /* '' */
+.rtcamp-rss:before { content: '\e842'; } /* '' */
+.rtcamp-wrench:before { content: '\e806'; } /* '' */
+.rtcamp-basket:before { content: '\e81f'; } /* '' */
+.rtcamp-headphones:before { content: '\e810'; } /* '' */
+.rtcamp-clock:before { content: '\e830'; } /* '' */
+.rtcamp-shuffle:before { content: '\e814'; } /* '' */
+.rtcamp-exchange:before { content: '\e819'; } /* '' */
+.rtcamp-play:before { content: '\e85e'; } /* '' */
+.rtcamp-mobile:before { content: '\e809'; } /* '' */
+.rtcamp-globe:before { content: '\e801'; } /* '' */
+.rtcamp-leaf:before { content: '\e81c'; } /* '' */
+.rtcamp-list-bullet:before { content: '\e827'; } /* '' */
+.rtcamp-suitcase:before { content: '\e864'; } /* '' */
+.rtcamp-gift:before { content: '\e805'; } /* '' */
+.rtcamp-bug:before { content: '\e82d'; } /* '' */
+.rtcamp-dollar:before { content: '\e81a'; } /* '' */
+.rtcamp-food:before { content: '\e802'; } /* '' */
+.rtcamp-beer-1:before { content: '\e862'; } /* '' */
+.rtcamp-building:before { content: '\e828'; } /* '' */
+.rtcamp-terminal:before { content: '\e82e'; } /* '' */
+.rtcamp-puzzle:before { content: '\e867'; } /* '' */
+.rtcamp-css3:before { content: '\e845'; } /* '' */
+.rtcamp-facebook:before { content: '\e83c'; } /* '' */
+.rtcamp-github-circled:before { content: '\e838'; } /* '' */
+.rtcamp-gplus:before { content: '\e83b'; } /* '' */
+.rtcamp-html5:before { content: '\e844'; } /* '' */
+.rtcamp-linux:before { content: '\e803'; } /* '' */
+.rtcamp-linkedin:before { content: '\e837'; } /* '' */
+.rtcamp-stackexchange:before { content: '\e83a'; } /* '' */
+.rtcamp-twitter:before { content: '\e83d'; } /* '' */
+.rtcamp-users:before { content: '\e80e'; } /* '' */
+.rtcamp-back:before { content: '\e834'; } /* '' */
+.rtcamp-forward:before { content: '\e81b'; } /* '' */
+.rtcamp-spin3:before { content: '\e800'; } /* '' */
+.rtcamp-vcard:before { content: '\e861'; } /* '' */
+.rtcamp-doc-text:before { content: '\e84b'; } /* '' */
+.rtcamp-doc-text-inv:before { content: '\e84c'; } /* '' */
+.rtcamp-book-open:before { content: '\e829'; } /* '' */
+.rtcamp-book:before { content: '\e84d'; } /* '' */
+.rtcamp-tools:before { content: '\e84e'; } /* '' */
+.rtcamp-up:before { content: '\e816'; } /* '' */
+.rtcamp-network:before { content: '\e841'; } /* '' */
+.rtcamp-chart-line:before { content: '\e833'; } /* '' */
+.rtcamp-megaphone:before { content: '\e83e'; } /* '' */
+.rtcamp-database:before { content: '\e866'; } /* '' */
+.rtcamp-drive:before { content: '\e824'; } /* '' */
+.rtcamp-flow-branch:before { content: '\e826'; } /* '' */
+.rtcamp-gauge:before { content: '\e804'; } /* '' */
+.rtcamp-db-shape:before { content: '\e869'; } /* '' */
+.rtcamp-eq:before { content: '\e86a'; } /* '' */
+.rtcamp-doc:before { content: '\e85c'; } /* '' */
+.rtcamp-down-small:before { content: '\e871'; } /* '' */
+.rtcamp-up-small:before { content: '\e872'; } /* '' */
+.rtcamp-plug:before { content: '\e81e'; } /* '' */
+.rtcamp-lifebuoy:before { content: '\e80b'; } /* '' */
+.rtcamp-brush:before { content: '\e825'; } /* '' */
+.rtcamp-flow-cross:before { content: '\e868'; } /* '' */
+.rtcamp-beer:before { content: '\e82c'; } /* '' */
+.rtcamp-equalizer:before { content: '\e808'; } /* '' */
+.rtcamp-edit:before { content: '\e860'; } /* '' */
+.rtcamp-chat-1:before { content: '\e843'; } /* '' */
+.rtcamp-award:before { content: '\e82b'; } /* '' */
+.rtcamp-tablet:before { content: '\e84f'; } /* '' */
+.rtcamp-easel:before { content: '\e86b'; } /* '' */
+.rtcamp-globe-1:before { content: '\e853'; } /* '' */
+.rtcamp-chart:before { content: '\e852'; } /* '' */
+.rtcamp-chart-bar:before { content: '\e850'; } /* '' */
+.rtcamp-chart-pie:before { content: '\e851'; } /* '' */
+.rtcamp-money:before { content: '\e84a'; } /* '' */
+.rtcamp-attach:before { content: '\e855'; } /* '' */
+.rtcamp-pencil-1:before { content: '\e854'; } /* '' */
+.rtcamp-theatre:before { content: '\e81d'; } /* '' */
+.rtcamp-twitter-1:before { content: '\e83f'; } /* '' */
+.rtcamp-github-text:before { content: '\e856'; } /* '' */
+.rtcamp-github:before { content: '\e857'; } /* '' */
+.rtcamp-wordpress:before { content: '\e822'; } /* '' */
+.rtcamp-torso:before { content: '\e815'; } /* '' */
+.rtcamp-cancel:before { content: '\e817'; } /* '' */
+.rtcamp-website:before { content: '\e820'; } /* '' */
+.rtcamp-doc-new:before { content: '\e818'; } /* '' */
+.rtcamp-signal:before { content: '\e859'; } /* '' */
+.rtcamp-desktop:before { content: '\e865'; } /* '' */
+.rtcamp-laptop:before { content: '\e86f'; } /* '' */
+.rtcamp-road:before { content: '\e858'; } /* '' */
+.rtcamp-smiley:before { content: '\e82f'; } /* '' */
+.rtcamp-cog:before { content: '\e85a'; } /* '' */
+.rtcamp-paper-plane:before { content: '\e848'; } /* '' */
+.rtcamp-graduation-cap:before { content: '\e86e'; } /* '' */
+.rtcamp-beaker:before { content: '\e849'; } /* '' */
+.rtcamp-t-shirt:before { content: '\e863'; } /* '' */
+.rtcamp-chat:before { content: '\e823'; } /* '' */

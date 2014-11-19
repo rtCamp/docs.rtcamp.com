@@ -1,0 +1,60 @@
+// ********* rtPanel Mixins *********
+
+// We use this to do clear floats
+@mixin rtp-clearfix {
+	*zoom:1;
+	&:before, &:after { content: " "; display: table; }
+	&:after { clear: both; }
+}
+
+@mixin rtp-link ( $link-color: $link-color, $hover-color: $link-hover-color ) {
+    & { color: $link-color; }
+    &:hover, &:focus { color: $link-hover-color; }
+}
+
+// Border 1px
+@mixin rtp-border($width: 1px, $style: solid, $color: $border-color) {
+    border: $width $style $color;
+}
+
+// ********* rtPanel Constant Mixins ********* //
+
+// Set margin and padding 0
+@mixin rtp-margin-padding-0() {
+    margin: 0;
+    padding: 0;
+}
+
+// Messages
+@mixin rtp-message( $color: $color-info, $lighten: 42, $border: true ) {
+    background-color: lighten( $color, $lighten );
+
+    @if $border {
+        border: 1px solid $color;
+    }
+}
+
+// Notice
+@mixin rtp-notice() {
+	@include rtp-message( $color-notice, 20 );
+}
+
+// Info
+@mixin rtp-info() {
+    @include rtp-message( $color-info, 42 );
+}
+
+// Warning
+@mixin rtp-warning() {
+    @include rtp-message( $color-warning, 42 );
+}
+
+// Success
+@mixin rtp-success() {
+    @include rtp-message( $color-success, 38 );
+}
+
+// Error
+@mixin rtp-error() {
+    @include rtp-message( $color-error, 40 );
+}
