@@ -1,0 +1,15 @@
+---
+author: admin
+comments: false
+date: 2013-11-07 06:12:45+00:00
+layout: page
+slug: posteditor-shortcode-button
+title: Post-editor shortcode button
+wordpress_id: 50349
+---
+
+_Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._
+
+Using the rtMedia PRO add-on along with rtMedia's core, site administrators can quickly create gallery and uploader shortcodes by using the shortcode generator button in WordPress' post editor.
+
+[child-pages]

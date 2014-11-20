@@ -1,0 +1,15 @@
+---
+author: admin
+comments: false
+date: 2014-08-13 15:52:33+00:00
+layout: page
+slug: sort-media
+title: Sort Media
+wordpress_id: 67236
+---
+
+Users can sort their media in ascending (ASC) and descending (DESC) order based on Upload Date, Size and Titles.
+
+
+
+[![rtmedia-pro-settings-sort-media](http://docs.rtcamp.com/wp-content/uploads/2014/08/rtmedia-pro-settings-sort-media.png)](http://docs.rtcamp.com/wp-content/uploads/2014/08/rtmedia-pro-settings-sort-media.png)
