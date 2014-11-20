@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:title
+permalink: /:categories/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -83,15 +83,16 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+  search_path : /search.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider :
     disqus :
-      short_name : docsrtcamp
+      short_name :
     livefyre :
       site_id :
     intensedebate :
@@ -109,7 +110,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : ''
+        tracking_id : 'UA-15354140-3'
     getclicky :
       site_id :
     mixpanel :
@@ -136,3 +137,21 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+rtp_header:
+    - title: rtMedia
+      url: /rtmedia
+    - title: InspireBook
+      url: /inspirebook
+    - title: rtPanel
+      url: /rtpanel
+
+rtp_footer:
+    - title: Categories
+      url: /categories.html
+    - title: Tags
+      url: /tags.html
+    - title: Atom Feed
+      url: /atom.xml
+    - title: RSS Feed
+      url: /rss.xml

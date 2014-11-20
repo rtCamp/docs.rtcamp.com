@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Posts
+title: Home
 ---
 {% include JB/setup %}
 
 <h2>Listing</h2>
 <ul>
-{% for post in site.posts %}
-<li>
-	<h4 class="post-title"><a href="{{ BASE_PATH }}{{post.url}}">{{ post.title }}</a></h4>
-	<p class="text-muted">{{ post.content | strip_html | truncatewords: 50 }}</p>
-</li>
-{% endfor %}
+{% assign pages_list = site.pages - [ '404.html', 'tags.html', 'rss.xml', 'atom.xml' ] %}
+{% include JB/pages_list %}
 </ul>

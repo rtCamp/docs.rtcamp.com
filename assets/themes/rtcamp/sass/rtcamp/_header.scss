@@ -17,6 +17,18 @@
     }
 }
 
+#menu-top-menu {
+    li {
+        &:hover > .dropdown-menu {
+            display: block;
+        }
+    }
+
+    & > li:hover > a {
+        background-color: #2d65a0;
+    }
+}
+
 .navbar-brand {
     padding: 5px 5px 0 15px;
 

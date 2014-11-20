@@ -13,9 +13,13 @@
 
     <nav class="collapse navbar-collapse" role="navigation">
 		<ul class="nav navbar-nav">
-			{% assign pages_list = site.pages %}
-			{% assign group = 'navigation' %}
-			{% include JB/pages_list %}
+        {% for nav_item in site.rtp_header %}
+            {% if page.url == nav_item.url %}
+            <li class="active"><a href="{{ BASE_PATH }}{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+            {% else %}
+            <li><a href="{{ BASE_PATH }}{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+            {% endif %}
+            {% endfor %}
 		</ul>
 		<a class="rtp-back-store" href="https://rtcamp.com/store/">rtCamp Store</a>
 	</nav>

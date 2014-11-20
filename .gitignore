@@ -8,3 +8,6 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+assets/themes/*/node_modules
+assets/themes/*/.sass-cache/*

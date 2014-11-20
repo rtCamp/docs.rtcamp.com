@@ -39,6 +39,12 @@
 
 		<p class="rtp-copyright-info">&copy; {{ site.time | date: '%Y' }} - rtCamp Solutions Private Limited</p>
 
+		<ul id="rtp-footer-menu" class="menu">
+		{% for nav_item in site.rtp_footer %}
+			<li><a target="_blank" href="{{ BASE_PATH }}{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+		{% endfor %}
+		</ul>
+
 	</div>
 
 </footer><!-- #footer-wrapper-->
