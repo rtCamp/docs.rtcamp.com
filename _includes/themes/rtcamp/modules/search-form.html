@@ -19,5 +19,8 @@ function rtp_get_query_variable(variable) {
 }
 
 var searchbox = document.getElementById('rtp-search-box');
-searchbox.value = rtp_get_query_variable('q');
+var value = rtp_get_query_variable('q');
+if ( value != false ) {
+    searchbox.value = value;
+}
 </script>
