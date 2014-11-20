@@ -1,7 +1,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {{site.tagline}}</title>
+	<title>
+	{% if page.url != site.JB.index_path && page.title %}
+		{{ page.title }}
+	{% else %}
+		{{ site.title }}
+	{% endif %}
+	- {{site.tagline}}
+	</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700' rel='stylesheet' type='text/css' />
