@@ -21,10 +21,19 @@
             {% endif %}
             {% endfor %}
 		</ul>
-		<a class="rtp-back-store" href="https://rtcamp.com/store/">rtCamp Store</a>
+
+        <ul class="nav navbar-nav rtp-nav-right">
+            <li class="navbar-form navbar-left rtp-search-slide hidden-sm hidden-xs">
+                {% include themes/rtcamp/modules/search-form.html %}
+            </li>
+			<li class="dropdown hidden-sm hidden-md hidden-xs"></li>
+            <li class="hidden-sm hidden-md hidden-xs">
+                <a class="rtp-back-store" href="https://rtcamp.com/store/">rtCamp Store</a>
+            </li>
+        </ul>
 	</nav>
 </header>
 
 <div class="rtp-search-wrapper">
-	{% include themes/rtcamp/modules/search-form.html %}
+
 </div>

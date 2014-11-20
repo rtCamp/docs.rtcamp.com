@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:title
+permalink: /:title
 
 exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md"]
 highlighter: pygments
