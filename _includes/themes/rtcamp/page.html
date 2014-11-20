@@ -1,10 +1,7 @@
-{% include themes/rtcamp/modules/breadcrumbs.html %}
-
 <div class="content row">
     <main class="main col-sm-8" role="main">
-        <div class="page-header-innter">
-            <h1 class="rtp-inner-page-title">{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-        </div>
+
+        {% include themes/rtcamp/modules/page-header.html %}
 
         <div class="content">
             {{ content }}

@@ -1,6 +1,21 @@
-<ul class="breadcrumb">
-{% for path in page.parent_paths %}
-<li><a href="{{ path }}">{{ page.parents[forloop.index0] }}</a> <span class="divider">/</span></li>
-{% endfor %}
-<li class="active">{{ page.title }}</li>
-</ul>
+<div class="breadcrumbs-container" xmlns:v="http://rdf.data-vocabulary.org/#">
+	<ul class="breadcrumb">
+		<li class="active">
+			<span prefix="v: http://rdf.data-vocabulary.org/#">
+			{% for path in page.parent_paths %}
+				<span typeof="v:Breadcrumb">
+					<a href="{{ path }}" rel="v:url" property="v:title">
+						{{ page.parents[forloop.index0] }}
+					</a>
+				</span>
+				&raquo;
+			{% endfor %}
+				<span typeof="v:Breadcrumb">
+					<span class="breadcrumb_last" property="v:title">
+						{{ page.title }}
+					</span>
+				</span>
+			</span>
+		</li>
+	</ul>
+</div>

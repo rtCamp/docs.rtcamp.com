@@ -1,10 +1,7 @@
-{% include themes/rtcamp/modules/breadcrumbs.html %}
-
 <div class="content row">
     <main class="main col-sm-8" role="main">
-        <div class="page-header-innter">
-            <h1 class="rtp-inner-page-title">{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
-        </div>
+
+        {% include themes/rtcamp/modules/page-header.html %}
 
         <div class="date">
             <span>{{ page.date | date_to_long_string }}</span>
@@ -12,33 +9,6 @@
         <div class="content">
             {{ content }}
         </div>
-
-        {% unless page.categories == empty %}
-            <strong>Categories:</strong>
-            {% assign categories_list = page.categories %}
-            {% include JB/categories_list %}
-        {% endunless %}
-
-        {% unless page.tags == empty %}
-            <strong>Tags:</strong>
-            {% assign tags_list = page.tags %}
-            {% include JB/tags_list %}
-        {% endunless %}
-
-        <hr>
-        <ul class="pagination">
-            {% if page.previous %}
-                <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
-            {% else %}
-                <li class="prev disabled"><a>&larr; Previous</a></li>
-            {% endif %}
-            <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-            {% if page.next %}
-                <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
-            {% else %}
-                <li class="next disabled"><a>Next &rarr;</a>
-            {% endif %}
-        </ul>
         <hr>
         {% include JB/comments %}
   </main>

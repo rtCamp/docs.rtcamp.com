@@ -1,0 +1,15 @@
+{% if page.url != site.JB.index_path %}
+
+<div class="page-header-innter">
+	<h1 class="rtp-inner-page-title">
+		{{ page.title }}
+		{% if page.tagline %}
+			<small>{{ page.tagline }}</small>
+		{% endif %}
+	</h1>
+
+	{% include themes/rtcamp/modules/breadcrumbs.html %}
+
+</div>
+
+{% endif %}
