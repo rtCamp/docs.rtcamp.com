@@ -41,6 +41,15 @@ rake page name="pages/about"
 # this will create the file: ./pages/about/index.html
 	```
 
+**NOTE:** When you add a new page, set its permalink into the YAML Front Matter of the page as follows. This will help Jekyll in generating parent-child relationship of the pages and Breadcrumbs as well.
+
+	---
+	layout: page
+	title: "New Page"
+	description: ""
+	permalink: parent-page-slug/page-slug/
+	---
+
 ### Publish
 
 After you've added pages or made changes to your files, simply commit them to your git repo and push the commits up to server.
