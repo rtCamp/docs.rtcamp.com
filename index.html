@@ -1,15 +1,10 @@
 ---
 layout: page
 title: Home
-permalink: 
+permalink: /
 ---
 {% include JB/setup %}
 
 <h2>Listing</h2>
-<ul>
-{% for page in site.pages %}
-	{% if page.show_on_home %}
-	<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
+
+{% include themes/rtcamp/modules/child-pages.html context="/" %}
