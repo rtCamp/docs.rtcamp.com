@@ -4,6 +4,7 @@ comments: false
 date: 2014-08-12 13:03:25+00:00
 layout: page
 slug: setup-icons
+permalink: inspirebook/setup-icons/
 title: Setup Icons for InspireBook Menu
 wordpress_id: 67164
 ---
@@ -36,28 +37,28 @@ Followings are the list of fontello icons which have inbuilt support in InspireB
 
 
 
-	
+
   * glyph
 
-	
+
   * glyph-1
 
-	
+
   * glyph-2
 
-	
+
   * glyph-3
 
-	
+
   * glyph-4
 
-	
+
   * glyph-5
 
-	
+
   * glyph-6
 
-	
+
   * glyph-7
 
 
@@ -70,31 +71,31 @@ Followings are the list of fontello icons which have inbuilt support in InspireB
 
 
 
-	
+
   * home
 
-	
+
   * comment-alt
 
-	
+
   * attach
 
-	
+
   * thumbs-up-alt
 
-	
+
   * thumbs-down-alt
 
-	
+
   * code
 
-	
+
   * block
 
-	
+
   * arrows-cw
 
-	
+
   * qrcode
 
 
@@ -107,31 +108,31 @@ Followings are the list of fontello icons which have inbuilt support in InspireB
 
 
 
-	
+
   * video
 
-	
+
   * info
 
-	
+
   * info-circled
 
-	
+
   * comment
 
-	
+
   * cancel-circled
 
-	
+
   * link
 
-	
+
   * right
 
-	
+
   * group
 
-	
+
   * rss
 
 

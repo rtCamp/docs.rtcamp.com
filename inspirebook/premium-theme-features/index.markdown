@@ -4,6 +4,7 @@ comments: false
 date: 2014-08-12 12:49:45+00:00
 layout: page
 slug: premium-theme-features
+permalink: inspirebook/premium-theme-features/
 title: Premium Theme Features
 wordpress_id: 67150
 ---

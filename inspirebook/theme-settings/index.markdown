@@ -4,6 +4,7 @@ comments: false
 date: 2014-11-18 07:55:51+00:00
 layout: page
 slug: theme-settings
+permalink: inspirebook/theme-settings/
 title: Theme Settings
 wordpress_id: 67897
 ---

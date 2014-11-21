@@ -14,4 +14,4 @@ InspireBook is a premium WordPress theme, designed especially for BuddyPress and
 
 ![](https://d3qt5vpr7p9rgn.cloudfront.net/wp-content/uploads/2014/02/InspireBook-Screenshot.png)
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

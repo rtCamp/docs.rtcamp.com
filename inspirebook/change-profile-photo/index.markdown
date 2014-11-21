@@ -4,6 +4,7 @@ comments: false
 date: 2014-08-12 12:55:11+00:00
 layout: page
 slug: change-profile-photo
+permalink: inspirebook/change-profile-photo/
 title: Change profile photo in InspireBook
 wordpress_id: 67158
 ---

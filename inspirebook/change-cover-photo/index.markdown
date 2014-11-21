@@ -4,6 +4,7 @@ comments: false
 date: 2014-08-12 12:59:42+00:00
 layout: page
 slug: change-cover-photo
+permalink: inspirebook/change-cover-photo/
 title: Change cover photo in InspireBook
 wordpress_id: 67161
 ---
