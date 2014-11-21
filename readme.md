@@ -59,3 +59,11 @@ After you've added pages or made changes to your files, simply commit them to yo
 	git push origin master
 
 A git post-commit hook will automatically deploy your changes to http://docs.rtcamp.com.
+
+### List Child Pages
+
+Whenever you are creating a new parent folder which does not have `index.md`/`index.html`/`index.markdown`, you will need to add such file, so that its following child pages do not break in permalinks and breadcrumbs.
+
+You may put following snippet in the content to display a list of child pages:
+
+	{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
