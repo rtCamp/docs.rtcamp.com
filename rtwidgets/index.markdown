@@ -145,3 +145,6 @@ You can enable or disable widgets of your choice.
 
 
 ![rtWidgets-Settings](https://rtcamp.com/wp-content/uploads/2013/12/rtWidgets-Settings.png)
+
+
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
