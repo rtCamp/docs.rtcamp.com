@@ -2,7 +2,7 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title
 
-exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md","*/node_modules/*"]
 highlighter: pygments
 
 # Themes are encouraged to use these universal variables
