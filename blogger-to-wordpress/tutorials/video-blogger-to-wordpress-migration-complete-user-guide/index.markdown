@@ -7,6 +7,7 @@ excerpt: ' If you have already read our Complete DIY Migration user guide, you w
   to perform the Blogger to WordPress migration on their own, without our hel'
 layout: page
 slug: video-blogger-to-wordpress-migration-complete-user-guide
+permalink: blogger-to-wordpress/tutorials/video-blogger-to-wordpress-migration-complete-user-guide/
 title: '[Video] Blogger to WordPress Migration - Complete User Guide'
 wordpress_id: 4314
 ---

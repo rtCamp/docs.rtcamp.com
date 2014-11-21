@@ -5,6 +5,7 @@ date: 2012-09-14 14:22:56+00:00
 layout: page
 published: false
 slug: 11-mapping-important
+permalink: blogger-to-wordpress/tutorials/11-mapping-important/
 title: Why 1-1 mapping is important
 wordpress_id: 2630
 ---

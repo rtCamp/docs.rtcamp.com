@@ -7,6 +7,7 @@ excerpt: Here is a detailed look at what is the importance of Themes on a self h
   the blog better.
 layout: page
 slug: managing-themes
+permalink: blogger-to-wordpress/tutorials/user-guide/managing-themes/
 title: Managing Themes in Wordpress
 wordpress_id: 1460
 ---
@@ -37,7 +38,7 @@ Every website or blog for that matter has a separate layout and visual style. A 
 
 
 
-	
+
   * Click on **Themes** menu under **Appearance. **(_See image below_)
 
 
@@ -45,10 +46,10 @@ Every website or blog for that matter has a separate layout and visual style. A 
 
 
 
-	
+
   * Now we can see all the** Themes** available in **Manage Themes **tab. These are **Themes** are already installed on your **WordPress** blog.
 
-	
+
   * We can also look up free **themes** on **WordPress** by clicking on **Install** **Themes** tab. Here we get the option to search **themes** with various features which you find ideal for your blog template.
 
 

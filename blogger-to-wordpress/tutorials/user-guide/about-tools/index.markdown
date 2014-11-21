@@ -7,6 +7,7 @@ excerpt: Tools are very important feature of WordPress for Bloggers to manage th
   export contents. WordPress gives us a lot more extra features than Blogger.com.
 layout: page
 slug: about-tools
+permalink: blogger-to-wordpress/tutorials/user-guide/about-tools/
 title: Tools in WordPress
 wordpress_id: 1625
 ---
@@ -40,16 +41,16 @@ You can find three options **Tools**, **Import** and **Export**.
 
 
 
-	
+
   * Click on **Tools **menu it will help for quick posting from your favorite blog. This option gives you a facility for **Press This** and **Use This** tools.
 
-	
+
   * The **Press This** tool allows quick posting and  publishing  through the use of a special web browser that you want to  share.
 
-	
+
   * You can create a  shortcut to allow “Press This” in your browser's tool bar. “Press This” is a cool and convenient way to get  content,images  and videos that you would like to share on your blog.
 
-	
+
   * The** Use This** tool is used to convert Categories into Tags and vice-versa.
 
 

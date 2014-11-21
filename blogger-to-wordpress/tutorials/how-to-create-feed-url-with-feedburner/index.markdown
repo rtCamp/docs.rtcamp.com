@@ -7,6 +7,7 @@ excerpt: 'FeedBurner is a web feed management provider. FeedBurner provides cust
   updates of your blog posts via email or Google Reader. '
 layout: page
 slug: how-to-create-feed-url-with-feedburner
+permalink: blogger-to-wordpress/tutorials/how-to-create-feed-url-with-feedburner/
 title: How To Create Feed URL With FeedBurner
 wordpress_id: 3706
 ---
@@ -27,13 +28,13 @@ _ _This post will help you to setup a Feedburner for your blog._ _
 
 
 
-	
+
     1. Go to your FeedBurner account or **[Login](http://feedburner.google.com/).**
 
-	
+
     2. Type your blog or feed address URL. If you are using WordPress then URL looks like _http://example.com/feed_ - replace example.com with your domain name.
 
-	
+
     3. Click on the ** Next **button.
 
 
@@ -43,10 +44,10 @@ _ _This post will help you to setup a Feedburner for your blog._ _
 
 
 
-	
+
     1. Here you can change the Feed Title and Feed address as per your choice (its optional but is recommended as it acts as a brand name for your feed)
 
-	
+
     2. Click on the **Next** button to proceed further.
 
 
@@ -56,7 +57,7 @@ _ _This post will help you to setup a Feedburner for your blog._ _
 
 
 
-	
+
     1. Your feed URL will now be successfully created. Click on **Next** for **Step 2**.
 
 
@@ -66,7 +67,7 @@ _ _This post will help you to setup a Feedburner for your blog._ _
 
 
 
-	
+
     1. Select the Check boxes that you want and click on **Next** button.
 
 
@@ -83,10 +84,10 @@ You have now successfully setup the feed URL for your feedburner account.
 
 
 
-	
+
     1. Click on the **Publicize** tab then go to **Email Subscription** on left sidebar.
 
-	
+
     2. Click on the **Activate** Button.(_See screenshot below_)
 
 
@@ -96,7 +97,7 @@ You have now successfully setup the feed URL for your feedburner account.
 
 
 
-	
+
     1. Copy the code and paste it into your blog.  Click on the **Save** button.
 
 
@@ -108,13 +109,13 @@ In the same way you can activate **FeedCount**.
 
 
 
-	
+
     1. Click on **FeedCount** on the left sidebar.
 
-	
+
     2. Select the color scheme of your feed chicklet that you want to show on the blog.
 
-	
+
     3. Click on the **Activate** button and copy the code shown next to paste it into your blog.
 
 

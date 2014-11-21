@@ -6,6 +6,7 @@ excerpt: Solution for error  - "The page you have requested cannot be displayed.
   site was requesting access to your Google Account, but sent a malformed...."
 layout: page
 slug: solution-error-the-site-has-not-been-registered-during-wordpress-import
+permalink: blogger-to-wordpress/tutorials/solution-error-the-site-has-not-been-registered-during-wordpress-import/
 title: '[Solution] Error - "The site has not been registered" during WordPress Import'
 wordpress_id: 4384
 ---
@@ -39,7 +40,7 @@ Register your domain here [https://www.google.com/accounts/ManageDomains](https:
 
 
 
-	
+
   * Add your domain name.
 
 
@@ -47,7 +48,7 @@ Register your domain here [https://www.google.com/accounts/ManageDomains](https:
 
 
 
-	
+
   * Click on manage domain name link.
 
 
@@ -55,7 +56,7 @@ Register your domain here [https://www.google.com/accounts/ManageDomains](https:
 
 
 
-	
+
   * After that select domain registrar of your domain from drop down menu.
 
 
@@ -63,16 +64,16 @@ Register your domain here [https://www.google.com/accounts/ManageDomains](https:
 
 
 
-	
+
   * I prefer to go with **Recommended method**.
 
-	
+
   * Add the TXT data into your Domain registrar DNS settings. You can find all the details on the same page.
 
-	
+
   * Then click on **Verify** button.
 
-	
+
   * Add your domain URL and description.
 
 
@@ -80,10 +81,10 @@ Register your domain here [https://www.google.com/accounts/ManageDomains](https:
 
 
 
-	
+
   * Click on **Save** button.
 
-	
+
   * Now your domain will get active to access Google services.
 
 
@@ -91,10 +92,10 @@ Register your domain here [https://www.google.com/accounts/ManageDomains](https:
 
 
 
-	
+
   * Save OAuth key and OAuth secrete for your future reference.
 
-	
+
   * That's done. You can access Google services in your Domain.
 
 

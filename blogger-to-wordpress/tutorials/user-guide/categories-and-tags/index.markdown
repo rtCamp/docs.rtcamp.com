@@ -6,6 +6,7 @@ excerpt: This article covers how to create and maintain categories and tags with
   This is a part of Blogger to WordPress User Guide.
 layout: page
 slug: categories-and-tags
+permalink: blogger-to-wordpress/tutorials/user-guide/categories-and-tags/
 title: All about Categories and Tags
 wordpress_id: 1331
 ---
@@ -38,10 +39,10 @@ In **Blogger.com **we use **Labels** and similarly with **Wordpress** we have **
 
 
 
-	
+
   * Click on **Categories menu **as shown in above image. Now you should be at the **Add New Category** panel _(image below)_ and now we can start to creating new categories.
 
-	
+
   * As you can see in the image below you can **Name the Category** and select a **Parent for the category**.
 
 
@@ -53,7 +54,7 @@ In **Blogger.com **we use **Labels** and similarly with **Wordpress** we have **
 
 
 
-	
+
   * There are optional choices like writing a description for a Category and also for adding a name for slug. ****
 
 

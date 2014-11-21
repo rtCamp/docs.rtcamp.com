@@ -6,6 +6,7 @@ excerpt: Here are 15 reasons why you might want to migrate your blogger.com blog
   WordPress platform.
 layout: page
 slug: 15-reasons
+permalink: blogger-to-wordpress/15-reasons/
 title: 15 Reasons to Migrate from Blogger to WordPress
 wordpress_id: 2036
 ---

@@ -5,6 +5,7 @@ date: 2011-01-09 04:30:32+00:00
 excerpt: User guide to setup your Blogger domain name with your Enom account.
 layout: page
 slug: enom
+permalink: blogger-to-wordpress/tutorials/custom-domain/enom/
 title: Custom Domain Setup on Blogger with Enom
 wordpress_id: 2749
 ---

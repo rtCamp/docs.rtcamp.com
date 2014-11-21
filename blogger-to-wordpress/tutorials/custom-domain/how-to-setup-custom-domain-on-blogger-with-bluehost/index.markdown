@@ -6,6 +6,7 @@ excerpt: Follow the following steps to setup your Blogger domain name through yo
   Bluehost account.
 layout: page
 slug: how-to-setup-custom-domain-on-blogger-with-bluehost
+permalink: blogger-to-wordpress/tutorials/custom-domain/how-to-setup-custom-domain-on-blogger-with-bluehost/
 title: How to Setup Custom Domain on Blogger with BlueHost
 wordpress_id: 4525
 ---
@@ -15,10 +16,10 @@ Follow the following steps to setup your Blogger domain name through your Blueho
 
 
 
-	
+
     1. Log in to your account at [**BlueHost**](http://rt.cx/bluehost/).
 
-	
+
     2. At the control panel, click on the **DNS Zone Editor** which can be found under the **Domains** section.
 
 
@@ -28,11 +29,11 @@ Follow the following steps to setup your Blogger domain name through your Blueho
 
 
 
-	
+
     1. Select the appropriate domain to which you want to add A records and CNAME records.
 [![](https://rtcamp.com/wp-content/uploads/2011/06/Blogger-To-WordPress-bluehost.png)](https://rtcamp.com/wp-content/uploads/2011/06/Blogger-To-WordPress-bluehost.png)
 
-	
+
     2. Now add appropriate A Records in the fields provided, as shown below. You need to add the following 4 IP addresses for the A Records to configure your Blogger Domain one-by-one :
 
 
@@ -47,11 +48,11 @@ Follow the following steps to setup your Blogger domain name through your Blueho
 
 
 
-	
+
   1. To add the CNAME records, select CNAME from the drop down menu and enter the details of your domain. In the **Name** field, add the name of your domain with `www`. In the **CNAME** field, write `ghs.google.com `for linking your domain with Blogger. Add an appropriate Time-To-Live in the TTL field.
 [![](https://rtcamp.com/wp-content/uploads/2011/06/blogger-tow-ordpress-cname.png)](https://rtcamp.com/wp-content/uploads/2011/06/blogger-tow-ordpress-cname.png)
 
-	
+
   2. Click on **Add Record** to save the new configuration.
 
 

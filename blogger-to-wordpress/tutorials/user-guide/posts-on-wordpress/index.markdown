@@ -6,6 +6,7 @@ excerpt: A tutorial on how to write and edit posts with WordPress. Part of the B
   to WordPress User Guide.
 layout: page
 slug: posts-on-wordpress
+permalink: blogger-to-wordpress/tutorials/user-guide/posts-on-wordpress/
 title: Writing and Editing a post on WordPress
 wordpress_id: 1334
 ---
@@ -42,7 +43,7 @@ Now once you click on any of the two options, you will be at the **Add New Post*
 
 
 
-	
+
   * The screen below shows you where you can add the title of your post and also the content that follows.
 
 
@@ -52,7 +53,7 @@ Now once you click on any of the two options, you will be at the **Add New Post*
 
 
 
-	
+
   * Now you might need to add videos and images or format the content further. If you do not see all the options to format the post content, do not panic. Just click as shown in the image below on the **Kitchen Sink** icon. :-)
 
 
@@ -60,12 +61,12 @@ Now once you click on any of the two options, you will be at the **Add New Post*
 
 
 
-	
+
   * Adding Images, videos and other files can be managed using Media Library. To know more about media check out [Managing Media with WordPress](http://bloggertowp.org/managing-media-files-with-wordpress/).
 
 
 
-	
+
   * With **Blogger.com** you might be using **Labels **to organize or bunch together posts on similar topics. Similarly in **WordPress** we have [**Categories**](http://codex.wordpress.org/Glossary#Category) and [**Tags**](http://codex.wordpress.org/Glossary#Tag) instead of Labels. Check out [**All about Categories a** **nd Tags**](http://bloggertowp.org/all-about-categories-and-tags/).
 
 

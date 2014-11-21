@@ -8,6 +8,7 @@ excerpt: While number of bloggers enjoyed the free migration, some users faced t
   problems of re-direction.
 layout: page
 slug: solved-blogger-to-wordpress-redirection-issue-with-hostgators-hosting
+permalink: blogger-to-wordpress/tutorials/solved-blogger-to-wordpress-redirection-issue-with-hostgators-hosting/
 title: '[Solved] Blogger To WordPress Redirection Issue With Hostgator’s Hosting'
 wordpress_id: 4589
 ---

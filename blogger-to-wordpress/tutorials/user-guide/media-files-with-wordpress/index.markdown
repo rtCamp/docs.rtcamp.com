@@ -6,6 +6,7 @@ excerpt: A tutorial on Managing media files with WordPress which is a part of th
   Blogger to WordPress User-Guide series.
 layout: page
 slug: media-files-with-wordpress
+permalink: blogger-to-wordpress/tutorials/user-guide/media-files-with-wordpress/
 title: Managing media files with Wordpress
 wordpress_id: 12387
 ---
@@ -40,29 +41,29 @@ While writing a post in **Blogger.com** you might use simple "Browse.." button t
 
 
 
-	
+
   1. Login to Wordpress dashboard panel.
 
-	
+
   2. Go to **Media** **menu** on left sidebar of the dashboard and click on **Add New**.
 [![](https://rtcamp.com/wp-content/uploads/2010/08/media-blogger-to-wordpress.png)](https://rtcamp.com/wp-content/uploads/2010/08/media-blogger-to-wordpress.png)
 
-	
+
   3. You will get two options for uploading media which are **Flash uploader** and **Browser uploader**. By default **Wordpress **has **Flash uploader** selected (_see image below_).
 
-	
+
   4. Click on **Select Files** button and then add file from your computer. :-)[![](https://rtcamp.com/wp-content/uploads/2010/08/add-media-blogger-to-wordpress-600x174.png)](https://rtcamp.com/wp-content/uploads/2010/08/add-media-blogger-to-wordpress.png)
 
-	
+
   5. Now once the file is uploaded it will show us options to add title, description, alternate text, etc..[![](https://rtcamp.com/wp-content/uploads/2010/08/media-images-edit-600x437.png)](https://rtcamp.com/wp-content/uploads/2010/08/media-images-edit.png)
 
-	
+
   6. Copy "**File URL**" and paste it into your post or page content where you want.
 
-	
+
   7. Click on the **Save All Changes **button.
 
-	
+
   8. You can see all the uploaded media files in the **Library** **menu**. Also by clicking on edit option you can find "**File URL**".                [![](https://rtcamp.com/wp-content/uploads/2010/08/library-blogger-to-wordpress.png)](https://rtcamp.com/wp-content/uploads/2010/08/library-blogger-to-wordpress.png)
 
 

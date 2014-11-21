@@ -7,6 +7,7 @@ excerpt: Permalinks and slugs play a very important role in any blog, specially 
   are used for URL of posts, pages, tags, categories etc.
 layout: page
 slug: permalinks-and-slugs
+permalink: blogger-to-wordpress/tutorials/user-guide/permalinks-and-slugs/
 title: Understanding Permalinks and Slugs in WordPress
 wordpress_id: 1525
 ---
@@ -51,7 +52,7 @@ Then this slug is used in permalink if you are using permalinks structure "/%**p
 
 
 
-	
+
   * Click on posts menu OR when we write new post at that time also we can edit slug.
 
 
@@ -59,7 +60,7 @@ Then this slug is used in permalink if you are using permalinks structure "/%**p
 
 
 
-	
+
   * Below is the text box where we will write **post title**, and there is an **Edit** button.
 
 
@@ -67,16 +68,16 @@ Then this slug is used in permalink if you are using permalinks structure "/%**p
 
 
 
-	
+
   * Click on that you will find the complete slug of post.
 
-	
+
   * Change that slug into what you want and then Click on **OK** button.
 
-	
+
   * You can also get the short URL by clicking on **Get Shortlink** button. (_see above image_).
 
-	
+
   * Pop up window will open, add new short URL there.
 
 
@@ -89,7 +90,7 @@ We can also change slugs for **Categories** and **Tags. **WordPress by default p
 
 
 
-	
+
   * Click on **Categories** menu.
 
 
@@ -97,10 +98,10 @@ We can also change slugs for **Categories** and **Tags. **WordPress by default p
 
 
 
-	
+
   * You will get a list of **Categories** that you have created for the blog.
 
-	
+
   * As mouse hovers on the Category we can click on Edit or Quick Edit.
 
 
@@ -108,7 +109,7 @@ We can also change slugs for **Categories** and **Tags. **WordPress by default p
 
 
 
-	
+
   * Change the slug name that you want.
 
 
@@ -116,7 +117,7 @@ We can also change slugs for **Categories** and **Tags. **WordPress by default p
 
 
 
-	
+
   * Similarly we edit slug of **Tags**. Follow all the above steps but instead of clicking on **Categories** menu Click on **Post Tags**. :-)
 
 

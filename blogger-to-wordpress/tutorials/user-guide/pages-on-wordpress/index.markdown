@@ -6,6 +6,7 @@ excerpt: Complete details on how to write and edit Pages on WordPress. This is a
   of the Blogger to WordPress User Guide Series.
 layout: page
 slug: pages-on-wordpress
+permalink: blogger-to-wordpress/tutorials/user-guide/pages-on-wordpress/
 title: Writing and Editing a Page on Wordpress
 wordpress_id: 12386
 ---
@@ -30,7 +31,7 @@ In **Blogger.com** we need look up **Edit Pages** option under **Posting** menu 
 
 
 
-	
+
   * **WordPress** dashboard provides us with a separate menu for **Pages** _(see image below)_. Click on **Add New** option under **Pages Menu**.
 
 
@@ -38,7 +39,7 @@ In **Blogger.com** we need look up **Edit Pages** option under **Posting** menu 
 
 
 
-	
+
   * Just like [we create content in a post](http://bloggertowp.org/writing-and-editing-a-post-on-wordpress/), we can also upload [images,videos and media in a page](http://bloggertowp.org/managing-media-files-with-wordpress/).
 
 
@@ -46,7 +47,7 @@ In **Blogger.com** we need look up **Edit Pages** option under **Posting** menu 
 
 
 
-	
+
   * We can **Publish** a page or save it as a draft. Changing the date for publishing allows us to schedule the page to be published sometime in the future (See image below).
 
 
@@ -58,7 +59,7 @@ We can assign any parent page and also templates for page if the **WordPress** t
 
 
 
-	
+
   * We can also allow comments as well as "trackbacks and pingbacks" for pages. We can change **Author** of the page. Scroll down along the page and you will get two options **Discussion** and **Author** as seen in the image below.
 
 

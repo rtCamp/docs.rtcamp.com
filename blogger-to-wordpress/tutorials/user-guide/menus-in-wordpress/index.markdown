@@ -6,6 +6,7 @@ excerpt: How to add Menus in WordPress with the help of Widgets. Details on how 
   can be useful and can be used in the WordPress theme.
 layout: page
 slug: menus-in-wordpress
+permalink: blogger-to-wordpress/tutorials/user-guide/menus-in-wordpress/
 title: How to add Menus in WordPress?
 wordpress_id: 1464
 ---
@@ -36,7 +37,7 @@ In **Blogger**.**com **we can show **menus** with the help of **Gadgets**. This 
 
 
 
-	
+
   * Lets start by clicking on **Menus** option under **Appearance**.
 
 
@@ -44,10 +45,10 @@ In **Blogger**.**com **we can show **menus** with the help of **Gadgets**. This 
 
 
 
-	
+
   * Now enter the **menu** name and then click on **Create Menu** button.
 
-	
+
   * Click on "**+**" sign to add more **menus**. (_See image below_)
 
 
@@ -55,7 +56,7 @@ In **Blogger**.**com **we can show **menus** with the help of **Gadgets**. This 
 
 
 
-	
+
   * Select **Pages**, **Categories** or **Custom Links** from left box (_See the image_) and add it into **menu.**
 
 
@@ -63,10 +64,10 @@ In **Blogger**.**com **we can show **menus** with the help of **Gadgets**. This 
 
 
 
-	
+
   * Now click on the **Save Menu** button.
 
-	
+
   * You can also re-arrange your **menu** by simply drag and drop selected items like we do with widgets. :-) In case you are wondering about Widgets check out **[Managing widgets in WordPress](https://rtcamp.com/blogger-to-wordpress/tutorials/user-guide/managing-widgets/).**
 
 

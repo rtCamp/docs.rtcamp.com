@@ -4,6 +4,7 @@ comments: false
 date: 2010-03-10 13:16:28+00:00
 layout: page
 slug: service
+permalink: blogger-to-wordpress/service/
 title: Service
 wordpress_id: 28
 ---
@@ -22,19 +23,19 @@ Our this service is for Blogger.com bloggers who want to migrate their blog(s) t
 
 
 
-	
+
   * Maintain Permalinks (301 Redirects)
 
-	
+
   * Search Engine Friendly Migration
 
-	
+
   * Import Posts, Comments & Images
 
-	
+
   * Migrate Feed Subscribers
 
-	
+
   * Free WordPress Optimization
 
 

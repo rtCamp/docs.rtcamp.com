@@ -6,6 +6,7 @@ excerpt: User Guide to setup your Blogger domain name through your Network Solut
   account.
 layout: page
 slug: network-solutions
+permalink: blogger-to-wordpress/tutorials/custom-domain/network-solutions/
 title: Custom Domain Setup on Blogger with Network Solutions
 wordpress_id: 2780
 ---
@@ -20,10 +21,10 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. Log in to your account at the Network Solutions Account Management.
 
-	
+
     2. After logging in, click on **My domain names** as seen below.
 
 
@@ -33,7 +34,7 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. A list of all your domains will be seen, click on the **Manage** option next to your desired domain.
 
 
@@ -43,7 +44,7 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. Next, your current settings of the domain will be displayed as shown below. To edit the DNS settings, click on **Edit**.
 
 
@@ -53,7 +54,7 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. Click on **Edit A records**, and enter the values shown below.
 
 
@@ -63,7 +64,7 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. Add the following IP addresses to the Numeric IP field.
 
 
@@ -77,7 +78,7 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. Now, click on 'Continue' to save the A records, and go back to the 'Domain Names' menu in the Account Manager. Select **Edit CNAME records** to edit the CNAME records of your domain.
 
 
@@ -87,7 +88,7 @@ This short tutorial will help you to setup your Blogger domain name with your Ne
 
 
 
-	
+
     1. Now edit the CNAME records with **Alias** as `www` and **Other Host** as `ghs.google.com`
 
 

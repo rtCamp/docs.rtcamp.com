@@ -4,6 +4,7 @@ comments: false
 date: 2010-02-11 10:35:03+00:00
 layout: page
 slug: about-3
+permalink: blogger-to-wordpress/about-3/
 title: 'About '
 wordpress_id: 12144
 ---
@@ -17,28 +18,28 @@ Blogger to WP (Wordpress) migration professional service is for bloggers who are
 
 
 
-	
+
   * Wordpress installation and professional set up
 
-	
+
   * Migrating from your BlogSpot (Blogger) blog to Wordpress hosted on your server
 
-	
+
   * We perform migration in a way that you do not loose traffic, ranking and search engine juice
 
-	
+
   * Wordpress and BlogSpot permalink structure are different. We maintain your permalinks using our own codes so that none of your link will be broken.
 
-	
+
   * We also have in-house code to move your post images from Blogger.com servers to your own WordPress server.
 
-	
+
   * We also make your new blog mobile friendly so that you can offer your readers an alternative way to read your blog.
 
-	
+
   * Basic Wordpress SEO package to optimize your blog for search engine and drive more organic traffic
 
-	
+
   * Making DNS changes for your custom domains (if you are using one)If you want, we can create a wordpress theme matching your Bloggers.com blogs' layout/template, so that when you move to wordpress your readers won't notice any change.
 
 

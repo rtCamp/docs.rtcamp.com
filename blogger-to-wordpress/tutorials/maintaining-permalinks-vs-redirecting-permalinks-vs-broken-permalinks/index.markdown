@@ -7,6 +7,7 @@ excerpt: Maintaining permalinks is not same as redirecting permalinks. Even thou
   "maintaining" &amp; "redirecting" will help you get the best solution!
 layout: page
 slug: maintaining-permalinks-vs-redirecting-permalinks-vs-broken-permalinks
+permalink: blogger-to-wordpress/tutorials/maintaining-permalinks-vs-redirecting-permalinks-vs-broken-permalinks/
 title: Maintaining Permalinks vs Redirecting Permalinks vs Broken Permalinks
 wordpress_id: 3410
 ---
@@ -41,16 +42,16 @@ To make you realize the importance of permalinks, here are a few things associat
 
 
 
-	
+
   * Google Pagerank
 
-	
+
   * Facebook/Twitter Share Count
 
-	
+
   * Bookmarks (Del.icio.us save-count, Digg-count etc)
 
-	
+
   * Backlinks - links coming from other sites/blogs mentioning your posts
 
 
@@ -87,13 +88,13 @@ Few known limitations of **redirecting permalinks** are:
 
 
 
-	
+
   * Facebook/Twitter count will reset for sure. New permalink will have all zeros.
 
-	
+
   * Google pagerank for new permalink will be zero. New permalink may gain Google pagerank over the time but big risk.
 
-	
+
   * Human visitors will notice delay in opening your posts on WordPress. Delay will be obvious if they are using slow Internet connection.
 
 
@@ -123,10 +124,10 @@ Lets get back to the basics of permalinks in context of Blogger.com.
 
 
 
-	
+
   * If you are using a subdomain address given by Blogger.com, say **http://example.blogspot.com/** then permalink will look like: **http://example.blogspot.com/**2011/01/hello-world.html
 
-	
+
   * On the other hand, if you are using a custom domain on Blogger.com, say **http://www.example.com/** then permalink will look like: **http://www.example.com/**2011/01/hello-world.html
 
 
@@ -158,7 +159,7 @@ I hope by now you understand the difference between Maintaining Permalinks & Red
 
 <tbody class="row-hover" >
 	<tr class="row-2 even" >
-		
+
 <td class="column-1" >**Internet Example**
 </td>
 <td class="column-2" >Whenever visitors click on permalink, they do not get expected results. They will be lost and may never return to your blog.
@@ -169,7 +170,7 @@ I hope by now you understand the difference between Maintaining Permalinks & Red
 </td>
 	</tr>
 	<tr class="row-3 odd" >
-		
+
 <td class="column-1" >**Real Life example**
 </td>
 <td class="column-2" >If you move to new home without informing anyone, any gifts/mails sent to your old address will not reach you
@@ -180,7 +181,7 @@ I hope by now you understand the difference between Maintaining Permalinks & Red
 </td>
 	</tr>
 	<tr class="row-4 even" >
-		
+
 <td class="column-1" >**HTTP Code**
 </td>
 <td class="column-2" >404 Page Not Found
@@ -193,7 +194,7 @@ I hope by now you understand the difference between Maintaining Permalinks & Red
 </td>
 	</tr>
 	<tr class="row-5 odd" >
-		
+
 <td class="column-1" >**Remarks**	_(what does this mean to you?)_
 </td>
 <td class="column-2" >This is suicide! You should only do this if you do not find any reason to delete your blog (as that would be better choice)
@@ -215,19 +216,17 @@ That's it for the day. If you have any questions/comments/suggestions, feel free
 
 
 
-	
+
   * [Best Tutorial for Blogger To WordPress Migration](http://bloggertowp.org/migrate-from-blogger-to-wordpress-best-tutorial/) _(helpful for maintaining permalink)_
 
-	
+
   * [Blogger To WordPress Redirection Plugin ](http://bloggertowp.org/blogger-to-wordpress-redirection-plugin/)_(helpful for redirecting permalink)_
 
-	
+
   * [Custom Domain Setup Guide for Blogger.com](http://bloggertowp.org/custom-domain-setup-on-blogger-user-guide-series/)
 
-	
+
   * [Our Free Support Forum](http://forum.bloggertowp.org/) _(if anything goes wrong...) _
 
-	
+
   * [Hire Us!](http://bloggertowp.org/contact/) _(troubles can be outsourced! ;-))_
-
-

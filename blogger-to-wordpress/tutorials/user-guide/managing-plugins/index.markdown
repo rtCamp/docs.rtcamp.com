@@ -6,6 +6,7 @@ excerpt: This articles covers Plugins with WordPress. Plugins are important and 
   set WordPress apart from Blogger.com.
 layout: page
 slug: managing-plugins
+permalink: blogger-to-wordpress/tutorials/user-guide/managing-plugins/
 title: Managing Plugins in WordPress
 wordpress_id: 1566
 ---

@@ -6,6 +6,7 @@ excerpt: This articles is a explantion on how to use Link Menu in WordPress. Thi
   is part of the Blogger to WordPress User Guide series.
 layout: page
 slug: links-menus
+permalink: blogger-to-wordpress/tutorials/user-guide/links-menus/
 title: Links Menu on Wordpress
 wordpress_id: 1391
 ---
@@ -31,7 +32,7 @@ The same way you can add external **links** in your **Wordpress** blog. In **Wor
 
 
 
-	
+
   * Click on **Links** **menu**, You will get three options **Links**, **Add New** and **Link Categories** (_see image below_).
 
 
@@ -39,16 +40,16 @@ The same way you can add external **links** in your **Wordpress** blog. In **Wor
 
 
 
-	
+
   * Click on **Add New **we get started with adding links for the blog. **WordPress** by default provides a **Link Category** which is named "**Blogroll".**
 
-	
+
   * The default **Blogroll** category cannot be deleted but we can rename it.
 
-	
+
   * We can assign only **Link Categories** to **links** and not assign categories that were created for posts.
 
-	
+
   * Click on **Link Categories **and we can add new categories. :-)
 
 
@@ -56,7 +57,7 @@ The same way you can add external **links** in your **Wordpress** blog. In **Wor
 
 
 
-	
+
   * Click on **Add New** option and we get the area where you can add external links. Here we can add **Name**, **URL**, **Description** and assign **Categories** for the link.
 
 

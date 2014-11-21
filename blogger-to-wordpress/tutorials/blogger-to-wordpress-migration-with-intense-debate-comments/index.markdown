@@ -6,6 +6,7 @@ excerpt: Comments on Intense Debate account can also be imported into WordPress 
   Blogger.com blog.
 layout: page
 slug: blogger-to-wordpress-migration-with-intense-debate-comments
+permalink: blogger-to-wordpress/tutorials/blogger-to-wordpress-migration-with-intense-debate-comments/
 title: Blogger To WordPress Migration with Intense Debate Comments
 wordpress_id: 597
 ---
@@ -19,22 +20,22 @@ You might heard about [**Intense Debate**](http://intensedebate.com/) commenting
 
 
 
-	
+
   1. With this your blog readers can get the chance to engage in a better way with your blog content.
 
-	
+
   2. Comments will encourage and enhance conversation on your blog or website.
 
-	
+
   3. ** **Readers can subscribe to comments through RSS feeds.
 
-	
+
   4. Email notification can be enabled when someone has responds to comments. Reply by email feature is also supported.
 
-	
+
   5. Providing facility for comments voting.
 
-	
+
   6. **Intense Debate** supports many platforms like WordPress, Blogger, TypePad, etc.
 
 
