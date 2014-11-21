@@ -4,6 +4,7 @@ comments: false
 date: 2014-11-11 10:12:32+00:00
 layout: page
 slug: theme-settings
+permalink: datecafe/theme-settings/
 title: Theme Settings
 wordpress_id: 67829
 ---
