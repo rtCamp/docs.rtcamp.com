@@ -4,6 +4,7 @@ comments: false
 date: 2013-04-11 09:37:50+00:00
 layout: page
 slug: faq
+permalink: activecollab-gitolite/faq/
 title: FAQ
 wordpress_id: 36849
 ---
@@ -19,49 +20,49 @@ If you fail to find answer there, feel free to use this [dedicated support forum
 
 
 
-	
+
   1. Is this module run on shared hosting?
 
-	
+
   2. Where do I find the PHPUSER?
 
-	
+
   3. What is the admin path?
 
-	
+
   4. What is a Gitolite Linux User?
 
-	
+
   5. What is a Gitolite Server Address?
 
-	
+
   6. Can I install Gitolite and Activecollab on two different servers?
 
-	
+
   7. My SSH Key doesn’t work. What should I do?
 
-	
+
   8. Will you provide support for Windows Server?
 
-	
+
   9. How long will I be eligible for upgrades?
 
-	
+
   10. Where do I report a bug/request a feature?
 
-	
+
   11. What if I need help in setting up Gitolite server and Gitolite module?
 
-	
+
   12. Why do I get an error saying "key already exists"?
 
-	
+
   13. Why does my installation say "Unable to connect to server"?
 
 
 
 
-### 
+###
 
 
 
