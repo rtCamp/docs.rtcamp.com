@@ -24,58 +24,65 @@ Getting Started
 
 - Create pages easily via rake task:
 
-	```
+```
 rake page name="about.md"
-	```
+```
 
 - Create a nested page:
 
-	```
+```
 rake page name="pages/about.md"
-	```
+```
 
 - Create a page with a "pretty" path:
 
-	```
+```
 rake page name="pages/about"
 # this will create the file: ./pages/about/index.html
-	```
+```
 
 **NOTE:** When you add a new page, set its permalink into the YAML Front Matter of the page as follows. This will help Jekyll in generating parent-child relationship of the pages and Breadcrumbs as well.
 
 - Parent Page YAML Front Matter
 
-	---
-	layout: page
-	title: "Parent Page"
-	description: ""
-	permalink: parent-page-slug/
-	---
+```
+---
+layout: page
+title: "Parent Page"
+description: ""
+permalink: parent-page-slug/
+---
+```
 
 - Child Page YAML Front Matter
 
-	---
-	layout: page
-	title: "Child Page"
-	description: ""
-	permalink: parent-page-slug/child-page-slug/
-	---
+```
+---
+layout: page
+title: "Child Page"
+description: ""
+permalink: parent-page-slug/child-page-slug/
+---
+```
 
 - Directory Structure would be as follows:
 
-
-	|-parent-page-slug
+```
+|-parent-page-slug
+	|-index.markdown
+	|-child-page-slug
 		|-index.markdown
-		|-child-page-slug
-			|-index.markdown
+```
 
 ### Publish
 
 After you've added pages or made changes to your files, simply commit them to your git repo and push the commits up to server.
 
-	git add .
-	git commit -m "Addding new Doc"
-	git push origin master
+```
+git add .
+git commit -m "Addding new Doc"
+git push origin master
+```
 
 A git post-commit hook will automatically deploy your changes to http://docs.rtcamp.com.
 
@@ -85,7 +92,9 @@ Whenever you are creating a new parent folder which does not have `index.md`/`in
 
 You may put following snippet in the content to display a list of child pages:
 
-	{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+```
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+```
 
 This template accepts two parametes:
 
