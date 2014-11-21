@@ -4,8 +4,10 @@ comments: false
 date: 2011-01-15 09:00:06+00:00
 layout: page
 slug: rtmoto
+permalink: rtmoto/
 title: rtMoto - Free WordPress 3.0 Theme
 wordpress_id: 3747
+show_on_home: true
 ---
 
 rtMoto is a free WordPress theme built as an alternative for Blogger.com's Mr. Moto theme.
@@ -26,22 +28,22 @@ This theme support WordPress features which includes:
 
 
 
-	
+
   * Custom Menu
 
-	
+
   * Post Thumbnails
 
-	
+
   * Microformats
 
-	
+
   * Threaded Comments
 
-	
+
   * One Sidebar on Right
 
-	
+
   * Sticky Post
 
 

@@ -147,10 +147,6 @@ rtp_header:
       url: /rtpanel
 
 rtp_footer:
-    - title: Categories
-      url: /categories.html
-    - title: Tags
-      url: /tags.html
     - title: Atom Feed
       url: /atom.xml
     - title: RSS Feed
