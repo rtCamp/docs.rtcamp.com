@@ -4,6 +4,7 @@ comments: false
 date: 2012-09-24 18:59:32+00:00
 layout: page
 slug: installation
+permalink: media-node/installation/
 title: Installation
 wordpress_id: 14084
 ---
@@ -16,7 +17,7 @@ You will need root or sudo-level access to your Linux VPS/Dedicated hosting.
 
 For **Ubuntu , CentOS , RHEL and Debian**, just run following command:
 
-    
+
      curl -sL https://raw.github.com/rtCamp/media-node/master/install.sh | sudo bash
 
 
@@ -27,7 +28,7 @@ For **Ubuntu , CentOS , RHEL and Debian**, just run following command:
 
 If you are updating BuddyPress Media FFMPEG from version 1.3.2 or below you will have to update media node on your servers too. That can be done simply by logging onto your server and executing the following command:
 
-    
+
     curl -sL https://raw.github.com/rtCamp/media-node/master/setup/update.sh | sudo bash
 
 
@@ -42,11 +43,8 @@ If you are updating BuddyPress Media FFMPEG from version 1.3.2 or below you will
 
 
 
-	
+
   * Please [install FFMPEG library](http://ffmpeg.org/trac/ffmpeg/wiki). Also [check this](http://ffmpeginstaller.com/).
 
-	
+
   * [Install node.js](http://howtonode.org/how-to-install-nodejs)
-
-
-

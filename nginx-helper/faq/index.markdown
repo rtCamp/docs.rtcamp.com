@@ -4,6 +4,7 @@ comments: false
 date: 2013-08-07 15:03:27+00:00
 layout: page
 slug: faq
+permalink: nginx-helper/faq/
 title: FAQ
 wordpress_id: 44063
 ---
@@ -37,7 +38,7 @@ By default, Nginx-helper uses `/var/run/nginx-cache`. This is default, because 
 
 You can override default by adding a line like below in your `wp-config.php` file:
 
-    
+
     define( 'RT_WP_NGINX_HELPER_CACHE_PATH','/var/run/nginx-cache');
 
 

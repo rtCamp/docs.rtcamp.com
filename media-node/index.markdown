@@ -10,4 +10,4 @@ wordpress_id: 14074
 show_on_home: true
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

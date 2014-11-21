@@ -4,6 +4,7 @@ comments: false
 date: 2014-10-31 19:26:15+00:00
 layout: page
 slug: renew-license-key
+permalinks: license/renew-license-key/
 title: Renew License Key
 wordpress_id: 67798
 ---
@@ -33,5 +34,3 @@ Then follow further process to renew the license key of products.
 
 
 **Please Note:** _We are giving flat 50% discount for the renewal._
-
-
