@@ -26,6 +26,9 @@ social :
     - title: rss
       url: https://rtcamp.com/feed/
 
+repository_url: http://git.rtcamp.com/static/docs-rtcamp-com
+repository_main_branch: master
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
