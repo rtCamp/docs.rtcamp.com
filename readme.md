@@ -43,12 +43,31 @@ rake page name="pages/about"
 
 **NOTE:** When you add a new page, set its permalink into the YAML Front Matter of the page as follows. This will help Jekyll in generating parent-child relationship of the pages and Breadcrumbs as well.
 
+- Parent Page YAML Front Matter
+
 	---
 	layout: page
-	title: "New Page"
+	title: "Parent Page"
 	description: ""
-	permalink: parent-page-slug/page-slug/
+	permalink: parent-page-slug/
 	---
+
+- Child Page YAML Front Matter
+
+	---
+	layout: page
+	title: "Child Page"
+	description: ""
+	permalink: parent-page-slug/child-page-slug/
+	---
+
+- Directory Structure would be as follows:
+
+
+	|-parent-page-slug
+		|-index.markdown
+		|-child-page-slug
+			|-index.markdown
 
 ### Publish
 
