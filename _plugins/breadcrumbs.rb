@@ -35,15 +35,15 @@ end
 # Returns ordered list
 def get_pages(url)
 	a = []
-	while url != "/index.html"
+	while url != "/"
 		pt = url.split("/")
-		if pt[-1] != "index.html"
+		if pt[-1] != ""
 			# to to directory index
-			pt[-1] = "index.html"
+			pt[-1] = ""
 			url = pt.join("/")
 		else
 			# one level up
-			url = pt[0..-3].join("/") + "/index.html"
+			url = pt[0..-3].join("/") + "/"
 		end
 		a << get_page_from_url(url)
 	end
