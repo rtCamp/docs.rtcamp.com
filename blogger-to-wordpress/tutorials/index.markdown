@@ -9,4 +9,4 @@ title: Tutorials
 wordpress_id: 40026
 ---
 
-{% include themes/rtcamp/modules/child-pages.html context=page.url %}
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
