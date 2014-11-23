@@ -36,10 +36,10 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 
 
 
-	
+
   1. WordPress 3.6 or higher
 
-	
+
   2. Compatible up to: WordPress 3.9 + BuddyPress 2.0
 
 
@@ -48,4 +48,4 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 ## Upgrading Archive
 
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

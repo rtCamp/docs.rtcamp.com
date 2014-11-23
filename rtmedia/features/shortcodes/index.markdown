@@ -8,4 +8,4 @@ title: Shortcodes
 wordpress_id: 42057
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

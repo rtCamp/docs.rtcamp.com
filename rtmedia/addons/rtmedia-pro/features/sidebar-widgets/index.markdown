@@ -12,7 +12,7 @@ _Note: This feature works with rtMedia PRO only. The plugin can be [purchased fr
 
 rtMedia PRO allows the creation of widgets for media galleries and media uploaders in the sidebars.
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
 
 
-## 
+##

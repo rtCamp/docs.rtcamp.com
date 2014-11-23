@@ -8,4 +8,4 @@ title: Unsorted
 wordpress_id: 66243
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

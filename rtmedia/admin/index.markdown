@@ -8,4 +8,4 @@ title: Admin Guide
 wordpress_id: 37209
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

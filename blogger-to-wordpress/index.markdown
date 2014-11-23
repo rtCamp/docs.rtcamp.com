@@ -8,4 +8,4 @@ title: Blogger to WordPress Migration
 wordpress_id: 10944
 ---
 
-[child-pages depth="1"]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

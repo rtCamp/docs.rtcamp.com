@@ -10,4 +10,4 @@ wordpress_id: 46368
 
 These are rtMedia's known issues, currently on the developer team's todo list to solve.
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

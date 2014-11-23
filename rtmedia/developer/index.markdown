@@ -8,4 +8,4 @@ title: Developer Documentation
 wordpress_id: 37207
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

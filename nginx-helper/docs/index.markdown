@@ -8,4 +8,4 @@ title: Docs
 wordpress_id: 50089
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

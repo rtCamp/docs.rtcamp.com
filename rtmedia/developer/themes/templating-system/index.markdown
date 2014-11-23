@@ -30,31 +30,31 @@ After this, you can modify the template files to your need.
 
 
 
-	
+
   * main.php
 
-	
+
   * media/album-gallery.php
 
-	
+
   * media/album-gallery-item.php
 
-	
+
   * media/album-single-edit.php
 
-	
+
   * media/media-gallery.php
 
-	
+
   * media/media-gallery-item.php
 
-	
+
   * media/media-single.php
 
-	
+
   * media/media-single-edit.php
 
-	
+
   * upload/uploader.php
 
 
@@ -85,4 +85,5 @@ uploader.php
 
 
 Since, a lot of features of rtMedia depend on javascript, it is not advisable to change the markup a lot. It is also not advisable to remove any class or id definitions. At the most, additional classes should be added. Any additional data that needs to be displayed in any of the templates should be via appropriate hooks and filters.
-[child-pages]
+
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

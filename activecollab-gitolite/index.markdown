@@ -8,4 +8,4 @@ title: ActiveCollab Gitolite
 wordpress_id: 36909
 ---
 
-[child-pages]
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

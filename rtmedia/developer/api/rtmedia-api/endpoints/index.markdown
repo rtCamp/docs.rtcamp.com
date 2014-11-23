@@ -13,6 +13,4 @@ wordpress_id: 39766
 
 The rtMedia API is accessible through RESTful URL endpoints. Adding Media to rtMedia is possible via the [Upload Endpoint](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/ ‎) accessible at _/upload/ _on any WordPress post or page, or a BuddyPress or bbPress view. Accessing media is possible via the [Media Endpoint](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/media-endpoint) accessible at _/media/_ on any WordPress post or page, or a BuddyPress or bbPress view.
 
-[child-pages]
-
-
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
