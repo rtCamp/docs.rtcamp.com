@@ -6,7 +6,6 @@ excerpt: Here I am comparing between Blogger and WordPress from a end-user's per
   who may never be interested in checking-out codes!
 layout: page
 slug: blogger-vs-wordpress-non-geekish-comparison
-permalink: blogger-to-wordpress/tutorials/blogger-vs-wordpress-non-geekish-comparison/
 title: Blogger vs WordPress – Non-Geekish Comparison
 wordpress_id: 1977
 ---
@@ -27,10 +26,10 @@ As this subject has been debated many times, I decided not to reinvent the wheel
 
 
 
-
+	
   * If you are writing about your favorite things in life and basically creating a blog meant to be shared with family and friends, then using **Blogger **makes sense.
 
-
+	
   * If you are new to blogging but interested in bringing your professional experience onto your blog, then a professional setup with a self-hosted **WordPress **would be a better idea.
 
 
@@ -43,10 +42,10 @@ As this subject has been debated many times, I decided not to reinvent the wheel
 
 
 
-
+	
   * If you are using **Blogger**.**com **then the features are simple to use because there are few of them as compared to **WordPress**. **Blogger**.**com **is very easy to use. Good for someone to start-off blogging asap.
 
-
+	
   * WordPress provides more options out of the box. This means, it may take slightly more time to take-off. I have been using **WordPress **for over a year and feel that simplicity is not the exclusive domain of **B****logSpot.** Once you start using **WordPress, **you will find its interface extremely simple.
 
 
@@ -65,10 +64,10 @@ As this subject has been debated many times, I decided not to reinvent the wheel
 
 
 
-
+	
   * **BlogSpot **is helpful when it comes to creating a blog which needs zero investment. The account is free and you can start using it to publish your content which is basically a by product of something you are an expert at. The fact creating a blogspot blog requires zero investment does make it attractive.
 
-
+	
   * **WordPress **is a free platform since you can install the **WordPress **software free on your server that hosts your site. But the problem is you have to register a domain and buy space from some hosting service. This means to run a self-hosted WordPress blog you will need some initial investment. But it's not too much if you [see this calculation](http://bloggertowp.org/webhosts/hostgator). Of course, great things in life don't come for free.
 
 
@@ -88,10 +87,10 @@ On a personal note, if you are expecting returns from your blog, its better to i
 
 
 
-
+	
   * A **Blogger.com** blog is awesome when it comes to just writing content and getting it published on the Internet. But Blogger lacks many features and does not support deeper customization. A money-making business expects that from an underlying blogging platform.
 
-
+	
   * **WordPress **has a plugin structure which makes it easy to add features on the go. Apart from that there is no limit to customization as code is running on _your_ server. This means you can provide a better experience to your buyer which is critical for the success of any business blog.
 
 
@@ -110,10 +109,10 @@ On a personal note, if you are expecting returns from your blog, its better to i
 
 
 
-
+	
   * **Blogger.com** has its share of gadgets and a community which does create custom solutions. But because of technical limitation of Blogger.com platform, no matter how much bucks you are willing to spend, a developer can actually do very limited stuff with for Blogger.com blog.
 
-
+	
   * With **WordPress, **the community is massive and you will be overwhelmed by free support, theme & plugins you will find. And when free-world meets an end, you will find thousands of freelancers and companies competing together to offer every solution you need at reasonable price.
 
 

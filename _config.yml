@@ -154,3 +154,5 @@ rtp_footer:
       url: /atom.xml
     - title: RSS Feed
       url: /rss.xml
+
+rtp_exclude_pages: [ "/404.html", "/search.html", "/atom.xml", "/rss.xml", "/index.html", "/sitemap.txt" ]

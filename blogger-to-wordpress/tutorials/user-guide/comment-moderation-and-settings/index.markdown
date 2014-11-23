@@ -7,7 +7,6 @@ excerpt: Comments play a very important role in any blog. Comments are basically
   user you might be familiar with comment moderations and its various options.
 layout: page
 slug: comment-moderation-and-settings
-permalink: blogger-to-wordpress/tutorials/user-guide/comment-moderation-and-settings/
 title: Comment Moderation and Settings In WordPress
 wordpress_id: 12389
 ---
@@ -32,10 +31,10 @@ In **Blogger.com** we have two options for** comments**, one is under **Settings
 
 
 
-
+	
   * For **Comments moderation** in WordPress, click on **Comments** menu.
 
-
+	
   * You will get a list of **comments** of your blog posts with **Author** identity and on which post** comments** are posted.
 
 
@@ -43,10 +42,10 @@ In **Blogger.com** we have two options for** comments**, one is under **Settings
 
 
 
-
+	
   * The options are to approve, edit, reply, spam and trash any **comments** when we hover over with the mouse on **comment**.
 
-
+	
   * You can also search **comments**.
 
 
@@ -63,22 +62,22 @@ Click on **Settings -> Discussion** menu to get all the settings about **comment
 
 
 
-
+	
   * **Default article settings** : Notify blogs linked from the article, pingbacks and trackbacks, allow **comments**.
 
-
+	
   * **Other comment settings** : Name and email is required, user has to be logged in for posting **comments**. **Comments** are closed automatically and so on.
 
-
+	
   * **E-mail me whenever** : Notification through email is sent whenever a **comment** is posted or when a **comment** is held for moderation.
 
-
+	
   * **Comment Moderation** : You can add URL, email id or IP address in text area to do **comment moderation**, it will show all the **comments **in **comments** menu.
 
-
+	
   * **Comment Blacklist** : You can add URL, email id or IP address in text area to span comments.
 
-
+	
   * **Avatar** : Avatar is user profile picture that will be shown with **comments**. You can select the default Avatar for those who doesn't registered in [gravatar.com](http://en.gravatar.com/).
 
 

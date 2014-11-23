@@ -7,7 +7,6 @@ excerpt: You can obtain free or discounted Blogger to WordPress migration servic
   SEO friendly migration, no loss of content....
 layout: page
 slug: free-blogger-wordpress-migration-service
-permalink: blogger-to-wordpress/free-blogger-wordpress-migration-service/
 title: Free/Discounted Services
 wordpress_id: 41549
 ---
@@ -38,11 +37,13 @@ If your Blogger blog has more than 130 posts and you purchase a domain/hosting p
 
 
 
-
+	
   * [Our primary domain/hosting portal](http://dh.rtcamp.com/).
 
-
+	
   * [Our domain/hosting portal for Indian customers](http://www.ilovethisdomain.in/).
 
-
+	
   * [Contact us](https://rtcamp.com/blogger-to-wordpress/#b2w-contact).
+
+

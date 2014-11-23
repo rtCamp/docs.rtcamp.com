@@ -5,7 +5,6 @@ date: 2014-08-12 12:14:41+00:00
 layout: page
 published: false
 slug: customizing
-permalink: inspirebook/customizing/
 title: Customizing InspireBook – End User
 wordpress_id: 67139
 ---

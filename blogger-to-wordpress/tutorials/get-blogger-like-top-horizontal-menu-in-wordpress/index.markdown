@@ -6,7 +6,6 @@ excerpt: Ozh' Admin Drop Down Menu plugin for wordpress dashboard style like blo
   dashboard
 layout: page
 slug: get-blogger-like-top-horizontal-menu-in-wordpress
-permalink: blogger-to-wordpress/tutorials/get-blogger-like-top-horizontal-menu-in-wordpress/
 title: Get Blogger like Top-Horizontal Menu in WordPress
 wordpress_id: 600
 ---

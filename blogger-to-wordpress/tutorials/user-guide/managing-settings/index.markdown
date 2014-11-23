@@ -7,7 +7,6 @@ excerpt: In a WordPress blog we can see there are a certain number of posts show
   which are managed in WordPress with the Settings menu in the Dashboard
 layout: page
 slug: managing-settings
-permalink: blogger-to-wordpress/tutorials/user-guide/managing-settings/
 title: Managing Settings In WordPress
 wordpress_id: 12388
 ---
@@ -46,22 +45,22 @@ You might be aware of the Settings in Blogger.com and I thought a comparative fe
 
 
 
-
+	
   * In Blogger.com under **Basic** option you can add **Title** and **Description** of site, like the same way you find options under **Setting** -> **General** in **WordPress **and also option for site URL.
 
-
+	
   * In Blogger.com** **under **Basic **option you had options like "**Search Engine**", "**Blog Listing**", etc. You can find it in WordPress under** Settings** -> **Privacy**.
 
-
+	
   * In Blogger.com options like "Show at most" and "Time and Date Formating" are in **Formatting **option. The same options are found in WordPress under **Setting** -> **General** and **Setting** -> **Reading**.
 
-
+	
   * In Blogger.com there is an option for **Comments**, but in WordPress all the options about comments you can find under **Setting** -> **Discussion**. We can also moderate comments under the option **Comments** (_below **Pages** menu_).
 
-
+	
   * Blogger.com** **gives option **Site Feed** for "Allow Blog Feeds" and "Post Feed Redirect URL", but WordPress by default gives you feed URL, if you want to redirect your feed to your "**Feedburner**" URL then you can use [FeedBurner FeedSmith](http://wpgpl.com/wordpress-plugins/feedburner-feedsmith-wordpress-plugin/) plugin ( see [Managing Plugins in WordPress](http://bloggertowp.org/managing-plugins-in-wordpress)).
 
-
+	
   * There are further settings in Blogger.com like importing and exporting blogs which can be covered under the **Tools** menu in WordPress. Do check out [All about Tools in WordPress](https://rtcamp.com/blogger-to-wordpress/tutorials/user-guide/) for more details.
 
 

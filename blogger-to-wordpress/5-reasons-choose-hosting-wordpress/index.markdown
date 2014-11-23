@@ -4,7 +4,6 @@ comments: false
 date: 2010-03-20 07:26:59+00:00
 layout: page
 slug: 5-reasons-choose-hosting-wordpress
-permalink: blogger-to-wordpress/5-reasons-choose-hosting-wordpress/
 title: 5 Reasons to Choose Self Hosting with Wordpress
 wordpress_id: 12379
 ---

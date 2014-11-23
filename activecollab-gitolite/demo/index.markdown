@@ -4,7 +4,6 @@ comments: false
 date: 2013-04-11 10:13:07+00:00
 layout: page
 slug: demo
-permalink: activecollab-gitolite/demo/
 title: Demo
 wordpress_id: 36910
 ---
@@ -18,10 +17,10 @@ You can use our demo activeCollab setup to test some git functionality for real.
 
 
 
-
+	
   * **Link:** [http://ac.demo.rtcamp.com/](http://ac.demo.rtcamp.com/)
 
-
+	
   * Email Address & Password are pre-filled there. Just click "Login" button.
 
 
@@ -38,10 +37,10 @@ You can use our demo activeCollab setup to test some git functionality for real.
 
 
 
-
+	
   * On demo setup, visit "manager" users profile - [http://ac.demo.rtcamp.com/people/1/users/3](http://ac.demo.rtcamp.com/people/1/users/3)
 
-
+	
   * Add a Public SSH Key _(this will help you check if you can clone/push to git repos created on demo server)_
 
 
@@ -56,10 +55,10 @@ You can use our demo activeCollab setup to test some git functionality for real.
 
 
 
-
+	
   * Go to a project on demo setup. For example - [http://ac.demo.rtcamp.com/projects/demo-project/repositories](http://ac.demo.rtcamp.com/projects/demo-project/repositories)
 
-
+	
   * Click on **"Create Git Repository"** _(in top-right corner)_
 
 
@@ -71,8 +70,11 @@ You can use our demo activeCollab setup to test some git functionality for real.
 
 
 
-
+	
   * You can create a webhook-end point using [http://requestb.in/](http://requestb.in/)
 
-
+	
   * Then you can do some work on git repo and see what happens on `git push` at your request-bin.
+
+
+

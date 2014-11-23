@@ -4,7 +4,6 @@ comments: false
 date: 2014-11-19 09:13:28+00:00
 layout: page
 slug: customize-slide-panel-menu-bar
-permalink: inspirebook/hooks-filters/customize-slide-panel-menu-bar/
 title: Customize slide panel menu bar
 wordpress_id: 67919
 ---

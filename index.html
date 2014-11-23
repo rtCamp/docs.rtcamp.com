@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Home
-permalink: /
 ---
 {% include JB/setup %}
 
 <h2>Listing</h2>
 
-{% include themes/rtcamp/modules/child-pages.html context="/" depth=1 %}
+{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}

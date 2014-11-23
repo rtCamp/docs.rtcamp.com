@@ -7,7 +7,6 @@ excerpt: When a blog has many users or writers for that matter WordPress allows 
   allow some functions like publishing a post or editing a post to certain users.
 layout: page
 slug: manage-users
-permalink: blogger-to-wordpress/tutorials/user-guide/manage-users/
 title: Manage Users in WordPress
 wordpress_id: 1594
 ---
@@ -37,16 +36,16 @@ Selecting on of the users we can change the role of that user to an **Admin**, *
 
 
 
-
+	
   * **Admin **can edit any details including change theme, disable or enable plugins along with adding and managing other users.
 
-
+	
   * An **Editor **can edit all posts along with writing and publishing post on the blog. Editor can also approve of comments. An **Editor **cannot make changes to the theme, plugins or even change role of a particular user.
 
-
+	
   * **Author **can write and publish posts on the blog. **Authors** cannot approve of comments either.
 
-
+	
   * **Contributors **can comment on posts which are already published and along with that, write posts on the blog. These posts do not get published but are saved as Pending which can be Published only by Editor or the Admin.
 
 

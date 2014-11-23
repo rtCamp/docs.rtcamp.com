@@ -6,7 +6,6 @@ excerpt: Part 2 of Blogger to WordPress user guide series. Briefly introducing W
   Dashboard.
 layout: page
 slug: wordpress-dashboard
-permalink: blogger-to-wordpress/tutorials/user-guide/wordpress-dashboard/
 title: Saying Hello to WordPress Dashboard!
 wordpress_id: 1231
 ---

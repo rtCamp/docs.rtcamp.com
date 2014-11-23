@@ -4,7 +4,6 @@ comments: false
 date: 2013-04-11 10:24:13+00:00
 layout: page
 slug: troubleshooting
-permalink: activecollab-gitolite/troubleshooting/
 title: Troubleshooting
 wordpress_id: 36911
 ---
@@ -20,10 +19,10 @@ wordpress_id: 36911
 
 
 
-
+	
   1. activeCollab-Gitolite module must be able to clone gitolite-admin repo locally. Please check if PHP user can write to `/work/git/` directory under your activeCollab setup.
 
-
+	
   2. Check if there is any `gitolite` folder created in `/work/git`.
 
 
@@ -47,13 +46,13 @@ Your output should contain `R W gitolite-admin`.
 
 
 
-
+	
   1. This script needs to sudo privilege to run. Please try running the script with sudo.
 
-
+	
   2. This may be due to a different Linux distro. We currently support only Ubuntu distro. We will soon release support for other ditros
 
-
+	
   3. Please check your git username. Chances are git user already exists.
 
 
@@ -65,10 +64,10 @@ Your output should contain `R W gitolite-admin`.
 
 
 
-
+	
   1. Make sure you do not have an empty repository. Make a new initial commit in the empty repository or make an empty commit by: `git commit --allow-empty`
 
-
+	
   2. Alternatively, Go to gitolite-admin settings > Delete all empty repositories listed.
 
 

@@ -6,7 +6,6 @@ excerpt: Disqus provides third-party commenting system for blogs running on Word
   Blogger and other platforms. It's one of the comments moderation tool.
 layout: page
 slug: blogger-to-wordpress-migration-with-disqus-comments
-permalink: blogger-to-wordpress/tutorials/blogger-to-wordpress-migration-with-disqus-comments/
 title: Blogger To WordPress Migration with Disqus Comments
 wordpress_id: 596
 ---
@@ -20,16 +19,16 @@ wordpress_id: 596
 
 
 
-
+	
   1. It is easy for your  reader to add comments into your post .
 
-
+	
   2. You can directly add  comments by Twitter and Facebook account or by OpenID .
 
-
+	
   3. Ease to share comments with Twitter and Facebook.
 
-
+	
   4. Commentator's can fill out their name,  email, website (optionally)  and comment. But they can also login using  their Facebook or Twitter username. This not only show links to  their profiles, but also includes their respective profile gravatar.
 
 

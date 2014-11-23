@@ -7,7 +7,6 @@ excerpt: Best guide to move (switch) from blogger (BlogSpot) to WordPress withou
   & Blogger permalink fix plugin
 layout: page
 slug: permalink-seo-migration
-permalink: blogger-to-wordpress/tutorials/permalink-seo-migration/
 title: Blogger To WordPress Migration Guide with Permalink & SEO
 wordpress_id: 4077
 ---
@@ -31,16 +30,16 @@ Before we actually start, we should set some goals which we need to achieve in o
 
 
 
-
+	
   1. Import all posts, comments & pages.
 
-
+	
   2. **Maintaining** permalinks for posts & pages (1-on-1 mapping between Blogger.com and WordPress pages).
 
-
+	
   3. **Redirecting** permalinks for labels & search archives.
 
-
+	
   4. Retaining all feed subscribers.
 
 
@@ -58,10 +57,10 @@ Our goals are clear. Next you need to understand the differences between having 
 
 
 
-
+	
   1. Blog with a **subdomain** address - e.g. http://example.blogspot.com
 
-
+	
   2. Blog with a **custom domain** address - e.g. http://example.com
 
 
@@ -75,10 +74,10 @@ Technically, you can move to WordPress when your Blogger.com blog is on a subdom
 
 
 
-
+	
   1. Most articles rely on JavaScript based redirect - search engines cannot understand it so they will be completely ignored.
 
-
+	
   2. Some articles, propose the use of "rel=canonical" which has its own set of problems and cannot be relied upon.
 
 
@@ -98,13 +97,13 @@ At this point, I assume you have:
 
 
 
-
+	
   1. Your blog is on **Blogger.com** with Custom Domain Setup
 
-
+	
   2. You have a web-hosting where you can install **WordPress** ([WordPress installation Series on different web-servers](http://devilsworkshop.org/wordpress-installation-tutorial-series/))
 
-
+	
   3. You have access to your domain's DNS records
 
 
@@ -153,7 +152,7 @@ Now its time to import your **Blogger.com** blog posts to **WordPress**.
 
 
 
-
+	
   * Go to **Tools ****-> Import** options and select **Blogger** options. A pop-up box will appear, click on **Install Plugin** to install the importer plugin in **WordPress**.
 
 
@@ -161,10 +160,10 @@ Now its time to import your **Blogger.com** blog posts to **WordPress**.
 
 
 
-
+	
   * Click on the _**Activate Plugin & Run Importer.**_
 
-
+	
   * Now you must be on **Import Blogger** page with a button named **Authorize**. Click on it and you will be taken to a page on **Blogger.com** (actually Google.com) where you will be prompted to **Grant access** to your Blogger account. You may be prompted to log into your Google account if you are not already logged in.
 
 
@@ -172,7 +171,7 @@ Now its time to import your **Blogger.com** blog posts to **WordPress**.
 
 
 
-
+	
   * Once you grant access, you will be taken back to the Blogger importer on **WordPress**. If you have more than one blog on your Blogger account, you will see all of them listed here. Just click on the **import** button next to the blog that you want to import into **WordPress.**
 
 
@@ -180,13 +179,13 @@ Now its time to import your **Blogger.com** blog posts to **WordPress**.
 
 
 
-
+	
   * Once you click **import**, all posts and comments from **Blogger.com** blog start importing into **WordPress**. Importer may stop in between. In that case, the text on the button will change from **Import** to **Continue**. Keep clicking on it, until the button-text does not change to **Set Authors**, which indicates all posts and comments have been successfully imported. _(**NOTE**:WordPress Importer does not import the pages from your **Blogger.com** blog.)_
 
-
+	
   * If you have more than one author in Blogger.com blog, you may need to click on **add users** on your WordPress blog (open the **add user link** in new tab/window of your browser) or you can optionally merge all posts for one author.
 
-
+	
   * After creating users in** WordPress** blog refresh the previous tab. Either way go ahead and hit **Save Changes**!
 
 
@@ -215,7 +214,7 @@ http://www.bombaypirate.com/**2010/08/welcome-to-wordpress-this-is-your-first.ht
 
 At this point you can use the following php script. Just copy-paste following codes into a file with name like fix.php and save/upload it to the **WordPress** folder. Then just open its URL from the browser. URL will be like: **http://example.com/fix.php **(replace example.com with your domain name)**.**
 
-
+    
     <?php
     require_once('wp-load.php');
     $res = $wpdb->get_results("SELECT post_id, meta_value FROM $wpdb->postmeta WHERE meta_key = 'blogger_permalink'");
@@ -284,10 +283,10 @@ At the end of [those instructions](http://bloggertowp.org/blogger-to-wordpress-r
 
 
 
-
+	
   1. Your Blogger.com blog will become inaccessible. This is must for good SEO!
 
-
+	
   2. Your Blogger.com subdomain will be active again but all visitors will be migrated with proper permalink structure.
 
 
@@ -300,7 +299,7 @@ If you are using Feedburner or any third-party service for subscribers, update s
 
 Just add following lines at the top of your .htaccess file which can be found in root directory of your WordPress installation.
 
-
+    
     #ATOM Feeds
     RewriteRule atom.xml feed/atom/ [L,R=301]
     RewriteRule feeds/posts/default feed/atom/ [L,R=301]
@@ -320,7 +319,7 @@ You might face some problems while searching your blog on Google via site:exampl
 
 For that simply add the following code into the .htaccess file:
 
-
+    
     #Redirect archives
     RewriteRule ^([0-9]{4})_([0-9]{1,2})_([0-9]{1,2})_archive.html$ $1/$2/ [L,R=301]
     #Redirect labels/categories
@@ -344,22 +343,22 @@ Please use [our free support forum](http://bloggertowp.org/forum/). Avoid using
 
 
 
-
+	
   * [Blogger To WordPress Redirection Plugin ](http://bloggertowp.org/blogger-to-wordpress-redirection-plugin/)_(helpful for redirecting permalinks)_
 
-
+	
   * [Custom Domain Setup Guide for Blogger.com](http://bloggertowp.org/custom-domain-setup-on-blogger-user-guide-series/) _(Setting up custom domain on Blogger with different domain registrars)_
 
-
+	
   * [Blogger To WordPress User Guide](http://bloggertowp.org/the-blogger-to-wordpress-user-guide-series/) _(helpful for WordPress beginners)_
 
-
+	
   * [Video Blogger To WordPress Migration Guide.](http://bloggertowp.org/video-blogger-to-wordpress-migration-complete-user-guide/)
 
-
+	
   * [Our Free Support Forum](http://forum.bloggertowp.org/) _(if anything goes wrong…)_
 
-
+	
   * [Hire Us!](http://bloggertowp.org/contact/) _(troubles can be outsourced! )_
 
 

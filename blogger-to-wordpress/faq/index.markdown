@@ -4,43 +4,42 @@ comments: false
 date: 2010-03-08 22:07:20+00:00
 layout: page
 slug: faq
-permalink: blogger-to-wordpress/faq/
 title: FAQ
 wordpress_id: 12156
 ---
 
 
-
+	
   1. What will happen to images hosted/uploaded at Blogger.com? Is it possible to migrate all the images to Wordpress?
 
-
+	
   2. What about Posts and Comments? Will you be able to transfer all the Posts and Comments as it is?
 
-
+	
   3. Wordpress permalink structure is different than Blogspot. Will it break my permalinks?
 
-
+	
   4. What about my feed Subscribers? Will I lose them?
 
-
+	
   5. What about downtime? How much it will be?
 
-
+	
   6. Do I need to share my Gmail/Blogger.com password to start the process ?
 
-
+	
   7. Which Theme I will be using after the migration? Can I get a wordpress theme which looks like Blogger exactly?
 
-
+	
   8. Can you create a custom Wordpress theme based on my current BlogSpot theme (template)?
 
-
+	
   9. I am convinced! I want to migrate my blog to Wordpress, what should I do now?
 
 
 
 
-###
+### 
 
 
 

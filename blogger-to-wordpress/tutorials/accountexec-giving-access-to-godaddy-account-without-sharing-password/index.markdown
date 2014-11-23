@@ -7,7 +7,6 @@ excerpt: If you are using Godaddy's Domain/Hosting service and if you want to gi
   Service.
 layout: page
 slug: accountexec-giving-access-to-godaddy-account-without-sharing-password
-permalink: blogger-to-wordpress/tutorials/accountexec-giving-access-to-godaddy-account-without-sharing-password/
 title: '[AccountExec] Giving access to Godaddy account without sharing password'
 wordpress_id: 3674
 ---
@@ -25,17 +24,17 @@ Securing your server account details should always be a top priority. If you are
 
 
 
-
+	
   * Go to Godaddy account : [Login](http://godaddy.com/)
 
-
+	
   * Click on the _**Assign to AccountExec**_ option, from the left sidebar menu.
 
 [![](https://rtcamp.com/wp-content/uploads/2011/01/bloggertowp-godaddy-1.png)](https://rtcamp.com/wp-content/uploads/2011/01/bloggertowp-godaddy-1.png)
-
+	
   * Enter all the information of the other user for whom you want to make an _**AccountExec.**_
 
-
+	
   * Click on the **Invite** button.
 
 [![](https://rtcamp.com/wp-content/uploads/2011/01/bloggertowp-godaddy-2.png)](https://rtcamp.com/wp-content/uploads/2011/01/bloggertowp-godaddy-2.png)
@@ -52,16 +51,16 @@ You can create a new folder for a particular domain that you want to assign to y
 
 
 
-
+	
   * Select **Domains** from top navigation menu.
 
-
+	
   * Click on the _**New Folder**_ link.
 
-
+	
   * One pop-up box will open add the folder name and description (optional), Click on **OK**.
 
-
+	
   * The new folder is now created.
 
 [![](https://rtcamp.com/wp-content/uploads/2011/01/B2W-godaddy-3.png)](https://rtcamp.com/wp-content/uploads/2011/01/B2W-godaddy-3.png)
@@ -73,16 +72,16 @@ You can create a new folder for a particular domain that you want to assign to y
 
 
 
-
+	
   * Click on **All My Domains**.
 
-
+	
   * Select the domain that you want to copy into folder and assign to _**AccountExec**_.
 
-
+	
   * After that select the **copy to folder** option from **Organize** menu.
 
-
+	
   * A pop-up menu will open, select the folder that you just created from the drop-down menu and click **OK**.
 
 [![](https://rtcamp.com/wp-content/uploads/2011/01/B2W-godaddy-41.png)](https://rtcamp.com/wp-content/uploads/2011/01/B2W-godaddy-41.png)
@@ -94,10 +93,10 @@ You can create a new folder for a particular domain that you want to assign to y
 
 
 
-
+	
   * Click on **Folders**, select the folder you want to assign for the AccountExec, and then click on **AccountExec** on top of the folder list.
 
-
+	
   * A pop-up menu will open, select the AccountExec name from the drop-down menu and assign **Role** as per your requirement.  Click** OK**.
 
 [![](https://rtcamp.com/wp-content/uploads/2011/01/b2w-accountexec3-600x252.png)](https://rtcamp.com/wp-content/uploads/2011/01/b2w-accountexec3.png)

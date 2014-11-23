@@ -4,7 +4,6 @@ comments: false
 date: 2014-08-12 13:08:00+00:00
 layout: page
 slug: inner-page-support
-permalink: inspirebook/inner-page-support/
 title: Inner page support in InspireBook
 wordpress_id: 67172
 ---
@@ -18,28 +17,28 @@ As InspireBook premium theme support BuddyPress, rtMedia, bbPress, Gravity Forms
 
 
 
-
+	
   * Registration Page
 
-
+	
   * Login Page
 
-
+	
   * Cart
 
-
+	
   * Checkout
 
-
+	
   * Products
 
-
+	
   * Product Categories
 
-
+	
   * Password recovery page
 
-
+	
   * Account activation page
 
 
@@ -51,82 +50,82 @@ As InspireBook premium theme support BuddyPress, rtMedia, bbPress, Gravity Forms
 
 
 
-
+	
   * Create a Group page (Details, Settings, Forum, Avatar, Invites)
 
-
+	
   * Activity page
 
-
+	
   * Group forum page
 
-
+	
   * Group single topic page
 
-
+	
   * Group activity page
 
-
+	
   * Group members page
 
-
+	
   * Send invites page
 
-
+	
   * Group settings page
 
-
+	
   * Group details edit page
 
-
+	
   * Groups listing page
 
-
+	
   * Member's activity page
 
-
+	
   * Member's profile page
 
-
+	
   * Member's inbox messages page
 
-
+	
   * Member's sent messages page
 
-
+	
   * Member's compose message page
 
-
+	
   * Member's notices page
 
-
+	
   * Member's friends page
 
-
+	
   * Member's friendship requests page
 
-
+	
   * Member's groups page
 
-
+	
   * Member's groups invitations page
 
-
+	
   * Member's Topics Started page
 
-
+	
   * Member's Replies Created page
 
-
+	
   * Member's Favorites page
 
-
+	
   * Member's Subscriptions page
 
-
+	
   * Member's General Settings page
 
-
+	
   * Members listing page
 
 
@@ -138,10 +137,10 @@ As InspireBook premium theme support BuddyPress, rtMedia, bbPress, Gravity Forms
 
 
 
-
+	
   * Forum page with bbPress forums and recent topics
 
-
+	
   * Forum page with bbPress sub forums and recent topics
 
 
@@ -153,22 +152,22 @@ As InspireBook premium theme support BuddyPress, rtMedia, bbPress, Gravity Forms
 
 
 
-
+	
   * 404 page
 
-
+	
   * Blog page
 
-
+	
   * Single post with comments
 
-
+	
   * Single page
 
-
+	
   * Archives page
 
-
+	
   * Search page
 
 

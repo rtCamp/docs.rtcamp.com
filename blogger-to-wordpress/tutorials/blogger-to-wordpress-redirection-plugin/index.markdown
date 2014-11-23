@@ -6,7 +6,6 @@ excerpt: This plugin is used to redirect posts from Blogger to WordPress without
   SEO and page rank. It will provide one-to-one redirection from Blogger.com to WordPress.
 layout: page
 slug: blogger-to-wordpress-redirection-plugin
-permalink: blogger-to-wordpress/tutorials/blogger-to-wordpress-redirection-plugin/
 title: Blogger To WordPress Redirection Plugin
 wordpress_id: 2751
 ---
@@ -57,10 +56,10 @@ While most people believes that META Refresh is deprecated method, it is best 
 
 
 
-
+	
     1. Install [Blogger To WordPress Redirection Plugin](http://wordpress.org/extend/plugins/blogger-to-wordpress-redirection/) in your WordPress blog. For help on how to install plugins to your WordPress blog, check out our guide on [How to manage plugins in WordPress](https://rtcamp.com/news/managing-plugins-in-wordpress/).
 
-
+	
     2. After installation and activation of the plugin, you will notice that a new menu option by the name **Blogger To Wordpress Redirection** has been created under the **Tools** menu. Click on this new menu option.
 
 
@@ -70,7 +69,7 @@ While most people believes that META Refresh is deprecated method, it is best 
 
 
 
-
+	
     1. Now on the plugin page, click the **Start Configuration **button to generate code for Blogger.com blog.
 
 
@@ -79,7 +78,7 @@ While most people believes that META Refresh is deprecated method, it is best 
 
 
 
-
+	
   1. A list of blog names which have posts that have been imported to Wordpress, will be displayed. Click on the **Get Code** button to generate the redirection code.
 
 
@@ -93,7 +92,7 @@ While most people believes that META Refresh is deprecated method, it is best 
 
 
 
-
+	
     1. After copying this code, go to your Blogger account and click on the template menu and then edit the HTML section (**Edit HTML**) on your Blogger Dashboard.
 
 
@@ -102,10 +101,10 @@ While most people believes that META Refresh is deprecated method, it is best 
 
 
 
-
+	
   1. **Note**: Before replacing the code, save the backup of your template.
 
-
+	
   2. Paste the copied code from step 5 to your Blogger template and click on **Save Template Changes** as seen below.
 
 
@@ -118,7 +117,7 @@ While most people believes that META Refresh is deprecated method, it is best 
 
 
 
-
+	
   1. Come back to the **Blogger to WordPress Redirection** plugin area and click on the **Verify Configuration** button to check your one-to-one redirection from your Blogspot posts to WordPress posts.
 
 

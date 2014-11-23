@@ -7,7 +7,6 @@ excerpt: Easy guide to redirect feed URL of migrated blog from Blogger to WordPr
   WordPress.
 layout: page
 slug: redirect-feed-url-from-blogger-to-wordpress
-permalink: blogger-to-wordpress/tutorials/redirect-feed-url-from-blogger-to-wordpress/
 title: Redirect Feed URL From Blogger To WordPress
 wordpress_id: 2720
 ---
@@ -29,10 +28,10 @@ We need to change our old Blogger.com blog feed URL to get all the posts to upda
 
 
 
-
+	
     1. Login to your [Feedburner Account](http://feedburner.google.com/).
 
-
+	
     2. Click on the feed for which you want to set the URL.
 
 
@@ -42,7 +41,7 @@ We need to change our old Blogger.com blog feed URL to get all the posts to upda
 
 
 
-
+	
     1. After that, click on the **Edit Feed Details** link and follow the instruction as per the screen-shot below
 
 
@@ -52,19 +51,19 @@ We need to change our old Blogger.com blog feed URL to get all the posts to upda
 
 
 
-
+	
     1. Now change the original feed URL with new WordPress feed URL . (Feed URL looks like http://example.com/feed/).
 
-
+	
     2. Click on **Save Feed Details **and you are done with the feedburner side.
 
-
+	
     3. Now go to your WordPress dashboard. Install a plugin called [**FD Feedburner Plugin**](http://wordpress.org/extend/plugins/feedburner-plugin/). (checkout the [plugin installation process](http://bloggertowp.org/managing-plugins-in-wordpress/))
 
-
+	
     4. After successful installation and activation of the plugin, you will observe that one menu is added in **Plugins** option **Feedburner Configuration**. _(Update for new **version**_** 1.45 **_of this plugin : the menu in moved inside Settings option with name **Feedburner **)_
 
-
+	
     5. Click on it and add feed URL that just configured in feedburner account.
 
 
@@ -73,7 +72,7 @@ We need to change our old Blogger.com blog feed URL to get all the posts to upda
 
 
 
-
+	
   1. It will help to redirect all the feeds from http://example.com/feed/ URL to new feedburner URL (http://feeds.feedburner.com/yourlabel).
 
 

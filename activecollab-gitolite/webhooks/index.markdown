@@ -4,7 +4,6 @@ comments: false
 date: 2013-05-07 13:56:59+00:00
 layout: page
 slug: webhooks
-permalink: activecollab-gitolite/webhooks/
 title: Webhooks
 wordpress_id: 37790
 ---
@@ -33,13 +32,13 @@ For every git-repo, we maintain minimum 3 branches:
 
 
 
-
+	
   * master - this is development branch where all kinda debugging and logging is on
 
-
+	
   * demo - this is staging area branch, demo site for client.
 
-
+	
   * stable - this is live branch. Stable is mostly pointing to latest tag.
 
 
@@ -64,18 +63,18 @@ Please note that initial git clone need to be done manually from command-line.
 
 You can put following code in a file say `webhook.php` and then make some change based on your environment.
 
-
+    
     <?php
-
+    
     $payload = json_decode(file_get_contents("php://input"));
-
+    
     if (!$payload) exit();
-
+    
     // Check for payload. 'ref' is branch-name. 'repository->name' is git-repo name
     if ( $payload->ref === 'refs/heads/master' && $payload->repository->name === 'my-repo') {
             // path to directory where we have git clone'd my-repo
             $project_directory = "/var/www/example.com/htdocs/wp-content/plugins/my-repo";
             shell_exec( 'cd ' . $project_directory . '/ && git reset --hard HEAD && git pull' );
     }
-
+    
     ?>

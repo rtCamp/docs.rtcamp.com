@@ -7,7 +7,6 @@ excerpt: Blogger who are using Blogspot FTP publishing will have to move to self
   for blogger
 layout: page
 slug: blogspot-stopped-blogger-ftp-publishing-support
-permalink: blogger-to-wordpress/tutorials/blogspot-stopped-blogger-ftp-publishing-support/
 title: BlogSpot Stopped Blogger FTP publishing Support
 wordpress_id: 282
 ---

@@ -8,7 +8,6 @@ excerpt: Widgets are used to customize content that can be displayed on all the 
   on the sidebar.
 layout: page
 slug: managing-widgets
-permalink: blogger-to-wordpress/tutorials/user-guide/managing-widgets/
 title: Managing Widgets in Wordpress
 wordpress_id: 1461
 ---
@@ -41,7 +40,7 @@ wordpress_id: 1461
 
 
 
-
+	
   * Click on **Widgets** option under **Appearance** menu.
 
 
@@ -49,13 +48,13 @@ wordpress_id: 1461
 
 
 
-
+	
   * You will enter in **Widgets** panel area where you can find many useful **widgets**.
 
-
+	
   * When you install some **Themes **and **Plugins** you may get some extra **Widgets** related to that particular theme design. **Widgets** are very easy to handle. Just drag and drop  a **widget **wherever you want.
 
-
+	
   * Mostly **widgets** are added in the sidebar of the **theme**.
 
 

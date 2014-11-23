@@ -4,7 +4,6 @@ comments: false
 date: 2013-06-12 14:57:08+00:00
 layout: page
 slug: submit-sitemap-search-engine
-permalink: blogger-to-wordpress/submit-sitemap-search-engine/
 title: How to submit Sitemap to Search Engine ?
 wordpress_id: 25099
 ---
@@ -15,16 +14,16 @@ Sitemap is especially important if your site:
 
 
 
-
+	
   * Has dynamic content
 
-
+	
   * Has pages with a lot of flash or AJAX
 
-
+	
   * Is new and doesn’t have many links
 
-
+	
   * Has a lot of archived pages that are not linked well, or not at all
 
 
@@ -42,27 +41,27 @@ To submit a sitemap to Google, you should have the following websites added and 
 
 
 
-
+	
   * the site on which the Sitemap is located
 
-
+	
   * the site(s) whose URLs are referenced in the Sitemap
 
 
 
-
+	
   1. Upload your Sitemap to your site.
 
-
+	
   2. On the [Webmaster Tools](https://www.google.com/webmasters/tools/) home page, click the site you want.
 
-
+	
   3. Under Site configuration, click Sitemaps.
 
-
+	
   4. In the text box, complete the path to your Sitemap (for example, if your Sitemap is at http://www.example.com/sitemap.xml, type sitemap.xml).
 
-
+	
   5. Click Submit Sitemap.
 
 
@@ -70,16 +69,16 @@ To submit a sitemap to Google, you should have the following websites added and 
 
 
 
-
+	
   1. Create an XML Sitemap. You can create an XML sitemap by hand, or use an XML sitemaps generator to do it for you.
 
-
+	
   2. Login to your Windows Live account and go to [Bing Webmaster Center](http://www.bing.com/webmaster).
 
-
+	
   3. Add your site to Bing by filling in your URL and the URL of your sitemap. Click add a site.
 
-
+	
   4. Bing will check the sitemap and begin indexing your site as soon as it's determined that the sitemap has no errors.
 
 

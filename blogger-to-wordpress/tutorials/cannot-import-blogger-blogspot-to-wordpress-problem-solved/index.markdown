@@ -6,7 +6,6 @@ excerpt: Blogspot to Wordpress import problem solved, Unable to find the socket 
   "ssl" - did you forget to enable it when you configured PHP? (0) solved
 layout: page
 slug: cannot-import-blogger-blogspot-to-wordpress-problem-solved
-permalink: blogger-to-wordpress/tutorials/cannot-import-blogger-blogspot-to-wordpress-problem-solved/
 title: Cannot Import Blogger Blogspot to Wordpress Problem [Solved]
 wordpress_id: 12380
 ---

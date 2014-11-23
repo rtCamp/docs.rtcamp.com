@@ -7,7 +7,6 @@ excerpt: Wordpress plugin for Blogger Importer is throwing error "Authorization 
   download
 layout: page
 slug: solved-blogger-importers-authorization-failed-403-invalid-authsub-token-error
-permalink: blogger-to-wordpress/tutorials/solved-blogger-importers-authorization-failed-403-invalid-authsub-token-error/
 title: '[Solved] Blogger Importer''s "Authorization failed - 403 Invalid AuthSub token"  Error'
 wordpress_id: 12383
 ---
@@ -20,7 +19,7 @@ issue:
 
 
 
-
+    
     Something went wrong. If the problem persists, send this info to support:
     HTTP/1.0 403 Invalid AuthSub token.
     Content-Type: text/html; charset=UTF-8
@@ -31,7 +30,7 @@ issue:
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
     Server: GSE
-
+    
     <HTML>
     <HEAD>
     <TITLE>Invalid AuthSub token.</TITLE>
@@ -58,13 +57,13 @@ The good news is that, a working Blogger.com import plugin is available for down
 
 
 
-
+	
   1. If you already have Blogger Importer plugin installed, please remove it. Plugin kept above for downloading may fail to upload in that case.
 
-
+	
   2. If you face any issues while using above plugin, please [use our free support forum](http://forum.bloggertowp.org/). We do not charge anything to answer questions asked in our support forum! ;-)
 
-
+	
   3. If you feel that we should have added these fixed codes to wordpress.org, we tried doing so but encountered error on wordpress trac as you can see in following screenshot. :-(
 
 
