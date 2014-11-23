@@ -2,10 +2,10 @@
 	<ul class="breadcrumb">
 		<li class="active">
 			<span prefix="v: http://rdf.data-vocabulary.org/#">
-			{% for path in page.parent_paths %}
+			{% for p in page.ancestors %}
 				<span typeof="v:Breadcrumb">
-					<a href="{{ path }}" rel="v:url" property="v:title">
-						{{ page.parents[forloop.index0] }}
+					<a href="{{ p.url | remove:"index.html" }}" rel="v:url" property="v:title">
+						{{ p.title }}
 					</a>
 				</span>
 				&raquo;
