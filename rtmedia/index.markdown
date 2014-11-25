@@ -8,19 +8,22 @@ title: rtMedia
 wordpress_id: 37204
 ---
 
-rtMedia is the only complete media solution which integrates with BuddyPress, bbPress and WordPress seamlessly.
+*rtMedia* is the only complete media solution which integrates with [BuddyPress](https://buddypress.org/), [bbPress](https://bbpress.org/) and [WordPress](https://wordpress.org/) seamlessly.
 
-It is also the only solution to have free audio/video encoding service.
+It is also the only solution to have a free audio and video encoding service.
 
-
-## [1.Getting Started](http://docs.rtcamp.com/rtmedia/getting-started/)
-
+Read through this document to learn how to easily use *rtMedia* to satisfy your media needs.
 
 
+## [1. Getting Started]()
 
 
+
+
+  * [Overview](/rtmedia/getting-started/)
+  
 	
-  * [Installing rtMedia (Core)](http://docs.rtcamp.com/rtmedia/getting-started/install-rtmedia/)
+  * [Installing rtMedia (Core)](/rtmedia/getting-started/install-rtmedia/)
 
 	
   * [Install BuddyPress](http://docs.rtcamp.com/rtmedia/getting-started/install-buddypress/) (skip if your website already uses BuddyPress)
