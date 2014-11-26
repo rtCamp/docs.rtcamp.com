@@ -26,10 +26,10 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
   * [Installing rtMedia (Core)](/rtmedia/getting-started/install-rtmedia/)
 
 	
-  * [Install BuddyPress](http://docs.rtcamp.com/rtmedia/getting-started/install-buddypress/) (skip if your website already uses BuddyPress)
+  * [Installing BuddyPress](/rtmedia/getting-started/install-buddypress/) (optional)
 
 	
-  * [Manage rtMedia Settings](http://docs.rtcamp.com/rtmedia/getting-started/settings/)
+  * [Managing rtMedia Settings](/rtmedia/getting-started/settings/)
 
 	
   * [Audio/Video Encoding](http://docs.rtcamp.com/rtmedia/getting-started/audio-video-encoding/)

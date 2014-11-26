@@ -8,35 +8,27 @@ title: Installing BuddyPress
 wordpress_id: 65968
 ---
 
-If you haven't already installed BuddyPress on your WordPress website, follow the steps below to install it:
+[BuddyPress](https://buddypress.org/) is a powerful suite of social networking components, made the WordPress way, to help you build a flexible & robust community.
+
+*rtMedia* can integrate with BuddyPress to display your media content on forums and topic posts. *rtMedia* allows users to have their own media galleries in BuddyPress.
+
+    Note: *rtMedia* plugin does **not** require BuddyPress to work. It can work on WordPress, BuddyPress and bbPress.
 
 
+## Installing BuddyPress
+	
+  1. Login to your website’s admin dashboard. From the admin sidebar, click **Plugins**.
 
 	
-  1. Log in to your WordPress Dashboard and click on **Plugins**.
+  2. Click **Add New** and enter *BuddyPress* as the search term. The first result that will be displayed is the BuddyPress plugin. Click **Install Now**.
 
 	
-  2. Click on **Add New** and type in "BuddyPress" in the search bar. The first plugin that will show up will be BuddyPress plugin. Click on **Install Now**.
+  3. Click **OK** to confirm the installation.
 
 	
-  3. A notification will show up which reads "**Are you sure you want to install this plugin?"** Click on **OK**.
-
-	
-  4. An installation page will open up. In a few seconds, BuddyPress will be installed. All that you have to do to use it is click on Activate Plugin.
+  4. After installation, click **Activate Plugin** to activate the plugin.
 
 
-
-
-## Important points to note
-
-
-
-
-
-	
-  * rtMedia plugin does not require BuddyPress to work. It can work on WordPress, BuddyPress and bbPress.
-
-	
-  * Check documentation on [rtMedia (Core) Settings](http://docs.rtcamp.com/rtmedia/getting-started/settings/) for details on integrating rtMedia with BuddyPress.
+Read the documentation on [rtMedia (Core) Settings](/rtmedia/getting-started/settings/) for details on integrating *rtMedia* with BuddyPress.
 
 
