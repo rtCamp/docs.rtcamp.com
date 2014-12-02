@@ -8,22 +8,10 @@ title: Installing rtMedia
 wordpress_id: 66231
 ---
 
-## Prerequisites
-
-Ensure that you have the following installed on your server, before installing *rtMedia*:
-
-* PHP 5.3 or above
-
-* cURL and GD libraries
-
-* WordPress 3.6 or higher (Check [WordPress Installation Documentation](https://codex.wordpress.org/Installing_WordPress))
-
-## Installation
-
-You can install the *rtMedia* plugin on your WordPress website in two ways. You can either install the *rtMedia* plugin from the WordPress dashboard directly or download it from the WordPress plugin directory and install it manually.
+There are mainly two ways you can install rtMedia plugin on your WordPress website. The rtMedia plugin can be downloaded from the WordPress Dashboard directly or also from the WordPress plugin directory.
 
 
-### Install rtMedia from your WordPress dashboard
+## Download rtMedia directly from your WordPress Dashboard
 
 
 [![install-rtmedia-wordpress-dashboard](http://docs.rtcamp.com/wp-content/uploads/2014/06/install-rtmedia-wordpress-dashboard.png)](http://docs.rtcamp.com/wp-content/uploads/2014/06/install-rtmedia-wordpress-dashboard.png)
@@ -31,45 +19,43 @@ You can install the *rtMedia* plugin on your WordPress website in two ways. You 
 
 
 	
-  1. Login to your website's admin dashboard. From the admin sidebar, click **Plugins**.
+  1. First you will need to login to your website's admin dashboard and on the admin sidebar, go to **Plugins**.
 
 	
-  2. Click **Add New**. Enter *rtMedia* as the search term. The *rtMedia* plugin details are then displayed.
+  2. Click on **Add New** and in the search tab type in "rtMedia" without the quotes.
 
 	
-  3. Click **Install Now**.
+  3. Click on **Install Now** when you get the relevant result. _(Hint: In description you will see author "by rtCamp")_
 
 	
-  4. From the next screen, click **Activate Plugin**.
+  4. On the next screen, click on **Activate Plugin**.
 
 
 
 
-### Download and install rtMedia from the WordPress plugin directory
+## Download rtMedia from the WordPress Plugin Directory
 
 
 [![install-rtmedia-wp-plugin-directory](http://docs.rtcamp.com/wp-content/uploads/2014/06/install-rtmedia-wp-plugin-directory.png)](http://docs.rtcamp.com/wp-content/uploads/2014/06/install-rtmedia-wp-plugin-directory.png)
 
-Go to [rtMedia's plugin directory page on WordPress.org](http://wordpress.org/plugins/buddypress-media/) and click **Download**. The plugin is downloaded as a .zip file.
+Go to [rtMedia's plugin directory page on WordPress.org](http://wordpress.org/plugins/buddypress-media/) and click on the download button. The plugin is downloaded as a .zip file.
 
-To install the plugin:
 
-	
-  1. From your admin sidebar, click **Plugins.**
 
 	
-  2. Click **Add New**.
+  1. On your admin sidebar, go to **Plugins.**
 
 	
-  3. To upload the plugin you downloaded, click the **Upload** link.
+  2. Click on **Add New **and check at the top of the page.
 
 	
-  4. Click **Choose File** and select the downloaded plugin file.
+  3. Now we already have the file and want to manually upload it. Henc click the **Upload** tab.
 
 	
-  5. Click **Install Now**, and wait for your server to complete the installation.
-  
-  6. From the next screen, click **Activate Plugin**.
+  4. Click on **Choose File **and select the plugin file you had downloaded.
+
+	
+  5. Click the **Install Now** button, and wait for your site to complete the installation.
 
 
 You could upgrade to [rtMedia PRO](https://rtcamp.com/store/rtmedia-pro/) for added features.

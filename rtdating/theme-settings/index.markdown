@@ -11,7 +11,7 @@ wordpress_id: 67829
 ## DateCafe Theme Settings
 
 
-Datecafe provided various theme options. Following are those options with details.
+Datecafe provides various theme options. Following are the options with details.
 
 
 ### General Settings:

@@ -11,22 +11,21 @@ wordpress_id: 44708
 ## Overview
 
 
-*rtMedia* is a comprehensive media plugin for [WordPress](https://wordpress.org/), [BuddyPress](https://buddypress.org/) and [bbPress](https://bbpress.org/). It helps users upload and organize media such as photos, audio clips and videos.
+rtMedia is a comprehensive media plugin for WordPress, BuddyPress and bbPress. It helps users upload and organize media in the form of photos, audio and video.
 
-*rtMedia* is a free plugin and its settings and features can be extended with the help of the paid [rtMedia PRO add-on](https://rtcamp.com/store/rtmedia-pro/). 
+rtMedia is free plugin and its settings and features can be extended with the help of [rtMedia PRO add-on](https://rtcamp.com/store/rtmedia-pro/). A number of other premium add-ons are also available to enhance rtMedia’s central functions.
 
-A number of other premium add-ons are also available to enhance *rtMedia’s* central functions.
+Do go through our checklist below before you start so you can make better and informed choices.
 
-The following checklist can help you make an informed decision as to whether *rtMedia* is the right solution for your needs.
+**Our Checklist before you start**
 
 
-## Checklist
-
-	
-  * Do you use bbPress, and want your members to attach media to their forum or topic posts?
 
 	
-  * Do you run a niche community using BuddyPress, and want your members to post photos, audio clips and videos in activity updates?
+  * Do you use bbPress, and want your members to attach media to their forum/topic posts?
+
+	
+  * Do you run a niche community using BuddyPress, and want your members to post photos, audio and video in activity updates?
 
 	
   * Do you need to have media galleries associated with author profiles?
@@ -35,13 +34,43 @@ The following checklist can help you make an informed decision as to whether *rt
   * Do you want your users to be able to upload media from the front-end on your site for events, contests or any other reason?
 
 
-If you answer **Yes** to any of these questions, then *rtMedia* is the best solution for your media needs.
+If your answer to any of these questions is yes, rtMedia is the best solution for you.
 
 
-## Differences between rtMedia and rtMedia Pro
+## Server Requirements
 
-*rtMedia Pro* is a paid plugin and has many more features than the free *rtMedia* plugin.
 
-For a comprehensive list of features that are only available with *rtMediaPro*, [see features](/rtmedia/addons/rtmedia-pro/features/).
+
+
+
+	
+  * PHP 5.3 or above
+
+	
+  * cURL and GD libraries
+
+	
+  * WordPress 3.6 or higher (Check [WordPress Installation Documentation](http://codex.wordpress.org/Installing_WordPress))
+
+
+
+
+## Start using rtMedia
+
+
+
+
+
+	
+  * [Install BuddyPress](http://docs.rtcamp.com/rtmedia/getting-started/install-buddypress/) (skip if your website already has BuddyPress)
+
+	
+  * [Installing rtMedia (Core)](http://docs.rtcamp.com/rtmedia/getting-started/install-rtmedia/)
+
+	
+  * [Manage rtMedia Settings](http://docs.rtcamp.com/rtmedia/getting-started/settings/)
+
+	
+  * [Audio/Video Encoding](http://docs.rtcamp.com/rtmedia/getting-started/audio-video-encoding/)
 
 
