@@ -148,6 +148,8 @@ rtp_header:
       url: /inspirebook
     - title: rtPanel
       url: /rtpanel
+    - title: rtDating
+      url: /rtdating
 
 rtp_footer:
     - title: Atom Feed
