@@ -17,15 +17,15 @@ rtDating is a premium WordPress theme, designed for BuddyPress and rtMedia powe
 
 
 	
-  * [Install and Activate rtDating Theme](http://docs.rtcamp.com/inspirebook/install-activate/)
+  * [Installation and Activate rtDating Theme](http://docs.rtcamp.com/rtdating/install-activate/)
 
 	
-  * [Theme Settings](http://docs.rtcamp.com/datecafe/theme-settings/)
+  * [Theme Settings](http://docs.rtcamp.com/rtdating/theme-settings/)
 
 	
-  * [Set image sizes](http://docs.rtcamp.com/datecafe/set-image-sizes/)
+  * [Set image sizes](http://docs.rtcamp.com/rtdating/set-image-sizes/)
 
 	
-  * [Setup Home Page](http://docs.rtcamp.com/datecafe/setup-home-page/)
+  * [Setup Home Page](http://docs.rtcamp.com/rtdating/setup-home-page/)
 
 
