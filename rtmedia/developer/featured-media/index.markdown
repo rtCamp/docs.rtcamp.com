@@ -8,7 +8,11 @@ title: Featured Media
 wordpress_id: 37815
 ---
 
-rtmedia_featured($user_id)
+Till rtMedia v3.7.20 we have featued media option for user profile only and now we have added same option for group as well. 
+
+For profile: rtmedia_featured( $user_id )
+
+For group: rtmedia_group_featured( $group_id )
 
 
 
@@ -21,7 +25,7 @@ Used to display any media that the user has set as featured. It could be a video
 For this to work, the appropriate switch will need to be turned on in **rtMedia** > **Settings** >**Types**. Read more: [rtMedia settings' types](https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/types/) tab.
 
 
-## Arguments
+## rtmedia_featured
 
 
 
@@ -61,3 +65,35 @@ with:
 
 
 And instead of the latest update, the featured media would show up!
+
+
+## rtmedia_group_featured
+
+
+
+
+### **$group_id**
+
+
+(Optional, not required on single group page)
+The id of the group to fetch the featured media for.
+
+
+## Example
+
+
+In the default BuddyPress theme, find
+
+    
+    /groups/single/group-header.php
+
+
+You can add following code in that template according to your page layout.
+
+
+    <div id="featured-media">
+    	<?php rtmedia_group_featured(); ?>
+    </div>
+
+
+It will show featued media for the current group.
