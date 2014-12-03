@@ -26,7 +26,7 @@ social :
     - title: rss
       url: https://rtcamp.com/feed/
 
-repository_url: https://github.com/rtCamp/docs.rtcamp.com/blob/
+repository_url: https://github.com/rtCamp/docs.rtcamp.com/edit/
 repository_main_branch: master
 
 # The production_url is only used when full-domain names are needed
