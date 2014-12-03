@@ -8,50 +8,43 @@ title: Theme Settings
 wordpress_id: 67829
 ---
 
-## DateCafe Theme Settings
+## rtDating Theme Settings
 
 
-Datecafe provides various theme options. Following are the options with details.
+rtDating provides various theme options. Following are the options with details.
 
 
 ### General Settings:
 
 
-You can set layout, theme color, logo, favicon and sidebar settings for theme from `Dashboard -> DateCafe (Settings) -> General`
+You can set layout, theme color, logo, favicon and sidebar settings for theme from `Dashboard -> rtDating (Settings) -> General`
 
-![general-settings](http://docs.rtcamp.com/wp-content/uploads/2014/11/general-settings.png)
-
-
+![selection_083](https://cloud.githubusercontent.com/assets/1140051/5279863/76287b8e-7b0f-11e4-90ae-b79dbb77b903.png)
 
 
 ### Header Settings:
 
 
-You can show/hide admin bar in front-end for all users. There are options for show/hide icons available in header. `Dashboard -> DateCafe (Settings) -> Header`
+You can show/hide admin bar in front-end for all users, move under `Dashboard -> DateCafe (Settings) -> Header`
 
-![header-settings](http://docs.rtcamp.com/wp-content/uploads/2014/11/header-settings.png)
-
-
+![selection_084](https://cloud.githubusercontent.com/assets/1140051/5279883/9766f0aa-7b0f-11e4-917f-f19d9669f181.png)
 
 
 ### Typography Settings:
 
 
-You can set body font family, font color and font size. There are options to change font for heading tags and codes as well.  `Dashboard -> DateCafe (Settings) -> Typography`
+Set body font family, font color and font size. There are other options to change font for heading tags and codes tags.  `Dashboard -> DateCafe (Settings) -> Typography`
 
-![typo-settings](http://docs.rtcamp.com/wp-content/uploads/2014/11/typo-settings.png)
-
+![selection_085](https://cloud.githubusercontent.com/assets/1140051/5279895/c99ea0ae-7b0f-11e4-9ffe-b80d586322c9.png)
 
 
 
 ### Blog Settings:
 
 
-In Blog settings you get options for post summary, post thumbnail settings, post meta settings, pagination settings, comment form settings. `Dashboard -> DateCafe (Settings) -> Blog`
+Under `Blog` settings get options for post summary, post thumbnail settings, post meta settings, pagination, comment form, etc. `Dashboard -> DateCafe (Settings) -> Blog`
 
-![blog-settings](http://docs.rtcamp.com/wp-content/uploads/2014/11/blog-settings.png)
-
-
+![selection_086](https://cloud.githubusercontent.com/assets/1140051/5279905/09e67a60-7b10-11e4-8b11-c859dec6065a.png)
 
 
 ### Footer Settings:
@@ -59,14 +52,12 @@ In Blog settings you get options for post summary, post thumbnail settings, post
 
 In Footer settings you can enable footer sidebar widgets, footer navigation, copyright content. `Dashboard -> DateCafe (Settings) -> Footer`
 
-![footer-settings](http://docs.rtcamp.com/wp-content/uploads/2014/11/footer-settings.png)
-
-
+![selection_087](https://cloud.githubusercontent.com/assets/1140051/5279919/58384b62-7b10-11e4-8ef9-29d090705afb.png)
 
 
 ### Custom Codes:
 
 
-This option is very useful, as it contains option for google analytics code, custom css and custom javascript codes. You can directly put the respective codes for instant results. One more treat is that you can write Sass codes in custom CSS box. `Dashboard -> DateCafe (Settings) -> Custom Codes`
+This option is very useful, we have option to add google analytics code, custom css and custom javascript codes. One more treat is that you can write Sass codes in custom CSS box. `Dashboard -> DateCafe (Settings) -> Custom Codes`
 
-![custom-codes](http://docs.rtcamp.com/wp-content/uploads/2014/11/custom-codes.png)
+![selection_088](https://cloud.githubusercontent.com/assets/1140051/5279931/80a4f62c-7b10-11e4-9dfd-1910daf964a5.png)
