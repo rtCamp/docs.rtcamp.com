@@ -17,7 +17,7 @@ rtDating is a premium WordPress theme, designed for BuddyPress and rtMedia powe
 
 
 	
-  * [Install and Activate rtDating Theme](http://docs.rtcamp.com/rtdating/install-activate/)
+  * [Installation and Activate rtDating Theme](http://docs.rtcamp.com/rtdating/install-activate/)
 
 	
   * [Theme Settings](http://docs.rtcamp.com/rtdating/theme-settings/)
