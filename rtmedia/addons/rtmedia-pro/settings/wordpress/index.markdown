@@ -22,7 +22,7 @@ Used to attach media files while commenting on a post.
 ### Enable sitewide gallery section
 
 
-Enable this feature and then create a new album . Click on "manage sitewide galleries from here" link to navigate to Albums section. Create a new album , add files in the new album and click on **Upload Now**. Please note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not a part of a group.
+Enable this feature and then create a new album. Then, click on [manage sitewide galleries from here](http://www.google.com/url?q=http%3A%2F%2Flocalhost%2Fmytestsite%2Fwp-admin%2Fedit.php%3Fpost_type%3Drtmedia_album&sa=D&sntz=1&usg=AFQjCNHqY1forlTBBIbbgqLm1nEjqQge0A). Add files in the new album and click on **Upload Now**. Please note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not a part of a group.
 
 
 ### Slug for sitewide gallery section
@@ -48,22 +48,4 @@ There are 2 display options:
 
 **With Thumbnail + file name**- Every media file will be displayed along with a thumbnail above its name
 
-**Without Thumbnail (_only file name_)**- Every media file will be displayed without a thumbnail above its name.
-
-
-
-
-### Enable sitewide gallery section
-
-
-Enable this feature and then create a new album. A new custom post type will show in left sidebar of WordPress.
-
-[![Selection_077](http://docs.rtcamp.com/wp-content/uploads/2014/06/Selection_077.png)](http://docs.rtcamp.com/wp-content/uploads/2014/06/Selection_077.png)
-
-Add files in the new album and click on **Upload Now**. Please note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not a part of a group.
-
-
-### Slug for sitewide gallery section
-
-
-A slug is the part of a URL which identifies a page using human-readable keywords. It is usually the end part of the URL, which can be interpreted as the name of the resource. For example, in http://www.example.com/services/legal/medical-patents, the slug is "medical-patents".
+**With Thumbnail + file name**- Every media file will be displayed without a thumbnail above its name.

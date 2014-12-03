@@ -8,25 +8,28 @@ title: rtMedia
 wordpress_id: 37204
 ---
 
-rtMedia is the only complete media solution which integrates with BuddyPress, bbPress and WordPress seamlessly.
+*rtMedia* is the only complete media solution which integrates with [BuddyPress](https://buddypress.org/), [bbPress](https://bbpress.org/) and [WordPress](https://wordpress.org/) seamlessly.
 
-It is also the only solution to have free audio/video encoding service.
+It is also the only solution to have a free audio and video encoding service.
 
-
-## [1.Getting Started](http://docs.rtcamp.com/rtmedia/getting-started/)
-
+Read through this document to learn how to easily use *rtMedia* to satisfy your media needs.
 
 
+## [1. Getting Started]()
 
+
+
+
+  * [Overview](/rtmedia/getting-started/)
+  
+	
+  * [Installing rtMedia (Core)](/rtmedia/getting-started/install-rtmedia/)
 
 	
-  * [Installing rtMedia (Core)](http://docs.rtcamp.com/rtmedia/getting-started/install-rtmedia/)
+  * [Installing BuddyPress](/rtmedia/getting-started/install-buddypress/) (optional)
 
 	
-  * [Install BuddyPress](http://docs.rtcamp.com/rtmedia/getting-started/install-buddypress/) (skip if your website already uses BuddyPress)
-
-	
-  * [Manage rtMedia Settings](http://docs.rtcamp.com/rtmedia/getting-started/settings/)
+  * [Managing rtMedia Settings](/rtmedia/getting-started/settings/)
 
 	
   * [Audio/Video Encoding](http://docs.rtcamp.com/rtmedia/getting-started/audio-video-encoding/)
@@ -41,25 +44,22 @@ It is also the only solution to have free audio/video encoding service.
 
 
 	
-  1. [BuddyPress Integration](http://docs.rtcamp.com/rtmedia/features/buddypress-integration/)
+  1. [Like Buttons / Comments for Media](http://docs.rtcamp.com/rtmedia/features/like/)
 
 	
-  2. [Like Buttons / Comments for Media](http://docs.rtcamp.com/rtmedia/features/like/)
+  2. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
 
 	
-  3. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
+  3. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
 
 	
-  4. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
+  4. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
 
 	
-  5. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
+  5. [Privacy](http://docs.rtcamp.com/rtmedia/features/privacy/)
 
 	
-  6. [Privacy](http://docs.rtcamp.com/rtmedia/features/privacy/)
-
-	
-  7. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
+  6. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
 
 
 
