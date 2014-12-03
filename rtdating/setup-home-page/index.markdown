@@ -11,33 +11,31 @@ wordpress_id: 67858
 ## How to set home page.
 
 
-First create a new page and name it as per your need. After that find the `Page Attributes` Meta box at right side section.
+First create a new WordPress page and name it as per your need. After that find the `Page Attributes` section at right side section.
 
 Change the Template `Default Template` to `Home` see the bellow image.
 
-![page-template-setting](http://docs.rtcamp.com/wp-content/uploads/2014/11/page-template-setting.png)
+![homepage](https://cloud.githubusercontent.com/assets/1140051/5279326/7e21e0f6-7b09-11e4-8160-a043effec90b.png)
 
-Once you have done it you are ready to add option content. You can find option settings here `Dashboard -> Settings -> Home Page`
+Now, go to rtDating settings here `Dashboard -> Settings -> Home Page` and add required content. 
+
+![homepage-settings](https://cloud.githubusercontent.com/assets/1140051/5279461/f4bc092a-7b0a-11e4-9a8f-3cdf2b6deb00.png)
 
 
 ### Add Slider:
 
 
-Slider option contains image options and content option.
+With this slider option, we can add images and content which will display on home page. We can add number of slider images, just click on `Upload More Images`. 
 
-![slider-options](http://docs.rtcamp.com/wp-content/uploads/2014/11/slider-options.png)
+*Note: Make sure to use 1600px X 600px image size.
 
+![slider-option](https://cloud.githubusercontent.com/assets/1140051/5279642/1c3da39e-7b0d-11e4-9ccf-31db27f01aae.png)
 
+### Hide Search Form: 
 
-
-### Front-End Customizer:
-
-
-You can manage to show or hide front-end customizer from this section.
+There is option provided in `Home Page` settings.
 
 ![member-search](http://docs.rtcamp.com/wp-content/uploads/2014/11/member-search.png)
-
-
 
 
 ### Welcome Content:
@@ -49,10 +47,9 @@ You can manage welcome title, content and site features as shown in demo. You ca
 
 
 
-
 ### Success Stories:
 
 
-Stories option settings contains Title and Select Category options. Stories are nothing but the blog posts, you just to set category which one you want to show.
+Stories option settings contain Title and Select Category options. Stories are nothing but the WordPress blog posts, just to set category which one you want to show.
 
 ![stories](http://docs.rtcamp.com/wp-content/uploads/2014/11/stories1.png)
