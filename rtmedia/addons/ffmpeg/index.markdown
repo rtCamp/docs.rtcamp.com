@@ -8,66 +8,47 @@ title: FFMPEG
 wordpress_id: 67191
 ---
 
-This addon adds automatic video conversion support for rtMedia plugin. When installed, your BuddyPress users will be able to upload videos in many more formats.
+This addon adds automatic video conversion support for the rtMedia plugin. When installed, your BuddyPress users will be able to upload videos in many more formats.
 
-Now, along with converting your videos, the [FFMPEG converter](https://rtcamp.com/store/buddypress-media-ffmpeg-converter/) also creates and sets an image thumbnail. It uses an algorithm to choose the best thumbnail. It also creates two additional thumbnails that you can switch to, in case you don’t like the default one.
+The addon's foremost feature is uploading and converting the entire audio and video file to mp3 and mp4 respectively. This plugin is the very first of its kind and a complete media package for BuddyPress which allows sharing audios, videos and images in various kind of file formats.
 
-You can test this on our [live demo server](http://demo.rtcamp.com/bpm-ffmpeg/). Also following screenshot shows interface to select thumbnail:
+Along with converting your videos, the [FFMPEG converter](https://rtcamp.com/products/rtmedia-ffmpeg-addon/) also creates and sets an image thumbnail. It uses an algorithm to choose the best thumbnail. It also creates two additional thumbnails that you can switch to, in case you do not like the default one.
+
+You can test this on our [live demo server](http://demo.rtcamp.com/bpm-ffmpeg/). The following screenshot shows the interface to select a thumbnail:
 
 [![rtmedia-ffmpeg-video-thumbail-selection](http://docs.rtcamp.com/wp-content/uploads/2014/08/rtmedia-ffmpeg-video-thumbail-selection.png)](http://docs.rtcamp.com/wp-content/uploads/2014/08/rtmedia-ffmpeg-video-thumbail-selection.png)
-
 
 
 
 ## Requirements and Resources
 
 
-
-
-
-	
-  1. You need to have VPS/Dedicated server to use this product. This will NOT work on shared hosting.
+  1. You need to have a VPS or Dedicated server to use this product. This will NOT work on shared hosting.
 
 	
-  2. You need to install free & open-source media-node project to handle FFMPEG conversion/encoding queue, as per the instructions here.
+  2. You need to install a free & open-source media-node project to handle FFMPEG conversion/encoding queue, as per the [instructions here](https://rtcamp.com/media-node/).
 
 	
-  3. OS Requirement for media-node: Minimum Ubuntu 8.04, Debian 6.x, Centos 6.x, RHEL 6.x. No support for Windows or Mac.
+  3. OS Requirement for media-node: Ubuntu 8.04 and higher, Debian 6.x and higher, Centos 6.x and higher, RHEL 6.x and higher. No support for Windows or Mac.
+  
+  4. Make sure that the Media-Node Server is always running.
 
 
-rtMedia FFMPEG Converter Plugin’s foremost feature is uploading and converting the entire audio and video file to mp3 and mp4 respectively. This plugin is the very first of its kind and a complete media package for BuddyPress which allows sharing audio, video and image in different kind of file formats.
-
-
-## How it will work
-
-
-
-
+## How does it work?
 
 	
-  * When a user uploads a media file, the plugin will check if the file is in compatible format.
+  * When a user uploads a media file, the plugin checks if the file is in a compatible format.
 
 	
-  * If uploaded file requires to be converted, the file will be sent to the Media-Node Server for conversion.
+  * If uploaded file requires to be converted, the file is sent to the Media-Node Server for conversion.
 
 	
-  * It will then be pulled back and stored on the Webhosting server.
+  * After conversion, the converted file is downloaded and stored on the Web hosting server.
 
 	
-  * Please make sure that at all times the Media-Node Server is running.
-
-
-
-
 ## Features
-
-
-
-
-
-
 	
-  * As an admin you can restrict your users to share any type of Media (image, audio or video)
+  * As an admin, you can restrict your users to uploading only certain type of Media (image, audio or video)
 
 	
   * You can change the Server URL as per your needs. (By default it is http://localhost:1203/upload)
@@ -76,16 +57,9 @@ rtMedia FFMPEG Converter Plugin’s foremost feature is uploading and converting
   * You can Re-Count the media files for any user if it is not matching with number of media files
 
 
-
-
-
 ## Roadmap
 
 
-
-
-
-	
   * Video Thumbnail Support
 
 	

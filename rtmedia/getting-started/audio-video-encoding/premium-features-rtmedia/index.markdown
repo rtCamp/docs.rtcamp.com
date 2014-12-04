@@ -16,13 +16,13 @@ rtMedia has 3 premium solutions to cater to audio/video conversion.
 
 
 	
-  * [Audio/Video Encoding Subscription Service](https://rtcamp.com/rtmedia/addons/audio-video-encoding-service/) - Easy to setup monthly subscription service.
+  * [Audio/Video Encoding Subscription Service](/rtmedia/addons/audio-video-encoding-service/) - Easy to setup monthly subscription service.
 
 	
   * [FFMPEG-Addon](https://rtcamp.com/store/buddypress-media-ffmpeg-converter) - Requires FFMPEG & Media-Node installed on a VPS/Dedicated server.
 
 	
-  * [Kaltura-Addon](https://rtcamp.com/store/buddypress-media-kaltura) - Requries a Kaltura.com account or Kaltura-CE or Kaltura-on-Prem server.
+  * [Kaltura-Addon](https://rtcamp.com/store/buddypress-media-kaltura) - Requires a Kaltura.com account or Kaltura-CE or Kaltura-on-Prem server.
 
 
 If all your music files are in mp3 formats and videos are in mp4 format, you may not need any of the above add-ons.
@@ -31,22 +31,16 @@ If all your music files are in mp3 formats and videos are in mp4 format, you may
 #### Images Addons
 
 
-
-
+	
+  * [Instagram-Effects](https://rtcamp.com/store/buddypress-media-instagram): Users can apply Instagram like filters to photos.
 
 	
-  * [Instagram-Effects](https://rtcamp.com/store/buddypress-media-instagram): User can apply Instagram like filters to photos.
-
-	
-  * [Photo-Tagging](https://rtcamp.com/store/buddypress-media-photo-tagging/): Users can tag their friends/other users in photos, just like Facebook.
+  * [Photo-Tagging](https://rtcamp.com/store/buddypress-media-photo-tagging/): Users can tag one and other in photos, just like Facebook.
 
 
 
 
-## Coming Soon - Premium Addons on the way
-
-
-
+## Coming Soon - Premium Addons
 
 
 	

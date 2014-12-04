@@ -8,20 +8,16 @@ title: Addons
 wordpress_id: 47502
 ---
 
-rtMedia (Core) is a free plugin available on WordPress plugin directory. But often there plugin users want to extend the capabilities of rtMedia Plugin.
+rtMedia (Core) is a free plugin available in the WordPress plugin directory. However, there are addons that extend the capabilities of this free rtMedia Plugin.
 
-rtMedia Addons can be purchased from the rtCamp Store. You can pick and choose any one or multiple add-ons that you find best meet your needs.
+rtMedia addons can be purchased from the rtCamp Store. You can pick and choose any add-ons that best meet your needs.
 
 
 ### rtMedia Addons and Paid Services
 
 
-
-
-
-	
   1. **[rtMedia -PRO*
-](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/)**Extend Settings, use added Features and get 1-on-1 support.
+](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/)**Extend settings, use added features and get 1-on-1 support.
 
 	
   2. [**rtMedia Photo Tagging**
@@ -38,7 +34,8 @@ rtMedia Addons can be purchased from the rtCamp Store. You can pick and choose a
 	
   5. [**rtMedia Kaltura**
 ](http://docs.rtcamp.com/rtmedia/addons/rtmedia-kaltura-add-on/)Automatically converts videos uploaded with rtMedia along with Kaltura account.[
-](http://docs.rtcamp.com/rtmedia/addons/rtmedia-kaltura-add-on/)
+](http://docs.rtcamp.com/rtmedia/addons/rtmedia-kaltura-add-on/). For more [information see](/rtmedia/addons/compare-encoding-solutions/).
+
 
 	
   6. **[rtMedia Watermark Add-on](http://docs.rtcamp.com/rtmedia/addons/watermark)**
@@ -55,4 +52,4 @@ Manage memberships to your WordPress site(s) with rtMedia installed
 ### rtMedia compatible Theme
 
 
-**[InspireBook Theme](http://docs.rtcamp.com/inspirebook/)**
+**[InspireBook Theme](/inspirebook/)**

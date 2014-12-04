@@ -32,15 +32,12 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
   * [Managing rtMedia Settings](/rtmedia/getting-started/settings/)
 
 	
-  * [Audio/Video Encoding](http://docs.rtcamp.com/rtmedia/getting-started/audio-video-encoding/)
+  * [Audio/Video Encoding](/rtmedia/getting-started/audio-video-encoding/)
 
 
 
 
 ## [2. Features](http://docs.rtcamp.com/rtmedia/features/)
-
-
-
 
 
 	
