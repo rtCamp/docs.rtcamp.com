@@ -84,7 +84,7 @@ As site admin there are many settings to help you organize memberships to your w
 ### File and Upload Limits
 
 
-[![rtMedia-membership-settings-full](http://docs.rtcamp.com/wp-content/uploads/2014/10/rtMedia-membership-settings-full.png)](http://docs.rtcamp.com/wp-content/uploads/2014/10/rtMedia-membership-settings-full.png)
+[![rtMedia-membership-settings-full](https://cloud.githubusercontent.com/assets/8191145/5299248/45bc82f6-7beb-11e4-847f-67703c0b6a45.png)](https://cloud.githubusercontent.com/assets/8191145/5299248/45bc82f6-7beb-11e4-847f-67703c0b6a45.png)
 
 
 
