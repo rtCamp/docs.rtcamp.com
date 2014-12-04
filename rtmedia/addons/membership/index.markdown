@@ -90,25 +90,27 @@ As site admin there are many settings to help you organize memberships to your w
 
 
 	
-  1. In Membership Settings page looks a bit like the image above. The values of -1 = Unlimited and 0 = No Access.
+  1. General Settings for Membership plugin 
+  
+  2. In Membership Settings page looks a bit like the image above. The values of -1 = Unlimited and 0 = No Access.
 
 	
-  2. A default plan for a newly created user can be selected.
+  3. A default plan for a newly created user can be selected.
 
 	
-  3. You can set **Upload Limit **in MB on Daily, Weekly, Monthly, Yearly and Lifetime basis. These upload limits can be set differently for each Membership plan.
+  4. You can set **Upload Limit **in MB on Daily, Weekly, Monthly, Yearly and Lifetime basis. These upload limits can be set differently for each Membership plan.
 
 	
-  4. Similarly you can set **File Limits **for each membership plan.
+  5. Similarly you can set **File Limits **for each membership plan.
 
 	
-  5. Manage plans will take you to another page that allows you to add new plans and/or modify existing ones. (_Documentation)_
+  6. Manage plans will take you to another page that allows you to add new plans and/or modify existing ones. (_Documentation)_
 
 	
-  6. As seen in point 6 - if you click on the link - it will recalculate user data forcefully. (_Documentation )_
+  7. As seen in point 6 - if you click on the link - it will recalculate user data forcefully. (_Documentation )_
 
 	
-  7. After all the changes are made, apply them by clicking on **Save Settings.**
+  8. After all the changes are made, apply them by clicking on **Save Settings.**
 
 
 
