@@ -34,25 +34,22 @@ Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 
 
 	
-  1. [BuddyPress integration](http://docs.rtcamp.com/rtmedia/features/buddypress-integration/)
+  1. [Like Buttons for Media](http://docs.rtcamp.com/rtmedia/features/like/)
 
 	
-  2. [Like Buttons for Media](http://docs.rtcamp.com/rtmedia/features/like/)
+  2. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
 
 	
-  3. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
+  3. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
 
 	
-  4. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
+  4. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
 
 	
-  5. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
-
-	
-  6. [Privacy
+  5. [Privacy
 ](http://docs.rtcamp.com/rtmedia/features/privacy/)
 
 	
-  7. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
+  6. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
 
 

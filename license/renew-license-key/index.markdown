@@ -8,8 +8,6 @@ title: Renew License Key
 wordpress_id: 67798
 ---
 
-You can renew license for any of your purchased product with 50% discount.
-
 Follow steps below:
 
 1. Login to my account section https://rtcamp.com/my-account/, please use your purchased username and password.
