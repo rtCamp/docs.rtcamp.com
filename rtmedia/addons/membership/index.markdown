@@ -84,7 +84,8 @@ As site admin there are many settings to help you organize memberships to your w
 ### File and Upload Limits
 
 
-[![rtMedia-membership-settings-full](https://cloud.githubusercontent.com/assets/8191145/5299248/45bc82f6-7beb-11e4-847f-67703c0b6a45.png)](https://cloud.githubusercontent.com/assets/8191145/5299248/45bc82f6-7beb-11e4-847f-67703c0b6a45.png)
+![file and upload settings](https://cloud.githubusercontent.com/assets/8191145/5299248/45bc82f6-7beb-11e4-847f-67703c0b6a45.png)
+
 
 
 
