@@ -17,7 +17,7 @@ Change the Template `Default Template` to `Home` see the bellow image.
 
 ![homepage](https://cloud.githubusercontent.com/assets/1140051/5279326/7e21e0f6-7b09-11e4-8160-a043effec90b.png)
 
-Now, go to rtDating settings here `Dashboard -> Settings -> Home Page` and add required content. 
+Now, go to rtDating settings here `Dashboard -> Settings -> Home Page` and add required content.
 
 ![homepage-settings](https://cloud.githubusercontent.com/assets/1140051/5279461/f4bc092a-7b0a-11e4-9a8f-3cdf2b6deb00.png)
 
@@ -25,13 +25,13 @@ Now, go to rtDating settings here `Dashboard -> Settings -> Home Page` and add r
 ### Add Slider:
 
 
-With this slider option, we can add images and content which will display on home page. We can add number of slider images, just click on `Upload More Images`. 
+With this slider option, we can add images and content which will display on home page. We can add number of slider images, just click on `Upload More Images`.
 
 *Note: Make sure to use 1600px X 600px image size.
 
 ![slider-option](https://cloud.githubusercontent.com/assets/1140051/5279642/1c3da39e-7b0d-11e4-9ccf-31db27f01aae.png)
 
-### Hide Search Form: 
+### Hide Search Form:
 
 There is option provided in `Home Page` settings.
 
