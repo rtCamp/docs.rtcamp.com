@@ -1,11 +1,5 @@
 ---
-author: abhishek.kaushik
-comments: false
-date: 2013-09-30 08:04:29+00:00
-layout: page
-slug: general
 title: General
-wordpress_id: 47338
 ---
 
 _Note: Some of the features work with rtMedia PRO only, and are marked accordingly. rtMedia PRO can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

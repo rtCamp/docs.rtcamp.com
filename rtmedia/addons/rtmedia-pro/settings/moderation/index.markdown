@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-09-24 13:20:53+00:00
-layout: page
-slug: moderation
 title: Moderation and Report Abuse Tools
-wordpress_id: 46710
 ---
 
 

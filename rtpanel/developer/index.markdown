@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2012-04-25 10:31:18+00:00
-layout: page
-slug: developer
 title: Developer Documentation
-wordpress_id: 3083
 ---
 
 [![rtPanel 4.1.5 Hooks](https://rtcamp.com/wp-content/uploads/2012/04/rtpanel-4-1-5-hooks.png)](https://rtcamp.com/wp-content/uploads/2012/04/rtpanel-4-1-5-hooks.png)

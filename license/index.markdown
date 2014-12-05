@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-09-22 15:19:48+00:00
-layout: page
-slug: license
 title: License
-wordpress_id: 67564
 ---
 
 **Important:** License key is needed to receive automatic upgrades only. No features in any product gets blocked if you do not activate license key.

@@ -1,11 +1,5 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2014-12-02 12:32:17+00:00
-layout: page
-slug: b3w-servicepage-content
 title: Blogger Migration Services
-wordpress_id: 13557
 ---
 
 WordPress platform comes with a built-in tool to import Blogger.com blogs. However, if you ever used it, you must have faced issues like broken permalink structure, and loss of search engine ranking among others.

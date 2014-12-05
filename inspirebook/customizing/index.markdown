@@ -1,12 +1,6 @@
 ---
-author: admin
-comments: false
-date: 2014-08-12 12:14:41+00:00
-layout: page
 published: false
-slug: customizing
 title: Customizing InspireBook – End User
-wordpress_id: 67139
 ---
 
 InspireBook is smart WordPress theme which contains hook and filters to easily modify by developer and end user.

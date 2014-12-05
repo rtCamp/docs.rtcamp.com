@@ -1,13 +1,7 @@
 ---
-author: abhimanyu1
-comments: false
-date: 2012-02-13 10:11:43+00:00
 excerpt: Google Ad-sense Link unit in the header section of the rtPanel child theme,
   which looks some thing like we have done in the Devils' Workshop.
-layout: page
-slug: add-google-adsense-link-unit-in-header
 title: Add Google Adsense Link Unit In Header
-wordpress_id: 3939
 ---
 
 Majority of bloggers and other content based sites rely on Google Ad-sense for generating revenues through their websites. And it's a good practice to blend the Google ads with the site's content.

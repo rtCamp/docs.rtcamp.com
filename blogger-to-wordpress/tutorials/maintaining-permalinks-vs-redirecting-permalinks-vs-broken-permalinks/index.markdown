@@ -1,14 +1,8 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2011-01-27 07:34:03+00:00
 excerpt: Maintaining permalinks is not same as redirecting permalinks. Even though
   both solutions are better than broken permalinks, understanding differences between
   "maintaining" &amp; "redirecting" will help you get the best solution!
-layout: page
-slug: maintaining-permalinks-vs-redirecting-permalinks-vs-broken-permalinks
 title: Maintaining Permalinks vs Redirecting Permalinks vs Broken Permalinks
-wordpress_id: 3410
 ---
 
 ![](https://rtcamp.com/wp-content/uploads/2011/01/b2w-perma-136.png) Maintaining permalinks is not the same as redirecting permalinks. There is a big difference between these two similar sounding words which are worth understanding before you attempt Blogger To WordPress migration yourself or buy a service like ours.

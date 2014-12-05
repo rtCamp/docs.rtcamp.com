@@ -1,12 +1,6 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2011-01-09 04:30:32+00:00
 excerpt: User guide to setup your Blogger domain name with your Enom account.
-layout: page
-slug: enom
 title: Custom Domain Setup on Blogger with Enom
-wordpress_id: 2749
 ---
 
 Custom domain setup in Blogger.com is used to create your own blog URL. (for example: from _myblog.blogspot.com_ to_ myblog.com_).

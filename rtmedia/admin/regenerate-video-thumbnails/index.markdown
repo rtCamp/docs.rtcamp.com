@@ -1,11 +1,5 @@
 ---
-author: abhishek.kaushik
-comments: false
-date: 2013-10-01 07:16:13+00:00
-layout: page
-slug: regenerate-video-thumbnails
 title: Regenerate Video Thumbnails
-wordpress_id: 47540
 ---
 
 Video thumbnails can be generated for videos uploaded through [rtMedia's Audio/Video encoding service](https://rtcamp.com/rtmedia/addons/audio-video-encoding-service/). The number of thumbnails to generate for uploaded can be set from **rtMedia** > **Settings** > **General**. Refer to Point 8 on the [rtMedia's General settings documentation](https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/general/).

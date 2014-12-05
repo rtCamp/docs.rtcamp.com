@@ -1,12 +1,6 @@
 ---
-author: omkarjoglekar
-comments: false
-date: 2011-01-11 04:30:02+00:00
 excerpt: User guide to setup your Blogger domain name through your Dreamhost account.
-layout: page
-slug: dreamhost
 title: Custom Domain Setup on Blogger with Dreamhost
-wordpress_id: 2804
 ---
 
 Custom domain setup in **Blogger.com** is used to create your own blog URL. (for example: from_myblog.blogspot.com_ to_ myblog.com_).

@@ -1,13 +1,7 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-08-04 12:46:50+00:00
 excerpt: Disqus provides third-party commenting system for blogs running on WordPress,
   Blogger and other platforms. It's one of the comments moderation tool.
-layout: page
-slug: blogger-to-wordpress-migration-with-disqus-comments
 title: Blogger To WordPress Migration with Disqus Comments
-wordpress_id: 596
 ---
 
 [Disqus](http://disqus.com/) provides third-party commenting system for blogs running on WordPress, Blogger and other platforms. It's one of the comments moderation tool.

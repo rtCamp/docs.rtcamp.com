@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-03-05 06:48:32+00:00
-layout: page
-slug: customize-rtpanel-grid
 title: Customize rtPanel Grid
-wordpress_id: 58200
 ---
 
 **Important:** Before starting with this tutorials, make sure you have [setup rtPanel](http://docs.rtcamp.com/rtpanel/developer/setup-rtpanel-development/) with its dependencies on your local system.

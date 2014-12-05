@@ -1,13 +1,7 @@
 ---
-author: admin
-comments: false
-date: 2013-07-30 04:59:46+00:00
 excerpt: Clicking on the Media tab on a BuddyPress profile on having installed the
   rtMedia plugin may result in a 404. Refresh the permalink structure to fix this.
-layout: page
-slug: solve-404-page-not-found-error-media-tab-buddypress
 title: 404 - Page not found error on clicking media tab
-wordpress_id: 43484
 ---
 
 ## The problem

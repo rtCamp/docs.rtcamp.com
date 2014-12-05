@@ -1,11 +1,5 @@
 ---
-author: Ritesh Patel
-comments: false
-date: 2014-09-11 17:07:49+00:00
-layout: page
-slug: change-username-to-user-display-name-in-rtmedia-activity
 title: Change username to user's display name in rtMedia activity
-wordpress_id: 67509
 ---
 
 By default rtMedia uses user's nice name in activity. You can change it as per your requirement using `rtmedia_buddypress_action_text_fitler` filter in your theme or plugin.

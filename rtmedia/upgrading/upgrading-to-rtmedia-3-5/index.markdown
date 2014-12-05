@@ -1,13 +1,7 @@
 ---
-author: abhishek.kaushik
-comments: false
-date: 2014-01-09 12:18:46+00:00
 excerpt: This rtMedia upgrade guide applies only if you have overridden default template
   files in your theme.
-layout: page
-slug: upgrading-to-rtmedia-3-5
 title: Upgrading To rtMedia 3.5
-wordpress_id: 55312
 ---
 
 This upgrade guide applies to you only if you have overridden [rtMedia template files](https://rtcamp.com/rtmedia/docs/developer/templating-system/).

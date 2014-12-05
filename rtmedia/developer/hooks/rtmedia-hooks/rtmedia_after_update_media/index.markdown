@@ -1,11 +1,5 @@
 ---
-author: joshuaabenazer
-comments: false
-date: 2013-09-23 16:25:43+00:00
-layout: page
-slug: rtmedia_after_update_media
 title: rtmedia_after_update_media
-wordpress_id: 46630
 ---
 
 ### Description

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-12 10:26:52+00:00
-layout: page
-slug: support-2
 title: Support
-wordpress_id: 65922
 ---
 
 If your site has some issues due to rtMedia, and you want one on one support, then you can create a support topic on the [rtCamp Support Forum](http://community.rtcamp.com/category/rtmedia). If you have any suggestions, enhancements or bug reports, you can open a new issue on [GitHub](https://github.com/rtCamp/buddypress-media/issues/new).

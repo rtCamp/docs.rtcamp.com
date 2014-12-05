@@ -1,11 +1,5 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2014-11-19 10:21:32+00:00
-layout: page
-slug: hooks-filters
 title: Hooks and Filters
-wordpress_id: 67935
 ---
 
 InspireBook has following hooks and filters. If you are a developer and want to customize theme as per your requirement, use these hooks and filters:

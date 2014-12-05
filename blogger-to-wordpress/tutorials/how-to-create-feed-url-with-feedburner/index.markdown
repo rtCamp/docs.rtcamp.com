@@ -1,14 +1,8 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2011-01-20 11:01:45+00:00
 excerpt: 'FeedBurner is a web feed management provider. FeedBurner provides custom
   RSS feeds and management tools that will help to your blog reader to get regular
   updates of your blog posts via email or Google Reader. '
-layout: page
-slug: how-to-create-feed-url-with-feedburner
 title: How To Create Feed URL With FeedBurner
-wordpress_id: 3706
 ---
 
 **FeedBurner** is a web feed management provider. FeedBurner provides custom **RSS feeds** and management tools that will help to your blog reader to get regular updates of your blog posts via _email_ or _Google Reader. _You might have seen the feedburner 'chicklet' and the news letter sign up on various blogs as shown below.

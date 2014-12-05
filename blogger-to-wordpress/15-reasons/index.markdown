@@ -1,13 +1,7 @@
 ---
-author: adityakane
-comments: false
-date: 2011-01-10 15:28:02+00:00
 excerpt: Here are 15 reasons why you might want to migrate your blogger.com blog to
   WordPress platform.
-layout: page
-slug: 15-reasons
 title: 15 Reasons to Migrate from Blogger to WordPress
-wordpress_id: 2036
 ---
 
 Many bloggers who start on their blog on Blogger.com, might have need more than just a couple of reasons to migrate to WordPress. I know many bloggers who migrated to WordPress and they have given me many different reasons to migrate to WordPress.

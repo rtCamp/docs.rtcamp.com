@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-17 05:28:33+00:00
-layout: page
-slug: buddypress
 title: BuddyPress
-wordpress_id: 65991
 ---
 
 ![BuddyPress rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/BuddyPress-rtMedia-PRO.jpg)

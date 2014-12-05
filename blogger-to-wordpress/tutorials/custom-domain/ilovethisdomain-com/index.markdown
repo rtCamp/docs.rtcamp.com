@@ -1,13 +1,7 @@
 ---
-author: omkarjoglekar
-comments: false
-date: 2011-01-05 04:30:00+00:00
 excerpt: User guide to setup your custom domain with Blogger.com blog through ILoveThisDomain
   (ILTD) account. Need to update IP and CNAME records.
-layout: page
-slug: ilovethisdomain-com
 title: How to Setup Custom Domain on Blogger with ILovethisDomain.com
-wordpress_id: 2675
 ---
 
 Follow these steps to setup your Blogger Domain with your **ILoveThisDomain** (ILTD) account.

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-13 16:07:21+00:00
-layout: page
-slug: direct-url-upload
 title: Direct URL upload
-wordpress_id: 67239
 ---
 
 Users do not need to download media files from a URL and then upload it with rtMedia -PRO. Just provide the URL for the media and rtMedia will handle it.

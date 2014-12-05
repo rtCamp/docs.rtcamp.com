@@ -1,11 +1,5 @@
 ---
-author: joshuaabenazer
-comments: false
-date: 2012-05-02 10:11:51+00:00
-layout: page
-slug: removing-default-rtpanel-hooks
 title: Removing the default rtPanel Hooks
-wordpress_id: 175
 ---
 
 From all the previous post have learnt many things about rtPanel. rtPanel has made the development easy. As per requirement we can provide the client more flexibility to add content in the site as per the their desire. rtPanel provides the customization of adding footer, images, etc.

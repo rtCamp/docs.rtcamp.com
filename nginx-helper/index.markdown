@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2012-09-25 07:38:17+00:00
-layout: page
-slug: nginx-helper
 title: Nginx Helper
-wordpress_id: 14113
 ---
 
 This plugin helps WordPress-Nginx work together nicely using fastcgi/proxy cache purging, nginx map{}, rewrite support for permalinks & more.

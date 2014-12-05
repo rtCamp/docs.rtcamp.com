@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-01-27 14:49:48+00:00
-layout: page
-slug: automation-site-deployment
 title: Automation site deployment
-wordpress_id: 56411
 ---
 
 If you are using rtPanel, you can deploy site and Database to Staging OR Live server, also can pull the code from Staging/Live to the local server.

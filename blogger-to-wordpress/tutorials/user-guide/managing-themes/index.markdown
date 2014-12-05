@@ -1,14 +1,8 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-09-07 05:13:14+00:00
 excerpt: Here is a detailed look at what is the importance of Themes on a self hosted
   WordPress blog. Themes play a very important part of helping your readers navigate
   the blog better.
-layout: page
-slug: managing-themes
 title: Managing Themes in Wordpress
-wordpress_id: 1460
 ---
 
 ## Introduction

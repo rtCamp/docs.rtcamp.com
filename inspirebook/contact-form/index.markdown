@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-12 13:05:14+00:00
-layout: page
-slug: contact-form
 title: Contact Form Support in InspireBook
-wordpress_id: 67167
 ---
 
 [![contact-form](https://rtcamp.com/wp-content/uploads/2014/02/contact-form.png)](https://rtcamp.com/wp-content/uploads/2014/02/contact-form.png)

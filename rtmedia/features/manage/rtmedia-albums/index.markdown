@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-12-01 10:56:49+00:00
-layout: page
-slug: rtmedia-albums
 title: rtMedia albums
-wordpress_id: 44722
 ---
 
 

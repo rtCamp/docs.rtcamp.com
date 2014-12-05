@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2013-04-11 10:24:13+00:00
-layout: page
-slug: troubleshooting
 title: Troubleshooting
-wordpress_id: 36911
 ---
 
 ## “Test Connection” fails at the time of activeCollab-Gitolite Module Setup.

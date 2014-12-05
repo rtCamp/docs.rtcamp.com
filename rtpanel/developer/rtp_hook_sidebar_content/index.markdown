@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-01-21 09:52:12+00:00
-layout: page
-slug: rtp_hook_sidebar_content
 title: rtp_hook_sidebar_content
-wordpress_id: 56093
 ---
 
 ### Description

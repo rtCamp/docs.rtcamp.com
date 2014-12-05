@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-09-05 06:00:27+00:00
-layout: page
-slug: media-gallery-widget
 title: rtMedia Pro- Media gallery widget hooks
-wordpress_id: 67486
 ---
 
 rtMedia pro add-on has widget to display media in sidebar.

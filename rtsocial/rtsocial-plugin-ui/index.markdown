@@ -1,11 +1,5 @@
 ---
-author: gajanan.sapate
-comments: false
-date: 2014-12-02 12:42:55+00:00
-layout: page
-slug: rtsocial-plugin-ui
 title: rtSocial Plugin UI
-wordpress_id: 9214
 ---
 
 rtSocial is a social sharing plugin which works on non-blocking java scripts. Unlike other social sharing plugins, it does not load the i-frames to display the data which makes it light weight and does not slow down the performance.

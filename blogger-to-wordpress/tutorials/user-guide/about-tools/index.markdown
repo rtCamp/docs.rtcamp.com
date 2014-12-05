@@ -1,14 +1,8 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-09-15 08:32:07+00:00
 excerpt: Tools are very important feature of WordPress for Bloggers to manage their
   blogs. Tools in WordPress as well as in Blogger.com blog are used to import and
   export contents. WordPress gives us a lot more extra features than Blogger.com.
-layout: page
-slug: about-tools
 title: Tools in WordPress
-wordpress_id: 1625
 ---
 
 ## Introduction

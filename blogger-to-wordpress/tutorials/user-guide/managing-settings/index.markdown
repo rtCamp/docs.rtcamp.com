@@ -1,14 +1,8 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-09-17 05:54:29+00:00
 excerpt: In a WordPress blog we can see there are a certain number of posts showed
   on the homepage along with date and time of publishing. These are some of the settings
   which are managed in WordPress with the Settings menu in the Dashboard
-layout: page
-slug: managing-settings
 title: Managing Settings In WordPress
-wordpress_id: 12388
 ---
 
 ## Introduction

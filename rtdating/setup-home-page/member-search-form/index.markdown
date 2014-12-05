@@ -1,9 +1,4 @@
 ---
-author: sagar.jadhav@rtcamp.com
-comments: false
-date: 2014-12-05 13:00:43
-layout: page
-slug: member-search-form
 title: Member Search Form
 ---
 

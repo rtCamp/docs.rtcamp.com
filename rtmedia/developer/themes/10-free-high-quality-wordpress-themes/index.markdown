@@ -1,11 +1,5 @@
 ---
-author: rtcamp
-comments: false
-date: 2010-05-03 17:03:28+00:00
-layout: page
-slug: 10-free-high-quality-wordpress-themes
 title: 10 Free High Quality Wordpress Themes
-wordpress_id: 364
 ---
 
 The best part of using WordPress is its attractive layout . There are many WordPress themes available online but choosing the best one is a bit difficult. While choosing WordPress themes for your blog, you should consider both quality as well as design . Many designers and developers  are providing lots of attractive and professional themes. I have complied 10 free, attractive and high quality themes, which you can easily use for your blog to make it attractive.

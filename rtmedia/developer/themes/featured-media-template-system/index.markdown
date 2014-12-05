@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-08-19 09:24:23+00:00
-layout: page
-slug: featured-media-template-system
 title: Template system
-wordpress_id: 44711
 ---
 
 #### You can completely customize rtMedia by modifying the template files.

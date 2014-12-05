@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2013-04-11 10:13:07+00:00
-layout: page
-slug: demo
 title: Demo
-wordpress_id: 36910
 ---
 
 You can use our demo activeCollab setup to test some git functionality for real.

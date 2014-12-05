@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-12 12:49:45+00:00
-layout: page
-slug: premium-theme-features
 title: Premium Theme Features
-wordpress_id: 67150
 ---
 
 InspireBook has a fully responsive design, a new version is released itself as a parent theme. Built with HTML5, CSS3, [Foundation 5](http://foundation.zurb.com/), [Grunt](http://gruntjs.com/) and [Bower](http://bower.io/).

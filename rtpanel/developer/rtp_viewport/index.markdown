@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-02-07 10:59:22+00:00
-layout: page
-slug: rtp_viewport
 title: rtp_viewport
-wordpress_id: 10258
 ---
 
 Modify viewport setting of meta tag present in the header.

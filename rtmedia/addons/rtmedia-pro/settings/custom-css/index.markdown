@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-17 10:08:14+00:00
-layout: page
-slug: custom-css
 title: Custom CSS
-wordpress_id: 66071
 ---
 
 ### ![Custom CSS rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/Custom-CSS-rtMedia-PRO.jpg)

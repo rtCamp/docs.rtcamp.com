@@ -1,11 +1,5 @@
 ---
-author: adityadesai
-comments: false
-date: 2014-12-02 12:09:27+00:00
-layout: page
-slug: installation-guide-rtsocial
 title: Installation Guide for rtSocial
-wordpress_id: 14990
 ---
 
 Assuming you are on the [rtSocial](https://rtcamp.com/store/rtsocial/) product page, on rtCamp website, follow the steps for installation and configuration of [rtSocial](https://rtcamp.com/store/rtsocial/) on your WordPress site.

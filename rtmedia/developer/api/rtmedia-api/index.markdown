@@ -1,11 +1,5 @@
 ---
-author: saurabhshukla
-comments: false
-date: 2013-06-12 07:30:52+00:00
-layout: page
-slug: rtmedia-api
 title: rtMedia API
-wordpress_id: 39756
 ---
 
 **Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/news/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet.

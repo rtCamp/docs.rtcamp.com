@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-11-07 06:12:45+00:00
-layout: page
-slug: posteditor-shortcode-button
 title: Post-editor shortcode button
-wordpress_id: 50349
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-10-01 13:06:08+00:00
-layout: page
-slug: anywhere-gallery
 title: Anywhere gallery
-wordpress_id: 47730
 ---
 
 rtMedia can help display media galleries anywhere on a WordPress site, listing media uploaded by users. Site administrators will use a gallery [shortcode](https://rtcamp.com/rtmedia/docs/common/shortcodes/gallery-shortcode/) for this purpose.

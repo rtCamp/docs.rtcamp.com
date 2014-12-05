@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-13 17:50:57+00:00
-layout: page
-slug: global-albums
 title: Global Albums
-wordpress_id: 67310
 ---
 
 rtMedia PRO allows the creation of multiple global albums. One of these albums can be set as the default global album.

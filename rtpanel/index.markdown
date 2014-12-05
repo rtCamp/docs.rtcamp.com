@@ -1,11 +1,5 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-04-25 10:29:29+00:00
-layout: page
-slug: rtpanel
 title: rtPanel
-wordpress_id: 3081
 ---
 
 

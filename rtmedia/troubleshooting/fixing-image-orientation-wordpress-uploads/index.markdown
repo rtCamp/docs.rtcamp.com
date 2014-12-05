@@ -1,12 +1,6 @@
 ---
-author: saurabhshukla
-comments: false
-date: 2013-03-25 06:08:33+00:00
 excerpt: How rtCamp fixed orientation of images in BuddyPress Media
-layout: page
-slug: fixing-image-orientation-wordpress-uploads
 title: How BuddyPress-Media fixed image orientation using PHP
-wordpress_id: 34351
 ---
 
 Users of [BuddyPress Media](http://wordpress.org/extend/plugins/buddypress-media/) have submitted bug reports saying images uploaded via the plugin have random orientations. This might happen often, if you are developing a plugin that uploads images into WordPress.

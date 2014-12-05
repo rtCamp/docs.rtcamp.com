@@ -1,11 +1,5 @@
 ---
-author: saurabhshukla
-comments: false
-date: 2013-06-04 15:16:59+00:00
-layout: page
-slug: uploader-shortcode
 title: Uploader Shortcode
-wordpress_id: 39005
 ---
 
 [[rtmedia_uploader context="post" context_id="2" album_id="34" privacy="40"]]

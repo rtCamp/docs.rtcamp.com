@@ -1,11 +1,5 @@
 ---
-author: joshuaabenazer
-comments: false
-date: 2013-08-05 07:17:31+00:00
-layout: page
-slug: rtmedia-defined-constants
 title: rtMedia Defined Constants
-wordpress_id: 43652
 ---
 
 Following is the list of rtMedia defined constants alongwith with their default value. These values can be modified in the wp-config.php file.

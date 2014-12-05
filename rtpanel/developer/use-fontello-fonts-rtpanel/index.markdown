@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-01-28 06:08:37+00:00
-layout: page
-slug: use-fontello-fonts-rtpanel
 title: How to use Fontello fonts in rtPanel
-wordpress_id: 56433
 ---
 
 **Important:** Before starting with this tutorials, make sure you have [setup rtPanel](http://docs.rtcamp.com/rtpanel/developer/setup-rtpanel-development/) with its dependencies on your local system.

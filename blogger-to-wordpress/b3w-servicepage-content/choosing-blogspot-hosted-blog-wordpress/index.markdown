@@ -1,11 +1,5 @@
 ---
-author: rtcamp
-comments: false
-date: 2010-03-20 07:04:59+00:00
-layout: page
-slug: choosing-blogspot-hosted-blog-wordpress
 title: Choosing between Blogspot and Self hosted Blog using Wordpress
-wordpress_id: 187
 ---
 
 The most important decision to make while starting with blogging is to decide where to host your blog. There is always confusion while choosing a blogging platform. When you start a blog, you might prefer to use Blogspot because you can host your blog free of cost.  Apart from cost there are various things which you should consider before taking a decision.

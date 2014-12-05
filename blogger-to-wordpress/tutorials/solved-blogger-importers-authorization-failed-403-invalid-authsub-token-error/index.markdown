@@ -1,14 +1,8 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2010-08-17 14:08:13+00:00
 excerpt: Wordpress plugin for Blogger Importer is throwing error "Authorization failed
   - 403 Invalid AuthSub token". This is fixed version of that plugin available for
   download
-layout: page
-slug: solved-blogger-importers-authorization-failed-403-invalid-authsub-token-error
 title: '[Solved] Blogger Importer''s "Authorization failed - 403 Invalid AuthSub token"  Error'
-wordpress_id: 12383
 ---
 
 Since WordPress 3.0 release, people who tried using WordPress' built-in importer to move from Blogger to WordPress, are encountering an

@@ -1,14 +1,8 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2011-01-27 19:30:41+00:00
 excerpt: Best guide to move (switch) from blogger (BlogSpot) to WordPress without
   losing search engine ranking, traffic, feed subscriber, Google friend connect followers
   & Blogger permalink fix plugin
-layout: page
-slug: permalink-seo-migration
 title: Blogger To WordPress Migration Guide with Permalink & SEO
-wordpress_id: 4077
 ---
 
 #### About this Do-It-Yourself (DIY) Blogger to WordPress Migration Guide

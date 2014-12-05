@@ -1,14 +1,8 @@
 ---
-author: gajanan.sapate
-comments: false
-date: 2011-11-15 13:01:39+00:00
 excerpt: Quality of codes and usability of options are the key parameters we focus
   on, while developing the themes for clients. We do not just deliver the products
   but we add value to the offering by giving 'Life Time Free Bug Fixing Support'.
-layout: page
-slug: rtpanel-developer-program-standards-guidelines
 title: 'rtPanel Developer Program: Standards Guidelines'
-wordpress_id: 700
 ---
 
 Quality of codes and usability of options are the key parameters we focus on, while developing the themes for clients. We do not just deliver the products but we add value to the offering by giving 'Life Time Free Bug Fixing Support'.

@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-02-07 10:43:02+00:00
-layout: page
-slug: rtp_url_placeholder
 title: rtp_url_placeholder
-wordpress_id: 10291
 ---
 
 Modify website placeholder text in comment form.

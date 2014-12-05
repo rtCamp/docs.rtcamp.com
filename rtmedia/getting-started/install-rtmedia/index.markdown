@@ -1,11 +1,5 @@
 ---
-author: adityakane
-comments: false
-date: 2014-06-23 03:27:21+00:00
-layout: page
-slug: install-rtmedia
 title: Installing rtMedia
-wordpress_id: 66231
 ---
 
 ## Prerequisites

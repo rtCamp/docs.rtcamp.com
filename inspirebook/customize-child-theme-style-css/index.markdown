@@ -1,11 +1,5 @@
 ---
-author: sagar.jadhav@rtcamp.com
-comments: false
-date: 2014-11-26 09:51:50+00:00
-layout: page
-slug: customize-child-theme-style-css
 title: Customize child theme style.css
-wordpress_id: 67949
 ---
 
 ## Why Compact CSS?

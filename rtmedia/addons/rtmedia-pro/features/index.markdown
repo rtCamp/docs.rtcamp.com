@@ -1,11 +1,5 @@
 ---
-author: adityakane
-comments: false
-date: 2014-08-05 05:41:15+00:00
-layout: page
-slug: features
 title: Features
-wordpress_id: 66565
 ---
 
 rtMedia -PRO has many added features that help your community interact better. Since there are a many features we have split them into separate pages.

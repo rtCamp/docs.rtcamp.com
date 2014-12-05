@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-11-07 12:54:45+00:00
-layout: page
-slug: upload-media
 title: Upload Media
-wordpress_id: 50427
 ---
 
 Uploaders for media may be provided in WordPress content areas through a [shortcode](https://rtcamp.com/rtmedia/docs/common/shortcodes/uploader-shortcode/) used by a site administrator.

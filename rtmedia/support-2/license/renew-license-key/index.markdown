@@ -1,11 +1,5 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2014-10-31 19:26:15+00:00
-layout: page
-slug: renew-license-key
 title: Renew License Key
-wordpress_id: 67798
 ---
 
 You can renew license for any of your purchased product with 50% discount.

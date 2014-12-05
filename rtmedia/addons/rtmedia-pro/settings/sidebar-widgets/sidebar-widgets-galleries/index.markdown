@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-10-01 11:24:50+00:00
-layout: page
-slug: sidebar-widgets-galleries
 title: 'Sidebar widgets: Galleries'
-wordpress_id: 47702
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

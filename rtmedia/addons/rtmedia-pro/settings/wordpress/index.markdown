@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-12 07:38:52+00:00
-layout: page
-slug: wordpress
 title: WordPress
-wordpress_id: 65888
 ---
 
 _Note: Some of these features work in rtMedia PRO only. The plugin can be _[_purchased from our store_](https://rtcamp.com/store/rtmedia-pro/)_._

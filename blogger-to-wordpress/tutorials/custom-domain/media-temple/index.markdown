@@ -1,11 +1,5 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2011-01-17 04:30:49+00:00
-layout: page
-slug: media-temple
 title: Domain Setup On Blogger With Media Temple
-wordpress_id: 3296
 ---
 
 When you purchase a domain from **Media Temple** you will get personal identity like IP address (A record) for that domain. Hence,  you need to change those records to point it with **Blogger.com** blog. This post help you to change the A and CNAME records of your **Media Temple** domain.

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-17 10:04:48+00:00
-layout: page
-slug: privacy
 title: Privacy
-wordpress_id: 66065
 ---
 
 ### ![Privacy rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/Privacy-rtMedia-PRO.jpg)

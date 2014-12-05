@@ -1,13 +1,7 @@
 ---
-author: adityakane
-comments: false
-date: 2010-08-23 03:30:05+00:00
 excerpt: Here I am comparing between Blogger and WordPress from a end-user's perspective,
   who may never be interested in checking-out codes!
-layout: page
-slug: blogger-vs-wordpress-non-geekish-comparison
 title: Blogger vs WordPress – Non-Geekish Comparison
-wordpress_id: 1977
 ---
 
 Considering that we offer a service for moving blogs from **Blogger (BlogSpot) **to **WordPress,** I thought of writing about some pros and cons about both.

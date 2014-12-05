@@ -1,11 +1,5 @@
 ---
-author: manish.songirkar
-comments: false
-date: 2014-01-21 09:08:17+00:00
-layout: page
-slug: rtp_hook_begin_header
 title: rtp_hook_begin_header
-wordpress_id: 56076
 ---
 
 ### Description

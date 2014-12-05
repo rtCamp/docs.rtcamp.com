@@ -1,11 +1,5 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2013-06-17 08:30:38+00:00
-layout: page
-slug: photo-tagging
 title: rtMedia Photo Tagging
-wordpress_id: 40108
 ---
 
 The rtMedia Photo Tagging add-on does not require any settings or server configuration. Just **Install** and **Activate** the plugin in WordPress, and your BuddyPress members can easily tag them in uploaded photos.

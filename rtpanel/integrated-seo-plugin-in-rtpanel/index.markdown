@@ -1,16 +1,10 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-02-23 14:32:50+00:00
 excerpt: The website is successful when it meets its visitors' needs. The presentation
   of the site, site contents,having facilities of subscription etc can attract the
   visitors who were looking for the similar information. But all above this, to keep
   your website at the top in the  search results your website needs to be SEO optimized.
   More the SEO ranking of the site more visitors will prefer your site.
-layout: page
-slug: integrated-seo-plugin-in-rtpanel
 title: Integrated SEO plugin in rtPanel
-wordpress_id: 3937
 ---
 
 The website is successful when it meets its visitors' needs. The presentation of the site, site contents,having facilities of subscription etc can attract the visitors who were looking for the similar information. But all above this, to keep your website at the top in the  search results your website needs to be SEO optimized. More the SEO ranking of the site more visitors will prefer your site.

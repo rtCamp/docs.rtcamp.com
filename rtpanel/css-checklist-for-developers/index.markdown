@@ -1,16 +1,10 @@
 ---
-author: sagar.jadhav@rtcamp.com
-comments: false
-date: 2011-12-28 13:19:02+00:00
 excerpt: 'Before you actually start with styling, just analyse the common elements
   in your theme and prepare your selectors that ways. It will eventually reduce the
   redundancy in css.
 
   So plan before you write any of the css code.'
-layout: page
-slug: css-checklist-for-developers
 title: CSS Checklist for developers
-wordpress_id: 889
 ---
 
 ### CSS Checklist for Developers

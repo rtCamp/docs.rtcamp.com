@@ -1,13 +1,7 @@
 ---
-author: omkarjoglekar
-comments: false
-date: 2011-01-15 10:30:10+00:00
 excerpt: User Guide to setup your Blogger domain name through your Network Solutions
   account.
-layout: page
-slug: network-solutions
 title: Custom Domain Setup on Blogger with Network Solutions
-wordpress_id: 2780
 ---
 
 This short tutorial will help you to setup your Blogger domain name with your Network Solutions account.

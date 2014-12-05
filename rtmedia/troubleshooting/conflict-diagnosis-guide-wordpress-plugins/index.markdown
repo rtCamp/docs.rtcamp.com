@@ -1,11 +1,5 @@
 ---
-author: saurabhshukla
-comments: false
-date: 2013-09-13 09:57:06+00:00
-layout: page
-slug: conflict-diagnosis-guide-wordpress-plugins
 title: Conflict Diagnosis Guide for WordPress plugins
-wordpress_id: 46200
 ---
 
 ## What is a conflict?

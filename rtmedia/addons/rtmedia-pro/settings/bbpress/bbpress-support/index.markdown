@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-10-31 14:33:20+00:00
-layout: page
-slug: bbpress-support
 title: bbPress Support
-wordpress_id: 50016
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

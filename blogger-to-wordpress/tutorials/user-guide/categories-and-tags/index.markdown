@@ -1,13 +1,7 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-09-03 04:50:53+00:00
 excerpt: This article covers how to create and maintain categories and tags with WordPress.
   This is a part of Blogger to WordPress User Guide.
-layout: page
-slug: categories-and-tags
 title: All about Categories and Tags
-wordpress_id: 1331
 ---
 
 ## Introduction

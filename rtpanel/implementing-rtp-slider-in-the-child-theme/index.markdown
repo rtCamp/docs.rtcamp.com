@@ -1,11 +1,5 @@
 ---
-author: abhimanyu1
-comments: false
-date: 2011-12-19 13:48:36+00:00
-layout: page
-slug: implementing-rtp-slider-in-the-child-theme
 title: Implementing rtp-slider in the child theme
-wordpress_id: 849
 ---
 
 As we are now using rtPanel as the framework for our development and you might be aware that it also provides a preset image slider, which is quite easier to use just by creating an action on the appropriate hook. So, why go googling for some other sliders like (Nivo slider, Easing slider, etc) when using rtPanel development framework.

@@ -1,13 +1,7 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-11-27 10:24:54+00:00
 excerpt: Brief comparison between WordPress.org and WordPress.com with differences
   and what you should go with.
-layout: page
-slug: the-difference-between-wordpress-org-and-wordpress-com
 title: The difference between WordPress.org and WordPress.com
-wordpress_id: 2546
 ---
 
 Many people get confused about the [**WordPress.org**](http://wordpress.org/) and [**WordPress.com**](http://wordpress.com). Basically WordPress is the free blogging software to create a blog in just few clicks. WordPress is an open source software built with PHP. Now lets see the difference between **WordPress (.org** and **.com). **

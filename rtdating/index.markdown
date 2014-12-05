@@ -1,11 +1,5 @@
 ---
-author: sagar.jadhav@rtcamp.com
-comments: false
-date: 2014-11-11 09:19:10+00:00
-layout: page
-slug: rtdating
 title: rtDating
-wordpress_id: 67808
 ---
 
 rtDating is a premium WordPress theme, designed for BuddyPress and rtMedia powered social-networks.

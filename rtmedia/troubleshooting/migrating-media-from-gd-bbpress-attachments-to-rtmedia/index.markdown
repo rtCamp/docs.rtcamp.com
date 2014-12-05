@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-11-01 07:35:37+00:00
-layout: page
-slug: migrating-media-from-gd-bbpress-attachments-to-rtmedia
 title: Migrating media from GD bbPress Attachments to rtMedia
-wordpress_id: 50066
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

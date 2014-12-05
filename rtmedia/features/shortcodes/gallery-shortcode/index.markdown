@@ -1,11 +1,5 @@
 ---
-author: saurabhshukla
-comments: false
-date: 2013-06-12 15:13:58+00:00
-layout: page
-slug: gallery-shortcode
 title: Gallery Shortcode
-wordpress_id: 39004
 ---
 
 [[rtmedia_gallery global="false" context="post" context_id="23" media_type="photo" media_author="1"]]

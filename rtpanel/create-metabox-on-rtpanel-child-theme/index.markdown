@@ -1,15 +1,9 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-02-16 07:37:11+00:00
 excerpt: So far we have discussed about Custom post type, Custom taxonomies etc. which
   were helpful to separate specific posts from the normal posts and grouping the specific
   post separately. In this article we will learn about 'Creating Metabox on rtPanel
   Child Theme'.
-layout: page
-slug: create-metabox-on-rtpanel-child-theme
 title: Create Metabox on rtPanel Child Theme
-wordpress_id: 3938
 ---
 
 So far we have discussed about [Custom post type](https://rtcamp.com/blog/custompost-rtpanel-child-theme/), [Custom taxonomies](https://rtcamp.com/blog/creating-custom-taxonomy-rtpanel/) etc. which were helpful to separate specific posts from the normal posts and grouping the specific post separately. In this article we will learn about 'Creating Metabox on rtPanel Child Theme'.

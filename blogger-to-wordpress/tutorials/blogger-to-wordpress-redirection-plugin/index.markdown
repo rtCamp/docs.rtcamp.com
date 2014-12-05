@@ -1,13 +1,7 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2010-12-23 08:10:59+00:00
 excerpt: This plugin is used to redirect posts from Blogger to WordPress without losing
   SEO and page rank. It will provide one-to-one redirection from Blogger.com to WordPress.
-layout: page
-slug: blogger-to-wordpress-redirection-plugin
 title: Blogger To WordPress Redirection Plugin
-wordpress_id: 2751
 ---
 
 

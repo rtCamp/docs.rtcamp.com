@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-09-30 10:25:13+00:00
-layout: page
-slug: attach-media-to-activity-updates
 title: Attach media to activity updates
-wordpress_id: 47386
 ---
 
 rtMedia lets users add media to accompany BuddyPress activity updates. With the [rtMedia PRO add-on](https://rtcamp.com/store/rtmedia-pro/), documents and other files can also be attached.

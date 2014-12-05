@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-18 09:46:56+00:00
-layout: page
-slug: rtmedia-kaltura-add-on
 title: ' rtMedia Kaltura Add-on'
-wordpress_id: 66133
 ---
 
 The rtMedia Kaltura add-on automatically converts videos uploaded with rtMedia. Kaltura is a video-management platform. In order to use this plugin, you must first get an account on Kaltura. You can get a free trial of Kaltura [here](http://corp.kaltura.com/free-trial). If you want to buy self-hosted Kaltura-CE Setup Service, click [here](https://rtcamp.com/store/rtmedia-kaltura-ce-setup-service/).

@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2013-04-18 08:06:39+00:00
-layout: page
-slug: old-shortcodes
 title: Old Shortcodes
-wordpress_id: 37210
 ---
 
 **Read Me**: This documentation is for BuddyPress Media, the precursor to rtMedia 3.0. Click on the links on this page to read about the new shortcodes: [Shortcodes: Galleries and Uploaders](https://rtcamp.com/rtmedia/docs/common/shortcodes/)

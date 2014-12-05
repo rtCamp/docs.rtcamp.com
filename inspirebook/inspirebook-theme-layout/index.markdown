@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-12 12:45:11+00:00
-layout: page
-slug: inspirebook-theme-layout
 title: InspireBook Theme Layout
-wordpress_id: 67144
 ---
 
 InspireBook is organized with the help of various building blocks, which are described below.

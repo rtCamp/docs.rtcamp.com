@@ -1,9 +1,4 @@
 ---
-author: sagar.jadhav@rtcamp.com
-comments: false
-date: 2014-12-04 18:52:52
-layout: page
-slug: setup-widgets
 title: Setup Sidebar/Footer Widgets
 ---
 

@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2011-01-15 09:00:06+00:00
-layout: page
-slug: rtmoto
 title: rtMoto
-wordpress_id: 3747
 ---
 
 rtMoto is a free WordPress theme built as an alternative for Blogger.com's Mr. Moto theme.

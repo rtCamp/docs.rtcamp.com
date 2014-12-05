@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2012-09-24 18:59:32+00:00
-layout: page
-slug: installation
 title: Installation
-wordpress_id: 14084
 ---
 
 We have developed a common installation for RedHat , CentOs , Debian and Ubuntu Linux Distro , you don't have to go anywhere for [Media Node](https://rtcamp.com/media-node/) Installation

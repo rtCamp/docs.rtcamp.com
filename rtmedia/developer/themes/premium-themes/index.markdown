@@ -1,11 +1,5 @@
 ---
-author: adityadesai
-comments: false
-date: 2014-12-02 12:11:42+00:00
-layout: page
-slug: premium-themes
 title: Premium Themes
-wordpress_id: 24893
 ---
 
 rtCamp is delighted to present the first of its Premium WordPress Themes to you.

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-11 08:12:21+00:00
-layout: page
-slug: themes
 title: Themes
-wordpress_id: 65788
 ---
 
 Clicking on **Themes** will display the theme options available to you. Currently, you have 2 options:

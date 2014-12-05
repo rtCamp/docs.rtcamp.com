@@ -1,11 +1,5 @@
 ---
-author: adityakane
-comments: false
-date: 2014-08-13 14:53:20+00:00
-layout: page
-slug: media-attributes
 title: Media Attributes
-wordpress_id: 67230
 ---
 
 You can set as many attributes as you want for media like Photo Category, Camera Type, Location etc.

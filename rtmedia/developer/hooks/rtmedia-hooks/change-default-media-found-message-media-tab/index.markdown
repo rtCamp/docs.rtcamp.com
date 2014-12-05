@@ -1,11 +1,5 @@
 ---
-author: Pranali Patel
-comments: false
-date: 2014-09-17 11:01:53+00:00
-layout: page
-slug: change-default-media-found-message-media-tab
 title: Change default no media found message in media tab
-wordpress_id: 67529
 ---
 
 You can use filter `rtmedia_no_media_found_message_filter` in your theme and can return your message to change default message **"Oops ! There's no media found for the request !!"** in media tab.

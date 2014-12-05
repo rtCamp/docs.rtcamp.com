@@ -1,14 +1,8 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-01-27 11:05:10+00:00
 excerpt: Widgets is a functionality in WordPress which offers interactive options
   and visual appeal to the website. Widgets enable non-technical users to customize
   their theme according to the specific layout as needed in their site.
-layout: page
-slug: rtpanelcategories-widget
 title: rtPanel:Categories widget
-wordpress_id: 3933
 ---
 
 Widgets is a functionality in WordPress which offers interactive options and visual appeal to the website. Widgets enable non-technical users to customize their theme according to the specific layout as needed in their site.

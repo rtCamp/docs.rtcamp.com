@@ -1,15 +1,9 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-03-27 07:13:22+00:00
 excerpt: Considering this, rtPanel has also been offering some awesome in-built hooks.
   The inbuilt function such as Hooks allows a developer to rewrite content or append
   new functionality. To know more about the 'rtPanel Hooks' refer this. To  make it
   further easy, we have provided a rtPanel hooks editor plugin.
-layout: page
-slug: hooks-in-rtpanel-child-theme
 title: Hooks in rtPanel Child theme
-wordpress_id: 3942
 ---
 
 As the theme frameworks are evolving, theme development is getting easier. The developers are also looking for frameworks with better control and more options to customize and streamline the development work. Developers are more inclined towards use of multiple actions, hooks and filters.

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-12 12:48:06+00:00
-layout: page
-slug: setup-sidebar-widgets
 title: Setup Sidebar Widgets
-wordpress_id: 67147
 ---
 
 InspireBook theme support all WordPress default widgets present on Widgets option page. In additional we support provided plugins custom widgets styles. Sidebar widget area is similar for all pages.

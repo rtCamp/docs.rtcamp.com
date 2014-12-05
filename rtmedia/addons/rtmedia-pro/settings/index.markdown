@@ -1,11 +1,5 @@
 ---
-author: adityakane
-comments: false
-date: 2014-07-31 00:39:03+00:00
-layout: page
-slug: settings
 title: rtMedia -PRO Settings
-wordpress_id: 66556
 ---
 
 Most people who choose to get rtMedia -PRO add-on, want to do so for several additional settings and options it provides instead of the rtMedia Free version. This page will cover only the additional settings provided with rtMedia -PRO version. ([Check Documentation for rtMedia Core Settings](http://docs.rtcamp.com/rtmedia/getting-started/settings/))

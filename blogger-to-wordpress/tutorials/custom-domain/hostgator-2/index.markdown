@@ -1,12 +1,6 @@
 ---
-author: omkarjoglekar
-comments: false
-date: 2011-01-13 04:30:41+00:00
 excerpt: User Guide to setup your Blogger domain name with your Hostgator account.
-layout: page
-slug: hostgator-2
 title: How to Setup Custom Domain on Blogger with Hostgator
-wordpress_id: 2708
 ---
 
 Follow the following steps to setup your Blogger domain name through your Hostgator account.

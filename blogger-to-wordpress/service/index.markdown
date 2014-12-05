@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2010-03-10 13:16:28+00:00
-layout: page
-slug: service
 title: Service
-wordpress_id: 28
 ---
 
 As you are reading this, you might be aware of the fact that Wordpress platform comes with a built-in tool to import Blogger.com blogs. But if you ever used it, you must have faced issues like broken permalink structure, loss of search engine ranking among others.

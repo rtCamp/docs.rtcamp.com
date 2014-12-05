@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2013-05-07 13:30:28+00:00
-layout: page
-slug: managing-access-levels
 title: Managing Read/Write Access Levels
-wordpress_id: 37788
 ---
 
 1. Open repository page whose access-levels you want to change. You will see **"Manage Access"** button there.

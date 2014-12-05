@@ -1,11 +1,5 @@
 ---
-author: abhishek.kaushik
-comments: false
-date: 2013-12-27 10:32:36+00:00
-layout: page
-slug: docs
 title: rtWidgets Documentation
-wordpress_id: 54220
 ---
 
 [vc_row wrapper="true"][vc_column width="1/1"][vc_column_text]

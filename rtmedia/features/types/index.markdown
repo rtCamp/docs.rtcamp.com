@@ -1,11 +1,5 @@
 ---
-author: abhishek.kaushik
-comments: false
-date: 2013-09-30 08:59:41+00:00
-layout: page
-slug: types
 title: Types
-wordpress_id: 47365
 ---
 
 The **Types **tab includes several settings to manage file types. _Note: Some of the file type settings work in rtMedia PRO only. rtMedia PRO can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

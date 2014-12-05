@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-11-01 14:43:31+00:00
-layout: page
-slug: set-image-as-album-cover
 title: Set image as album cover
-wordpress_id: 50136
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

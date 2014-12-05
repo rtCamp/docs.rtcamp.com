@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2010-03-18 15:21:53+00:00
-layout: page
-slug: giving-admin-access-to-your-blogspot-blog-without-sharing-password
 title: 'Giving Admin Access To Your BlogSpot Blog Without Sharing Password! '
-wordpress_id: 12157
 ---
 
 Using steps mentioned below, you can grant admin access to anyone on your Blogger.com (BlogSpot) blog without sharing your Gmail/Blogger.com account password with them.

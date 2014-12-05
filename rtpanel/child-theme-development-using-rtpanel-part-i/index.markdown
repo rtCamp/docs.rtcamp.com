@@ -1,14 +1,8 @@
 ---
-author: abhimanyu1
-comments: false
-date: 2011-12-13 13:23:12+00:00
 excerpt: Child themes are extension of parent theme, which can be further customized
   without affecting the core codes of parent theme or theme framework (for example
   rtPanel).
-layout: page
-slug: child-theme-development-using-rtpanel-part-i
 title: Child Theme development using rtPanel - Part I
-wordpress_id: 791
 ---
 
 Being a WordPress theme framework; rtPanel carries the functionality of developing child themes.

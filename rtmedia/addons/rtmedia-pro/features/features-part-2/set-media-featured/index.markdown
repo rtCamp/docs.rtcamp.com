@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-11-04 10:57:30+00:00
-layout: page
-slug: set-media-featured
 title: Set media as featured
-wordpress_id: 50216
 ---
 
 A media item (photo, video or music) can be set as featured to appear in an appropriate area of the site, if this has been enabled by a site administrator. Site administrators can set a particular user’s choice of a featured media item to show up for everyone in the community.

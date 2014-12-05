@@ -1,13 +1,7 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2011-02-06 11:30:39+00:00
 excerpt: Once you receive an invitation to become an AccountExec on Godaddy, you can
   manage domains and hosting of your domain owner.
-layout: page
-slug: how-to-use-your-accountexec-profile-on-godaddy
 title: How To Use Your AccountExec Profile On Godaddy
-wordpress_id: 4031
 ---
 
 Once the domain owner assigns you as an **AccountExec**, you will receive an email along with the invitation/activation link.

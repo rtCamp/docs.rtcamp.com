@@ -1,11 +1,5 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-04-25 11:21:58+00:00
-layout: page
-slug: rtp_hook_end_post_content
 title: rtp_hook_end_post_content
-wordpress_id: 3124
 ---
 
 ### Description

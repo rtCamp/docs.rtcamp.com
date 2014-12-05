@@ -1,11 +1,5 @@
 ---
-author: abhishek.kaushik
-comments: false
-date: 2013-09-27 12:36:41+00:00
-layout: page
-slug: moderation
 title: Moderation
-wordpress_id: 47159
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/). _Moderation enables the site administrator(s) to keep his  site clean.

@@ -1,11 +1,5 @@
 ---
-author: adityadesai
-comments: false
-date: 2014-12-02 11:55:50+00:00
-layout: page
-slug: premium-theme-payment-options
 title: Premium Theme Payment Options
-wordpress_id: 24896
 ---
 
 Cost of theme includes:

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-01-06 11:22:16+00:00
-layout: page
-slug: theme-media-tab
 title: BuddyPress theme media tab
-wordpress_id: 54895
 ---
 
 By default, rtMedia uses the current theme's `index.php` template as the base template. If in case you want to change this to some other template or if you are using any theme based on BuddyPress default theme and having issue with the rtMedia media tab, then you can specify a different template to be used by rtMedia.

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2013-11-06 10:37:30+00:00
-layout: page
-slug: edit-media
 title: Edit media or other files
-wordpress_id: 50304
 ---
 
 Changes can be made to media or other files using the **Edit** button. For sites running rtMedia’s core version, the **Edit** button can be used to make changes to media classified under **Photos**, **Video** and **Audio**.

@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-06-17 09:10:55+00:00
-layout: page
-slug: types
 title: Types
-wordpress_id: 66035
 ---
 
 The types tab includes several settings to manage file types.

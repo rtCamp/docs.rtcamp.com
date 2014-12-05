@@ -1,11 +1,5 @@
 ---
-author: adityakane
-comments: false
-date: 2014-10-28 10:37:15+00:00
-layout: page
-slug: membership
 title: rtMedia Membership Addon
-wordpress_id: 67627
 ---
 
 rtMedia Membership plugin allows you to easily manage Membership-based sites using [rtMedia](https://wordpress.org/plugins/buddypress-media/).

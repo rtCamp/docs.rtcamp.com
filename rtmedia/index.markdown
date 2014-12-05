@@ -1,11 +1,5 @@
 ---
-author: rahul.bansal
-comments: false
-date: 2013-04-18 08:03:08+00:00
-layout: page
-slug: rtmedia
 title: rtMedia
-wordpress_id: 37204
 ---
 
 *rtMedia* is the only complete media solution which integrates with [BuddyPress](https://buddypress.org/), [bbPress](https://bbpress.org/) and [WordPress](https://wordpress.org/) seamlessly.

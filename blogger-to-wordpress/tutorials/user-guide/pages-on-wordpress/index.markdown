@@ -1,13 +1,7 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-09-02 02:56:10+00:00
 excerpt: Complete details on how to write and edit Pages on WordPress. This is a part
   of the Blogger to WordPress User Guide Series.
-layout: page
-slug: pages-on-wordpress
 title: Writing and Editing a Page on Wordpress
-wordpress_id: 12386
 ---
 
 ## Introduction

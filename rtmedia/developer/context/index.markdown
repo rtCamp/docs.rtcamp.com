@@ -1,11 +1,5 @@
 ---
-author: saurabhshukla
-comments: false
-date: 2013-07-10 07:22:11+00:00
-layout: page
-slug: context
 title: Context
-wordpress_id: 42028
 ---
 
 To be able to display and upload media, rtMedia needs to know where each media file will be displayed. This identification and tracking of the context in which the media will be displayed, by default is at the core of the Anywhere Uploader and Anywhere Gallery.

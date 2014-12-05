@@ -1,11 +1,5 @@
 ---
-author: admin
-comments: false
-date: 2014-08-12 13:08:00+00:00
-layout: page
-slug: inner-page-support
 title: Inner page support in InspireBook
-wordpress_id: 67172
 ---
 
 As InspireBook premium theme support BuddyPress, rtMedia, bbPress, Gravity Forms, Ninja Forms etc. Following are the list of inner pages which user can use.

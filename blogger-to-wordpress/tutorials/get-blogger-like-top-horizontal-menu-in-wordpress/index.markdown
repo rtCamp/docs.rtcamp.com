@@ -1,13 +1,7 @@
 ---
-author: nitun.lanjewar
-comments: false
-date: 2010-10-21 05:07:08+00:00
 excerpt: Ozh' Admin Drop Down Menu plugin for wordpress dashboard style like blogger.com
   dashboard
-layout: page
-slug: get-blogger-like-top-horizontal-menu-in-wordpress
 title: Get Blogger like Top-Horizontal Menu in WordPress
-wordpress_id: 600
 ---
 
 Many bloggers are now a days moving from **Blogger.com** blog to self hosted **WordPress** blog. **WordPress** provides some features like **Blogger.com** templates by adding some plugins (extra functionality and features).

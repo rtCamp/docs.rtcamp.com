@@ -1,11 +1,5 @@
 ---
-author: sagar.jadhav@rtcamp.com
-comments: false
-date: 2014-11-14 11:09:31+00:00
-layout: page
-slug: set-image-sizes
 title: Set image sizes
-wordpress_id: 67885
 ---
 
 ## Default Image Sizes:

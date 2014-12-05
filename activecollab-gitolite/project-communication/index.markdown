@@ -1,11 +1,5 @@
 ---
-author: adityadesai
-comments: false
-date: 2014-12-02 12:33:31+00:00
-layout: page
-slug: project-communication
 title: Project Communication
-wordpress_id: 24544
 ---
 
 Project communication is critical part of knowledge library & knowledge transfer. Documenting every minute project critical information increases predictability and responsibility of over all process.

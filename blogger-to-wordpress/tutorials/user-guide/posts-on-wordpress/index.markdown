@@ -1,13 +1,7 @@
 ---
-author: adityakane
-comments: false
-date: 2010-08-28 18:55:48+00:00
 excerpt: A tutorial on how to write and edit posts with WordPress. Part of the Blogger
   to WordPress User Guide.
-layout: page
-slug: posts-on-wordpress
 title: Writing and Editing a post on WordPress
-wordpress_id: 1334
 ---
 
 ## Introduction

@@ -1,11 +1,5 @@
 ---
-author: adityadesai
-comments: false
-date: 2014-12-02 11:45:47+00:00
-layout: page
-slug: project-tittle
 title: Project Title
-wordpress_id: 24547
 ---
 
 We at rtCamp use ActiveCollab for project management. It is critical how you name each project, specially when you have to manage 100s of projects in a year.

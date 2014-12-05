@@ -1,11 +1,5 @@
 ---
-author: apekshadeshpande
-comments: false
-date: 2012-04-25 11:39:07+00:00
-layout: page
-slug: rtp_readmore
 title: rtp_readmore
-wordpress_id: 3142
 ---
 
 ### Description
