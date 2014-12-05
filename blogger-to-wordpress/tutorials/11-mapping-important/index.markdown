@@ -1,5 +1,4 @@
 ---
-published: false
 title: Why 1-1 mapping is important
 ---
 

@@ -1,5 +1,4 @@
 ---
-published: false
 title: Customizing InspireBook – End User
 ---
 
