@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-10-31 14:13:29+00:00
 layout: page
 slug: report-abuse

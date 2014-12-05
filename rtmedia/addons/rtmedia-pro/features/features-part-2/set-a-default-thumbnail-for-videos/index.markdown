@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-11-07 06:19:31+00:00
 layout: page
 slug: set-a-default-thumbnail-for-videos

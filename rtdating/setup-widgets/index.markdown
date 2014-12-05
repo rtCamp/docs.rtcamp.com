@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-12-04 18:52:52
 layout: page
 slug: setup-widgets

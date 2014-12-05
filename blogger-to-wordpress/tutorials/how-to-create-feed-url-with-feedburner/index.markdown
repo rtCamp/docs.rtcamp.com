@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-01-20 11:01:45+00:00
 excerpt: 'FeedBurner is a web feed management provider. FeedBurner provides custom
   RSS feeds and management tools that will help to your blog reader to get regular

@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-01-17 04:30:49+00:00
 layout: page
 slug: media-temple

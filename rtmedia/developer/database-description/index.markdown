@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-06-12 07:23:33+00:00
 layout: page
 slug: database-description

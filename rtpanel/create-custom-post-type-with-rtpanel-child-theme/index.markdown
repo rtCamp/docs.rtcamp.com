@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-02-02 10:24:43+00:00
 layout: page
 slug: create-custom-post-type-with-rtpanel-child-theme

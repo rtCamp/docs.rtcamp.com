@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-12-02 12:09:27+00:00
 layout: page
 slug: installation-guide-rtsocial

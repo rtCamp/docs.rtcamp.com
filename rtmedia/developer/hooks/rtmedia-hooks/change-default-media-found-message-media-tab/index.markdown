@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-09-17 11:01:53+00:00
 layout: page
 slug: change-default-media-found-message-media-tab

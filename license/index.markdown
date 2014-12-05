@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-09-22 15:19:48+00:00
 layout: page
 slug: license

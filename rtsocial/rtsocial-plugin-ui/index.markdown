@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-12-02 12:42:55+00:00
 layout: page
 slug: rtsocial-plugin-ui

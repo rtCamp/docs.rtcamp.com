@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-13 17:50:57+00:00
 layout: page
 slug: global-albums

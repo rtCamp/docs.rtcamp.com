@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-09-30 10:48:09+00:00
 layout: page
 slug: media-albums-buddypress

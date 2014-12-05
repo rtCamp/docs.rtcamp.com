@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-12 12:48:06+00:00
 layout: page
 slug: setup-sidebar-widgets

@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-12-02 11:45:47+00:00
 layout: page
 slug: project-tittle

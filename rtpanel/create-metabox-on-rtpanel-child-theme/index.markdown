@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-02-16 07:37:11+00:00
 excerpt: So far we have discussed about Custom post type, Custom taxonomies etc. which
   were helpful to separate specific posts from the normal posts and grouping the specific

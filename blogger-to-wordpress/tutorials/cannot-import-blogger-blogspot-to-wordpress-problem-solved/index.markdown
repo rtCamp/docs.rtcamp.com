@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-04-30 22:31:00+00:00
 excerpt: Blogspot to Wordpress import problem solved, Unable to find the socket transport
   "ssl" - did you forget to enable it when you configured PHP? (0) solved

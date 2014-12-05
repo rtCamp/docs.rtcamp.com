@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-09-01 12:57:01+00:00
 excerpt: Comments on Intense Debate account can also be imported into WordPress from
   Blogger.com blog.

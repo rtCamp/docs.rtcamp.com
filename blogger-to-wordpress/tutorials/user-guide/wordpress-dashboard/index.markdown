@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-08-27 16:40:57+00:00
 excerpt: Part 2 of Blogger to WordPress user guide series. Briefly introducing WordPress
   Dashboard.

@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-13 17:30:50+00:00
 layout: page
 slug: post-editor-button

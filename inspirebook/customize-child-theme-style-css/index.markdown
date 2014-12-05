@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-11-26 09:51:50+00:00
 layout: page
 slug: customize-child-theme-style-css

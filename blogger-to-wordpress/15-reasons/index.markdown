@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-01-10 15:28:02+00:00
 excerpt: Here are 15 reasons why you might want to migrate your blogger.com blog to
   WordPress platform.

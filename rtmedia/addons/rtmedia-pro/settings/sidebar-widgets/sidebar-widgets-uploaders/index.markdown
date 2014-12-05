@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-10-01 12:45:17+00:00
 layout: page
 slug: sidebar-widgets-uploaders

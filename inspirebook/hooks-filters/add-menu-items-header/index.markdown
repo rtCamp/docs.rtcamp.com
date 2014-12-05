@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-11-19 10:22:30+00:00
 layout: page
 slug: add-menu-items-header

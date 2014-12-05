@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-13 16:29:14+00:00
 layout: page
 slug: users-liked-media-page

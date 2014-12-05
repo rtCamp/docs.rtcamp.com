@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-18 13:03:36+00:00
 layout: page
 slug: features-part-2

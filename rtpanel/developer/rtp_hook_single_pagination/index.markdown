@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-01-21 11:30:55+00:00
 layout: page
 slug: rtp_hook_single_pagination

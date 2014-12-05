@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-02-07 11:35:53+00:00
 layout: page
 slug: rtp_set_footer_widget_grid_class

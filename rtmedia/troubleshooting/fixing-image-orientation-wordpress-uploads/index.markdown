@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-03-25 06:08:33+00:00
 excerpt: How rtCamp fixed orientation of images in BuddyPress Media
 layout: page

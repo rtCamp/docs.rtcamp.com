@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-03-22 19:33:00+00:00
 excerpt: Blogger who are using Blogspot FTP publishing will have to move to self hosted
   blog or normal Blogspot to continue blogging as Google is going to stop FTP publishing

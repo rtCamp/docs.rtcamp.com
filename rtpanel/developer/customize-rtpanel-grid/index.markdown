@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-03-05 06:48:32+00:00
 layout: page
 slug: customize-rtpanel-grid

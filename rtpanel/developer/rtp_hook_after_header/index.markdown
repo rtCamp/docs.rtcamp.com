@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-04-25 10:48:40+00:00
 layout: page
 slug: rtp_hook_after_header

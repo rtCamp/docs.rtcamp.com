@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-12 13:08:00+00:00
 layout: page
 slug: inner-page-support

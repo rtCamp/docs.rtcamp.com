@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-01-03 04:30:53+00:00
 excerpt: When you create your free blog on blogger, it gives you a default domain,
   which looks something like this - myblog.blogspot.com. It also provides you with

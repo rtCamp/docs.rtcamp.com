@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-09-30 08:04:29+00:00
 layout: page
 slug: general

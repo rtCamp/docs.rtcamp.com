@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-04-04 14:14:50+00:00
 excerpt: The image slider enhances the beauty of the website. The image slider can
   be used to showcase the product or to display the portfolio or featured blog posts.

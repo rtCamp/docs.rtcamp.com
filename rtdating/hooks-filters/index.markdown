@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-12-04 13:14:58+00:00
 layout: page
 slug: hooks-filters

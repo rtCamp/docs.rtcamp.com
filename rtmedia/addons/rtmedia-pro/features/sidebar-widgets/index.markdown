@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-10-31 09:53:11+00:00
 layout: page
 slug: sidebar-widgets

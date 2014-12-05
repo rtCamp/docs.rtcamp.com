@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-11-01 09:07:30+00:00
 layout: page
 slug: uploaders

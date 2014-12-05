@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-06-17 05:28:33+00:00
 layout: page
 slug: buddypress

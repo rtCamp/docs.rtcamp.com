@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-12-17 06:01:23+00:00
 excerpt: 'The next most important child theme component is functions.php that is used
   for creating custom actions on different hooks and filters to achieve the desired

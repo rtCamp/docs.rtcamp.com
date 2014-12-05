@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-12 12:51:42+00:00
 layout: page
 slug: install-activate

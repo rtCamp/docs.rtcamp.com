@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-07-03 08:39:02+00:00
 layout: page
 slug: settings

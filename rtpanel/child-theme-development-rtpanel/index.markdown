@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-12-26 09:15:18+00:00
 layout: page
 slug: child-theme-development-rtpanel

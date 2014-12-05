@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-20 07:06:00+00:00
 layout: page
 slug: scroll-bar-missing-media-tab

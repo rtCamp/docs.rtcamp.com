@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-01-27 07:51:30+00:00
 layout: page
 slug: reordering-media-tab-buddypress

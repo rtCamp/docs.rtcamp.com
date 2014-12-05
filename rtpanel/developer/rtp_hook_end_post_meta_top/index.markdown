@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-04-25 11:28:55+00:00
 layout: page
 slug: rtp_hook_end_post_meta_top

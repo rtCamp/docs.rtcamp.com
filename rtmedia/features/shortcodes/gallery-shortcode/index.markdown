@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-06-12 15:13:58+00:00
 layout: page
 slug: gallery-shortcode

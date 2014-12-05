@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-09-24 16:24:06+00:00
 layout: page
 slug: media-node

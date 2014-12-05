@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-09-17 12:29:05+00:00
 layout: page
 slug: known-issues

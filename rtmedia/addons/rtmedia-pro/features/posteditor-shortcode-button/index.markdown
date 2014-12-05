@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-11-07 06:12:45+00:00
 layout: page
 slug: posteditor-shortcode-button

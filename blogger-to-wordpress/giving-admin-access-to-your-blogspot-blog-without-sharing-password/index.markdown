@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-03-18 15:21:53+00:00
 layout: page
 slug: giving-admin-access-to-your-blogspot-blog-without-sharing-password

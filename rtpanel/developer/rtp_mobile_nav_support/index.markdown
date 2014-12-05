@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-02-07 11:12:54+00:00
 layout: page
 slug: rtp_mobile_nav_support

@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-10-19 13:15:25+00:00
 layout: page
 slug: single-site-wordpress-multisite

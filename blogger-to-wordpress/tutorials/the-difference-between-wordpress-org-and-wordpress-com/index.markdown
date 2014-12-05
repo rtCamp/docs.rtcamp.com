@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-11-27 10:24:54+00:00
 excerpt: Brief comparison between WordPress.org and WordPress.com with differences
   and what you should go with.

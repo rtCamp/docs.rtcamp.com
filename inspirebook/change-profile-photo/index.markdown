@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-12 12:55:11+00:00
 layout: page
 slug: change-profile-photo

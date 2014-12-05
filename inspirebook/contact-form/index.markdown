@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-12 13:05:14+00:00
 layout: page
 slug: contact-form

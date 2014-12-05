@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-08-05 07:17:31+00:00
 layout: page
 slug: rtmedia-defined-constants

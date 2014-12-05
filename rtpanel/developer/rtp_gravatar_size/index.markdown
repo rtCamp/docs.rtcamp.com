@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-02-07 11:05:44+00:00
 layout: page
 slug: rtp_gravatar_size

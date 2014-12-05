@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-12 12:14:41+00:00
 layout: page
 published: false

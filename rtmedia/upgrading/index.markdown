@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-06-26 05:39:32+00:00
 layout: page
 slug: upgrading

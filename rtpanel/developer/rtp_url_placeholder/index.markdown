@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-02-07 10:43:02+00:00
 layout: page
 slug: rtp_url_placeholder

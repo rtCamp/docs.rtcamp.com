@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-12-30 05:37:32+00:00
 excerpt: What if users want the different options for both header and logo? Considering
   that we have provided options for the header image and logo separately in rtPanel

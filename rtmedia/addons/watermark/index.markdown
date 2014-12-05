@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-19 14:25:15+00:00
 layout: page
 slug: watermark

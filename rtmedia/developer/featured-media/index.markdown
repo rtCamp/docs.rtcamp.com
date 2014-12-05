@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-05-07 15:02:37+00:00
 layout: page
 slug: featured-media

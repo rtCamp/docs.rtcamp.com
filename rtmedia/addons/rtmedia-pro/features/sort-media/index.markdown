@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-08-13 15:52:33+00:00
 layout: page
 slug: sort-media

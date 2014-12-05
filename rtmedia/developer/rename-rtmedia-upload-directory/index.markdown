@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-09-03 10:13:47+00:00
 layout: page
 slug: rename-rtmedia-upload-directory

@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-04-11 10:10:47+00:00
 layout: page
 slug: installation

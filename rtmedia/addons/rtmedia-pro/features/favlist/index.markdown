@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-10-21 09:58:04+00:00
 layout: page
 slug: favlist

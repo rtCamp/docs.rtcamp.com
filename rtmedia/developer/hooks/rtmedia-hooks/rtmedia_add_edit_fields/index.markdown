@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2013-09-23 15:00:22+00:00
 layout: page
 slug: rtmedia_add_edit_fields

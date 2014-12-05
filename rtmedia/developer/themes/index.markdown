@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-06-11 08:12:21+00:00
 layout: page
 slug: themes

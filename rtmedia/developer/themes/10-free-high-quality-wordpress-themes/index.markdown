@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2010-05-03 17:03:28+00:00
 layout: page
 slug: 10-free-high-quality-wordpress-themes

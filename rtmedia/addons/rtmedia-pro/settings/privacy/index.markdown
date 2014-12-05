@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-06-17 10:04:48+00:00
 layout: page
 slug: privacy

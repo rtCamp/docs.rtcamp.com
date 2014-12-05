@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-09-11 17:07:49+00:00
 layout: page
 slug: change-username-to-user-display-name-in-rtmedia-activity

@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2012-04-25 10:44:54+00:00
 layout: page
 slug: rtp_header_image_width

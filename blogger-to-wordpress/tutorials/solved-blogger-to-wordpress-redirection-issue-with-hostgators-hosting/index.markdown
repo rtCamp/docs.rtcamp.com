@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2011-07-28 09:24:49+00:00
 excerpt: While number of bloggers enjoyed the free migration, some users faced the
   problem of Blogger.com To WordPress Redirection. We received multiple queries on

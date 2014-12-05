@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-02-26 13:15:42+00:00
 layout: page
 slug: rtpanel-theme-options-post-comments
