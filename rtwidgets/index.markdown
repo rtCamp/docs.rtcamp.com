@@ -4,7 +4,7 @@ comments: false
 date: 2013-12-27 10:30:15+00:00
 layout: page
 slug: rtwidgets
-title: rtWidgets
+title: rtWidgets Plugin
 wordpress_id: 54158
 ---
 
