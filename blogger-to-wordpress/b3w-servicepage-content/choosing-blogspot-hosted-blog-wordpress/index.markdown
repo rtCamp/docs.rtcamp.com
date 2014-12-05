@@ -1,6 +1,5 @@
 ---
 date: 2010-03-20 07:04:59+00:00
-layout: page
 slug: choosing-blogspot-hosted-blog-wordpress
 title: Choosing between Blogspot and Self hosted Blog using Wordpress
 ---

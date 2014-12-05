@@ -1,6 +1,5 @@
 ---
 date: 2013-11-06 11:16:27+00:00
-layout: page
 slug: delete
 title: Delete Media Files
 ---

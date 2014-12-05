@@ -1,6 +1,5 @@
 ---
 date: 2013-09-27 12:36:41+00:00
-layout: page
 slug: moderation
 title: Moderation
 ---

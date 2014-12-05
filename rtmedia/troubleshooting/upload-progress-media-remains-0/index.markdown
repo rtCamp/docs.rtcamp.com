@@ -2,7 +2,6 @@
 date: 2013-08-14 13:47:02+00:00
 excerpt: This page is meant for troubleshooting the issue of media upload progress
   appearing to be stalled at 0%
-layout: page
 slug: upload-progress-media-remains-0
 title: Upload progress for media remains at 0%
 ---

@@ -1,6 +1,5 @@
 ---
 date: 2014-06-23 09:46:58+00:00
-layout: page
 slug: end-user-documentation
 title: End User Documentation
 ---

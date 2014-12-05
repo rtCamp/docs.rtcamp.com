@@ -3,7 +3,6 @@ date: 2011-01-07 12:30:04+00:00
 excerpt: Easy guide to redirect feed URL of migrated blog from Blogger to WordPress,
   This post will help to update feedburner feed URL with recently updated post in
   WordPress.
-layout: page
 slug: redirect-feed-url-from-blogger-to-wordpress
 title: Redirect Feed URL From Blogger To WordPress
 ---

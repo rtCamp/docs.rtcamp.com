@@ -1,6 +1,5 @@
 ---
 date: 2013-05-07 13:31:58+00:00
-layout: page
 slug: clone-remote-epository
 title: Clone Remote Repository
 ---

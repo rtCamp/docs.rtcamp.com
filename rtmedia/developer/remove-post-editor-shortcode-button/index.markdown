@@ -1,6 +1,5 @@
 ---
 date: 2014-04-24 07:06:57+00:00
-layout: page
 slug: remove-post-editor-shortcode-button
 title: Remove post-editor shortcode button
 ---

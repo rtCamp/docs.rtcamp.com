@@ -1,6 +1,5 @@
 ---
 date: 2014-12-02 12:33:31+00:00
-layout: page
 slug: project-communication
 title: Project Communication
 ---

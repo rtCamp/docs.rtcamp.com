@@ -1,6 +1,5 @@
 ---
 date: 2014-06-12 10:26:52+00:00
-layout: page
 slug: support-2
 title: Support
 ---

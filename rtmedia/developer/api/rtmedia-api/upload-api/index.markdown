@@ -1,6 +1,5 @@
 ---
 date: 2013-06-04 15:16:40+00:00
-layout: page
 published: false
 slug: upload-api
 title: Upload API

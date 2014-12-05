@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 16:16:40+00:00
-layout: page
 slug: url-preview-buddypress-activity
 title: URL preview in BuddyPress activity
 ---

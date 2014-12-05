@@ -5,7 +5,6 @@ excerpt: 'The next most important child theme component is functions.php that is
   layout and content style. For example, if we don’t want the default post meta top/bottom,
   that shows the time, categories, tags or the author name of a particular post, we
   can simply remove it as:'
-layout: page
 slug: child-theme-development-using-rtpanel-part-2
 title: Child Theme development using rtPanel - Part 2
 ---

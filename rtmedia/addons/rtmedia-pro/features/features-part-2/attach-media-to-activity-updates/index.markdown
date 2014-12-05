@@ -1,6 +1,5 @@
 ---
 date: 2013-09-30 10:25:13+00:00
-layout: page
 slug: attach-media-to-activity-updates
 title: Attach media to activity updates
 ---

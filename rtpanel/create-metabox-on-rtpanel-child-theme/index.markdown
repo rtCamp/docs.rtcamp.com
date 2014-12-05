@@ -4,7 +4,6 @@ excerpt: So far we have discussed about Custom post type, Custom taxonomies etc.
   were helpful to separate specific posts from the normal posts and grouping the specific
   post separately. In this article we will learn about 'Creating Metabox on rtPanel
   Child Theme'.
-layout: page
 slug: create-metabox-on-rtpanel-child-theme
 title: Create Metabox on rtPanel Child Theme
 ---

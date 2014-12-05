@@ -1,6 +1,5 @@
 ---
 date: 2013-06-04 15:16:59+00:00
-layout: page
 slug: uploader-shortcode
 title: Uploader Shortcode
 ---

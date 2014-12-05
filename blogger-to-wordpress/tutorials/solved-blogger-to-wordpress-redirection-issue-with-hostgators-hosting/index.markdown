@@ -4,7 +4,6 @@ excerpt: While number of bloggers enjoyed the free migration, some users faced t
   problem of Blogger.com To WordPress Redirection. We received multiple queries on
   our FREE Technical Support Forums from Hostgator customers that they are facing
   problems of re-direction.
-layout: page
 slug: solved-blogger-to-wordpress-redirection-issue-with-hostgators-hosting
 title: '[Solved] Blogger To WordPress Redirection Issue With Hostgator’s Hosting'
 ---

@@ -4,7 +4,6 @@ excerpt: What if users want the different options for both header and logo? Cons
   that we have provided options for the header image and logo separately in rtPanel
   Theme Framwork. That is, if we upload the logo, its clickable, but if we upload
   the header image, its not clickable.
-layout: page
 slug: clickable-header-in-rtpanel-child-theme
 title: Clickable header in rtPanel child theme
 ---

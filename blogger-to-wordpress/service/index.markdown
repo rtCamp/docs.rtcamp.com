@@ -1,6 +1,5 @@
 ---
 date: 2010-03-10 13:16:28+00:00
-layout: page
 slug: service
 title: Service
 ---

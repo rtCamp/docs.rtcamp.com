@@ -1,6 +1,5 @@
 ---
 date: 2014-06-12 07:38:52+00:00
-layout: page
 slug: wordpress
 title: WordPress
 ---

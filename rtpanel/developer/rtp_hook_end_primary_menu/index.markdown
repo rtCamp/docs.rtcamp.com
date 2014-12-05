@@ -1,6 +1,5 @@
 ---
 date: 2014-01-21 09:20:07+00:00
-layout: page
 slug: rtp_hook_end_primary_menu
 title: rtp_hook_end_primary_menu
 ---

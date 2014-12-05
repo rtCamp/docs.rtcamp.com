@@ -2,7 +2,6 @@
 date: 2010-10-21 05:07:08+00:00
 excerpt: Ozh' Admin Drop Down Menu plugin for wordpress dashboard style like blogger.com
   dashboard
-layout: page
 slug: get-blogger-like-top-horizontal-menu-in-wordpress
 title: Get Blogger like Top-Horizontal Menu in WordPress
 ---

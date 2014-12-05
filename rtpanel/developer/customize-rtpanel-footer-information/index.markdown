@@ -1,6 +1,5 @@
 ---
 date: 2014-03-08 10:02:07+00:00
-layout: page
 slug: customize-rtpanel-footer-information
 title: Customize rtPanel Footer Information
 ---

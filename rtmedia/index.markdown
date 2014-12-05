@@ -1,6 +1,5 @@
 ---
 date: 2013-04-18 08:03:08+00:00
-layout: page
 slug: rtmedia
 title: rtMedia
 ---

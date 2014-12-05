@@ -1,6 +1,5 @@
 ---
 date: 2013-06-12 14:57:08+00:00
-layout: page
 slug: submit-sitemap-search-engine
 title: How to submit Sitemap to Search Engine ?
 ---

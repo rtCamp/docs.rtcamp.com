@@ -1,6 +1,5 @@
 ---
 date: 2014-11-11 09:19:10+00:00
-layout: page
 slug: rtdating
 title: rtDating
 ---

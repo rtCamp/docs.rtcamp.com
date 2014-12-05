@@ -1,6 +1,5 @@
 ---
 date: 2012-09-24 18:59:32+00:00
-layout: page
 slug: installation
 title: Installation
 ---

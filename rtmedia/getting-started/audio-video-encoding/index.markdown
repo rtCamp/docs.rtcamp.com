@@ -1,6 +1,5 @@
 ---
 date: 2014-06-11 07:54:54+00:00
-layout: page
 slug: audio-video-encoding
 title: Audio/Video Encoding
 ---

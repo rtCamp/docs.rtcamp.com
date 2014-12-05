@@ -1,6 +1,5 @@
 ---
 date: 2013-07-10 13:13:08+00:00
-layout: page
 slug: templating-system
 title: Templating System
 ---

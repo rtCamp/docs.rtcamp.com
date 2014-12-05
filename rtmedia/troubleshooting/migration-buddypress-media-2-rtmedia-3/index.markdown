@@ -1,6 +1,5 @@
 ---
 date: 2013-10-01 07:38:21+00:00
-layout: page
 slug: migration-buddypress-media-2-rtmedia-3
 title: Migration from BuddyPress-Media 2.x to rtMedia 3.x
 ---

@@ -2,7 +2,6 @@
 date: 2012-02-08 12:02:41+00:00
 excerpt: Let us see how to Create Custom Taxonomy on rtPanel and what are its uses.
   Taxonomies are used to classify posts in your WordPress blog.
-layout: page
 slug: create-custom-taxonomy-on-rtpanel
 title: Create Custom Taxonomy on rtPanel
 ---

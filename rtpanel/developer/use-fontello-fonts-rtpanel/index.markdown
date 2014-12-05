@@ -1,6 +1,5 @@
 ---
 date: 2014-01-28 06:08:37+00:00
-layout: page
 slug: use-fontello-fonts-rtpanel
 title: How to use Fontello fonts in rtPanel
 ---

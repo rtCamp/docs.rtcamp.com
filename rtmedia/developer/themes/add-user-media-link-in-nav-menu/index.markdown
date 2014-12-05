@@ -1,6 +1,5 @@
 ---
 date: 2014-08-31 19:05:43+00:00
-layout: page
 slug: add-user-media-link-in-nav-menu
 title: Add user's media link in wp main nav menu
 ---

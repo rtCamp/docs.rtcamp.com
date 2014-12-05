@@ -1,6 +1,5 @@
 ---
 date: 2014-01-21 07:28:19+00:00
-layout: page
 slug: rtp_hook_begin_body
 title: rtp_hook_begin_body
 ---

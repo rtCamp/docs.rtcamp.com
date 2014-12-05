@@ -1,6 +1,5 @@
 ---
 date: 2014-11-27 06:40:44+00:00
-layout: page
 slug: allow-custom-media-types
 title: allow custom media types
 ---

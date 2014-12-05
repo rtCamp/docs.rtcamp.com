@@ -1,6 +1,5 @@
 ---
 date: 2013-12-20 14:34:27+00:00
-layout: page
 slug: upgrading-rtmedia-3-2-to-3-3
 title: Upgrading from rtMedia 3.2.x to 3.3.x
 ---

@@ -1,6 +1,5 @@
 ---
 date: 2013-10-01 12:46:05+00:00
-layout: page
 slug: sidebar-widgets
 title: Sidebar widgets
 ---

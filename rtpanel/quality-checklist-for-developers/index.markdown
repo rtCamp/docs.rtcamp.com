@@ -4,7 +4,6 @@ excerpt: When it comes to quality of the site we need some predefined guidelines
   ensures that the quality of developed website meets the client's expectation. Hence
   to overcome this we created our own rtChecklists, so that we can maintain quality
   of the site
-layout: page
 slug: quality-checklist-for-developers
 title: Quality Checklist For Developers
 ---

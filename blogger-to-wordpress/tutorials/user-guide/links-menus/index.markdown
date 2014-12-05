@@ -2,7 +2,6 @@
 date: 2010-09-01 02:14:21+00:00
 excerpt: This articles is a explantion on how to use Link Menu in WordPress. This
   is part of the Blogger to WordPress User Guide series.
-layout: page
 slug: links-menus
 title: Links Menu on Wordpress
 ---

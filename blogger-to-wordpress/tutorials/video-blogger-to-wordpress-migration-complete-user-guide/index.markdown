@@ -3,7 +3,6 @@ date: 2011-03-14 08:10:34+00:00
 excerpt: ' If you have already read our Complete DIY Migration user guide, you would
   be able to understand this tutorial better. This video will help all those who want
   to perform the Blogger to WordPress migration on their own, without our hel'
-layout: page
 slug: video-blogger-to-wordpress-migration-complete-user-guide
 title: '[Video] Blogger to WordPress Migration - Complete User Guide'
 ---

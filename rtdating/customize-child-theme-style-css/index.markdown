@@ -1,6 +1,5 @@
 ---
 date: 2014-12-04 18:33:07
-layout: page
 slug: customize-child-theme-style-css
 title: Customize child theme style.css
 ---

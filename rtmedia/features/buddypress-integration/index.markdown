@@ -1,6 +1,5 @@
 ---
 date: 2013-09-30 10:27:53+00:00
-layout: page
 slug: buddypress-integration
 title: BuddyPress integration
 ---

@@ -2,7 +2,6 @@
 date: 2010-08-31 00:33:13+00:00
 excerpt: A tutorial on Managing media files with WordPress which is a part of the
   Blogger to WordPress User-Guide series.
-layout: page
 slug: media-files-with-wordpress
 title: Managing media files with Wordpress
 ---

@@ -1,6 +1,5 @@
 ---
 date: 2013-11-01 09:07:13+00:00
-layout: page
 slug: galleries
 title: 'Sidebar widgets: Galleries'
 ---

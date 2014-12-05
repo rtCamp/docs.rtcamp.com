@@ -1,6 +1,5 @@
 ---
 date: 2013-06-12 07:32:20+00:00
-layout: page
 slug: endpoints
 title: Endpoints
 ---

@@ -1,7 +1,6 @@
 ---
 date: 2013-08-19 09:06:34+00:00
 excerpt: This is the user documentation page for rtMedia.
-layout: page
 slug: rtmedia-description-and-features
 title: rtMedia End-User Documentation
 ---

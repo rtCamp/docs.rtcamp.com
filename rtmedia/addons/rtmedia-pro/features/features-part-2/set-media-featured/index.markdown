@@ -1,6 +1,5 @@
 ---
 date: 2013-11-04 10:57:30+00:00
-layout: page
 slug: set-media-featured
 title: Set media as featured
 ---

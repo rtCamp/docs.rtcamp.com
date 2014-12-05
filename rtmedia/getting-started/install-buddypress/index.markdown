@@ -1,6 +1,5 @@
 ---
 date: 2014-06-16 11:29:42+00:00
-layout: page
 slug: install-buddypress
 title: Installing BuddyPress
 ---

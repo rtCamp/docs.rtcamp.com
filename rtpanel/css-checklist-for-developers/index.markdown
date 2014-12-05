@@ -5,7 +5,6 @@ excerpt: 'Before you actually start with styling, just analyse the common elemen
   redundancy in css.
 
   So plan before you write any of the css code.'
-layout: page
 slug: css-checklist-for-developers
 title: CSS Checklist for developers
 ---

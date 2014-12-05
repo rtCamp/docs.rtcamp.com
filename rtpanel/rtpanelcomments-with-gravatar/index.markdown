@@ -3,7 +3,6 @@ date: 2012-02-07 07:00:07+00:00
 excerpt: Gravatar is abbreviation for Globally Recognized. Avatar At admin dashboard
   'rtPanel:Comments with Gravatar' widget have provided options to customize the Gravator
   display
-layout: page
 slug: rtpanelcomments-with-gravatar
 title: rtPanel:Comments with Gravatar
 ---
