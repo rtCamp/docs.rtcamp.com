@@ -1,5 +1,4 @@
 ---
-author: abhimanyu1
 comments: false
 date: 2011-12-19 13:48:36+00:00
 layout: page

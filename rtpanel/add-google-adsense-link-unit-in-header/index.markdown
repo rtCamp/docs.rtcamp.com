@@ -1,5 +1,4 @@
 ---
-author: abhimanyu1
 comments: false
 date: 2012-02-13 10:11:43+00:00
 excerpt: Google Ad-sense Link unit in the header section of the rtPanel child theme,

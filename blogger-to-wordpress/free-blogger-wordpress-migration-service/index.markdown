@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2013-02-23 06:49:59+00:00
 excerpt: You can obtain free or discounted Blogger to WordPress migration services

@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-09-07 05:13:14+00:00
 excerpt: Here is a detailed look at what is the importance of Themes on a self hosted

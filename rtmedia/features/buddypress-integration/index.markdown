@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: false
 date: 2013-09-30 10:27:53+00:00
 layout: page

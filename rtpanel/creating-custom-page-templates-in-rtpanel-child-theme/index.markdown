@@ -1,5 +1,4 @@
 ---
-author: abhimanyu1
 comments: false
 date: 2011-12-19 06:13:39+00:00
 excerpt: There are several customization to be done on a single page. In such cases,

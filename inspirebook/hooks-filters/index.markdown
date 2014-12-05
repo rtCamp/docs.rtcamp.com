@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2014-11-19 10:21:32+00:00
 layout: page

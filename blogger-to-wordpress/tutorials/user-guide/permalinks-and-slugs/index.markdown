@@ -1,5 +1,4 @@
 ---
-author: adityakane
 comments: false
 date: 2010-09-18 05:23:35+00:00
 excerpt: Permalinks and slugs play a very important role in any blog, specially in

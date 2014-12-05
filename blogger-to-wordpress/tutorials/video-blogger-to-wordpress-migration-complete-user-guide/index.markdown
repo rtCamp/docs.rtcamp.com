@@ -1,5 +1,4 @@
 ---
-author: omkarjoglekar
 comments: false
 date: 2011-03-14 08:10:34+00:00
 excerpt: ' If you have already read our Complete DIY Migration user guide, you would

@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2011-01-25 17:12:30+00:00
 excerpt: 'Google Apps is a service from Google for using custom domain names with

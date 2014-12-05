@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-08-04 12:46:50+00:00
 excerpt: Disqus provides third-party commenting system for blogs running on WordPress,

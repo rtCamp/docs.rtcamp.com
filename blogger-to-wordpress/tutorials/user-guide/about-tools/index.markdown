@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-09-15 08:32:07+00:00
 excerpt: Tools are very important feature of WordPress for Bloggers to manage their

@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-02-06 09:51:00+00:00
 excerpt: 'f you want to add social networking links in your website, then "rtPanel:

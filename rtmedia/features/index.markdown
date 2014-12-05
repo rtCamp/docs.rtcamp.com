@@ -1,5 +1,4 @@
 ---
-author: adityakane
 comments: false
 date: 2014-06-23 03:30:33+00:00
 layout: page

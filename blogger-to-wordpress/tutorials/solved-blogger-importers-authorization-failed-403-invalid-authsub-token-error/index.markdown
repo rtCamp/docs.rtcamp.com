@@ -1,5 +1,4 @@
 ---
-author: rahul.bansal
 comments: false
 date: 2010-08-17 14:08:13+00:00
 excerpt: Wordpress plugin for Blogger Importer is throwing error "Authorization failed

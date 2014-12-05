@@ -1,5 +1,4 @@
 ---
-author: rahul.bansal
 comments: false
 date: 2011-01-15 09:00:06+00:00
 layout: page

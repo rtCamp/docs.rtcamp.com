@@ -1,5 +1,4 @@
 ---
-author: rahul.bansal
 comments: false
 date: 2010-12-23 08:10:59+00:00
 excerpt: This plugin is used to redirect posts from Blogger to WordPress without losing

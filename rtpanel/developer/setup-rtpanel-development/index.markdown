@@ -1,5 +1,4 @@
 ---
-author: manish.songirkar
 comments: false
 date: 2014-01-27 14:03:39+00:00
 layout: page

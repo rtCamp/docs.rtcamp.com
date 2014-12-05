@@ -1,5 +1,4 @@
 ---
-author: sagar.jadhav@rtcamp.com
 comments: false
 date: 2014-12-04 14:14:58+00:00
 layout: page

@@ -1,5 +1,4 @@
 ---
-author: Pranali Patel
 comments: false
 date: 2014-11-26 09:58:08+00:00
 layout: page

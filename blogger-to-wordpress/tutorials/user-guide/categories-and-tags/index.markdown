@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-09-03 04:50:53+00:00
 excerpt: This article covers how to create and maintain categories and tags with WordPress.

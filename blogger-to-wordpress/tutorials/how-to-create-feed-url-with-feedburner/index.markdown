@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2011-01-20 11:01:45+00:00
 excerpt: 'FeedBurner is a web feed management provider. FeedBurner provides custom

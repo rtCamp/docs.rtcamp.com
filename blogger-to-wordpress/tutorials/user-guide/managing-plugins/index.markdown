@@ -1,5 +1,4 @@
 ---
-author: adityakane
 comments: false
 date: 2010-09-13 04:41:46+00:00
 excerpt: This articles covers Plugins with WordPress. Plugins are important and actually

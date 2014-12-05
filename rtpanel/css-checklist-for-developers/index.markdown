@@ -1,5 +1,4 @@
 ---
-author: sagar.jadhav@rtcamp.com
 comments: false
 date: 2011-12-28 13:19:02+00:00
 excerpt: 'Before you actually start with styling, just analyse the common elements

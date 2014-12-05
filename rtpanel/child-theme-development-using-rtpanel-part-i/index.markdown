@@ -1,5 +1,4 @@
 ---
-author: abhimanyu1
 comments: false
 date: 2011-12-13 13:23:12+00:00
 excerpt: Child themes are extension of parent theme, which can be further customized

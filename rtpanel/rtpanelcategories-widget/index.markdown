@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-01-27 11:05:10+00:00
 excerpt: Widgets is a functionality in WordPress which offers interactive options

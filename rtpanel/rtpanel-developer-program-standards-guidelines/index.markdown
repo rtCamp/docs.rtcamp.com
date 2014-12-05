@@ -1,5 +1,4 @@
 ---
-author: gajanan.sapate
 comments: false
 date: 2011-11-15 13:01:39+00:00
 excerpt: Quality of codes and usability of options are the key parameters we focus

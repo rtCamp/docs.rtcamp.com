@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2011-01-07 12:30:04+00:00
 excerpt: Easy guide to redirect feed URL of migrated blog from Blogger to WordPress,

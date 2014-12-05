@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-09-17 05:54:29+00:00
 excerpt: In a WordPress blog we can see there are a certain number of posts showed

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: false
 date: 2013-07-30 04:59:46+00:00
 excerpt: Clicking on the Media tab on a BuddyPress profile on having installed the

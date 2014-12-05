@@ -1,5 +1,4 @@
 ---
-author: adityakane
 comments: false
 date: 2010-09-14 04:50:16+00:00
 excerpt: When a blog has many users or writers for that matter WordPress allows us

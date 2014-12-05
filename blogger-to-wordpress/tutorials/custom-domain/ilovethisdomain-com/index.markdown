@@ -1,5 +1,4 @@
 ---
-author: omkarjoglekar
 comments: false
 date: 2011-01-05 04:30:00+00:00
 excerpt: User guide to setup your custom domain with Blogger.com blog through ILoveThisDomain

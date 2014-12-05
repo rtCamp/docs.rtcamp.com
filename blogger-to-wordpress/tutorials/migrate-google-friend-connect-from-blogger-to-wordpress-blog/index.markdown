@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2011-01-15 01:30:59+00:00
 excerpt: When they migrate their blog from Blogger to self hosted WordPress, they

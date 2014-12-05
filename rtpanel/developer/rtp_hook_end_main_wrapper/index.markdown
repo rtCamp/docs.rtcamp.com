@@ -1,5 +1,4 @@
 ---
-author: joshuaabenazer
 comments: false
 date: 2014-01-21 07:40:13+00:00
 layout: page

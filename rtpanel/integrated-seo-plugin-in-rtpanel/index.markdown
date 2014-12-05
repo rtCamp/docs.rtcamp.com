@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-02-23 14:32:50+00:00
 excerpt: The website is successful when it meets its visitors' needs. The presentation

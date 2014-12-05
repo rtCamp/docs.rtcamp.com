@@ -1,5 +1,4 @@
 ---
-author: rtcamp
 comments: false
 date: 2010-03-08 22:07:20+00:00
 layout: page

@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2011-12-21 11:38:40+00:00
 excerpt: When it comes to quality of the site we need some predefined guidelines which

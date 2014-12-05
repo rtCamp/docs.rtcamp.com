@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2011-01-31 02:30:42+00:00
 excerpt: If you are using Godaddy's Domain/Hosting service and if you want to give

@@ -1,5 +1,4 @@
 ---
-author: rtcamp
 comments: false
 date: 2010-04-30 22:31:00+00:00
 excerpt: Blogspot to Wordpress import problem solved, Unable to find the socket transport

@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-09-10 06:01:16+00:00
 excerpt: How to add Menus in WordPress with the help of Widgets. Details on how menu

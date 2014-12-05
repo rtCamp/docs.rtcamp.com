@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-03-27 07:13:22+00:00
 excerpt: Considering this, rtPanel has also been offering some awesome in-built hooks.

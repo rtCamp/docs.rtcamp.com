@@ -1,5 +1,4 @@
 ---
-author: abhishek.kaushik
 comments: false
 date: 2013-09-27 12:36:41+00:00
 layout: page

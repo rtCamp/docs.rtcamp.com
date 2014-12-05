@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-01-31 07:42:47+00:00
 excerpt: It has been over few months since rtPanel has been accepted in official WordPress

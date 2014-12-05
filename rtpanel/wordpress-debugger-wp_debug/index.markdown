@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-01-18 06:41:02+00:00
 excerpt: In Codex it is mentioned that "WP_DEBUG  is a PHP constant (a permanent global

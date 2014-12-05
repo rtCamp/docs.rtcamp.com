@@ -1,5 +1,4 @@
 ---
-author: apekshadeshpande
 comments: false
 date: 2012-03-23 11:51:45+00:00
 excerpt: Filters are the special function able to modify the data without altering

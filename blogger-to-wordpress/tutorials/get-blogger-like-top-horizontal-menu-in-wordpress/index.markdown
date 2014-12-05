@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-10-21 05:07:08+00:00
 excerpt: Ozh' Admin Drop Down Menu plugin for wordpress dashboard style like blogger.com

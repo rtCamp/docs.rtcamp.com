@@ -1,5 +1,4 @@
 ---
-author: saurabhshukla
 comments: false
 date: 2013-07-10 07:22:11+00:00
 layout: page

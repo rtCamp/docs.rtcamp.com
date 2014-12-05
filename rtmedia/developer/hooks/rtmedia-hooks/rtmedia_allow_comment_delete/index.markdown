@@ -1,5 +1,4 @@
 ---
-author: Ritesh Patel
 comments: false
 date: 2014-09-23 07:03:00+00:00
 layout: page

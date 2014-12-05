@@ -1,5 +1,4 @@
 ---
-author: nitun.lanjewar
 comments: false
 date: 2010-09-06 03:09:59+00:00
 excerpt: Comments play a very important role in any blog. Comments are basically views
