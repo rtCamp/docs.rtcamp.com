@@ -5,7 +5,6 @@ date: 2013-11-06 11:08:01+00:00
 layout: page
 slug: like
 title: Like button for media
-wordpress_id: 50310
 ---
 
 A **Like** button is provided on all media’s individual pages or lightboxes.

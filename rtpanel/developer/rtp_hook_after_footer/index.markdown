@@ -5,7 +5,6 @@ date: 2012-04-25 10:46:01+00:00
 layout: page
 slug: rtp_hook_after_footer
 title: rtp_hook_after_footer
-wordpress_id: 3093
 ---
 
 ### Description

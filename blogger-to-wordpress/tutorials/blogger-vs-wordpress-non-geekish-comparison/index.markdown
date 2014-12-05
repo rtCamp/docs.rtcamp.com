@@ -7,7 +7,6 @@ excerpt: Here I am comparing between Blogger and WordPress from a end-user's per
 layout: page
 slug: blogger-vs-wordpress-non-geekish-comparison
 title: Blogger vs WordPress – Non-Geekish Comparison
-wordpress_id: 1977
 ---
 
 Considering that we offer a service for moving blogs from **Blogger (BlogSpot) **to **WordPress,** I thought of writing about some pros and cons about both.

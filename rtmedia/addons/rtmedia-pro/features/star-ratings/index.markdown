@@ -5,7 +5,6 @@ date: 2013-11-01 11:00:59+00:00
 layout: page
 slug: star-ratings
 title: Star ratings
-wordpress_id: 50102
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

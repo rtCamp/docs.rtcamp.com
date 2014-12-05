@@ -5,7 +5,6 @@ date: 2014-03-10 07:31:02+00:00
 layout: page
 slug: handling-gruntfile-js-rtpanel
 title: Handling gruntfile.js in rtPanel
-wordpress_id: 58641
 ---
 
 The Gruntfile is a JavaScript file that defines your projects tasks and configuration. When you run `grunt` from the terminal, Grunt will check your Gruntfile and executes any tasks you've defined in gruntfile.js.

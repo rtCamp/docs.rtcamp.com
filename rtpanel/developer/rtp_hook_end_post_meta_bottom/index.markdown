@@ -5,7 +5,6 @@ date: 2012-04-25 11:29:40+00:00
 layout: page
 slug: rtp_hook_end_post_meta_bottom
 title: rtp_hook_end_post_meta_bottom
-wordpress_id: 3134
 ---
 
 ### Description

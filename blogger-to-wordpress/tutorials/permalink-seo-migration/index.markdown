@@ -8,7 +8,6 @@ excerpt: Best guide to move (switch) from blogger (BlogSpot) to WordPress withou
 layout: page
 slug: permalink-seo-migration
 title: Blogger To WordPress Migration Guide with Permalink & SEO
-wordpress_id: 4077
 ---
 
 #### About this Do-It-Yourself (DIY) Blogger to WordPress Migration Guide

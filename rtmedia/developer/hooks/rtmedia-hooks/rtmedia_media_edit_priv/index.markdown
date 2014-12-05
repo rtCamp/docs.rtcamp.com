@@ -5,7 +5,6 @@ date: 2014-09-23 06:52:30+00:00
 layout: page
 slug: rtmedia_media_edit_priv
 title: rtmedia_media_edit_priv
-wordpress_id: 67584
 ---
 
 ### Description

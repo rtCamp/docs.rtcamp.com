@@ -8,7 +8,6 @@ excerpt: When you create your free blog on blogger, it gives you a default domai
 layout: page
 slug: how-to-setup-a-custom-domain-with-blogger
 title: How to setup a Custom Domain with Blogger
-wordpress_id: 2670
 ---
 
 When you create your free blog on **Blogger.com**, it gives you a default domain, which looks something like this  **myblog.blogspot.com**. It also provides you with the option of creating your own domain name, such as **myblog.com** or **myblog.org**.

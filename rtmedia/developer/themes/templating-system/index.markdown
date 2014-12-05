@@ -5,7 +5,6 @@ date: 2013-07-10 13:13:08+00:00
 layout: page
 slug: templating-system
 title: Templating System
-wordpress_id: 39012
 ---
 
 **Note:** You may [try this quick-fix first](https://rtcamp.com/rtmedia/docs/developer/templating-system/theme-media-tab/), which solved more than 90% theme compatibility issue.

@@ -5,7 +5,6 @@ date: 2013-10-01 12:45:17+00:00
 layout: page
 slug: sidebar-widgets-uploaders
 title: 'Sidebar widgets: Uploaders'
-wordpress_id: 47719
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

@@ -9,7 +9,6 @@ excerpt: Widgets are used to customize content that can be displayed on all the 
 layout: page
 slug: managing-widgets
 title: Managing Widgets in Wordpress
-wordpress_id: 1461
 ---
 
 ## Introduction

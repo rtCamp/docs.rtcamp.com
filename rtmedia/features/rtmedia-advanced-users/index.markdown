@@ -5,7 +5,6 @@ date: 2014-12-01 11:35:50+00:00
 layout: page
 slug: rtmedia-advanced-users
 title: rtMedia for advanced users
-wordpress_id: 44710
 ---
 
 ### rtMedia for advanced users

@@ -7,7 +7,6 @@ excerpt: This plugin is used to redirect posts from Blogger to WordPress without
 layout: page
 slug: blogger-to-wordpress-redirection-plugin
 title: Blogger To WordPress Redirection Plugin
-wordpress_id: 2751
 ---
 
 

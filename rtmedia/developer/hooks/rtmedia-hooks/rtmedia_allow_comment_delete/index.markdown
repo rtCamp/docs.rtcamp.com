@@ -5,7 +5,6 @@ date: 2014-09-23 07:03:00+00:00
 layout: page
 slug: rtmedia_allow_comment_delete
 title: rtmedia_allow_comment_delete
-wordpress_id: 67591
 ---
 
 ### Description

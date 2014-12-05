@@ -5,7 +5,6 @@ date: 2014-06-11 07:54:54+00:00
 layout: page
 slug: audio-video-encoding
 title: Audio/Video Encoding
-wordpress_id: 65781
 ---
 
 rtMedia offers inbuilt audio/video encoding service. The following four plans are available:

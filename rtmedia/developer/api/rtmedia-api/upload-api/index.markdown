@@ -6,7 +6,6 @@ layout: page
 published: false
 slug: upload-api
 title: Upload API
-wordpress_id: 39006
 ---
 
 **Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/news/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet. Not recommended for production environments.

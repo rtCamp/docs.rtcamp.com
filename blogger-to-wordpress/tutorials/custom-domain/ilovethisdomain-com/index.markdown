@@ -7,7 +7,6 @@ excerpt: User guide to setup your custom domain with Blogger.com blog through IL
 layout: page
 slug: ilovethisdomain-com
 title: How to Setup Custom Domain on Blogger with ILovethisDomain.com
-wordpress_id: 2675
 ---
 
 Follow these steps to setup your Blogger Domain with your **ILoveThisDomain** (ILTD) account.

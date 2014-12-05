@@ -5,7 +5,6 @@ date: 2014-02-07 10:51:30+00:00
 layout: page
 slug: rtp_search_placeholder
 title: rtp_search_placeholder
-wordpress_id: 10285
 ---
 
 Modify search box placeholder text in search form.

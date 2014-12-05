@@ -5,7 +5,6 @@ date: 2014-10-21 09:58:04+00:00
 layout: page
 slug: favlist
 title: FavList
-wordpress_id: 67618
 ---
 
 Users can create favorite list of media ( FavList ) in which they can add previously uploaded media by any user in respect of privacy.

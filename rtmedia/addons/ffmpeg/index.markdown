@@ -5,7 +5,6 @@ date: 2014-08-12 14:11:56+00:00
 layout: page
 slug: ffmpeg
 title: FFMPEG
-wordpress_id: 67191
 ---
 
 This addon adds automatic video conversion support for the rtMedia plugin. When installed, your BuddyPress users will be able to upload videos in many more formats.

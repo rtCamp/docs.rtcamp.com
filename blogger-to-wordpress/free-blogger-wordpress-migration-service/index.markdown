@@ -8,7 +8,6 @@ excerpt: You can obtain free or discounted Blogger to WordPress migration servic
 layout: page
 slug: free-blogger-wordpress-migration-service
 title: Free/Discounted Services
-wordpress_id: 41549
 ---
 
 Did you know we have some cool offers for our Blogger to WordPress migration service?

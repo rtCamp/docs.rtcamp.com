@@ -5,7 +5,6 @@ date: 2013-10-01 06:07:37+00:00
 layout: page
 slug: addons
 title: Addons
-wordpress_id: 47502
 ---
 
 rtMedia (Core) is a free plugin available in the WordPress plugin directory. However, there are addons that extend the capabilities of this free rtMedia Plugin.

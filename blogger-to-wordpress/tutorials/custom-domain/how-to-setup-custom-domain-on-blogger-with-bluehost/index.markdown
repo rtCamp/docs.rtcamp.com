@@ -7,7 +7,6 @@ excerpt: Follow the following steps to setup your Blogger domain name through yo
 layout: page
 slug: how-to-setup-custom-domain-on-blogger-with-bluehost
 title: How to Setup Custom Domain on Blogger with BlueHost
-wordpress_id: 4525
 ---
 
 Follow the following steps to setup your Blogger domain name through your Bluehost account.

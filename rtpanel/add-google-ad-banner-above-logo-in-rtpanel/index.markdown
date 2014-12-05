@@ -7,7 +7,6 @@ excerpt: In previous post, we have seen the rtPanel Hooks map. Now lets see how 
 layout: page
 slug: add-google-ad-banner-above-logo-in-rtpanel
 title: Add Google ad-banner above logo in rtPanel
-wordpress_id: 3947
 ---
 
 In [previous post](https://rtcamp.com/blog/hooks-rtpanel-child-theme/), we have seen the rtPanel Hooks map. Now lets see how we can we use 'rtPanel Hooks' to add extra functionality while developing theme.

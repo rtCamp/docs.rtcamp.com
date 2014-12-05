@@ -8,7 +8,6 @@ excerpt: Easy guide to redirect feed URL of migrated blog from Blogger to WordPr
 layout: page
 slug: redirect-feed-url-from-blogger-to-wordpress
 title: Redirect Feed URL From Blogger To WordPress
-wordpress_id: 2720
 ---
 
 After the successful migration of **Blogger.com** to self hosted **WordPress** blog, many people face the problem of feeds not getting updated in WordPress blog with the current feed URL.

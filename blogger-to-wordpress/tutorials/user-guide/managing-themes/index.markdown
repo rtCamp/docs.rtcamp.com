@@ -8,7 +8,6 @@ excerpt: Here is a detailed look at what is the importance of Themes on a self h
 layout: page
 slug: managing-themes
 title: Managing Themes in Wordpress
-wordpress_id: 1460
 ---
 
 ## Introduction

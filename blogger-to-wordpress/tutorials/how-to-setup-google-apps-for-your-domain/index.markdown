@@ -8,7 +8,6 @@ excerpt: 'Google Apps is a service from Google for using custom domain names wit
 layout: page
 slug: how-to-setup-google-apps-for-your-domain
 title: How To Setup Google Apps For your Domain
-wordpress_id: 3863
 ---
 
 **Google Apps** is a service from Google for using custom domain name with  several Google products. It provides  similar functionality for your domain like email,  Calendar, Chat, Docs, Sites, etc. You can use free Google Apps service as well as the premium service (paid service) for the same.

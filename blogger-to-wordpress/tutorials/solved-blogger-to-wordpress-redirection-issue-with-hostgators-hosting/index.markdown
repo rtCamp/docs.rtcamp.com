@@ -9,7 +9,6 @@ excerpt: While number of bloggers enjoyed the free migration, some users faced t
 layout: page
 slug: solved-blogger-to-wordpress-redirection-issue-with-hostgators-hosting
 title: '[Solved] Blogger To WordPress Redirection Issue With Hostgator’s Hosting'
-wordpress_id: 4589
 ---
 
 We wrote [Blogger To WordPress Migration](https://rtcamp.com/tutorials/migrate-from-blogger-to-wordpress-best-diy-tutorial/) article few months back and got a tremendous response. It helped many of bloggers to move their Blogger.com blog to self hosted WordPress. To make the process even easier, we offered Free Migration on purchase of Hosting from our [recommended hosts](https://rtcamp.com/webhosts/).

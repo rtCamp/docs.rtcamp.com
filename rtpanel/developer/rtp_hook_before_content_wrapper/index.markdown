@@ -5,7 +5,6 @@ date: 2014-01-21 09:25:57+00:00
 layout: page
 slug: rtp_hook_before_content_wrapper
 title: rtp_hook_before_content_wrapper
-wordpress_id: 56087
 ---
 
 ### Description

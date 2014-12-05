@@ -7,7 +7,6 @@ excerpt: Part 2 of Blogger to WordPress user guide series. Briefly introducing W
 layout: page
 slug: wordpress-dashboard
 title: Saying Hello to WordPress Dashboard!
-wordpress_id: 1231
 ---
 
 ## Introduction

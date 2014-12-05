@@ -5,7 +5,6 @@ date: 2014-11-27 06:40:44+00:00
 layout: page
 slug: allow-custom-media-types
 title: allow custom media types
-wordpress_id: 67969
 ---
 
 By default rtMedia support `mp4` file format for video and `mp3` for audio. If you want to allow other file formats than you will need to add following code in your theme or plugin.

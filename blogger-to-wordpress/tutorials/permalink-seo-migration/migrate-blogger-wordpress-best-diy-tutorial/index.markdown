@@ -5,7 +5,6 @@ date: 2014-12-02 11:43:34+00:00
 layout: page
 slug: migrate-blogger-wordpress-best-diy-tutorial
 title: Migrate from Blogger to WordPress - Best DIY Tutorial
-wordpress_id: 12160
 ---
 
 #### About this Do-It-Yourself (DIY) Blogger to WordPress Migration Guide

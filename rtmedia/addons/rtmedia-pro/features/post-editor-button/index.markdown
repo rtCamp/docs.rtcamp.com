@@ -5,7 +5,6 @@ date: 2014-08-13 17:30:50+00:00
 layout: page
 slug: post-editor-button
 title: Post-Editor Shortcode Button
-wordpress_id: 67300
 ---
 
 Using the rtMedia PRO add-on along with rtMedia’s core, site administrators can quickly create gallery and uploader shortcodes by using the shortcode generator button in WordPress’ post editor.

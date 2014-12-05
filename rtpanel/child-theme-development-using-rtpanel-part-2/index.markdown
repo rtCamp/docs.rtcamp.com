@@ -10,7 +10,6 @@ excerpt: 'The next most important child theme component is functions.php that is
 layout: page
 slug: child-theme-development-using-rtpanel-part-2
 title: Child Theme development using rtPanel - Part 2
-wordpress_id: 796
 ---
 
 We got to know about the _**style.css**_ in the [previous post](https://rtcamp.com/blog/child-theme-development-rtpanel-part/). The next most important child theme component is **_functions.php_** that is used for creating custom actions on different hooks and filters to achieve the desired layout and content style. For example, if we don’t want the default post meta top/bottom, that shows the time, categories, tags or the author name of a particular post, we can simply remove it as:

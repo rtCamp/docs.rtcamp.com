@@ -5,7 +5,6 @@ date: 2012-04-25 10:39:13+00:00
 layout: page
 slug: rtp_default_image_path
 title: rtp_default_image_path
-wordpress_id: 3085
 ---
 
 ### Description

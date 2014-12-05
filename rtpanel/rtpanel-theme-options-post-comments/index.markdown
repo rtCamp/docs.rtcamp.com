@@ -5,7 +5,6 @@ date: 2014-02-26 13:15:42+00:00
 layout: page
 slug: rtpanel-theme-options-post-comments
 title: rtPanel Theme Options 'Post & Comments'
-wordpress_id: 58066
 ---
 
 In this page we are going to discuss options/setting provided in `rtPanel > Post & Comments` tab.

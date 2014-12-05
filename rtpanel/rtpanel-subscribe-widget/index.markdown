@@ -9,7 +9,6 @@ excerpt: 'f you want to add social networking links in your website, then "rtPan
 layout: page
 slug: rtpanel-subscribe-widget
 title: 'rtPanel: Subscribe Widget'
-wordpress_id: 3935
 ---
 
 In the previous post we have seen about "[rtPanel: Categories Widget](https://rtcamp.com/blog/rtp-categories-widget/)" now we will move forward and have a look at next default widget of rtPanel i.e Subscribe Widget.

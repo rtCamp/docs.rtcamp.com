@@ -5,7 +5,6 @@ date: 2013-10-01 15:20:06+00:00
 layout: page
 slug: playlists-audio
 title: Playlists for Audio
-wordpress_id: 47765
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

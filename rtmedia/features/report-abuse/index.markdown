@@ -5,7 +5,6 @@ date: 2013-10-31 14:13:29+00:00
 layout: page
 slug: report-abuse
 title: Report abuse
-wordpress_id: 50009
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

@@ -8,7 +8,6 @@ excerpt: Comments play a very important role in any blog. Comments are basically
 layout: page
 slug: comment-moderation-and-settings
 title: Comment Moderation and Settings In WordPress
-wordpress_id: 12389
 ---
 
 ## Introduction

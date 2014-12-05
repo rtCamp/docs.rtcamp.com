@@ -8,7 +8,6 @@ excerpt: Permalinks and slugs play a very important role in any blog, specially 
 layout: page
 slug: permalinks-and-slugs
 title: Understanding Permalinks and Slugs in WordPress
-wordpress_id: 1525
 ---
 
 ## Introduction

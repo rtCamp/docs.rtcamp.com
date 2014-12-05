@@ -5,7 +5,6 @@ date: 2013-11-06 11:33:50+00:00
 layout: page
 slug: download-button-media
 title: Download media or other files
-wordpress_id: 50321
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

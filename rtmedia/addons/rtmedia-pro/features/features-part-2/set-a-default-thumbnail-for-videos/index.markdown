@@ -5,7 +5,6 @@ date: 2013-11-07 06:19:31+00:00
 layout: page
 slug: set-a-default-thumbnail-for-videos
 title: Set a default thumbnail for videos
-wordpress_id: 50362
 ---
 
 With every video that you upload through [our audio/video encoding service](https://rtcamp.com/rtmedia/addons/audio-video-encoding-service/), several thumbnails may be generated. The highest quality thumbnail will be automatically chosen as the default one. You can change the default thumbnail by choosing one of the thumbnails generated.

@@ -5,7 +5,6 @@ date: 2013-06-04 15:13:06+00:00
 layout: page
 slug: upload-endpoint
 title: Upload Endpoint
-wordpress_id: 39001
 ---
 
 **Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/news/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet. Not recommended for production environments.

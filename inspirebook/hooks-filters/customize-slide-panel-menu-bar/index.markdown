@@ -5,7 +5,6 @@ date: 2014-11-19 09:13:28+00:00
 layout: page
 slug: customize-slide-panel-menu-bar
 title: Customize slide panel menu bar
-wordpress_id: 67919
 ---
 
 InspireBook slide panel menu bar can be customize with hooks. We have provided following hooks, so it can be easy to make changes.

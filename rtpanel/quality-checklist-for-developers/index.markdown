@@ -9,7 +9,6 @@ excerpt: When it comes to quality of the site we need some predefined guidelines
 layout: page
 slug: quality-checklist-for-developers
 title: Quality Checklist For Developers
-wordpress_id: 869
 ---
 
 When it comes to quality of the site we need some predefined guidelines which ensures that the quality of developed website meets the client's expectation. Hence to overcome this we created our own rtChecklists, so that we can maintain quality of the site. It will be very helpful for the developers to follow the rtChecklist while developing their site . This should reduce the testing time as well as bugs/code fixing time after testing. The wordpress theme can be tested in 9 section as follow:

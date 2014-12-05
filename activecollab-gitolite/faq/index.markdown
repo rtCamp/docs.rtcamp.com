@@ -5,7 +5,6 @@ date: 2013-04-11 09:37:50+00:00
 layout: page
 slug: faq
 title: FAQ
-wordpress_id: 36849
 ---
 
 Below are answer to some frequently asked questions.

@@ -7,7 +7,6 @@ excerpt: Solution for error  - "The page you have requested cannot be displayed.
 layout: page
 slug: solution-error-the-site-has-not-been-registered-during-wordpress-import
 title: '[Solution] Error - "The site has not been registered" during WordPress Import'
-wordpress_id: 4384
 ---
 
 John has posted a support request in our [free forum](http://bloggertowp.org/forums/topic/running-blogger-to-wordpress-redirection-plugin-as-part-of-the-migration#post-90) asking for solution, following error which he has encountered while using our [Blogger To WordPress Redirection User Guide](http://bloggertowp.org/migrate-from-blogger-to-wordpress-best-tutorial/) (DIY Tutorial).

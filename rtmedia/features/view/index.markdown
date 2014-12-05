@@ -5,7 +5,6 @@ date: 2014-07-30 22:42:58+00:00
 layout: page
 slug: view
 title: Viewing Album Gallery and Items
-wordpress_id: 66546
 ---
 
 ## Viewing Album Gallery

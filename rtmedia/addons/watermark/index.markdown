@@ -5,7 +5,6 @@ date: 2014-08-19 14:25:15+00:00
 layout: page
 slug: watermark
 title: rtMedia Watermark
-wordpress_id: 67404
 ---
 
 As the name suggests, this add-on will add watermarking functionality to the images being uploaded via rtMedia plugin itself.

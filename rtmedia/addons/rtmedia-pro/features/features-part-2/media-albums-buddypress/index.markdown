@@ -5,7 +5,6 @@ date: 2013-09-30 10:48:09+00:00
 layout: page
 slug: media-albums-buddypress
 title: Media and albums in BuddyPress profiles/groups
-wordpress_id: 47419
 ---
 
 _Note: Some of these features work in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

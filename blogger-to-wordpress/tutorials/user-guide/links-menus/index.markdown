@@ -7,7 +7,6 @@ excerpt: This articles is a explantion on how to use Link Menu in WordPress. Thi
 layout: page
 slug: links-menus
 title: Links Menu on Wordpress
-wordpress_id: 1391
 ---
 
 ## Introduction

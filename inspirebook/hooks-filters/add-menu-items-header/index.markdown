@@ -5,7 +5,6 @@ date: 2014-11-19 10:22:30+00:00
 layout: page
 slug: add-menu-items-header
 title: Add menu items in header
-wordpress_id: 67933
 ---
 
 You can customize header with the help of hooks.

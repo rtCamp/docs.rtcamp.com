@@ -5,7 +5,6 @@ date: 2013-06-12 14:57:08+00:00
 layout: page
 slug: submit-sitemap-search-engine
 title: How to submit Sitemap to Search Engine ?
-wordpress_id: 25099
 ---
 
 Sitemap, the complete index of website is very important for Search Engine Optimization. It provides the search bots with the list of pages in your website.

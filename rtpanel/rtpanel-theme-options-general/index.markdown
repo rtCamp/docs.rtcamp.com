@@ -8,7 +8,6 @@ excerpt: It has been over few months since rtPanel has been accepted in official
 layout: page
 slug: rtpanel-theme-options-general
 title: rtPanel Theme Options 'General'
-wordpress_id: 3936
 ---
 
 rtPanel has been updating its features regularly to make it more robust theme framework for the users.

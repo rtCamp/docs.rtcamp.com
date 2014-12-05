@@ -5,7 +5,6 @@ date: 2013-08-07 15:03:27+00:00
 layout: page
 slug: faq
 title: FAQ
-wordpress_id: 44063
 ---
 
 ## General Question

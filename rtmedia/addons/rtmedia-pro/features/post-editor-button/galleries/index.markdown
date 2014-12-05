@@ -5,7 +5,6 @@ date: 2013-11-07 06:17:33+00:00
 layout: page
 slug: galleries
 title: 'Post-editor shortcode button: Galleries'
-wordpress_id: 50357
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

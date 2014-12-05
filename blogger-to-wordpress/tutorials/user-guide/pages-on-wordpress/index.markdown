@@ -7,7 +7,6 @@ excerpt: Complete details on how to write and edit Pages on WordPress. This is a
 layout: page
 slug: pages-on-wordpress
 title: Writing and Editing a Page on Wordpress
-wordpress_id: 12386
 ---
 
 ## Introduction

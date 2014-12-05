@@ -8,7 +8,6 @@ excerpt: Gravatar is abbreviation for Globally Recognized. Avatar At admin dashb
 layout: page
 slug: rtpanelcomments-with-gravatar
 title: rtPanel:Comments with Gravatar
-wordpress_id: 3934
 ---
 
 **Gravatar** is abbreviation for "Globally Recognized Avatar". The user creates account in [Gravatar](http://en.gravatar.com/) with an email id and upload an image associated with it. If user uses this email id to post a comment, the blogging software checks if this e-mail id has an associated image at Gravatar. If so, then the associated image will be shown along with the comments.

@@ -5,7 +5,6 @@ date: 2014-02-07 10:47:07+00:00
 layout: page
 slug: rtp_author_placeholder
 title: rtp_author_placeholder
-wordpress_id: 10287
 ---
 
 Modify author placeholder text in comment form.

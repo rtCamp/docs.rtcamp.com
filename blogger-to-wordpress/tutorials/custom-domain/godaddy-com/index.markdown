@@ -7,7 +7,6 @@ excerpt: Change blogger.com blog URL with your custom domain URL. User Guide to 
 layout: page
 slug: godaddy-com
 title: Custom Domain Setup on Blogger with Godaddy.com
-wordpress_id: 2924
 ---
 
 Custom domain setup in **Blogger.com** is used to create your own blog URL.      (for example: from _myblog.blogspot.com_ to_ myblog.com_).

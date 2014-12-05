@@ -5,7 +5,6 @@ date: 2014-01-17 10:27:58+00:00
 layout: page
 slug: move-media-albums
 title: Move media between albums
-wordpress_id: 55952
 ---
 
 Perform the following steps to move media from one album to another:

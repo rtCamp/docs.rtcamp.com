@@ -5,7 +5,6 @@ date: 2014-01-14 10:51:50+00:00
 layout: page
 slug: json-api
 title: JSON API
-wordpress_id: 55597
 ---
 
 ## Note

@@ -5,7 +5,6 @@ date: 2013-11-01 06:16:23+00:00
 layout: page
 slug: bbpress
 title: 'bbPress '
-wordpress_id: 50041
 ---
 
 _Note: This feature works with rtMedia PRO only. You can [purchase rtMedia PRO from our store](https://rtcamp.com/store/rtmedia-pro/).

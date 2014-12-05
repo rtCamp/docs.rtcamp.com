@@ -5,7 +5,6 @@ date: 2014-12-01 11:06:24+00:00
 layout: page
 slug: pricing
 title: Pricing for Migrating Content from Blogger to WordPress
-wordpress_id: 5149
 ---
 
 

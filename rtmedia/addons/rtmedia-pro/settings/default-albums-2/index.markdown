@@ -5,7 +5,6 @@ date: 2014-06-12 08:17:39+00:00
 layout: page
 slug: default-albums-2
 title: Default Albums
-wordpress_id: 65899
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

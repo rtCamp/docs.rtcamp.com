@@ -5,7 +5,6 @@ date: 2014-01-27 07:51:30+00:00
 layout: page
 slug: reordering-media-tab-buddypress
 title: Reordering Media tab in BuddyPress
-wordpress_id: 56337
 ---
 
 If you want to reorder the position of the `Media` tab in buddpress, use the following piece of code:

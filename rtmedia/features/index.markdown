@@ -5,7 +5,6 @@ date: 2014-06-23 03:30:33+00:00
 layout: page
 slug: features
 title: Features
-wordpress_id: 66234
 ---
 
 Once rtMedia has been installed on your WordPress software, it has many features that can be used. Each feature of rtMedia can  be customized and controlled with the use of Settings.

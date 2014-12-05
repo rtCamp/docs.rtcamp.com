@@ -5,7 +5,6 @@ date: 2014-06-17 05:18:25+00:00
 layout: page
 slug: rtmedia-pro
 title: rtMedia PRO
-wordpress_id: 65989
 ---
 
 [rtMedia PRO ](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/)is a premium add-on which adds additional features to rtMedia.

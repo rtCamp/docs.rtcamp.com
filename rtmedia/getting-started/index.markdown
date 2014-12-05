@@ -5,7 +5,6 @@ date: 2013-09-20 10:04:32+00:00
 layout: page
 slug: getting-started
 title: Getting started with rtMedia
-wordpress_id: 44708
 ---
 
 ## Overview

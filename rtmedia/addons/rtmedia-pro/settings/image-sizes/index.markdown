@@ -5,7 +5,6 @@ date: 2014-06-17 10:00:25+00:00
 layout: page
 slug: image-sizes
 title: Image Sizes
-wordpress_id: 66060
 ---
 
 ![Image Sizes rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/Image-Sizes-rtMedia-PRO.jpg)

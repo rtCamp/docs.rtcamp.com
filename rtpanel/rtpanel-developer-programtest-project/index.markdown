@@ -8,7 +8,6 @@ excerpt: The test assignment will consist of a 'Theme Development' project. We w
 layout: page
 slug: rtpanel-developer-programtest-project
 title: rtPanel Developer Program:Test Project
-wordpress_id: 694
 ---
 
 The WordPress enthusiast across the globe are coming to join the rtPanel Developer Program. The developers are required to complete a test assignment before moving ahead.

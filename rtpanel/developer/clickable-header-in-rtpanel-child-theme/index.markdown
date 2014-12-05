@@ -9,7 +9,6 @@ excerpt: What if users want the different options for both header and logo? Cons
 layout: page
 slug: clickable-header-in-rtpanel-child-theme
 title: Clickable header in rtPanel child theme
-wordpress_id: 931
 ---
 
 We do come across some Wordpress sites that don't have logos but have the header image banners instead. And some popular themes like **Twenty Eleven** provides an option only for the header image, while there is no separate option for uploading the logo from the back-end. In such cases, like in _Twenty Eleven_ themes, the header image and logo are the same and hence are _clickable_ by default.

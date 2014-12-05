@@ -7,7 +7,6 @@ excerpt: The image slider enhances the beauty of the website. The image slider c
 layout: page
 slug: customizing-image-sliders-in-rtpanel-child-theme
 title: Customizing Image Sliders in rtPanel Child Theme
-wordpress_id: 3946
 ---
 
 The image slider enhances the beauty of the website. The image slider can be used to showcase the product or to display the portfolio or featured blog posts.

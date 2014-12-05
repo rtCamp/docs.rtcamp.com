@@ -5,7 +5,6 @@ date: 2014-08-12 13:03:25+00:00
 layout: page
 slug: setup-icons
 title: Setup Icons for InspireBook Menu
-wordpress_id: 67164
 ---
 
 InspireBook support [fontello](http://fontello.com/) icons in the primary navigation, user can change the icon as per there requirement. If you need extra custom fontello icons, you can follow the process given in [this article](https://rtcamp.com/rtpanel/docs/developer/use-fontello-fonts-rtpanel/).

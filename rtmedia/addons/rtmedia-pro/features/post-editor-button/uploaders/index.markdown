@@ -5,7 +5,6 @@ date: 2013-11-07 06:15:30+00:00
 layout: page
 slug: uploaders
 title: 'Post-editor shortcode button: Uploaders'
-wordpress_id: 50353
 ---
 
 _Note: This feature works in rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

@@ -5,7 +5,6 @@ date: 2013-09-30 10:27:53+00:00
 layout: page
 slug: buddypress-integration
 title: BuddyPress integration
-wordpress_id: 47395
 ---
 
 rtMedia adds rich media capabilities to BuddyPress activity pages, profiles and groups. This is where the core power of rtMedia will be evident.

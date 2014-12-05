@@ -8,7 +8,6 @@ excerpt: Tools are very important feature of WordPress for Bloggers to manage th
 layout: page
 slug: about-tools
 title: Tools in WordPress
-wordpress_id: 1625
 ---
 
 ## Introduction

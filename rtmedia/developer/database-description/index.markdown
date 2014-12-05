@@ -5,7 +5,6 @@ date: 2013-06-12 07:23:33+00:00
 layout: page
 slug: database-description
 title: Database Description
-wordpress_id: 38998
 ---
 
 ## rtMedia Table Overview

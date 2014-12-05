@@ -10,7 +10,6 @@ excerpt: 'Before you actually start with styling, just analyse the common elemen
 layout: page
 slug: css-checklist-for-developers
 title: CSS Checklist for developers
-wordpress_id: 889
 ---
 
 ### CSS Checklist for Developers

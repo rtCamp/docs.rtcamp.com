@@ -8,7 +8,6 @@ excerpt: Blogger who are using Blogspot FTP publishing will have to move to self
 layout: page
 slug: blogspot-stopped-blogger-ftp-publishing-support
 title: BlogSpot Stopped Blogger FTP publishing Support
-wordpress_id: 282
 ---
 
 BlogSpot is one of the best free blogging platform but when it comes free there are many[![garvatar (1)](https://rtcamp.com/wp-content/uploads/2010/03/garvatar1_thumb.png)](https://rtcamp.com/wp-content/uploads/2010/03/garvatar1.png) downside of it. One of them is control over your blog. BlogSpot can delete your blog anytime because they hold the possession of your blog. It happened many time in the past that many BlogSpot blogs have been deleted by mistake or someone reported blog as spam.

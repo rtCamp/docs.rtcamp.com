@@ -5,7 +5,6 @@ date: 2013-11-06 11:16:27+00:00
 layout: page
 slug: delete
 title: Delete Media Files
-wordpress_id: 50314
 ---
 
 To delete a media item or any other uploaded file:

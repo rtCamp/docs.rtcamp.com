@@ -5,7 +5,6 @@ date: 2014-03-08 10:02:07+00:00
 layout: page
 slug: customize-rtpanel-footer-information
 title: Customize rtPanel Footer Information
-wordpress_id: 58595
 ---
 
 You are using rtPanel Theme Framework for site development and if you want to show your own copyrights in your customized theme, then here is the small tweak to customize rtPanel footer information.

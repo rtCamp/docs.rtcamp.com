@@ -7,7 +7,6 @@ excerpt: This articles covers Plugins with WordPress. Plugins are important and 
 layout: page
 slug: managing-plugins
 title: Managing Plugins in WordPress
-wordpress_id: 1566
 ---
 
 ## Introduction

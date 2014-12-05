@@ -5,7 +5,6 @@ date: 2014-06-16 11:29:42+00:00
 layout: page
 slug: install-buddypress
 title: Installing BuddyPress
-wordpress_id: 65968
 ---
 
 [BuddyPress](https://buddypress.org/) is a powerful suite of social networking components, made the WordPress way, to help you build a flexible & robust community.

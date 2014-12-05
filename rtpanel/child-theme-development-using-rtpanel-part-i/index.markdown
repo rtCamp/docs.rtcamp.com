@@ -8,7 +8,6 @@ excerpt: Child themes are extension of parent theme, which can be further custom
 layout: page
 slug: child-theme-development-using-rtpanel-part-i
 title: Child Theme development using rtPanel - Part I
-wordpress_id: 791
 ---
 
 Being a WordPress theme framework; rtPanel carries the functionality of developing child themes.

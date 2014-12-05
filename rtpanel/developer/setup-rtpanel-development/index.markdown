@@ -5,7 +5,6 @@ date: 2014-01-27 14:03:39+00:00
 layout: page
 slug: setup-rtpanel-development
 title: Setup rtPanel for Development
-wordpress_id: 56399
 ---
 
 Latest version of rtPanel is based on [SASS](http://sass-lang.com/), [Compass](http://compass-style.org/), [Grunt](http://gruntjs.com/), [Bower](http://bower.io/) and [Foundation](http://foundation.zurb.com/). So you will need to install all its dependencies before starting with the development.

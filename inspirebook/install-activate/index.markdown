@@ -5,7 +5,6 @@ date: 2014-08-12 12:51:42+00:00
 layout: page
 slug: install-activate
 title: Install and Activate Premium Theme
-wordpress_id: 67154
 ---
 
 Simple steps to install premium theme on your WordPress site.

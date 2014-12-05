@@ -5,7 +5,6 @@ date: 2014-07-03 08:39:02+00:00
 layout: page
 slug: settings
 title: 'Managing Settings (For rtMedia Free Version) '
-wordpress_id: 66384
 ---
 
 *rtMedia* has numerous options that give you absolute control over the way you want to display your media. To make it easy for the admin to tweak the settings,  we have separated them into different categories based on functionality.

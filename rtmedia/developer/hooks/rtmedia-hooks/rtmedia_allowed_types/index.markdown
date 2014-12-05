@@ -5,7 +5,6 @@ date: 2013-08-05 08:35:51+00:00
 layout: page
 slug: rtmedia_allowed_types
 title: rtmedia_allowed_types
-wordpress_id: 43796
 ---
 
 ### Description

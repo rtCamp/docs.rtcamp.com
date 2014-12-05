@@ -5,7 +5,6 @@ date: 2010-03-20 07:26:59+00:00
 layout: page
 slug: 5-reasons-choose-hosting-wordpress
 title: 5 Reasons to Choose Self Hosting with Wordpress
-wordpress_id: 12379
 ---
 
 When you start a blog you must choose a good platform to host your blog. Many blogger might prefer to host on Blogspot because you don’t have to pay a single penny while starting your blog. But I always recommend choosing Wordpress to host your blog.

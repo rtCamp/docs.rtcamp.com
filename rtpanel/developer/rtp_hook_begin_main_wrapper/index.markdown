@@ -5,7 +5,6 @@ date: 2014-01-21 07:34:44+00:00
 layout: page
 slug: rtp_hook_begin_main_wrapper
 title: rtp_hook_begin_main_wrapper
-wordpress_id: 10078
 ---
 
 ### Description

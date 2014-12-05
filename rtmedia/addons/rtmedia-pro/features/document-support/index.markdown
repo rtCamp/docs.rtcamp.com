@@ -5,7 +5,6 @@ date: 2014-08-13 16:40:55+00:00
 layout: page
 slug: document-support
 title: Document Support
-wordpress_id: 67274
 ---
 
 You can add, view and download documents like txt, doc, pdf, also add and upload other file types like zip, tar and tar.gz etc.

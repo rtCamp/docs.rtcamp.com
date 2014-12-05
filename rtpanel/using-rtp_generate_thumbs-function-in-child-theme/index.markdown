@@ -5,7 +5,6 @@ date: 2012-01-24 07:49:46+00:00
 layout: page
 slug: using-rtp_generate_thumbs-function-in-child-theme
 title: Using rtp_generate_thumbs() function in child theme
-wordpress_id: 1137
 ---
 
 This is by-far the easiest way to create the blog thumbnails on the fly, all we need is, to get familiar with this. We have the default **_rtp_generate_thumbs()_** function available in our rtPanel core theme. This function directly returns the **_thumb_URL_** that can be used anywhere as the image source on the page. This function needs to be called with parameters as:

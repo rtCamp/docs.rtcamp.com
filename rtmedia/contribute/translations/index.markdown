@@ -5,7 +5,6 @@ date: 2014-01-06 14:23:35+00:00
 layout: page
 slug: translations
 title: Translations
-wordpress_id: 54960
 ---
 
 rtMedia is translation ready and you can check the translations over here : [https://rtcamp.com/translate/projects/rtmedia](https://rtcamp.com/translate/projects/rtmedia)

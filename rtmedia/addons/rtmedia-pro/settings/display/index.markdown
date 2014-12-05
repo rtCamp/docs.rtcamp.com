@@ -5,7 +5,6 @@ date: 2014-06-16 13:28:17+00:00
 layout: page
 slug: display
 title: Display
-wordpress_id: 65980
 ---
 
 In rtMedia, media comprising of photos, videos and music can be managed. In [rtMedia PRO](https://rtcamp.com/store/rtmedia-pro/), documents like txt, docx, zip and other files can be managed in addition to regular media items. The Display Tab in rtMedia PRO looks like this:

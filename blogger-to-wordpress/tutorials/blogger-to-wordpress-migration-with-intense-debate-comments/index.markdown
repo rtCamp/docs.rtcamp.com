@@ -7,7 +7,6 @@ excerpt: Comments on Intense Debate account can also be imported into WordPress 
 layout: page
 slug: blogger-to-wordpress-migration-with-intense-debate-comments
 title: Blogger To WordPress Migration with Intense Debate Comments
-wordpress_id: 597
 ---
 
 You might heard about [**Intense Debate**](http://intensedebate.com/) commenting system and its features. **Intense Debate** provides third-party commenting system that gives more flexibility to you and your readers to post comments on blogs hosted with WordPress, Blogger and other platforms.

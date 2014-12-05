@@ -5,7 +5,6 @@ date: 2014-11-13 12:42:55+00:00
 layout: page
 slug: setup-home-page
 title: Setup Home Page
-wordpress_id: 67858
 ---
 
 ## How to set home page.

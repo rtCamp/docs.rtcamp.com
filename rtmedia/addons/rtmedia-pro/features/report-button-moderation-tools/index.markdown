@@ -5,7 +5,6 @@ date: 2014-08-13 16:57:12+00:00
 layout: page
 slug: report-button-moderation-tools
 title: Report Button & Moderation Tools
-wordpress_id: 67288
 ---
 
 Users can report media if they find it offensive. Set number of reports to automatically take down media.

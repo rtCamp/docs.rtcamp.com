@@ -5,7 +5,6 @@ date: 2012-04-18 09:51:57+00:00
 layout: page
 slug: browser-specific-styling
 title: Browser Specific Styling
-wordpress_id: 2337
 ---
 
 Day by day the website design is becoming more sophisticated. To overcome this and to give website more better look, web developers are coming with idea of using CSS to control the layouts of sites.  Using CSS has many advantage such as  Web pages are easier to load, it allows you greater control of page structure etc.

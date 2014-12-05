@@ -8,7 +8,6 @@ excerpt: Filters are the special function able to modify the data without alteri
 layout: page
 slug: filters-in-rtpanel
 title: Filters in rtPanel
-wordpress_id: 3945
 ---
 
 Filters are the special function able to modify the data without altering the core code. For example, changing 'Read More' text  on the blog page can be changed using the 'Filters'.

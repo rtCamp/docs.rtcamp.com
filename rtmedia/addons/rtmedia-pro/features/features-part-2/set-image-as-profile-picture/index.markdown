@@ -5,7 +5,6 @@ date: 2013-11-01 10:54:30+00:00
 layout: page
 slug: set-image-as-profile-picture
 title: Set image as profile picture
-wordpress_id: 50097
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

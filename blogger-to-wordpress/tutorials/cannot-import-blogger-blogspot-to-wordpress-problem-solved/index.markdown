@@ -7,7 +7,6 @@ excerpt: Blogspot to Wordpress import problem solved, Unable to find the socket 
 layout: page
 slug: cannot-import-blogger-blogspot-to-wordpress-problem-solved
 title: Cannot Import Blogger Blogspot to Wordpress Problem [Solved]
-wordpress_id: 12380
 ---
 
 Some of the major issue bloggers are facing while trying to import their blog posts from Blospot to[![blogspot-import-problem](https://rtcamp.com/wp-content/uploads/2010/05/blogspotimportproblem_thumb.jpg)](https://rtcamp.com/wp-content/uploads/2010/05/blogspotimportproblem.jpg) Wordpress is broken transfer. All the posts are not migrated or in worse case error like

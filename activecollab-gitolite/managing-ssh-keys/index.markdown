@@ -5,7 +5,6 @@ date: 2013-05-07 13:28:28+00:00
 layout: page
 slug: managing-ssh-keys
 title: Managing SSH-Keys
-wordpress_id: 37786
 ---
 
 ### Every user must add at least one public SSH key to his activeCollab profile before any git repos can be assigned to him. This restriction is from Gitolite. Admin can manage anybody's keys (add/remove).

@@ -5,7 +5,6 @@ date: 2014-01-21 10:03:05+00:00
 layout: page
 slug: rtp_hook_end_footer
 title: rtp_hook_end_footer
-wordpress_id: 56100
 ---
 
 ### Description

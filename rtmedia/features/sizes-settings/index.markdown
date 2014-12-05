@@ -5,7 +5,6 @@ date: 2013-09-30 08:52:37+00:00
 layout: page
 slug: sizes-settings
 title: Sizes
-wordpress_id: 47360
 ---
 
 The allowable dimensions for every category of media can be set under **rtMedia** > **Settings** > **Sizes**.

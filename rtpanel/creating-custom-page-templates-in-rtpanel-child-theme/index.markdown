@@ -9,7 +9,6 @@ excerpt: There are several customization to be done on a single page. In such ca
 layout: page
 slug: creating-custom-page-templates-in-rtpanel-child-theme
 title: Creating custom page templates in rtPanel child theme
-wordpress_id: 840
 ---
 
 WordPress is no more a blogging platform, rather its been used as CMS widely. You need to have multiple pages with different layouts like landing page, portfolio page etc; and for this we need to develop custom page templates.

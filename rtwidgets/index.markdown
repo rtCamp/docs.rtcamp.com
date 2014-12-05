@@ -5,7 +5,6 @@ date: 2013-12-27 10:30:15+00:00
 layout: page
 slug: rtwidgets
 title: rtWidgets
-wordpress_id: 54158
 ---
 
 **rtWidgets** is assortment of custom widgets. On activating this, you can install multiple custom widgets at once. For your convenience, it also provides us an option to activate or deactivate the widgets.

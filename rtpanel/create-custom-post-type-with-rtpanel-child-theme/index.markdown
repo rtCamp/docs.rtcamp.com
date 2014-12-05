@@ -5,7 +5,6 @@ date: 2012-02-02 10:24:43+00:00
 layout: page
 slug: create-custom-post-type-with-rtpanel-child-theme
 title: Create Custom Post Type with rtPanel Child Theme
-wordpress_id: 1125
 ---
 
 In our earlier posts we have covered some rtPanel child theme features like creating post slider ([rtp_slider](https://rtcamp.com/blog/implementing-rtpslider-child-theme/) function), developing [custom page template](https://rtcamp.com/blog/creating-custom-page-templates-rtpanel-child-theme/), [using child theme as hooks](https://rtcamp.com/blog/child-theme-development-rtpanel-part-2/) etc.

@@ -5,7 +5,6 @@ date: 2011-12-26 09:15:18+00:00
 layout: page
 slug: child-theme-development-rtpanel
 title: Child theme Development using rtPanel
-wordpress_id: 785
 ---
 
 In this post, I will be introducing you to the child theme, which is more over the extension of a parent theme. So, I am talking about the child and the parent, so you can make-out the basic relationship between them. To be somewhat specific, the child theme inherits the functionality of a parent theme, say the parent here could be some popular Twenty Ten, Liquorice or Easel theme. I said that the child theme inherits the functionality of the parent, what does that mean? Yep! Exactly, we can completely inherit the same look and feel of the parent theme, which we can edit/modify to take it to a completely different level of customization, overriding their functions and styles using child themes. So we can agree that this parent theme now works as an arbitrary framework for the developer, serving as the core. I hope everything is quite clear until now and we have clarified ourselves with what a child theme exactly is.

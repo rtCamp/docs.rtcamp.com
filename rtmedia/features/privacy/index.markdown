@@ -5,7 +5,6 @@ date: 2013-09-23 11:22:48+00:00
 layout: page
 slug: privacy
 title: Privacy
-wordpress_id: 44724
 ---
 
 rtMedia allows Admins to allow privacy for the end-user. Admins can do this by using rtMedia >> Settings >> Privacy

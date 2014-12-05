@@ -5,7 +5,6 @@ date: 2013-09-30 07:55:05+00:00
 layout: page
 slug: buddypress
 title: BuddyPress
-wordpress_id: 47331
 ---
 
 Using the switches provided, you can turn ON/OFF the following features:

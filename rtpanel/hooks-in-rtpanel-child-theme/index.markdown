@@ -9,7 +9,6 @@ excerpt: Considering this, rtPanel has also been offering some awesome in-built 
 layout: page
 slug: hooks-in-rtpanel-child-theme
 title: Hooks in rtPanel Child theme
-wordpress_id: 3942
 ---
 
 As the theme frameworks are evolving, theme development is getting easier. The developers are also looking for frameworks with better control and more options to customize and streamline the development work. Developers are more inclined towards use of multiple actions, hooks and filters.

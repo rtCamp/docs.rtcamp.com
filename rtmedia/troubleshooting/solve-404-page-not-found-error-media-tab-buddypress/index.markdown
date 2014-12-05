@@ -7,7 +7,6 @@ excerpt: Clicking on the Media tab on a BuddyPress profile on having installed t
 layout: page
 slug: solve-404-page-not-found-error-media-tab-buddypress
 title: 404 - Page not found error on clicking media tab
-wordpress_id: 43484
 ---
 
 ## The problem

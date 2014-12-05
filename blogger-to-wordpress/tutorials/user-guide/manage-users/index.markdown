@@ -8,7 +8,6 @@ excerpt: When a blog has many users or writers for that matter WordPress allows 
 layout: page
 slug: manage-users
 title: Manage Users in WordPress
-wordpress_id: 1594
 ---
 
 ## Introduction

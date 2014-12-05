@@ -7,7 +7,6 @@ excerpt: A tutorial on Managing media files with WordPress which is a part of th
 layout: page
 slug: media-files-with-wordpress
 title: Managing media files with Wordpress
-wordpress_id: 12387
 ---
 
 ## Introduction

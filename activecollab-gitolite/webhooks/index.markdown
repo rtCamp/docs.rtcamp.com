@@ -5,7 +5,6 @@ date: 2013-05-07 13:56:59+00:00
 layout: page
 slug: webhooks
 title: Webhooks
-wordpress_id: 37790
 ---
 
 ac_gitolite's webhooks implementation is similar to Gihub's webhooks implementation. You can read about Github [implementation here](https://help.github.com/articles/post-receive-hooks) and [here](https://help.github.com/articles/testing-webhooks).

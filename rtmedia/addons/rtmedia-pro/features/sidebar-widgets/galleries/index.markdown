@@ -5,7 +5,6 @@ date: 2013-11-01 09:07:13+00:00
 layout: page
 slug: galleries
 title: 'Sidebar widgets: Galleries'
-wordpress_id: 50076
 ---
 
 _Note: This feature works with rtMedia PRO only. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._

@@ -7,7 +7,6 @@ excerpt: This article covers how to create and maintain categories and tags with
 layout: page
 slug: categories-and-tags
 title: All about Categories and Tags
-wordpress_id: 1331
 ---
 
 ## Introduction

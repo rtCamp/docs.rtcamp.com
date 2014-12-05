@@ -8,7 +8,6 @@ excerpt: In a WordPress blog we can see there are a certain number of posts show
 layout: page
 slug: managing-settings
 title: Managing Settings In WordPress
-wordpress_id: 12388
 ---
 
 ## Introduction

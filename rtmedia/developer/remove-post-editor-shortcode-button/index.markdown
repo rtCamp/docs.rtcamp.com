@@ -5,7 +5,6 @@ date: 2014-04-24 07:06:57+00:00
 layout: page
 slug: remove-post-editor-shortcode-button
 title: Remove post-editor shortcode button
-wordpress_id: 64613
 ---
 
 Add following code in your theme's functions.php file to remove rtMedia short code generator button in post editor. It will show rtMedia shortcode button only in WordPress backend and not in front end.

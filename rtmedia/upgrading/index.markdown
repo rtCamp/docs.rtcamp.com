@@ -5,7 +5,6 @@ date: 2014-06-26 05:39:32+00:00
 layout: page
 slug: upgrading
 title: Upgrading
-wordpress_id: 66363
 ---
 
 The rtMedia plugin from time to time, keeps adding newer updates.

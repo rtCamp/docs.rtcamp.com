@@ -5,7 +5,6 @@ date: 2014-08-13 16:14:10+00:00
 layout: page
 slug: per-user-upload-quota
 title: Per user upload quota
-wordpress_id: 67244
 ---
 
 Admin can set an upload limit on timely basis i.e Daily/Monthly/Lifetime and also set upload limits in terms of total size (MB) of all the media and total number of media a user can upload.

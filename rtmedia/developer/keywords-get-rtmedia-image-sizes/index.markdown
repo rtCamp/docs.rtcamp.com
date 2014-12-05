@@ -5,7 +5,6 @@ date: 2014-11-26 09:58:08+00:00
 layout: page
 slug: keywords-get-rtmedia-image-sizes
 title: Keywords to get rtMedia image sizes
-wordpress_id: 67953
 ---
 
 Image sizes used by rtMedia are described [here](http://docs.rtcamp.com/rtmedia/getting-started/settings/#ImageSizes).

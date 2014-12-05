@@ -5,7 +5,6 @@ date: 2013-10-31 12:43:23+00:00
 layout: page
 slug: reward-points
 title: Reward Points
-wordpress_id: 49997
 ---
 
 Users can attain reward points for activities such as creating albums, uploading media and more.

@@ -7,7 +7,6 @@ excerpt: How to add Menus in WordPress with the help of Widgets. Details on how 
 layout: page
 slug: menus-in-wordpress
 title: How to add Menus in WordPress?
-wordpress_id: 1464
 ---
 
 ## Introduction
