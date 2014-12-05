@@ -4,7 +4,7 @@ comments: false
 date: 2011-01-15 09:00:06+00:00
 layout: page
 slug: rtmoto
-title: rtMoto Theme
+title: rtMoto
 wordpress_id: 3747
 ---
 
