@@ -1,5 +1,3 @@
-[![build status](http://ci.rtcamp.com/projects/18/status.png?ref=master)](http://ci.rtcamp.com/projects/18?ref=master)
-
 rtCamp Docs
 ===========
 
