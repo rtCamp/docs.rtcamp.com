@@ -1,6 +1,5 @@
 ---
 date: 2013-10-01 07:16:13+00:00
-slug: regenerate-video-thumbnails
 title: Regenerate Video Thumbnails
 ---
 

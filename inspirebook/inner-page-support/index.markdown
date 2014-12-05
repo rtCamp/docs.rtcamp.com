@@ -1,6 +1,5 @@
 ---
 date: 2014-08-12 13:08:00+00:00
-slug: inner-page-support
 title: Inner page support in InspireBook
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2013-10-11 11:20:47+00:00
-slug: album-privacy
 title: Album privacy
 ---
 

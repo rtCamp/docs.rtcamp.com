@@ -1,6 +1,5 @@
 ---
 date: 2013-06-14 14:55:13+00:00
-slug: tutorials
 title: Tutorials
 ---
 

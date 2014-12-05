@@ -1,6 +1,5 @@
 ---
 date: 2013-09-30 07:55:05+00:00
-slug: buddypress
 title: BuddyPress
 ---
 

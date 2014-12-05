@@ -4,7 +4,6 @@ excerpt: Nowadays social media has become an integral part of marketing and prom
   Be its a corporate site or personal branding site, everyone needs that social connect;
   to build the loyal fans and followers for your content/offerings. Hence adding social
   networking links has become a necessity.
-slug: adding-social-network-to-the-website-using-text-widget
 title: 'Adding Social Sharing Button to Website: Using Text Widget'
 ---
 

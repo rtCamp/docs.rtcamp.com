@@ -3,7 +3,6 @@ date: 2013-02-23 06:49:59+00:00
 excerpt: You can obtain free or discounted Blogger to WordPress migration services
   with our paid hosting plans. Free permalink fix, one to one redirection of links,
   SEO friendly migration, no loss of content....
-slug: free-blogger-wordpress-migration-service
 title: Free/Discounted Services
 ---
 

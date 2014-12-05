@@ -1,6 +1,5 @@
 ---
 date: 2014-03-10 07:31:02+00:00
-slug: handling-gruntfile-js-rtpanel
 title: Handling gruntfile.js in rtPanel
 ---
 

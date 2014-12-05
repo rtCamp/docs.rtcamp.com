@@ -1,6 +1,5 @@
 ---
 date: 2010-03-08 22:07:20+00:00
-slug: faq
 title: FAQ
 ---
 ## Q 1. What will happen to images hosted/uploaded at Blogger.com? Is it possible to migrate all the images to Wordpress?

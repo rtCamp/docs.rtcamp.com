@@ -1,6 +1,5 @@
 ---
 date: 2014-01-06 11:22:16+00:00
-slug: theme-media-tab
 title: BuddyPress theme media tab
 ---
 

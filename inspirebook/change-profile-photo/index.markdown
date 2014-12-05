@@ -1,6 +1,5 @@
 ---
 date: 2014-08-12 12:55:11+00:00
-slug: change-profile-photo
 title: Change profile photo in InspireBook
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 16:32:43+00:00
-slug: rss-feedpodcasting-support
 title: RSS Feed/Podcasting Support
 ---
 

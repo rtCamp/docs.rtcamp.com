@@ -1,6 +1,5 @@
 ---
 date: 2013-09-30 08:52:37+00:00
-slug: sizes-settings
 title: Sizes
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 16:25:58+00:00
-slug: bulk-media-edit
 title: Bulk Media Edit
 ---
 

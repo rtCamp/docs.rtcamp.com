@@ -3,7 +3,6 @@ date: 2010-09-14 04:50:16+00:00
 excerpt: When a blog has many users or writers for that matter WordPress allows us
   to define user roles. This allows the admin or the owner of the WordPress blog to
   allow some functions like publishing a post or editing a post to certain users.
-slug: manage-users
 title: Manage Users in WordPress
 ---
 

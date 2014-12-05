@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 16:14:10+00:00
-slug: per-user-upload-quota
 title: Per user upload quota
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 17:53:51+00:00
-slug: premium-one-one-support
 title: Premium one-to-one support
 ---
 

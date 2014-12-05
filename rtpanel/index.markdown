@@ -1,6 +1,5 @@
 ---
 date: 2012-04-25 10:29:29+00:00
-slug: rtpanel
 title: rtPanel
 ---
 

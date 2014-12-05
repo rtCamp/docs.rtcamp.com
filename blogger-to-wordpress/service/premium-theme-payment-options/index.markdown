@@ -1,6 +1,5 @@
 ---
 date: 2014-12-02 11:55:50+00:00
-slug: premium-theme-payment-options
 title: Premium Theme Payment Options
 ---
 

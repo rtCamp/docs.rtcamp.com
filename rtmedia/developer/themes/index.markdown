@@ -1,6 +1,5 @@
 ---
 date: 2014-06-11 08:12:21+00:00
-slug: themes
 title: Themes
 ---
 

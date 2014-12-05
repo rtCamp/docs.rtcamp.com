@@ -1,6 +1,5 @@
 ---
 date: 2013-11-06 10:37:30+00:00
-slug: edit-media
 title: Edit media or other files
 ---
 

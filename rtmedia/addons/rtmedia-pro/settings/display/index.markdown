@@ -1,6 +1,5 @@
 ---
 date: 2014-06-16 13:28:17+00:00
-slug: display
 title: Display
 ---
 

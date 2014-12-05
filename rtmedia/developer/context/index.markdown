@@ -1,6 +1,5 @@
 ---
 date: 2013-07-10 07:22:11+00:00
-slug: context
 title: Context
 ---
 

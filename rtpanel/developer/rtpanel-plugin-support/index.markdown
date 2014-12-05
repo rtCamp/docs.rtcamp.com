@@ -1,6 +1,5 @@
 ---
 date: 2014-12-01 10:44:50+00:00
-slug: rtpanel-plugin-support
 title: rtPanel Plugin Support
 ---
 

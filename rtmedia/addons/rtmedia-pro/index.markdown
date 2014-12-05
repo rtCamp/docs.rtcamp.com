@@ -1,6 +1,5 @@
 ---
 date: 2014-06-17 05:18:25+00:00
-slug: rtmedia-pro
 title: rtMedia PRO
 ---
 

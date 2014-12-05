@@ -1,6 +1,5 @@
 ---
 date: 2011-01-17 04:30:49+00:00
-slug: media-temple
 title: Domain Setup On Blogger With Media Temple
 ---
 

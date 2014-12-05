@@ -1,6 +1,5 @@
 ---
 date: 2014-06-17 10:08:14+00:00
-slug: custom-css
 title: Custom CSS
 ---
 

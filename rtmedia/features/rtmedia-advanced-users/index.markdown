@@ -1,6 +1,5 @@
 ---
 date: 2014-12-01 11:35:50+00:00
-slug: rtmedia-advanced-users
 title: rtMedia for advanced users
 ---
 

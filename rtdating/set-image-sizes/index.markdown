@@ -1,6 +1,5 @@
 ---
 date: 2014-11-14 11:09:31+00:00
-slug: set-image-sizes
 title: Set image sizes
 ---
 

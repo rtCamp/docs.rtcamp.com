@@ -1,6 +1,5 @@
 ---
 date: 2011-12-26 09:15:18+00:00
-slug: child-theme-development-rtpanel
 title: Child theme Development using rtPanel
 ---
 

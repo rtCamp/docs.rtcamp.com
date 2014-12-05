@@ -1,6 +1,5 @@
 ---
 date: 2012-04-25 10:39:13+00:00
-slug: rtp_default_image_path
 title: rtp_default_image_path
 ---
 

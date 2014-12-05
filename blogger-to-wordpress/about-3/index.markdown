@@ -1,6 +1,5 @@
 ---
 date: 2010-02-11 10:35:03+00:00
-slug: about-3
 title: 'About '
 ---
 

@@ -3,7 +3,6 @@ date: 2011-01-25 17:12:30+00:00
 excerpt: 'Google Apps is a service from Google for using custom domain names with
   several Google products. It provides similar functionality for your domain like
   mails, Calendar, Chat, Docs, Sites, etc. '
-slug: how-to-setup-google-apps-for-your-domain
 title: How To Setup Google Apps For your Domain
 ---
 

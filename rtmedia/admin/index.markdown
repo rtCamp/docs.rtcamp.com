@@ -1,6 +1,5 @@
 ---
 date: 2013-04-18 08:04:41+00:00
-slug: admin
 title: Admin Guide
 ---
 

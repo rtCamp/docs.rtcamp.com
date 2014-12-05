@@ -2,7 +2,6 @@
 date: 2012-03-30 10:14:47+00:00
 excerpt: In previous post, we have seen the rtPanel Hooks map. Now lets see how we
   can we use 'rtPanel Hooks' to add extra functionality while developing theme.
-slug: add-google-ad-banner-above-logo-in-rtpanel
 title: Add Google ad-banner above logo in rtPanel
 ---
 

@@ -2,7 +2,6 @@
 date: 2010-09-10 06:01:16+00:00
 excerpt: How to add Menus in WordPress with the help of Widgets. Details on how menu
   can be useful and can be used in the WordPress theme.
-slug: menus-in-wordpress
 title: How to add Menus in WordPress?
 ---
 

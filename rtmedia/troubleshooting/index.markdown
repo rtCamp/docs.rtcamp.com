@@ -1,6 +1,5 @@
 ---
 date: 2013-07-30 05:01:17+00:00
-slug: troubleshooting
 title: Troubleshooting
 ---
 

@@ -2,7 +2,6 @@
 date: 2011-01-07 04:30:36+00:00
 excerpt: Change blogger.com blog URL with your custom domain URL. User Guide to change
   the IP address for custom domain name.
-slug: godaddy-com
 title: Custom Domain Setup on Blogger with Godaddy.com
 ---
 

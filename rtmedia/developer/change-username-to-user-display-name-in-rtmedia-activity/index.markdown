@@ -1,6 +1,5 @@
 ---
 date: 2014-09-11 17:07:49+00:00
-slug: change-username-to-user-display-name-in-rtmedia-activity
 title: Change username to user's display name in rtMedia activity
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2014-09-03 10:13:47+00:00
-slug: rename-rtmedia-upload-directory
 title: Rename rtMedia upload directory
 ---
 

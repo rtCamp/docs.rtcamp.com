@@ -3,7 +3,6 @@ date: 2011-01-31 02:30:42+00:00
 excerpt: If you are using Godaddy's Domain/Hosting service and if you want to give
   access to other users to your account, you can easily do that using Godaddy's AccountExec
   Service.
-slug: accountexec-giving-access-to-godaddy-account-without-sharing-password
 title: '[AccountExec] Giving access to Godaddy account without sharing password'
 ---
 

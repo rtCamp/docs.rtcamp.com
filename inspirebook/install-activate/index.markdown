@@ -1,6 +1,5 @@
 ---
 date: 2014-08-12 12:51:42+00:00
-slug: install-activate
 title: Install and Activate Premium Theme
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2013-05-07 13:30:28+00:00
-slug: managing-access-levels
 title: Managing Read/Write Access Levels
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2013-08-07 11:25:52+00:00
-slug: conditional-tags
 title: Conditional Tags
 ---
 

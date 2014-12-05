@@ -3,7 +3,6 @@ date: 2010-09-18 05:23:35+00:00
 excerpt: Permalinks and slugs play a very important role in any blog, specially in
   WordPress because it provides flexibility to change permalinks and slugs. These
   are used for URL of posts, pages, tags, categories etc.
-slug: permalinks-and-slugs
 title: Understanding Permalinks and Slugs in WordPress
 ---
 

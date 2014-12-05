@@ -1,6 +1,5 @@
 ---
 date: 2012-02-02 10:24:43+00:00
-slug: create-custom-post-type-with-rtpanel-child-theme
 title: Create Custom Post Type with rtPanel Child Theme
 ---
 

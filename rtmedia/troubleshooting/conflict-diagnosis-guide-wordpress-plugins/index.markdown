@@ -1,6 +1,5 @@
 ---
 date: 2013-09-13 09:57:06+00:00
-slug: conflict-diagnosis-guide-wordpress-plugins
 title: Conflict Diagnosis Guide for WordPress plugins
 ---
 

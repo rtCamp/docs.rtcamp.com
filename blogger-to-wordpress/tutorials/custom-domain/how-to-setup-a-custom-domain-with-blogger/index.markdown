@@ -3,7 +3,6 @@ date: 2011-01-03 04:30:53+00:00
 excerpt: When you create your free blog on blogger, it gives you a default domain,
   which looks something like this - myblog.blogspot.com. It also provides you with
   the option of creating your own domain name, such as myblog.com or myblog.org.
-slug: how-to-setup-a-custom-domain-with-blogger
 title: How to setup a Custom Domain with Blogger
 ---
 

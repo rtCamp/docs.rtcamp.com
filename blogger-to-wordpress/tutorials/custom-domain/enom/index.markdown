@@ -1,7 +1,6 @@
 ---
 date: 2011-01-09 04:30:32+00:00
 excerpt: User guide to setup your Blogger domain name with your Enom account.
-slug: enom
 title: Custom Domain Setup on Blogger with Enom
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 16:40:55+00:00
-slug: document-support
 title: Document Support
 ---
 

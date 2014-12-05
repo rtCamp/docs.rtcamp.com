@@ -1,6 +1,5 @@
 ---
 date: 2014-06-17 11:07:35+00:00
-slug: managing-reported-media
 title: Managing Reported Media/Other Items
 ---
 

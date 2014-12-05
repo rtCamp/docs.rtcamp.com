@@ -1,6 +1,5 @@
 ---
 date: 2013-06-12 07:23:33+00:00
-slug: database-description
 title: Database Description
 ---
 

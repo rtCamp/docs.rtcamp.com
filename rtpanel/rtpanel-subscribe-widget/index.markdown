@@ -4,7 +4,6 @@ excerpt: 'f you want to add social networking links in your website, then "rtPan
   Subscribe" Widget is made for you. This widget will help you to publicize your WordPress
   site through Facebook, Twitter, LinkedIn, Google+ etc. automatically. Lets have
   look at features of "rtPanel: Subscribe" widgets.'
-slug: rtpanel-subscribe-widget
 title: 'rtPanel: Subscribe Widget'
 ---
 

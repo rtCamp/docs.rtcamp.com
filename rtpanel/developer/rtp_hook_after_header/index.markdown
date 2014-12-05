@@ -1,6 +1,5 @@
 ---
 date: 2012-04-25 10:48:40+00:00
-slug: rtp_hook_after_header
 title: rtp_hook_after_header
 ---
 

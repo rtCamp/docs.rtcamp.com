@@ -1,6 +1,5 @@
 ---
 date: 2014-07-31 00:39:03+00:00
-slug: settings
 title: rtMedia -PRO Settings
 ---
 

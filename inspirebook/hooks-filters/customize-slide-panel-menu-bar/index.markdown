@@ -1,6 +1,5 @@
 ---
 date: 2014-11-19 09:13:28+00:00
-slug: customize-slide-panel-menu-bar
 title: Customize slide panel menu bar
 ---
 

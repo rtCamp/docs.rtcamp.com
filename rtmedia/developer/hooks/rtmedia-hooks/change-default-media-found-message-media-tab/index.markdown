@@ -1,6 +1,5 @@
 ---
 date: 2014-09-17 11:01:53+00:00
-slug: change-default-media-found-message-media-tab
 title: Change default no media found message in media tab
 ---
 

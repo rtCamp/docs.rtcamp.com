@@ -1,6 +1,5 @@
 ---
 date: 2014-12-02 12:32:17+00:00
-slug: b3w-servicepage-content
 title: Blogger Migration Services
 ---
 

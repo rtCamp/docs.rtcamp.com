@@ -1,6 +1,5 @@
 ---
 date: 2013-08-05 08:19:40+00:00
-slug: rtmedia-hooks
 title: rtMedia Hooks
 ---
 

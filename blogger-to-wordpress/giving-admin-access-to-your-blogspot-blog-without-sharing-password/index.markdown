@@ -1,6 +1,5 @@
 ---
 date: 2010-03-18 15:21:53+00:00
-slug: giving-admin-access-to-your-blogspot-blog-without-sharing-password
 title: 'Giving Admin Access To Your BlogSpot Blog Without Sharing Password! '
 ---
 

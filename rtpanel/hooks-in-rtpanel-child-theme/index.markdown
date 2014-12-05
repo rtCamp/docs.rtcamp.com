@@ -4,7 +4,6 @@ excerpt: Considering this, rtPanel has also been offering some awesome in-built 
   The inbuilt function such as Hooks allows a developer to rewrite content or append
   new functionality. To know more about the 'rtPanel Hooks' refer this. To  make it
   further easy, we have provided a rtPanel hooks editor plugin.
-slug: hooks-in-rtpanel-child-theme
 title: Hooks in rtPanel Child theme
 ---
 

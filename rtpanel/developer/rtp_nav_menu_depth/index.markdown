@@ -1,6 +1,5 @@
 ---
 date: 2012-04-25 11:39:47+00:00
-slug: rtp_nav_menu_depth
 title: rtp_nav_menu_depth
 ---
 

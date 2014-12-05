@@ -1,6 +1,5 @@
 ---
 date: 2014-01-27 14:49:48+00:00
-slug: automation-site-deployment
 title: Automation site deployment
 ---
 

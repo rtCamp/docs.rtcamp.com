@@ -1,6 +1,5 @@
 ---
 date: 2014-08-13 17:50:57+00:00
-slug: global-albums
 title: Global Albums
 ---
 

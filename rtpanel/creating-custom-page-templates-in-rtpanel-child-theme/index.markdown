@@ -4,7 +4,6 @@ excerpt: There are several customization to be done on a single page. In such ca
   where we require a lot of customization using the hooks or we feel that the hooks
   are not going to do the job for us, we rather prefer creating a separate custom
   page template for it.
-slug: creating-custom-page-templates-in-rtpanel-child-theme
 title: Creating custom page templates in rtPanel child theme
 ---
 

@@ -3,7 +3,6 @@ date: 2011-01-20 11:01:45+00:00
 excerpt: 'FeedBurner is a web feed management provider. FeedBurner provides custom
   RSS feeds and management tools that will help to your blog reader to get regular
   updates of your blog posts via email or Google Reader. '
-slug: how-to-create-feed-url-with-feedburner
 title: How To Create Feed URL With FeedBurner
 ---
 

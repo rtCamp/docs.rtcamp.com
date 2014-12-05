@@ -1,6 +1,5 @@
 ---
 date: 2012-04-25 10:44:54+00:00
-slug: rtp_header_image_width
 title: rtp_header_image_width
 ---
 

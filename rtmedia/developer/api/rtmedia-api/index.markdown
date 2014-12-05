@@ -1,6 +1,5 @@
 ---
 date: 2013-06-12 07:30:52+00:00
-slug: rtmedia-api
 title: rtMedia API
 ---
 

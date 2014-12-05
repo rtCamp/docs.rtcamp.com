@@ -1,6 +1,5 @@
 ---
 date: 2013-05-07 13:56:59+00:00
-slug: webhooks
 title: Webhooks
 ---
 

@@ -3,7 +3,6 @@ date: 2011-01-27 07:34:03+00:00
 excerpt: Maintaining permalinks is not same as redirecting permalinks. Even though
   both solutions are better than broken permalinks, understanding differences between
   "maintaining" &amp; "redirecting" will help you get the best solution!
-slug: maintaining-permalinks-vs-redirecting-permalinks-vs-broken-permalinks
 title: Maintaining Permalinks vs Redirecting Permalinks vs Broken Permalinks
 ---
 

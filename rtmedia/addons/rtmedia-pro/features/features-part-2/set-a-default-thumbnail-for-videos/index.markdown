@@ -1,6 +1,5 @@
 ---
 date: 2013-11-07 06:19:31+00:00
-slug: set-a-default-thumbnail-for-videos
 title: Set a default thumbnail for videos
 ---
 

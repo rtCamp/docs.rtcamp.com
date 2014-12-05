@@ -1,6 +1,5 @@
 ---
 date: 2014-06-17 09:10:55+00:00
-slug: types
 title: Types
 ---
 

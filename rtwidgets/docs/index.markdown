@@ -1,6 +1,5 @@
 ---
 date: 2013-12-27 10:32:36+00:00
-slug: docs
 title: rtWidgets Documentation
 ---
 

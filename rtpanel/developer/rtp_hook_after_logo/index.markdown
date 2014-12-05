@@ -1,6 +1,5 @@
 ---
 date: 2012-04-25 10:47:27+00:00
-slug: rtp_hook_after_logo
 title: rtp_hook_after_logo
 ---
 

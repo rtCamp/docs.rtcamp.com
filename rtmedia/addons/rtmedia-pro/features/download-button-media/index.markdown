@@ -1,6 +1,5 @@
 ---
 date: 2013-11-06 11:33:50+00:00
-slug: download-button-media
 title: Download media or other files
 ---
 

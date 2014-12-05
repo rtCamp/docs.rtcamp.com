@@ -1,6 +1,5 @@
 ---
 date: 2014-01-06 14:23:35+00:00
-slug: translations
 title: Translations
 ---
 
