@@ -17,48 +17,20 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 ## [1. Getting Started]()
 
-
-
-
   * [Overview](/rtmedia/getting-started/)
-  
-	
   * [Installing rtMedia (Core)](/rtmedia/getting-started/install-rtmedia/)
-
-	
   * [Installing BuddyPress](/rtmedia/getting-started/install-buddypress/) (optional)
-
-	
   * [Managing rtMedia Settings](/rtmedia/getting-started/settings/)
-
-	
   * [Audio/Video Encoding](/rtmedia/getting-started/audio-video-encoding/)
-
-
-
 
 ## [2. Features](http://docs.rtcamp.com/rtmedia/features/)
 
-
-	
   1. [Like Buttons / Comments for Media](http://docs.rtcamp.com/rtmedia/features/like/)
-
-	
   2. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
-
-	
   3. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
-
-	
   4. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
-
-	
   5. [Privacy](http://docs.rtcamp.com/rtmedia/features/privacy/)
-
-	
   6. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
-
-
 
 
 ## [3. rtMedia Add Ons](http://docs.rtcamp.com/rtmedia/addons/)

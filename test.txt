@@ -1,0 +1,4 @@
+finally it should work
+new
+test some more
+ignore
