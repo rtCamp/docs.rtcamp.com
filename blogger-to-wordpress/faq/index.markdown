@@ -8,42 +8,6 @@ title: FAQ
 wordpress_id: 12156
 ---
 
-
-	
-  1. What will happen to images hosted/uploaded at Blogger.com? Is it possible to migrate all the images to Wordpress?
-
-	
-  2. What about Posts and Comments? Will you be able to transfer all the Posts and Comments as it is?
-
-	
-  3. Wordpress permalink structure is different than Blogspot. Will it break my permalinks?
-
-	
-  4. What about my feed Subscribers? Will I lose them?
-
-	
-  5. What about downtime? How much it will be?
-
-	
-  6. Do I need to share my Gmail/Blogger.com password to start the process ?
-
-	
-  7. Which Theme I will be using after the migration? Can I get a wordpress theme which looks like Blogger exactly?
-
-	
-  8. Can you create a custom Wordpress theme based on my current BlogSpot theme (template)?
-
-	
-  9. I am convinced! I want to migrate my blog to Wordpress, what should I do now?
-
-
-
-
-### 
-
-
-
-
 #### Q 1. What will happen to images hosted/uploaded at Blogger.com? Is it possible to migrate all the images to Wordpress?
 
 
@@ -96,16 +60,12 @@ Back to top ↑
 A. If you can find a wordpress theme which matches your Blogger.com template, let us know. We will setup your Blogger.com blog with any theme of your choice.
 Back to top ↑
 
-
 #### Q 8. Can you create a custom Wordpress theme based on my current BlogSpot theme (template)?
-
 
 A. Yes, you can hire us for developing a Wordpress theme which will look like BlogSpot template. We can do this at very affordable rate. It is advisable to get this done.
 Back to top ↑
 
-
 #### Q 9. I am convinced! I want to migrate my blog to Wordpress, what should I do now?
-
 
 A. Just contact us using form below and we will help you get started in less than 24 hours!
 Back to top ↑
