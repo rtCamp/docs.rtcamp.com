@@ -1,5 +1,4 @@
 ---
-date: 2014-12-02 12:32:17+00:00
 title: Blogger Migration Services
 ---
 

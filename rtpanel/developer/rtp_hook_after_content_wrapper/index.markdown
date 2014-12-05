@@ -1,5 +1,4 @@
 ---
-date: 2014-01-21 09:40:53+00:00
 title: rtp_hook_after_content_wrapper
 ---
 

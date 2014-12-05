@@ -1,5 +1,4 @@
 ---
-date: 2014-08-12 12:55:11+00:00
 title: Change profile photo in InspireBook
 ---
 

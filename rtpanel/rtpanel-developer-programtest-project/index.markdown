@@ -1,5 +1,4 @@
 ---
-date: 2011-11-12 11:35:52+00:00
 excerpt: The test assignment will consist of a 'Theme Development' project. We will
   provide designs (fine layered PhotoShop files and sliced images) to the developer
   partners. Your work will be limited to WordPress theme development on rtPanel framework

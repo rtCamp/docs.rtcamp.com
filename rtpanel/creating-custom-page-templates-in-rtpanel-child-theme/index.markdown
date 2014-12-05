@@ -1,5 +1,4 @@
 ---
-date: 2011-12-19 06:13:39+00:00
 excerpt: There are several customization to be done on a single page. In such cases,
   where we require a lot of customization using the hooks or we feel that the hooks
   are not going to do the job for us, we rather prefer creating a separate custom

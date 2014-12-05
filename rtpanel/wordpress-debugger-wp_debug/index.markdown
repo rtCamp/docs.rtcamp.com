@@ -1,5 +1,4 @@
 ---
-date: 2012-01-18 06:41:02+00:00
 excerpt: In Codex it is mentioned that "WP_DEBUG  is a PHP constant (a permanent global
   variable) that can be used to trigger the "debug" mode throughout WordPress". In
   other words, it is an option to enable or disable the PHP errors/warning in the

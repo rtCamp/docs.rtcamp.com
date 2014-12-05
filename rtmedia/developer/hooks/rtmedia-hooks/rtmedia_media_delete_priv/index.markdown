@@ -1,5 +1,4 @@
 ---
-date: 2014-09-23 06:52:19+00:00
 title: rtmedia_media_delete_priv
 ---
 

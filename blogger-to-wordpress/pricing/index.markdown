@@ -1,5 +1,4 @@
 ---
-date: 2014-12-01 11:06:24+00:00
 title: Pricing for Migrating Content from Blogger to WordPress
 ---
 

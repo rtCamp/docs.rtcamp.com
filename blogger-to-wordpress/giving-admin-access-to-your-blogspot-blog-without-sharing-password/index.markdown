@@ -1,5 +1,4 @@
 ---
-date: 2010-03-18 15:21:53+00:00
 title: 'Giving Admin Access To Your BlogSpot Blog Without Sharing Password! '
 ---
 

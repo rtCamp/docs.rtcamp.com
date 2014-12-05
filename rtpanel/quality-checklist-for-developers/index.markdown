@@ -1,5 +1,4 @@
 ---
-date: 2011-12-21 11:38:40+00:00
 excerpt: When it comes to quality of the site we need some predefined guidelines which
   ensures that the quality of developed website meets the client's expectation. Hence
   to overcome this we created our own rtChecklists, so that we can maintain quality

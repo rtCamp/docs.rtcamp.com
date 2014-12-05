@@ -1,5 +1,4 @@
 ---
-date: 2014-11-11 09:35:10+00:00
 title: Install and Activate rtdating Theme
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2014-12-04 18:52:52
 title: Setup Sidebar/Footer Widgets
 ---
 

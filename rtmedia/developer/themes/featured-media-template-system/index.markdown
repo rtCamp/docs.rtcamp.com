@@ -1,5 +1,4 @@
 ---
-date: 2013-08-19 09:24:23+00:00
 title: Template system
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2012-04-25 10:46:01+00:00
 title: rtp_hook_after_footer
 ---
 

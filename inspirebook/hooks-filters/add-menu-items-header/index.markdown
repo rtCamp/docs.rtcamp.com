@@ -1,5 +1,4 @@
 ---
-date: 2014-11-19 10:22:30+00:00
 title: Add menu items in header
 ---
 

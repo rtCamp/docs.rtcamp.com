@@ -1,5 +1,4 @@
 ---
-date: 2011-01-27 19:30:41+00:00
 excerpt: Best guide to move (switch) from blogger (BlogSpot) to WordPress without
   losing search engine ranking, traffic, feed subscriber, Google friend connect followers
   & Blogger permalink fix plugin

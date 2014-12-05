@@ -1,5 +1,4 @@
 ---
-date: 2014-01-29 15:12:16+00:00
 title: Handling Plugin CSS
 ---
 

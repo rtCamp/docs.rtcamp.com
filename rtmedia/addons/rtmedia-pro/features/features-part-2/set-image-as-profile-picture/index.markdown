@@ -1,5 +1,4 @@
 ---
-date: 2013-11-01 10:54:30+00:00
 title: Set image as profile picture
 ---
 

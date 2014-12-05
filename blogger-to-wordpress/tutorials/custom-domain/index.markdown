@@ -1,5 +1,4 @@
 ---
-date: 2013-06-14 09:48:45+00:00
 title: Custom Domain
 ---
 

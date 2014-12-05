@@ -1,5 +1,4 @@
 ---
-date: 2014-08-13 16:39:04+00:00
 title: bbPress Attachment
 ---
 

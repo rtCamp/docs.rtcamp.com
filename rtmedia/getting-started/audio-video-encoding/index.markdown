@@ -1,5 +1,4 @@
 ---
-date: 2014-06-11 07:54:54+00:00
 title: Audio/Video Encoding
 ---
 

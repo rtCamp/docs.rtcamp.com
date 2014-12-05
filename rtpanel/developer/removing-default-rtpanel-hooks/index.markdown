@@ -1,5 +1,4 @@
 ---
-date: 2012-05-02 10:11:51+00:00
 title: Removing the default rtPanel Hooks
 ---
 

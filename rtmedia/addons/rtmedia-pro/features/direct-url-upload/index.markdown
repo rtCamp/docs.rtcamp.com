@@ -1,5 +1,4 @@
 ---
-date: 2014-08-13 16:07:21+00:00
 title: Direct URL upload
 ---
 

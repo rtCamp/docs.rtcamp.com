@@ -1,5 +1,4 @@
 ---
-date: 2011-01-13 04:30:41+00:00
 excerpt: User Guide to setup your Blogger domain name with your Hostgator account.
 title: How to Setup Custom Domain on Blogger with Hostgator
 ---

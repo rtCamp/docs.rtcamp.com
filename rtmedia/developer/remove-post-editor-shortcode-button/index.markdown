@@ -1,5 +1,4 @@
 ---
-date: 2014-04-24 07:06:57+00:00
 title: Remove post-editor shortcode button
 ---
 

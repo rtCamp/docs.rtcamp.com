@@ -1,5 +1,4 @@
 ---
-date: 2014-08-13 16:34:35+00:00
 title: WordPress Comment Attachment
 ---
 

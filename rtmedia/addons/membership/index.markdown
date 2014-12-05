@@ -1,5 +1,4 @@
 ---
-date: 2014-10-28 10:37:15+00:00
 title: rtMedia Membership Addon
 ---
 

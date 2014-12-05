@@ -1,5 +1,4 @@
 ---
-date: 2013-09-24 13:20:53+00:00
 title: Moderation and Report Abuse Tools
 ---
 

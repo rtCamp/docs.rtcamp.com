@@ -1,5 +1,4 @@
 ---
-date: 2014-12-01 10:55:06+00:00
 title: Premium features in rtMedia
 ---
 

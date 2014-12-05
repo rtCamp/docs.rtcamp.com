@@ -1,5 +1,4 @@
 ---
-date: 2014-02-07 11:05:44+00:00
 title: rtp_gravatar_size
 ---
 

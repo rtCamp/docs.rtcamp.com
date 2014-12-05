@@ -1,5 +1,4 @@
 ---
-date: 2013-06-04 15:16:40+00:00
 published: false
 title: Upload API
 ---

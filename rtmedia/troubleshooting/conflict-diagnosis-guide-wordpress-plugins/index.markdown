@@ -1,5 +1,4 @@
 ---
-date: 2013-09-13 09:57:06+00:00
 title: Conflict Diagnosis Guide for WordPress plugins
 ---
 

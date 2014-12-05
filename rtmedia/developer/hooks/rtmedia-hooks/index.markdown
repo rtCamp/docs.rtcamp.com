@@ -1,5 +1,4 @@
 ---
-date: 2013-08-05 08:19:40+00:00
 title: rtMedia Hooks
 ---
 

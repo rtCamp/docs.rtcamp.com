@@ -1,5 +1,4 @@
 ---
-date: 2013-10-31 14:33:20+00:00
 title: bbPress Support
 ---
 

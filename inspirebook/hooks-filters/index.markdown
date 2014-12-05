@@ -1,5 +1,4 @@
 ---
-date: 2014-11-19 10:21:32+00:00
 title: Hooks and Filters
 ---
 

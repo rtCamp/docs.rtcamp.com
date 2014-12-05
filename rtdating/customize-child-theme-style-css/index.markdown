@@ -1,5 +1,4 @@
 ---
-date: 2014-12-04 18:33:07
 title: Customize child theme style.css
 ---
 

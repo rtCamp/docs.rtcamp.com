@@ -1,5 +1,4 @@
 ---
-date: 2013-09-30 10:48:09+00:00
 title: Media and albums in BuddyPress profiles/groups
 ---
 

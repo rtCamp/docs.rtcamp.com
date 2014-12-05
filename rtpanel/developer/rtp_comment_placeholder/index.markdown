@@ -1,5 +1,4 @@
 ---
-date: 2014-02-07 10:26:08+00:00
 title: rtp_comment_placeholder
 ---
 

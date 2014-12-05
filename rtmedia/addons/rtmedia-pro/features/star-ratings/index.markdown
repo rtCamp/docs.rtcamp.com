@@ -1,5 +1,4 @@
 ---
-date: 2013-11-01 11:00:59+00:00
 title: Star ratings
 ---
 

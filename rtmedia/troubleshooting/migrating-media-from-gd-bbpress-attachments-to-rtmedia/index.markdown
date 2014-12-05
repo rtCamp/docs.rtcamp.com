@@ -1,5 +1,4 @@
 ---
-date: 2013-11-01 07:35:37+00:00
 title: Migrating media from GD bbPress Attachments to rtMedia
 ---
 

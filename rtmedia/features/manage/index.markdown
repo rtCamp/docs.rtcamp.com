@@ -1,5 +1,4 @@
 ---
-date: 2013-09-30 10:44:36+00:00
 title: Manage Albums
 ---
 

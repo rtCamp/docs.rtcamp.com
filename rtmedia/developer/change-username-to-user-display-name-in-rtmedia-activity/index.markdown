@@ -1,5 +1,4 @@
 ---
-date: 2014-09-11 17:07:49+00:00
 title: Change username to user's display name in rtMedia activity
 ---
 

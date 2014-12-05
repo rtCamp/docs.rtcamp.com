@@ -1,5 +1,4 @@
 ---
-date: 2014-08-12 12:49:45+00:00
 title: Premium Theme Features
 ---
 

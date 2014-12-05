@@ -1,5 +1,4 @@
 ---
-date: 2012-03-27 07:13:22+00:00
 excerpt: Considering this, rtPanel has also been offering some awesome in-built hooks.
   The inbuilt function such as Hooks allows a developer to rewrite content or append
   new functionality. To know more about the 'rtPanel Hooks' refer this. To  make it

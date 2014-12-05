@@ -1,5 +1,4 @@
 ---
-date: 2012-02-02 10:24:43+00:00
 title: Create Custom Post Type with rtPanel Child Theme
 ---
 

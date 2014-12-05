@@ -1,5 +1,4 @@
 ---
-date: 2013-06-17 08:30:38+00:00
 title: rtMedia Photo Tagging
 ---
 

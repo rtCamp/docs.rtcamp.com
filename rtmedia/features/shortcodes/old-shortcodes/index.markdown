@@ -1,5 +1,4 @@
 ---
-date: 2013-04-18 08:06:39+00:00
 title: Old Shortcodes
 ---
 

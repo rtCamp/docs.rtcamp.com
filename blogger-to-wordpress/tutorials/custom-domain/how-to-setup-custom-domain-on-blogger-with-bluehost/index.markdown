@@ -1,5 +1,4 @@
 ---
-date: 2011-06-15 09:49:38+00:00
 excerpt: Follow the following steps to setup your Blogger domain name through your
   Bluehost account.
 title: How to Setup Custom Domain on Blogger with BlueHost

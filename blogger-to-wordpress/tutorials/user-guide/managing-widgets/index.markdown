@@ -1,5 +1,4 @@
 ---
-date: 2010-09-08 07:01:01+00:00
 excerpt: Widgets are used to customize content that can be displayed on all the pages
   of the blog or website using WordPress. Widgets are often used for things like RSS
   links or just categories. Most times Widgets are used to display relevant things

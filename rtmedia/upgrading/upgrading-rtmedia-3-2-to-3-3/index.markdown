@@ -1,5 +1,4 @@
 ---
-date: 2013-12-20 14:34:27+00:00
 title: Upgrading from rtMedia 3.2.x to 3.3.x
 ---
 

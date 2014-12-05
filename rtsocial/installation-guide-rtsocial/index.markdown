@@ -1,5 +1,4 @@
 ---
-date: 2014-12-02 12:09:27+00:00
 title: Installation Guide for rtSocial
 ---
 

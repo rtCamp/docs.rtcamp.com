@@ -1,5 +1,4 @@
 ---
-date: 2013-03-25 06:08:33+00:00
 excerpt: How rtCamp fixed orientation of images in BuddyPress Media
 title: How BuddyPress-Media fixed image orientation using PHP
 ---

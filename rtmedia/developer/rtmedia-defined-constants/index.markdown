@@ -1,5 +1,4 @@
 ---
-date: 2013-08-05 07:17:31+00:00
 title: rtMedia Defined Constants
 ---
 

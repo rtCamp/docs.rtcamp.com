@@ -1,5 +1,4 @@
 ---
-date: 2013-11-07 06:12:45+00:00
 title: Post-editor shortcode button
 ---
 

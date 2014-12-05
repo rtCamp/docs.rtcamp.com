@@ -1,5 +1,4 @@
 ---
-date: 2014-08-13 16:29:14+00:00
 title: User's liked media page
 ---
 

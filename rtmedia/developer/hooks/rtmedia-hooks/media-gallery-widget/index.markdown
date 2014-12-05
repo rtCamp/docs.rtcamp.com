@@ -1,5 +1,4 @@
 ---
-date: 2014-09-05 06:00:27+00:00
 title: rtMedia Pro- Media gallery widget hooks
 ---
 

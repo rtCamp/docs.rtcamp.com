@@ -1,5 +1,4 @@
 ---
-date: 2012-04-25 10:43:41+00:00
 title: rtp_header_image_height
 ---
 

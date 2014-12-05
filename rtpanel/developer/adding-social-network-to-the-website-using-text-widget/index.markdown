@@ -1,5 +1,4 @@
 ---
-date: 2012-01-11 09:36:24+00:00
 excerpt: Nowadays social media has become an integral part of marketing and promotions.
   Be its a corporate site or personal branding site, everyone needs that social connect;
   to build the loyal fans and followers for your content/offerings. Hence adding social

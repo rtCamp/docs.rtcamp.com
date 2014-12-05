@@ -1,5 +1,4 @@
 ---
-date: 2014-11-13 12:42:55+00:00
 title: Setup Home Page
 ---
 

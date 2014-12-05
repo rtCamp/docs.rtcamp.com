@@ -1,5 +1,4 @@
 ---
-date: 2014-03-05 06:48:32+00:00
 title: Customize rtPanel Grid
 ---
 

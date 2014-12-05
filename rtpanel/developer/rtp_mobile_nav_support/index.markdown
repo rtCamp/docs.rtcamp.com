@@ -1,5 +1,4 @@
 ---
-date: 2014-02-07 11:12:54+00:00
 title: rtp_mobile_nav_support
 ---
 

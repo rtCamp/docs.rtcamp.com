@@ -1,5 +1,4 @@
 ---
-date: 2014-02-26 13:15:42+00:00
 title: rtPanel Theme Options 'Post & Comments'
 ---
 

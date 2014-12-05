@@ -1,5 +1,4 @@
 ---
-date: 2012-01-24 07:49:46+00:00
 title: Using rtp_generate_thumbs() function in child theme
 ---
 

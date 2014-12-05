@@ -1,5 +1,4 @@
 ---
-date: 2014-12-01 11:33:37+00:00
 title: Request a feature
 ---
 

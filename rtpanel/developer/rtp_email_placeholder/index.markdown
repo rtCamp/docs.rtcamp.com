@@ -1,5 +1,4 @@
 ---
-date: 2014-02-07 10:39:41+00:00
 title: rtp_email_placeholder
 ---
 

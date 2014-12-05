@@ -1,5 +1,4 @@
 ---
-date: 2013-04-11 10:24:13+00:00
 title: Troubleshooting
 ---
 

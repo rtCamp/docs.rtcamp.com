@@ -1,5 +1,4 @@
 ---
-date: 2011-12-19 13:48:36+00:00
 title: Implementing rtp-slider in the child theme
 ---
 

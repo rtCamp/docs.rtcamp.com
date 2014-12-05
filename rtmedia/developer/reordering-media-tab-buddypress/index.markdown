@@ -1,5 +1,4 @@
 ---
-date: 2014-01-27 07:51:30+00:00
 title: Reordering Media tab in BuddyPress
 ---
 

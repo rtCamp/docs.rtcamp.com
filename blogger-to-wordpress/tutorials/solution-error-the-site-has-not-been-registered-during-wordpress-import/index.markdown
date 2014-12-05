@@ -1,5 +1,4 @@
 ---
-date: 2011-04-29 12:38:50+00:00
 excerpt: Solution for error  - "The page you have requested cannot be displayed. Another
   site was requesting access to your Google Account, but sent a malformed...."
 title: '[Solution] Error - "The site has not been registered" during WordPress Import'

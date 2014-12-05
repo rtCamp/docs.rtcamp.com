@@ -1,5 +1,4 @@
 ---
-date: 2014-08-13 16:16:40+00:00
 title: URL preview in BuddyPress activity
 ---
 

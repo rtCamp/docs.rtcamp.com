@@ -1,5 +1,4 @@
 ---
-date: 2012-04-25 11:25:47+00:00
 title: rtp_hook_end_post_title
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2014-01-28 06:08:37+00:00
 title: How to use Fontello fonts in rtPanel
 ---
 

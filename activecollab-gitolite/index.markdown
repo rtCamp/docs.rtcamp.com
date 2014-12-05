@@ -1,5 +1,4 @@
 ---
-date: 2013-04-11 10:07:18+00:00
 title: ActiveCollab Gitolite
 ---
 

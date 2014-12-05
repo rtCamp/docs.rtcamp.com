@@ -1,5 +1,4 @@
 ---
-date: 2010-05-03 17:03:28+00:00
 title: 10 Free High Quality Wordpress Themes
 ---
 

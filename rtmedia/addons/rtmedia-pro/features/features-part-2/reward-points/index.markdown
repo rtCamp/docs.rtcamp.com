@@ -1,5 +1,4 @@
 ---
-date: 2013-10-31 12:43:23+00:00
 title: Reward Points
 ---
 

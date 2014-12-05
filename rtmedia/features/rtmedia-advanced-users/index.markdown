@@ -1,5 +1,4 @@
 ---
-date: 2014-12-01 11:35:50+00:00
 title: rtMedia for advanced users
 ---
 

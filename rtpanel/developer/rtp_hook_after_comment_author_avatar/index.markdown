@@ -1,5 +1,4 @@
 ---
-date: 2014-01-21 11:27:51+00:00
 title: rtp_hook_after_comment_author_avatar
 ---
 

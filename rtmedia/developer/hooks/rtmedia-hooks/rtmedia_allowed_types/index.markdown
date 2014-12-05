@@ -1,5 +1,4 @@
 ---
-date: 2013-08-05 08:35:51+00:00
 title: rtmedia_allowed_types
 ---
 

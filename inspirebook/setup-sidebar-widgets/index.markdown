@@ -1,5 +1,4 @@
 ---
-date: 2014-08-12 12:48:06+00:00
 title: Setup Sidebar Widgets
 ---
 

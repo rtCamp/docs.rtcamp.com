@@ -1,5 +1,4 @@
 ---
-date: 2014-06-18 09:46:56+00:00
 title: ' rtMedia Kaltura Add-on'
 ---
 

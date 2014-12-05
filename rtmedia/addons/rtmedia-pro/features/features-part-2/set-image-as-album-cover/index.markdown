@@ -1,5 +1,4 @@
 ---
-date: 2013-11-01 14:43:31+00:00
 title: Set image as album cover
 ---
 

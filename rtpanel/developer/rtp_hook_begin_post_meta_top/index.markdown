@@ -1,5 +1,4 @@
 ---
-date: 2012-04-25 11:14:54+00:00
 title: rtp_hook_begin_post_meta_top
 ---
 

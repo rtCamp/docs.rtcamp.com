@@ -1,5 +1,4 @@
 ---
-date: 2011-01-17 04:30:49+00:00
 title: Domain Setup On Blogger With Media Temple
 ---
 

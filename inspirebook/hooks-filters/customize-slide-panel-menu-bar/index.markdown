@@ -1,5 +1,4 @@
 ---
-date: 2014-11-19 09:13:28+00:00
 title: Customize slide panel menu bar
 ---
 

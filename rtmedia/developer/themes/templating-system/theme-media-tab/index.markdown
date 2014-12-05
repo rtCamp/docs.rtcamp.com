@@ -1,5 +1,4 @@
 ---
-date: 2014-01-06 11:22:16+00:00
 title: BuddyPress theme media tab
 ---
 

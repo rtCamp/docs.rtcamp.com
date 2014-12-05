@@ -1,5 +1,4 @@
 ---
-date: 2014-08-12 13:03:25+00:00
 title: Setup Icons for InspireBook Menu
 ---
 

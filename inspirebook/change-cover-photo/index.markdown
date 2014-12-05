@@ -1,5 +1,4 @@
 ---
-date: 2014-08-12 12:59:42+00:00
 title: Change cover photo in InspireBook
 ---
 

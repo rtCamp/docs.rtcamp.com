@@ -1,5 +1,4 @@
 ---
-date: 2014-06-23 09:46:58+00:00
 title: End User Documentation
 ---
 

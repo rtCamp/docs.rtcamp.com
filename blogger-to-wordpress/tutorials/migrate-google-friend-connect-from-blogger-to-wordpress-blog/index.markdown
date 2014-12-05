@@ -1,5 +1,4 @@
 ---
-date: 2011-01-15 01:30:59+00:00
 excerpt: When they migrate their blog from Blogger to self hosted WordPress, they
   loose their Google Friends in the migrated WordPress blog. This post will be helpful
   to get your Friends back onto the new WordPress blog.

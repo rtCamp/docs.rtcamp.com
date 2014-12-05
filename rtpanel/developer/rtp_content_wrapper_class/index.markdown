@@ -1,5 +1,4 @@
 ---
-date: 2014-02-07 11:23:14+00:00
 title: rtp_content_wrapper_class
 ---
 

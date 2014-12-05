@@ -1,5 +1,4 @@
 ---
-date: 2014-07-03 08:39:02+00:00
 title: 'Managing Settings (For rtMedia Free Version) '
 ---
 

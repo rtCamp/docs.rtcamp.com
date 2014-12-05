@@ -1,5 +1,4 @@
 ---
-date: 2012-01-27 11:05:10+00:00
 excerpt: Widgets is a functionality in WordPress which offers interactive options
   and visual appeal to the website. Widgets enable non-technical users to customize
   their theme according to the specific layout as needed in their site.

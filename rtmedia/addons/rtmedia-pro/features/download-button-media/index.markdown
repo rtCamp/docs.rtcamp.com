@@ -1,5 +1,4 @@
 ---
-date: 2013-11-06 11:33:50+00:00
 title: Download media or other files
 ---
 

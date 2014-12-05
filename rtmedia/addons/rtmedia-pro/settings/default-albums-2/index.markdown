@@ -1,5 +1,4 @@
 ---
-date: 2014-06-12 08:17:39+00:00
 title: Default Albums
 ---
 
