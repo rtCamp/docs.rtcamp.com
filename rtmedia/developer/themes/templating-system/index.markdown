@@ -80,4 +80,4 @@ uploader.php
 
 Since, a lot of features of rtMedia depend on javascript, it is not advisable to change the markup a lot. It is also not advisable to remove any class or id definitions. At the most, additional classes should be added. Any additional data that needs to be displayed in any of the templates should be via appropriate hooks and filters.
 
-{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+{% child_pages depth:1 %}

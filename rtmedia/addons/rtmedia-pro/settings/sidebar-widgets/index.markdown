@@ -6,4 +6,4 @@ _Note: These feature works in rtMedia PRO only. The plugin can be [purchased fro
 
 rtMedia provides widgets to help you upload or view media. These are small modules that appear in your sidebars.
 
-{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+{% child_pages depth:1 %}

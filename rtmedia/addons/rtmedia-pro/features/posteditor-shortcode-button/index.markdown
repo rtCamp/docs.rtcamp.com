@@ -6,4 +6,4 @@ _Note: This feature works with rtMedia PRO only. The plugin can be [purchased f
 
 Using the rtMedia PRO add-on along with rtMedia's core, site administrators can quickly create gallery and uploader shortcodes by using the shortcode generator button in WordPress' post editor.
 
-{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+{% child_pages depth:1 %}

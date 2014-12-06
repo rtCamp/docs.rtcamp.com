@@ -93,10 +93,9 @@ Whenever you are creating a new parent folder which does not have `index.md`/`in
 You may put following snippet in the content to display a list of child pages:
 
 ```
-{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+{% child_pages depth:1 %}
 ```
 
 This template accepts two parametes:
 
-- **context:** This is the url of the current page. You may pass any other url if you with to list down child pages of that particular page.
 - **depth:** You may define the depth till which the template should go while listing child pages.

@@ -71,6 +71,6 @@ You can enable or disable widgets of your choice.
 ## Widgets Settings
 
 
-{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+{% child_pages depth:1 %}
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

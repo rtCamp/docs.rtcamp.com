@@ -42,4 +42,4 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 ## Upgrading Archive
 
 
-{% include themes/rtcamp/modules/child-pages.html context=page.url depth=1 %}
+{% child_pages depth:1 %}
