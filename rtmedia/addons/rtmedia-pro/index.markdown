@@ -2,13 +2,11 @@
 title: rtMedia PRO
 ---
 
-[rtMedia PRO ](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/)is a premium add-on which adds additional features to rtMedia.
+rtMedia PRO is a premium add-on which adds additional features to rtMedia.
 
-Some of them are -
+Some additional features are:
 
 
-
-	
   * Facilitating users to download uploaded media
 
 	
@@ -23,14 +21,14 @@ Here is a list of **rtMedia -PRO**
 
 
 	
-  1. [Features](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/)
+  1. [Features](/rtmedia/addons/rtmedia-pro/features/)
 
 	
-  2. [Settings](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/Settings/)
+  2. [Settings](/rtmedia/addons/rtmedia-pro/settings/)
 
 
 **How to test if your website needs rtMedia -PRO before purchase?**
 
-It is recommended that you try out rtMedia (Core) version by downloading it from WordPress plugin directory. It is a free plugin and you will be able to make a better informed choice.
+We recommend that you try out rtMedia (Core) version by downloading it from the WordPress plugins directory. It is a free plugin. Using it will help you make an informed choice as to whether you need the rtMedia Pro plugin.
 
-To purchase **rtMedia PRO**, click on **rtMedia >> Go PRO! >> UPGRADE TO RTMEDIA PRO NOW** in your WordPress Dashboard.
+To purchase **rtMedia PRO**, click **rtMedia >> Go PRO! >> UPGRADE TO RTMEDIA PRO NOW** from your WordPress Dashboard.

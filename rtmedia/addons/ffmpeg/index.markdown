@@ -54,9 +54,6 @@ You can test this on our [live demo server](http://demo.rtcamp.com/bpm-ffmpeg/)
 ## Roadmap
 
 
-  * Video Thumbnail Support
-
-	
   * Support for video merging
 
 	

@@ -117,6 +117,10 @@ You can add in [custom CSS](http://www.w3schools.com/css/) code to style *rtMedi
   
    **Note**: Ensure that your CSS code is valid. *rtMedia* does not validate your code. Entering invalid CSS code can break your site.
 
+The following is an example of CSS code. This hides the media title from the media galery.
+
+    .rtmedia-list-item .rtmedia-item-title{ display: none; }
+
 
 ## Other Settings
 

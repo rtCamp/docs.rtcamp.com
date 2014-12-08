@@ -2,36 +2,30 @@
 title: rtMedia Watermark
 ---
 
-As the name suggests, this add-on will add watermarking functionality to the images being uploaded via rtMedia plugin itself.
+As the name suggests, this add-on adds watermarking functionality to the images being uploaded using the rtMedia plugin itself.
 
-rtMedia photo watermark add-on lets you add watermark text to photos uploaded via rtMedia. It turns your rtMedia powered community into superior social experience along with your own identity!
+rtMedia photo watermark add-on lets you add watermark text to photos uploaded using rtMedia.
 
-You need to have ImageMagick installed on your server for this add-on to work. The installation instructions can be found [on PHP’s official manual here](http://www.php.net/manual/en/imagick.installation.php) and [on ImageMagick’s official website here](http://www.imagemagick.org/script/install-source.php).
+You need to have ImageMagick installed on your server for this add-on to work. The installation instructions for ImageMagick can be found [in PHP’s official manual here](http://www.php.net/manual/en/imagick.installation.php) and [on ImageMagick’s official website here](http://www.imagemagick.org/script/install-source.php).
 
 
 ## Installation
 
 
-Please follow these simple steps to get your watermark add-on running.
+Follow these simple steps to get your watermark add-on running.
 
 
 
-	
-  1. Once you complete the purchase, you will get a download link for rtMedia photo watermark plugin.
-
-	
-  2. Go to `Plugins > Add New > Upload`. Please select the `bpm-watermark.zip` file from your computer and click upload.
+  1. Once you complete the purchase, you will receive a download link for rtMedia photo watermark plugin.
 
 	
-  3. Activate it through the ‘Plugins’ section.
+  2. Go to `Plugins > Add New > Upload`. Select the `bpm-watermark.zip` file from your computer and click **Upload**.
 
 	
-  4. Done. Now, you can do required changes for watermark text under settings.
+  3. After uploading, click the **Activate Plugin** link to activate the plugin.
 
-
-
-
-#### 
+	
+  4. Set the Watermark options under Settings.
 
 
 
@@ -47,24 +41,22 @@ Go to rtMedia’s support tab. You would see one of the following:
 ### Installing ImageMagick
 
 
-Detailed installation instructions can be found [on PHP’s official manual here](http://www.php.net/manual/en/imagick.installation.php) and [on ImageMagick’s official website here](http://www.imagemagick.org/script/install-source.php). Alternatively, you can contact your hosting provider/server team to install/enable ImageMagick.
+Detailed installation instructions can be found [in PHP’s official manual here](http://www.php.net/manual/en/imagick.installation.php) and [on ImageMagick’s official website here](http://www.imagemagick.org/script/install-source.php). Alternatively, you can contact your hosting provider/server team to install/enable ImageMagick.
 
 
 ## Features
 
 
-Site admin can
-
-
+You can:
 
 	
-  * Choose font from hundreds of font- families,
+  * Choose the watermark text font from hundreds of font- families
 
 	
-  * Change size, color and position for the watermark text as per preferences and
+  * Change size, color and position for the watermark text
 
 	
-  * Save original image.
+  * Save original image
 
 
 rtMedia Photo Watermark settings:
@@ -77,4 +69,4 @@ rtMedia Photo Watermark settings:
 ## Demo
 
 
-You can check a live demo here [http://demo.rtcamp.com/rtmedia/](http://demo.rtcamp.com/rtmedia/). Upload an image under your profile via rtMedia uploader and see watermark text on that image ![:)](https://d3qt5vpr7p9rgn.cloudfront.net/wp-includes/images/smilies/icon_smile.gif)
+You can try out a live demo here: [http://demo.rtcamp.com/rtmedia/](http://demo.rtcamp.com/rtmedia/). Upload an image under your profile using rtMedia uploader and see the watermark text on that image ![:)](https://d3qt5vpr7p9rgn.cloudfront.net/wp-includes/images/smilies/icon_smile.gif)

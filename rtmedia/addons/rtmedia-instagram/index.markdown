@@ -9,19 +9,17 @@ Important: You must have ImageMagick installed on the server on which you are r
 
 Follow these simple steps to get your rtMedia Instagram add-on running:
 
-
-
 	
   * Once you complete the purchase, you will get a download link for BuddyPress-Media Instagram in your email inbox.
 
 	
-  * In your **WordPress Dashboard**, click on **Plugins** > **Add New** > **Upload**. Select the **bpm-instagram.zip** file from your computer and click on **Upload**.
+  * In your **WordPress Dashboard**, click on **Plugins** > **Add New** > **Upload**. Select the **bpm-instagram.zip** file from your computer and click **Upload**.
 
 	
-  * Activate it through the **Plugins** section.
+  * Click the **Activate Plugin** link to activate the plugin.
 
 	
-  * Done. _Your users will now be able to add effects on the photo edit screen, like the effects we added on our team photo below._ :-)
+  * Your users will now be able to add effects on the photo edit screen, like the effects we added on our team photo below:-)
 
 
 [![Instagram plugin View](https://rtcamp.com/wp-content/uploads/2013/06/Selection_018-nashville.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_018-nashville.png)
@@ -30,18 +28,18 @@ Follow these simple steps to get your rtMedia Instagram add-on running:
 ## **Troubleshooting**
 
 
-1. How to check if ImageMagick is installed on my server?
+1. How do I check if ImageMagick is installed on my server?
 
-Go to BuddyPress Media’s **support** tab in your WordPress back-end. You will see the following:
+Go to BuddyPress Media’s **support** tab in your WordPress dashboard. You will see the following:
 
-[caption id="attachment_34386" align="aligncenter" width="497"][![ImageMagick is not installed](https://rtcamp.com/wp-content/uploads/2013/03/imagick-not-installed-497x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/imagick-not-installed.jpg) ImageMagick is not installed[/caption]
+[![ImageMagick is not installed](https://rtcamp.com/wp-content/uploads/2013/03/imagick-not-installed-497x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/imagick-not-installed.jpg) ImageMagick is not installed
 
 Now, you need to install ImageMagick on your server.
-To install ImageMagick, you can either get support from your hosting company, or you can do it yourself by following the simple instructions mentioned in these tutorials:
+
+To install ImageMagick, you can either get support from your hosting company, or you can do it yourself, by following the instructions mentioned in these tutorials:
 
 
 
-	
   * [DevilsWorkshop](http://devilsworkshop.org/tutorial/php54-imagemagick-pecl-installation/61444/) [our tutorial]
 
 	
@@ -51,7 +49,7 @@ To install ImageMagick, you can either get support from your hosting company, o
   * [ImageMagick’s official website](http://www.imagemagick.org/script/install-source.php)
 
 
-Once ImageMagick is installed on your server, you can cross check it in your WordPress, under **BuddyPress Media** > **Support** tab.
+Once ImageMagick is installed on your server, you can cross check it in your WordPress installation, under the **BuddyPress Media** > **Support** tab.
 
 Now, you can enjoy the feel of Instagram effects in your WordPress - BuddyPress Media website.
 
@@ -61,7 +59,7 @@ Now, you can enjoy the feel of Instagram effects in your WordPress - BuddyPress 
 
 Cross-check whether all the packages are installed properly on your server.
 
-For that, run this command:
+Run this command:
 
 ` dpkg -l | egrep '(imagemagick|libmagickwand-dev|php5-imagick)'`
 
@@ -69,12 +67,13 @@ Or this command:
 
 ` dpkg -l | egrep '(imagemagick | libmagick9-dev | php5-imagick)' `  depending on your server configuration.
 
-You will see an output like this:
+You will see output as follows:
 [![Packages installed](https://rtcamp.com/wp-content/uploads/2013/06/Selection_020-620x137.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_020.png)
 
 If those packages are installed, then you need to add this line in server's **php.ini** file:
 
 ` extension=imagick.so `
+
 If not, then install the missing packages.
 
 Restart php on your server. Everything will work fine with Instagram add-on.
