@@ -93,7 +93,7 @@ As a site admin, you can use a range of settings to help you organize membership
   
 
 ### Payment Settings
-![payment settings](https://cloud.githubusercontent.com/assets/8191145/5339349/cdd4d572-7f05-11e4-88df-93d961195daf.png)
+![payment settings new upload](https://cloud.githubusercontent.com/assets/8191145/5354411/6ade14bc-7fad-11e4-85c2-41fd9cf1f0ce.png)
 
 1. Payment Settings for Membership plugin
 
@@ -109,7 +109,7 @@ As a site admin, you can use a range of settings to help you organize membership
 
 7. You have to set this IPN URL to your Notification URL in your PayPal Profile Settings. To know how to set your Notification URL, please click [here](https://developer.paypal.com/docs/classic/ipn/integration-guide/IPNSetup/#id089EG030E5Z).
 
-8. The values of **-1 = Do not want to set price** and **0 = Free**.
+8. The values of **-1 = Not for Sale** and **0 = Free**.
 
 9. Currency is in **USD**.
 
@@ -165,23 +165,22 @@ Add a plan according to the following steps.
 
 ### Edit Plan
 
-![edit plan](https://cloud.githubusercontent.com/assets/8191145/5339628/ed357658-7f08-11e4-8e39-9f37e1047c28.png)
+![edit plan new upload](https://cloud.githubusercontent.com/assets/8191145/5354412/6f474e42-7fad-11e4-8039-259955af6c39.png)
 
-1. Edit Plan   
 
-2. You can edit **Name** of plan.
+1. You can edit **Name** of plan.
 
-3. You can edit **Description** of plan.
+2. You can edit **Description** of plan.
 
-4. You can edit **Color** of the plan.
+3. You can edit **Color** of the plan.
 
-5. You can edit **Upload Limit**.
+4. You can edit **Upload Limit**.
 
-6. You can edit **File Count**.
+5. You can edit **File Count**.
 
-7. You can edit **Price**.
+6. You can edit **Price**.
 
-8. After all the changes are made, apply them by clicking on **Update**.
+7. After all the changes are made, apply them by clicking on **Update**.
 
 
 ### View Members Plan
