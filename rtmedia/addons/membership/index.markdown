@@ -81,7 +81,7 @@ As a site admin, you can use a range of settings to help you organize membership
   4. Similarly, set **File Limits** for each membership plan.
 
 	
-  5. Manage plans will take you to another page that allows you to add new plans or modify existing ones. (See the **Manage Plans** section for more information.)
+  5. Manage plans will take you to another page that allows you to add new plans or modify existing ones. [Documentation](http://docs.rtcamp.com/rtmedia/addons/membership#ManagePlans) 
 
 	
   6. Click the link to recalculate the number of files and the upload data used by each user.
@@ -91,7 +91,9 @@ As a site admin, you can use a range of settings to help you organize membership
   
 
 ### Payment Settings
-[![payment settings](https://cloud.githubusercontent.com/assets/8191145/5339349/cdd4d572-7f05-11e4-88df-93d961195daf.png)](https://cloud.githubusercontent.com/assets/8191145/5339349/cdd4d572-7f05-11e4-88df-93d961195daf.png)
+
+[![payment settings new upload](https://cloud.githubusercontent.com/assets/8191145/5354411/6ade14bc-7fad-11e4-85c2-41fd9cf1f0ce.png)](https://cloud.githubusercontent.com/assets/8191145/5354411/6ade14bc-7fad-11e4-85c2-41fd9cf1f0ce.png)
+
 
 1. Payment Settings for Membership plugin
 
@@ -106,6 +108,7 @@ As a site admin, you can use a range of settings to help you organize membership
 6. Select **Transaction Failure Page** from the listing. When membership plugin is activated , this page will be created automatically.
 
 7. Set this IPN URL to your Notification URL in your PayPal Profile Settings. To know how to set your Notification URL, click [here](https://developer.paypal.com/docs/classic/ipn/integration-guide/IPNSetup/#id089EG030E5Z).
+
 
 8. The values of **-1 = Not for Sale** and **0 = Free**. When set to **-1** it means that the plan is NOT for sale. The subscription button will be disabled for the plan. When set to **0**, the plan is free and the user will be subscribed without being redirected to pay with Paypal.
 
@@ -163,7 +166,7 @@ Add a plan according to the following steps.
 
 ### Edit Plan
 
-[![edit plan](https://cloud.githubusercontent.com/assets/8191145/5339628/ed357658-7f08-11e4-8e39-9f37e1047c28.png)](https://cloud.githubusercontent.com/assets/8191145/5339628/ed357658-7f08-11e4-8e39-9f37e1047c28.png)
+[![edit plan](https://cloud.githubusercontent.com/assets/8191145/5354412/6f474e42-7fad-11e4-8039-259955af6c39.png)](https://cloud.githubusercontent.com/assets/8191145/5354412/6f474e42-7fad-11e4-8039-259955af6c39.png)
 
 1. Edit Plan
 
@@ -214,6 +217,49 @@ Site Admins can view the plan details of other members and their own.
 ### PayPal Redirection Page
 
 [![paypal redirection page](https://cloud.githubusercontent.com/assets/8191145/5340056/0ff13b6e-7f0e-11e4-9dc5-af81a99d5b6c.png)](https://cloud.githubusercontent.com/assets/8191145/5340056/0ff13b6e-7f0e-11e4-9dc5-af81a99d5b6c.png)
+
+## PayPal 
+
+### Single Payment (Lifetime)
+
+
+#### **PayPal Login Screen**
+
+[![paypal login](https://cloud.githubusercontent.com/assets/8191145/5352837/426dba64-7f94-11e4-9122-a50b5f779ff9.png)](https://cloud.githubusercontent.com/assets/8191145/5352837/426dba64-7f94-11e4-9122-a50b5f779ff9.png)
+
+Users will see a screen like the one shown above and  need to login to PayPal to proceed.
+
+
+#### **PayPal Payment**
+
+[![paypal confirmation](https://cloud.githubusercontent.com/assets/8191145/5352861/a0ce486c-7f94-11e4-9aa8-29d389aae381.png)](https://cloud.githubusercontent.com/assets/8191145/5352861/a0ce486c-7f94-11e4-9aa8-29d389aae381.png)
+
+
+
+#### **Payment Successful** 
+
+After succesful payment , users will see  a similar image as below :
+
+[![payment done](https://cloud.githubusercontent.com/assets/8191145/5352906/291bc5fa-7f95-11e4-944f-daff0180774a.png)((https://cloud.githubusercontent.com/assets/8191145/5352906/291bc5fa-7f95-11e4-944f-daff0180774a.png)
+
+
+### Subscription Payment (Daily, Weekly, Monthly, Yearly)
+
+
+#### **PayPal Login Screen**
+
+[![paypal login subscription](https://cloud.githubusercontent.com/assets/8191145/5352921/6adb033e-7f95-11e4-9803-170bc8dbfcbd.png)](https://cloud.githubusercontent.com/assets/8191145/5352921/6adb033e-7f95-11e4-9803-170bc8dbfcbd.png)
+
+#### **PayPal Payment**
+
+
+[![paypal payment subscription](https://cloud.githubusercontent.com/assets/8191145/5352952/d797c0b6-7f95-11e4-86be-556c5a881cfc.png)](https://cloud.githubusercontent.com/assets/8191145/5352952/d797c0b6-7f95-11e4-86be-556c5a881cfc.png)
+
+#### **Payment Successful** 
+
+
+[![payment successful subscription](https://cloud.githubusercontent.com/assets/8191145/5352969/13a17746-7f96-11e4-91fc-9065729f6d80.png)](https://cloud.githubusercontent.com/assets/8191145/5352969/13a17746-7f96-11e4-91fc-9065729f6d80.png)
+
 
 
 ### Transaction Successful Message 
@@ -296,6 +342,14 @@ Files exceeding the upload size limit are rejected.
 
 These messages are only shown to users using rtMedia Pro.
 
+###  Message in WordPress Comment when not Subscribed to Plan
+
+[![not subscribed wp comments](https://cloud.githubusercontent.com/assets/8191145/5340530/99084622-7f13-11e4-9136-de90f52bc880.png)](https://cloud.githubusercontent.com/assets/8191145/5340530/99084622-7f13-11e4-9136-de90f52bc880.png)
+
+
+###  Message in Forums when not Subscribed to Plan
+
+[![not subscribed message in forum](https://cloud.githubusercontent.com/assets/8191145/5340549/df8a6774-7f13-11e4-8126-28e5179cb8ae.png)](https://cloud.githubusercontent.com/assets/8191145/5340549/df8a6774-7f13-11e4-8126-28e5179cb8ae.png)
 
 ### File Size Limits Surpassed in WP Comment Attachment
 
