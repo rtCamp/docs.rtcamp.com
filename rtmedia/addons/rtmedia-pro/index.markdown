@@ -16,7 +16,7 @@ Some additional features are:
   * Permitting podcasting and much more
 
 
-Here is a list of **rtMedia -PRO**
+Here is a list of **rtMedia PRO**
 
 
 
@@ -27,7 +27,7 @@ Here is a list of **rtMedia -PRO**
   2. [Settings](/rtmedia/addons/rtmedia-pro/settings/)
 
 
-**How to test if your website needs rtMedia -PRO before purchase?**
+**How to test if your website needs rtMedia PRO before purchase?**
 
 We recommend that you try out rtMedia (Core) version by downloading it from the WordPress plugins directory. It is a free plugin. Using it will help you make an informed choice as to whether you need the rtMedia Pro plugin.
 
