@@ -293,14 +293,7 @@ There are a number of messages that are displayed to end users. Here are some ex
 
 ![not subscribed media gallery](https://cloud.githubusercontent.com/assets/8191145/5340508/5b5d9a20-7f13-11e4-9163-dee693840a76.png)
 
-###  Message in WordPress Comment when not Subscribed to Plan
 
-![not subscribed wp comments](https://cloud.githubusercontent.com/assets/8191145/5340530/99084622-7f13-11e4-9136-de90f52bc880.png)
-
-
-###  Message in Forums when not Subscribed to Plan
-
-![not subscribed message in forum](https://cloud.githubusercontent.com/assets/8191145/5340549/df8a6774-7f13-11e4-8126-28e5179cb8ae.png)
 
 
 ### File Count Limits Surpassed in Activity
@@ -336,6 +329,14 @@ Files exceeding the upload size limit are rejected.
 
 These messages are only shown to users using rtMedia Pro.
 
+###  Message in WordPress Comment when not Subscribed to Plan
+
+![not subscribed wp comments](https://cloud.githubusercontent.com/assets/8191145/5340530/99084622-7f13-11e4-9136-de90f52bc880.png)
+
+
+###  Message in Forums when not Subscribed to Plan
+
+![not subscribed message in forum](https://cloud.githubusercontent.com/assets/8191145/5340549/df8a6774-7f13-11e4-8126-28e5179cb8ae.png)
 
 ### File Size Limits Surpassed in WP Comment Attachment
 
