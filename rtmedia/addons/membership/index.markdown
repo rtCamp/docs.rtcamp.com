@@ -219,6 +219,41 @@ Site Admins can view the plan details of other members and their own.
 
 ![paypal redirection page](https://cloud.githubusercontent.com/assets/8191145/5340056/0ff13b6e-7f0e-11e4-9dc5-af81a99d5b6c.png)
 
+## PayPal 
+
+## Single Payment (Lifetime)
+
+![paypal login](https://cloud.githubusercontent.com/assets/8191145/5352837/426dba64-7f94-11e4-9122-a50b5f779ff9.png)
+
+Users will see screen like above and  need to login to PayPal to proceed
+
+### PayPal Payment
+
+![paypal confirmation](https://cloud.githubusercontent.com/assets/8191145/5352861/a0ce486c-7f94-11e4-9aa8-29d389aae381.png)
+
+
+### Payment Successful 
+
+After succesful payment , users will see  a similar image as below
+
+![payment done](https://cloud.githubusercontent.com/assets/8191145/5352906/291bc5fa-7f95-11e4-944f-daff0180774a.png)
+
+
+## Subscription Payment (Daily, Weekly, Monthly, Yearly)
+
+### PayPal Login Screen
+
+![paypal login subscription](https://cloud.githubusercontent.com/assets/8191145/5352921/6adb033e-7f95-11e4-9803-170bc8dbfcbd.png)
+
+### PayPal Payment
+
+![paypal payment subscription](https://cloud.githubusercontent.com/assets/8191145/5352952/d797c0b6-7f95-11e4-86be-556c5a881cfc.png)
+
+### Payment Successful 
+
+![payment successful subscription](https://cloud.githubusercontent.com/assets/8191145/5352969/13a17746-7f96-11e4-91fc-9065729f6d80.png)
+
+
 
 ### Transaction Successful Message 
 
