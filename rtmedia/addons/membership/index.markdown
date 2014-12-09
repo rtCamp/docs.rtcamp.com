@@ -83,7 +83,7 @@ As a site admin, you can use a range of settings to help you organize membership
   4. Similarly, set **File Limits** for each membership plan.
 
 	
-  5. Manage plans will take you to another page that allows you to add new plans or modify existing ones. (*Documentation*)
+  5. Manage plans will take you to another page that allows you to add new plans or modify existing ones. [Documentation](http://docs.rtcamp.com/rtmedia/addons/membership#ManagePlans) 
 
 	
   6. Click the link to recalculate the number of files and the upload data used by each user.
