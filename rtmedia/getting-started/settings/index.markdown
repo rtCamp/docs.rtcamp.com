@@ -2,11 +2,11 @@
 title: 'Managing Settings (For rtMedia Free Version) '
 ---
 
-*rtMedia* has numerous options that give you absolute control over the way you want to display your media. To make it easy for the admin to tweak the settings,  we have separated them into different categories based on functionality.
+rtMedia has numerous options that give you absolute control over the way you want to display your media. To make it easy for the admin to tweak the settings,  we have separated them into different categories based on functionality.
 
-**Note**: These are settings for the free version of *rtMedia* plugin. For extended settings with *rtMedia* Pro add-ons refer to the [rtMedia Addons documentation](/rtmedia/addons/).
+**Note**: These are settings for the free version of rtMedia plugin. For extended settings with rtMedia Pro add-ons refer to the [rtMedia Addons documentation](/rtmedia/addons/).
 
-To access the settings, click **rtMedia** > **Settings** from the admin dashboard of your site.
+To access the settings, click *rtMedia* > **Settings** from the admin dashboard of your site.
 
 ## Display
 
@@ -31,7 +31,7 @@ The **Display** tab allows you to control how media is displayed on your websit
 [![rtMedia-core-settings-BuddyPress](http://docs.rtcamp.com/wp-content/uploads/2014/07/rtMedia-core-settings-BuddyPress.png)](http://docs.rtcamp.com/wp-content/uploads/2014/07/rtMedia-core-settings-BuddyPress.png)
 
 	
-These settings fine tune integration of *rtMedia* with BuddyPress on your WordPress website.
+These settings fine tune integration of rtMedia with BuddyPress on your WordPress website.
 
 	
   1. Enable or disable media on BuddyPress profiles.
@@ -73,7 +73,7 @@ You can easily set the width and height of every type of media being displayed.
       * Medium: Used to display media in activity stream.
       * Large: Used for single media page or for [lightbox display](http://lokeshdhakar.com/projects/lightbox2/).
 
-      **Note**: When you select cropping, the original image is NOT changed. *rtMedia* creates another image of the cropped size to display. If you do not select cropping, *rtMedia* will resize the original image to nearly the specified dimension, preserving the aspect ratio of the image.
+      **Note**: When you select cropping, the original image is NOT changed. rtMedia creates another image of the cropped size to display. If you do not select cropping, rtMedia will resize the original image to nearly the specified dimension, preserving the aspect ratio of the image.
 	
   2. You can display videos in both the Activity and Single view players. Specify the width and height of the video to be displayed, in pixels.
 
@@ -105,7 +105,7 @@ You can easily set the width and height of every type of media being displayed.
 
 ## Custom CSS
 
-You can add in [custom CSS](http://www.w3schools.com/css/) code to style *rtMedia*, the way you want. 
+You can add in [custom CSS](http://www.w3schools.com/css/) code to style rtMedia, the way you want. 
 
 [![rtmedia-core-settings-customcss](http://docs.rtcamp.com/wp-content/uploads/2014/07/rtmedia-core-settings-customcss.png)](http://docs.rtcamp.com/wp-content/uploads/2014/07/rtmedia-core-settings-customcss.png)
 
@@ -115,11 +115,12 @@ You can add in [custom CSS](http://www.w3schools.com/css/) code to style *rtMedi
 	
   2. Enter your custom CSS code.
   
-   **Note**: Ensure that your CSS code is valid. *rtMedia* does not validate your code. Entering invalid CSS code can break your site.
+   **Note**: Ensure that your CSS code is valid. rtMedia does not validate your code. Entering invalid CSS code can break your site.
 
 The following is an example of CSS code. This hides the media title from the media galery.
 
-    .rtmedia-list-item .rtmedia-item-title{ display: none; }
+    .rtmedia-list-item
+    .rtmedia-item-title{ display: none; }
 
 
 ## Other Settings
@@ -128,21 +129,21 @@ The following is an example of CSS code. This hides the media title from the med
 [![rtmedia-core-settings-other](http://docs.rtcamp.com/wp-content/uploads/2014/07/rtmedia-core-settings-other.png)](http://docs.rtcamp.com/wp-content/uploads/2014/07/rtmedia-core-settings-other.png)
 
 
-  1. Set this to ON to add the *rtMedia* Admin menu to the WordPress Admin bar.
+  1. Set this to ON to add the rtMedia Admin menu to the WordPress Admin bar.
 
 	
-  2. Enable this to use [JSON API](/rtmedia/docs/developer/json-api/) to handle API requests sent to *rtMedia* through any mobile application.
+  2. Enable this to use [JSON API](/rtmedia/docs/developer/json-api/) to handle API requests sent to rtMedia through any mobile application.
 
 	
-  3. Keeping this ON helps the *rtMedia* team learn about the theme and plugins you are using. This allows the team to make *rtMedia* more compatible with your websites. 
+  3. Keeping this ON helps the rtMedia team learn about the theme and plugins you are using. This allows the team to make rtMedia more compatible with your websites. 
   
       **Note**: We do not collect, nor does the plugin transmit any private information about your site or infrastructure to us.
 
 	
-  4. Setting this to ON will enable *rtMedia* to add a link to the *rtMedia* site in the footer of the theme.
+  4. Setting this to ON will enable rtMedia to add a link to the rtMedia site in the footer of the theme.
 
 	
-  5. If you want to monetize the *rtMedia* footer link, you can add your affiliate-id in the text box. (Check our [rtMedia affiliate program](https://rtcamp.com/affiliates/))
+  5. If you want to monetize the rtMedia footer link, you can add your affiliate-id in the text box. (Check our [rtMedia affiliate program](https://rtcamp.com/affiliates/))
 
 
 Click **Save Settings** to save the settings.

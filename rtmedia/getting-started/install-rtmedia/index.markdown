@@ -4,7 +4,7 @@ title: Installing rtMedia
 
 ## Prerequisites
 
-Ensure that you have the following installed on your server, before installing *rtMedia*:
+Ensure that you have the following installed on your server, before installing rtMedia:
 
 * PHP 5.3 or above
 
@@ -14,7 +14,7 @@ Ensure that you have the following installed on your server, before installing *
 
 ## Installation
 
-You can install the *rtMedia* plugin on your WordPress website in two ways. You can either install the *rtMedia* plugin from the WordPress dashboard directly or download it from the WordPress plugin directory and install it manually.
+You can install the rtMedia plugin on your WordPress website in two ways. You can either install the rtMedia plugin from the WordPress dashboard directly or download it from the WordPress plugin directory and install it manually.
 
 
 ### Install rtMedia from your WordPress dashboard
@@ -28,7 +28,7 @@ You can install the *rtMedia* plugin on your WordPress website in two ways. You 
   1. Login to your website's admin dashboard. From the admin sidebar, click **Plugins**.
 
 	
-  2. Click **Add New**. Enter *rtMedia* as the search term. The *rtMedia* plugin details are then displayed.
+  2. Click **Add New**. Enter rtMedia as the search term. The rtMedia plugin details are then displayed.
 
 	
   3. Click **Install Now**.

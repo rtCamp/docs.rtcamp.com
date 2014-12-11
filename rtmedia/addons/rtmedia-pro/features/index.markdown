@@ -2,13 +2,9 @@
 title: Features
 ---
 
-rtMedia -PRO has many added features that help your community interact better. Since there are a many features we have split them into separate pages.
+rtMedia PRO has many added features that help your community interact better. Since there are a many features we have split them into separate pages.
 
 You can see the entire latest list of features below the video.
-
-
-
-
 
 	
   1. [Media Attributes](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/media-attributes/) - Add media attributes and categories to them.

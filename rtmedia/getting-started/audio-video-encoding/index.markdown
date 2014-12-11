@@ -6,14 +6,13 @@ rtMedia offers inbuilt audio/video encoding service. The following four plans ar
 
 
 
-![Add-ons ](http://docs.rtcamp.com/wp-content/uploads/2014/06/Addons-Tab.jpg)
+[![Add-ons ](http://docs.rtcamp.com/wp-content/uploads/2014/06/Addons-Tab.jpg)](http://docs.rtcamp.com/wp-content/uploads/2014/06/Addons-Tab.jpg)
 
 
 ## Free
 
 
-You might want to start with the free plan that comes with a 200 MB size limit per file, and 10GB of bandwidth per month.**
-**
+You might want to start with the free plan that comes with a 200 MB size limit per file, and 10GB of bandwidth per month.
 
 
 ## Silver
@@ -31,8 +30,8 @@ This plan gives you 1TB of monthly bandwidth, and if it is exceeded, $0.08 will 
 ## Platinum
 
 
-This plan gives you 10TB of monthly bandwidth, and if it is exceeded, $0.05 will be charged per GB. The price is $999 per month.**
-**
+This plan gives you 10TB of monthly bandwidth, and if it is exceeded, $0.05 will be charged per GB. The price is $999 per month.
+
 
 Choose the plan that best meets your usage needs and click **Subscribe**. For **Silver**, **Gold** and **Platinum** plans, you will be redirected to rtCamp’s PayPal page.
 
@@ -44,7 +43,7 @@ After you have chosen a plan, you will be sent a unique API key by email. Enter�
 
 Note that the **Enter API Key** field is blank until an audio/video encoding plan is selected. In the screenshot above, the **Enter API KEY** field already contains a value because the Free plan has been chosen.
 
-Click [here](/rtmedia/addons/audio-video-encoding-service/) to learn more about Audio/Video Encoding.
+Click [here](https://rtcamp.com/rtmedia/addons/compare-encoding-solutions/) to learn more about Audio/Video Encoding.
 
 
 

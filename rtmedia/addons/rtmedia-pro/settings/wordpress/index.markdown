@@ -2,44 +2,44 @@
 title: WordPress
 ---
 
-_Note: Some of these features work in rtMedia PRO only. The plugin can be _[_purchased from our store_](https://rtcamp.com/store/rtmedia-pro/)_._
+**Note**: Some of these features work only in rtMedia PRO. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/).
 
-![WordPress PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-PRO.jpg)
+[![WordPress PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-PRO.jpg)](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-PRO.jpg)
 
 
-### Enable attachments in comments
+### Enable Attachments in Comments
 
 
 Used to attach media files while commenting on a post.
 
 
-### Enable sitewide gallery section
+### Enable Sitewide Gallery Section
 
 
-Enable this feature and then create a new album. Then, click on [manage sitewide galleries from here](http://www.google.com/url?q=http%3A%2F%2Flocalhost%2Fmytestsite%2Fwp-admin%2Fedit.php%3Fpost_type%3Drtmedia_album&sa=D&sntz=1&usg=AFQjCNHqY1forlTBBIbbgqLm1nEjqQge0A). Add files in the new album and click on **Upload Now**. Please note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not a part of a group.
+Enable this feature and then create a new album. Then, click the link marked **manage sitewide galleries from here**. Add files in the new album and click **Upload Now**. Note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not part of a group.
 
 
-### Slug for sitewide gallery section
+### Slug for Sitewide Gallery Section
 
 
-A slug is the part of a URL which identifies a page using human-readable keywords. It is usually the end part of the URL, which can be interpreted as the name of the resource. For example, in http://www.example.com/services/legal/medical-patents, the slug is medical-patents.
+A slug is the part of a URL which identifies a page using human-readable keywords. It is usually the end part of the URL, which can be interpreted as the name of the resource. For example, in **http://www.example.com/services/legal/medical-patents**, the slug is **medical-patents**.
 
-The features below are only available in rtMedia PRO:
+The following features are only available in rtMedia PRO:
 
-![WordPress rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-rtMedia-PRO.jpg)[ ](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-PRO.jpg)
-
-
-### Enable for non-logged in users also  PRO 
+[![WordPress rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-rtMedia-PRO.jpg)](http://docs.rtcamp.com/wp-content/uploads/2014/06/WordPress-PRO.jpg)
 
 
-This option allows anybody who can access your site to upload files using comment form. This option is NOT recommended as it is a potential threat to users' privacy and site security.
+### Enable for Non-Logged in Users Also 
 
 
-### Display attachments in comments as PRO
+This option allows anybody who can access your site to upload files using the comment form. This option is NOT recommended as it is a potential threat to users' privacy and site security.
+
+
+### Display Attachments in Comments As
 
 
 There are 2 display options:
 
-**With Thumbnail + file name**- Every media file will be displayed along with a thumbnail above its name
+* **With Thumbnail + file name** - Every media file will be displayed along with a thumbnail above its name
 
-**With Thumbnail + file name**- Every media file will be displayed without a thumbnail above its name.
+* **Without Thumbnail (only file name)** - Every media file will be displayed without a thumbnail above its name.

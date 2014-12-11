@@ -25,22 +25,22 @@ You will see the following tabs when you click the rtMedia link on your Dashboar
 
 	
   7. [Image Sizes](/rtmedia/addons/rtmedia-pro/settings/image-sizes/)
+  
+  8. [Sidebar Widgets](/rtmedia/addons/rtmedia-pro/settings/sidebar-widgets/)
 
 	
-  8. [Privacy](/rtmedia/addons/rtmedia-pro/settings/privacy/)
+  9. [Privacy](/rtmedia/addons/rtmedia-pro/settings/privacy/)
 
 	
-  9. [Custom CSS](/rtmedia/addons/rtmedia-pro/Settings/Custom-CSS/)
+  10. [Custom CSS](/rtmedia/addons/rtmedia-pro/settings/custom-css/)
 
 	
-  10. [Reward Points](/rtmedia/addons/rtmedia-pro/features/features-part-2/reward-points/)
+  11. [Reward Points](/rtmedia/addons/rtmedia-pro/features/features-part-2/reward-points/)
 
 	
-  11. [Moderation](/rtmedia/addons/rtmedia-pro/settings/moderation/)
+  12. [Moderation](/rtmedia/addons/rtmedia-pro/settings/moderation/)
 
 	
-  12. Other Settings
-
 
 In rtMedia (Free) version the settings tabs are displayed horizontally. But in rtMedia PRO, because of the additional categories of features and to save space, the tabs are displayed vertically as shown in the following image.
 

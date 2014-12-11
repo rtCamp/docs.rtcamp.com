@@ -47,8 +47,7 @@ You can test this on our [live demo server](http://demo.rtcamp.com/bpm-ffmpeg/)
 	
   * You can change the Server URL as per your needs. (By default it is http://localhost:1203/upload)
 
-	
-  * You can Re-Count the media files for any user if it is not matching with number of media files
+
 
 
 ## Roadmap

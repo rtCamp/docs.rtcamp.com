@@ -2,11 +2,11 @@
 title: 'bbPress'
 ---
 
-**Note**: This feature works with rtMedia PRO only. You can [purchase rtMedia PRO from our store](https://rtcamp.com/store/rtmedia-pro/).
+**Note**: This feature works only with rtMedia PRO. You can [purchase rtMedia PRO from our store](https://rtcamp.com/store/rtmedia-pro/).
 _
 [![bbPress rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2013/11/bbPress-rtMedia-PRO.jpg)](http://docs.rtcamp.com/wp-content/uploads/2013/11/bbPress-rtMedia-PRO.jpg)
 
-In order to use the bbPress features offered by rtMedia PRO, you have to first install the bbPress plugin.
+To use the bbPress features offered by rtMedia PRO, you have to first install the bbPress plugin.
 
 
 ### Enable Attachments in Topic or Reply

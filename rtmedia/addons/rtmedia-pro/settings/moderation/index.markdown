@@ -2,57 +2,48 @@
 title: Moderation and Report Abuse Tools
 ---
 
+## Report Button
 
 
+A **Report** button is provided with each media and other item uploaded by users. The screenshot below depicts how this button appears in a lightbox.
 
-## Report button
+[![rtMediaReportAbuseButton](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaReportAbuseButton1.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaReportAbuseButton1.png)
 
+The button then changes to **Un-Report**. Withdraw your abuse report by clicking this button.
 
-A **Report** button is provided with each media/other item uploaded by users. The screenshot below points to how this button appears in a lightbox.
-
-![rtMediaReportAbuseButton](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaReportAbuseButton1.png)
-
-The button then changes to **Un-Report**. An abuse report can be withdrawn by clicking on this button.
-
-![image](https://rtcamp.com/wp-content/uploads/2013/09/image4.png)
+[![image](https://rtcamp.com/wp-content/uploads/2013/09/image4.png)](https://rtcamp.com/wp-content/uploads/2013/09/image4.png)
 
 
-## Moderation tools
+## Moderation Tools
 
 
-In the rtMedia’s backend, moderation tools are provided to manage abuse.
+In rtMedia’s backend, moderation tools are provided to manage abuse.
 
-Go to tab **rtMedia** > **Settings** > **Moderation**. Refer to the screenshot below.
+Go to **rtMedia** > **Settings** > **Moderation**. Refer to the following screenshot.
 
-
+[![Keep your site clean with moderation](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaModerationKeepYourSiteClean1.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaModerationKeepYourSiteClean1.png)
 
 	
-  1. Moderation can be turned **ON** or **OFF** using a switch.
+  1. Turn moderation **ON** or **OFF**.
 
 	
-  2. The number of abuse reports after which content should be prevented from viewing by ordinary users can be set.  If this is set to 0, content will be automatically sent in for moderation, without users being able to view it.
-Read more: Managing reported media.
+  2. Set the number of abuse reports after which content should be prevented from being viewed by ordinary users. Set this to **0** to send all content automatically for moderation, without users being able to view them.
+ 
+  3. Enter the email addresses of Administrators in the **Admin Emails** text area, each separated by a comma. Emails will be sent to these admins whenever the **Report** button is clicked.
 
 	
-  3. Administrator emails can be entered in the **Admin Emails** textarea, each separated by a comma. Emails will be sent to these admins whenever the **Report** button is clicked.
-
-	
-  4. The frequency of email notification can be set to **Daily**, **Hourly** or **Instant**.
-![Keep your site clean with moderation](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaModerationKeepYourSiteClean1.png)
+  4. Set the frequency of email notification to one of: **Daily**, **Hourly** or **Instant**.
 
 
+## Managing Reported Media
 
 
-## Managing reported media
+Go to **rtMedia** > **Moderation** using the left navigation menu, to manage reported items.
 
+[![rtMediaBackendModeration](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaBackendModeration1.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaBackendModeration1.png)
 
-Go to **rtMedia** > **Moderation** using the left navigation menu to manage reported media/other item.
+The links highlighted in the above screenshot are used as follows:
 
-The links highlighted in the screenshot below are used as follows:
-
-
-
-	
   * **View** allows admins to view the reported item.
 
 	
@@ -68,23 +59,18 @@ The links highlighted in the screenshot below are used as follows:
   * **Block User** blocks the reported item’s author from logging in.
 
 
-![rtMediaBackendModeration](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaBackendModeration1.png)
-
-
-## Managing blocked users
+## Managing Blocked Users
 
 
 To manage blocked users, go to **rtMedia** > **Blocked** **Users**.
 
+[![rtMediaViewBlockedUsers](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaViewBlockedUsers1.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaViewBlockedUsers1.png)
+
 Under **Action**:
-
-
+	
+  * Click **View** to see the blocked user’s profile.
 
 	
-  * Click on **View** to see the blocked user’s profile.
-
-	
-  * Click on **Unblock **to allow the blocked user to log into the BuddyPress community again.
+  * Click **Unblock** to allow the blocked user to log into the BuddyPress community again.
 
 
-![rtMediaViewBlockedUsers](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaViewBlockedUsers1.png)

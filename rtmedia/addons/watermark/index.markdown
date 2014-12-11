@@ -30,7 +30,7 @@ Follow these simple steps to get your watermark add-on running.
 
 
 
-### How to check if ImageMagick is installed on my server?
+### How do I check if ImageMagick is Installed on my Server?
 
 
 Go to rtMedia’s support tab. You would see one of the following:
