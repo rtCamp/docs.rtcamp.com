@@ -5,13 +5,11 @@ title: CubePoints, myCRED Integration
 ## **Prerequisite**
 
 
-You have to install [CubePoints](http://wordpress.org/plugins/cubepoints/) or [myCRED](http://wordpress.org/plugins/mycred/) plugin to use this feature.
+Install either the [CubePoints](http://wordpress.org/plugins/cubepoints/) or [myCRED](http://wordpress.org/plugins/mycred/) plugin to use this feature.
 
-Cubepoints and myCRED are point management systems for sites running on WordPress. Through its integration with rtMedia PRO, site admins can reward virtual points for various rtMedia activities.
+Cubepoints and myCRED are point management systems for sites running on WordPress. Through its integration with rtMedia PRO, site admins can award virtual points for various rtMedia activities.
 
-Below is the list of activities for which the point system is currently supported:
-
-
+The points system is currently supported for the following activities:
 
 	
   1. Upload image
@@ -50,7 +48,7 @@ Below is the list of activities for which the point system is currently supporte
   12. Delete media _(you can add negative points for this)_
 
 	
-  13. Report-abuse on media
+  13. Report abuse on media
 
 	
   14. Set as album cover
@@ -62,44 +60,41 @@ Below is the list of activities for which the point system is currently supporte
   16. Add media comment
 
 
-
-
-
 ## Integration with Cubepoints
 
 
-1. Install [Cubepoints](http://wordpress.org/plugins/cubepoints/) plugin.
+1. Install the [Cubepoints](http://wordpress.org/plugins/cubepoints/) plugin.
 
-![cubepoints-install](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-install_thumb.png)
+    [![cubepoints-install](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-install_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-install_thumb.png)
 
-2. Go to `**CubePoints** > **Modules**`, you will see a new Module **Points for rtMedia, **activate it.
+2. Go to `**CubePoints** > **Modules**`and activate the **Points for rtMedia** module.
 
-![cubepoints-module](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-module_thumb2.png)![cubepoints-activate-module](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-activate-module_thumb1.png)
+    [![cubepoints-module](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-module_thumb2.png)](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-module_thumb2.png)[![cubepoints-activate-module](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-activate-module_thumb1.png)](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-activate-module_thumb1.png)
 
-3. Now go to `CubePoints > Configure`, you will see a new section **Points for rtMedia** is added with list of activities for which you can award points.
+3. Now go to `CubePoints > Configure`. You will see a new section - **Points for rtMedia** - with a list of activities for which you can award points.
 
-![cubepoints-cofigure](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-cofigure_thumb.png)
+    [![cubepoints-cofigure](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-cofigure_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-cofigure_thumb.png)
 
 4. Admins can go to `CubePoints > Logs` to see recent points transactions for every user.
 
-![cubepoints-logs](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-logs_thumb1.png)
+    [![cubepoints-logs](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-logs_thumb1.png)](https://rtcamp.com/wp-content/uploads/2013/10/cubepoints-logs_thumb1.png)
 
 
 ## Integration with myCRED
 
 
-1. Install [myCRED](http://wordpress.org/plugins/mycred/) plugin.
+1. Install the [myCRED](http://wordpress.org/plugins/mycred/) plugin.
 
-![mycred-install](https://rtcamp.com/wp-content/uploads/2013/10/mycred-install_thumb.png)
+    [![mycred-install](https://rtcamp.com/wp-content/uploads/2013/10/mycred-install_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/mycred-install_thumb.png)
 
-2.  Under **Plugins** > **myCRED** **Setup** Start myCRED [Setup](http://mycred.me/support/tutorials/how-to-install-and-setup-mycred/).
+2. Under **Plugins** > **myCRED** **Setup**, start the myCRED [setup](http://mycred.me/support/tutorials/how-to-install-and-setup-mycred/).
 
-![mycred-setup](https://rtcamp.com/wp-content/uploads/2013/10/mycred-setup_thumb.png)
+    [![mycred-setup](https://rtcamp.com/wp-content/uploads/2013/10/mycred-setup_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/mycred-setup_thumb.png)
 
-3.Under **myCRED** > **Hooks**, you will see a new section **Points for rtMedia** added with list of activities for which you can award points.
+3. Under **myCRED** > **Hooks**, you will see a new section - **Points for rtMedia** - with a list of activities for which you can award points.
 
-![mycred-hooks](https://rtcamp.com/wp-content/uploads/2013/10/mycred-hooks_thumb.png)
+    [![mycred-hooks](https://rtcamp.com/wp-content/uploads/2013/10/mycred-hooks_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/mycred-hooks_thumb.png)
 
 4. Admins can go to `myCRED > Logs` to see recent points transactions for every user.
 
-![mycred-logs](https://rtcamp.com/wp-content/uploads/2013/10/mycred-logs_thumb.png)
+    [![mycred-logs](https://rtcamp.com/wp-content/uploads/2013/10/mycred-logs_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/mycred-logs_thumb.png)

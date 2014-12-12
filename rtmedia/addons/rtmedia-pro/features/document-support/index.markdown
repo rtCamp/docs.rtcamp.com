@@ -2,7 +2,7 @@
 title: Document Support
 ---
 
-You can add, view and download documents like txt, doc, pdf, also add and upload other file types like zip, tar and tar.gz etc.
+You can add, view and download documents such as txt, doc, and pdf. In addition, add and upload other file types such as zip, tar and tar.gz.
 
 
 

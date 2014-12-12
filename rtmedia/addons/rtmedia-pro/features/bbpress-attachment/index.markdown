@@ -2,7 +2,7 @@
 title: bbPress Attachment
 ---
 
-You can attach files to bbPress topic and reply.
+You can attach files to bbPress topics and replies.
 
 
 
