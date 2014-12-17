@@ -5,10 +5,6 @@ title: rtMedia Hooks
 ### Actions
 
 
-
-
-
-	
   *  rtmedia_admin_page_insert
 
 	
@@ -66,7 +62,7 @@ title: rtMedia Hooks
   * rtmedia_before_update_media
 
 	
-  * [rtmedia_after_update_media](https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_after_update_media/)
+  * [rtmedia_after_update_media](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_after_update_media/)
 
 	
   * rtmedia_before_delete_media
@@ -135,7 +131,7 @@ title: rtMedia Hooks
   * rtmedia_after_media_gallery
 
 	
-  * [rtmedia_add_edit_fields](https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_add_edit_fields/)
+  * [rtmedia_add_edit_fields](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_add_edit_fields/)
 
 	
   * rtmedia_before_uploader
@@ -180,7 +176,7 @@ title: rtMedia Hooks
   * rtmedia_default_thumbnail
 
 	
-  * [rtmedia_allowed_types](https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_allowed_types/)
+  * [rtmedia_allowed_types](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allowed_types/)
 
 	
   * rtmedia_allowed_sizes
@@ -237,10 +233,10 @@ title: rtMedia Hooks
   * rtmedia_media_thumb
 
 	
-  * [rtmedia_media_delete_priv](http://docs.rtcamp.com/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_media_delete_priv/)
+  * [rtmedia_media_delete_priv](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_media_delete_priv/)
 
 	
-  * [rtmedia_media_edit_priv](http://docs.rtcamp.com/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_media_edit_priv/)
+  * [rtmedia_media_edit_priv](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_media_edit_priv/)
 
 	
   * rtmedia_action_buttons_before_delete
@@ -249,7 +245,7 @@ title: rtMedia Hooks
   * rtmedia_action_buttons_after_delete
 
 	
-  * [rtmedia_allow_comment_delete](http://docs.rtcamp.com/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allow_comment_delete/)
+  * [rtmedia_allow_comment_delete](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allow_comment_delete/)
 
 	
   * rtmedia_upload_tabs
@@ -270,6 +266,6 @@ title: rtMedia Hooks
   * rtmedia_model_order_by
 
 	
-  * [rtmedia_no_media_found_message_filter](http://docs.rtcamp.com/rtmedia/developer/hooks/rtmedia-hooks/change-default-media-found-message-media-tab/)
+  * [rtmedia_no_media_found_message_filter](/rtmedia/developer/hooks/rtmedia-hooks/change-default-media-found-message-media-tab/)
 
 

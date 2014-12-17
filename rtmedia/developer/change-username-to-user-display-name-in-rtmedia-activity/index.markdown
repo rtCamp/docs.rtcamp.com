@@ -1,10 +1,10 @@
 ---
-title: Change username to user's display name in rtMedia activity
+title: Change Username to User's Display Name in rtMedia Activity
 ---
 
-By default rtMedia uses user's nice name in activity. You can change it as per your requirement using `rtmedia_buddypress_action_text_fitler` filter in your theme or plugin.
+By default rtMedia uses user's nice name in activity. You can change it as per your requirement using the `rtmedia_buddypress_action_text_fitler` filter in your theme or plugin.
 
-For single media upload from media tab below is the sample code for how to use that filter.
+Use the following sample code to upload a single media from the media tab:
 
     
     <code>function change_rtmedia_activity_username_single_media( $action, $username, $count, $user_nicename, $media_type ) {
@@ -18,12 +18,13 @@ For single media upload from media tab below is the sample code for how to use t
 
 
 
-You can change (user_firstname) to (user_firstname user_lastname) or (display_name) or anything as per your requirement.
-Below screen shows username in activity feed.
+You can change (user_firstname) to (user_firstname user_lastname) or (display_name) or anything else as per your requirement.
+
+The following screen shows the username in activity feed.
 
 [![Change_username](http://docs.rtcamp.com/wp-content/uploads/2014/09/Change_username.png)](http://docs.rtcamp.com/wp-content/uploads/2014/09/Change_username.png) 
 
-For multiple media upload from media tab below is the sample code for how to use that filter.
+Use the following sample code to upload multiple media from the media tab.
 
     
     <code>function change_rtmedia_activity_username_multiple_media( $action, $username, $count, $user_nicename ) {

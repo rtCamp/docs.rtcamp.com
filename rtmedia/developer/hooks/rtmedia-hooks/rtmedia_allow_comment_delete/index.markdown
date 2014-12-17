@@ -5,7 +5,7 @@ title: rtmedia_allow_comment_delete
 ### Description
 
 
-Use this filter to allow logged in user to delete another user's media comments based on certain conditions.
+Use this filter to allow the logged in user to delete another user's media comments based on certain conditions.
 
 
 ### Example

@@ -7,9 +7,6 @@ title: Database Description
 
 rtMedia uses the following tables:
 
-
-
-	
   * `{wp_}rt_rtm_media` for indexing media
 
 	
@@ -429,8 +426,6 @@ WP relation
 Following keys are defined for this table:
 
 
-
-	
   * PRIMARY KEY (id)
 
 	
@@ -452,8 +447,6 @@ Following keys are defined for this table:
   * KEY context(context)
 
 
-
-
 ### Description
 
 
@@ -464,36 +457,27 @@ id
 blog_id
     The id of the blog in a multisite install. For single wordpress site this will be always set to 1.
 media_id
-**This will always refer to a post_id from wp_posts table.**
+    **This will always refer to a post_id from wp_posts table.**
     
 
-
-
-	
   * For media files: The id of the _attachment_ post_type
 
 	
   * For albums: The id of the post that is considered an album. Can be any post type or the inbuilt _rt_media_album_ post type.
 
-
-
 media_author
     The id of the author of the media. This has the same value as _post_author _ for the _media_id_ in the WordPress _posts_ table. 
-    In short, this will be always set to logged in user who is uploading media from web-interface.
+    In short, this will be always set to the logged in user who is uploading media from the web-interface.
 media_title
-    The title for the media. This has the same value as _post_title _ for the _media_id_ in the WordPress _wp_posts_ table.
+    The title for the media. This has the same value as _post_title _ for the _media_id_ in the WordPress  _wp_posts_ table.
 album_id
-    The id of the album, this media belongs to.
-
-
+    The id of the album, to which this media belongs.
 
 	
   * For media files: The _post_parent_ in the WordPress table
 
 	
-  * For albums: Default NULL. In future, when we will add parent-child album concept, this will be set to as _post_parent _in the WordPress table.
-
-
+  * For albums: Default NULL. In future, when we add the parent-child album concept, this will be set to _post_parent _in the WordPress table.
 
 media_type
     Any of the registered types `photo`, `audio`, `video`, `album` or a custom one.
@@ -502,9 +486,6 @@ context
     The context associated with the media.
     This could be any of the following:
 
-
-
-	
   * WordPress:
 
 	
@@ -517,9 +498,6 @@ context
     * For Dashboard upload: _dashboard_
 
 
-
-
-	
   * bbPress _topic_ or _reply_
 
 	
@@ -530,7 +508,6 @@ context
 
 	
   * A custom context
-
 
 
 context_id
@@ -549,9 +526,6 @@ privacy
     Used for BuddyPress Profile media tab. Valid values are:
 
 
-
-
-	
   * 0 = Public
 
 	
@@ -575,11 +549,8 @@ For BuddyPress Groups and bbPress Forums, values are:
 	
   * 60 = private/hidden group/forum
 
-
-
-
-    
-    When uploading from BuddyPress Activity Stream Uploader, if upload is sent to "My Profile" then only privacy value will be set as per above.
+   
+    When uploading from BuddyPress Activity Stream Uploader, if upload is sent to "My Profile", only the privacy value will be set as per above.
     For BuddyPress Group uploads, this privacy column is not used. Media visibility is controlled by Group's visibility setting. 
     
 views
@@ -599,7 +570,7 @@ ratings-count
     The total number of times, a media item has received ratings. 
 ratings-average
     Default is 0.
-    The average ratings received upto 1 decimal digit..
+    The average ratings received upto 1 decimal digit.
 likes
     Default is 0.
     The total number of like interactions. If user unlike, previously liked post this will be decremented.
@@ -656,16 +627,13 @@ Type
 </table>
 
 
-### All keys
+### All Keys
 
 
 PRIMARY KEY (meta_id)
 
 
 ### Description
-
-
-
 
 meta_id
     The unique id for indexing.
@@ -819,7 +787,7 @@ Extra
 </table>
 
 
-### All keys
+### All Keys
 
 
 PRIMARY KEY (id),
@@ -839,7 +807,7 @@ user_id
 media_id
     The id from the _wp_rtm_media_ table.
 action
-    This could a Like, rating, or view.
+    This could  be a Like, Rating, or View.
 value
     The value related to the action.
 action_date
@@ -946,7 +914,7 @@ Extra
 </table>
 
 
-### All keys
+### All Keys
 
 
 KEY activity_id(activity_id),
@@ -966,4 +934,4 @@ user_id
 privacy
     Privacy of this particular activity according to attached media.
 blog_id
-    The id of the blog in a multisite install. For single wordpress site this will be always set to 1.
+    The id of the blog in a multisite install. For single wordpress site, this will be always set to 1.

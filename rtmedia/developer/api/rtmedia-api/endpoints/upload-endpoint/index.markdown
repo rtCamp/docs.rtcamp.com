@@ -6,9 +6,6 @@ title: Upload Endpoint
 
 
 The upload endpoint is accessible on any WordPress url at `/upload/`. This means that the upload endpoint is available at:
-
-
-
 	
   * _http://yoursite.com/upload/_ (home)
 
@@ -25,8 +22,6 @@ The upload endpoint is accessible on any WordPress url at `/upload/`. This means
   * and so on, on any WordPress url
 
 
-
-
 ## Read/Write Methods
 
 
@@ -36,17 +31,12 @@ The upload endpoint only supports a $_POST request and returns a 404, not found 
 Needless to say, the upload endpoint will only work (as will rtMedia) when [pretty permalinks](http://codex.wordpress.org/Using_Permalinks) are enabled.
 
 
+## The Upload Object
 
 
-
-## The upload object
-
-
-The upload endpoint POST method accepts the following $_POST fields, along with the $_FILES array. What follows is a brief description. Please look at the Upload Object for more details.
+The upload endpoint POST method accepts the following $_POST fields, along with the $_FILES array. What follows is a brief description. Look at the Upload Object for more details.
 
 
-
-	
   * mode
 
 	
@@ -83,14 +73,10 @@ The upload endpoint POST method accepts the following $_POST fields, along with 
   * rt_media_upload_nonce
 
 
-
-
 mode (optional)
     The possible values and their meaning for the upload endpoint.
 
 
-
-	
   * **file_upload** (default): Files are being uploaded from the users' hard drive
 
 	
@@ -112,15 +98,15 @@ privacy (optional)
 custom_fields (optional)
     The meta data as an array of key-value pairs. These are stored in the rtm_media_meta table.
 taxonomy (optional)
-    The taxonomy for the media. These can be categories, tags or any custom taxonomy. Because taxonomies in a multisite environment are stored in different tables for each site, this feature is currently not supported in multisite environments.
+    The taxonomy for the media. These can be categories, tags or any custom taxonomy. As taxonomies in a multisite environment are stored in different tables for each site, this feature is currently not supported in multisite environments.
 album_id (optional)
-    The id of the album the upload should be placed in. This could be any post type, or the implicit _rt-media-album_ post type. If not provided, the global default 'Wall Posts' album will be assumed.
+    The id of the album in which the upload should be placed. This could be any post type, or the implicit _rt-media-album_ post type. If not provided, the global default 'Wall Posts' album will be assumed.
 files (optional)
     If the files are already on the server (say via FTP), but just need to be added to rtMedia, a fake file array is passed into this parameter.
 title (optional)
     The text that will be stored as the title.
 description (optional)
-    The text/html that'll be stored as the description.
+    The text/html that will be stored as the description.
 rt_media_upload_nonce (required)
     A valid nonce for the upload. For an API request, you have to generate nonce via a previous nonce* call.
 

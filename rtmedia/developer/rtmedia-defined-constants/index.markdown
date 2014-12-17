@@ -2,7 +2,7 @@
 title: rtMedia Defined Constants
 ---
 
-Following is the list of rtMedia defined constants alongwith with their default value. These values can be modified in the wp-config.php file.
+Following is the list of rtMedia defined constants along with with their default value. These values can be modified in the *wp-config.php* file.
 
 
 

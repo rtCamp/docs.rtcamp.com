@@ -1,5 +1,5 @@
 ---
-title: rtMedia Pro- Media gallery widget hooks
+title: rtMedia Pro- Media Gallery Widget Hooks
 ---
 
 rtMedia pro add-on has widget to display media in sidebar.
@@ -22,7 +22,7 @@ After Media
 
 
 
-Apply this hook in current theme's function.php file.
+Apply this hook in current theme's *function.php* file.
 
 example: To show title of each media in sidebar widget,
 

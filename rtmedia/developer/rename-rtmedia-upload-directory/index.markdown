@@ -1,8 +1,8 @@
 ---
-title: Rename rtMedia upload directory
+title: Rename rtMedia Upload Directory
 ---
 
-Add following code in your theme's functions.php file to rename **rtMedia** upload directory.
+Add the following code in your theme's *functions.php* file to rename the **rtMedia** upload directory.
 
     
     <code>function rename_rtmedia_upload_folder_name( $folder_name ) {

@@ -5,7 +5,7 @@ title: rtmedia_media_delete_priv
 ### Description
 
 
-Addition check to allow user to delete media or allow logged in user to delete another user's media based on certain conditions.
+Allow logged in user to delete another user's media based on certain conditions.
 
 
 ### Example

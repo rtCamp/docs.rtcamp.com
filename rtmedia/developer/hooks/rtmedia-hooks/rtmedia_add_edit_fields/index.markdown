@@ -11,7 +11,7 @@ Add extra editable fields to be associated with the media.
 ### Example
 
 
-Adds a field to enter the Camera used to take the photo. ( Check [rtmedia_after_update_media](https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_after_update_media/) )
+Adds a field to enter the camera model used to take the photo. ( Check [rtmedia_after_update_media](https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_after_update_media/) )
 
 
     

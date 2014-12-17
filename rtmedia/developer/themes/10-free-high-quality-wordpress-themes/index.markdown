@@ -2,7 +2,7 @@
 title: 10 Free High Quality Wordpress Themes
 ---
 
-The best part of using WordPress is its attractive layout . There are many WordPress themes available online but choosing the best one is a bit difficult. While choosing WordPress themes for your blog, you should consider both quality as well as design . Many designers and developers  are providing lots of attractive and professional themes. I have complied 10 free, attractive and high quality themes, which you can easily use for your blog to make it attractive.
+The best part of using WordPress is its attractive layout. There are many WordPress themes available online, but choosing the best one is a bit difficult. While choosing WordPress themes for your blog, you should consider both quality as well as design. Many designers and developers are providing lots of attractive and professional themes. Here are 10 free, attractive and high quality themes, which you can easily use for your blog to make it attractive.
 
 **Marangal**
 
@@ -44,4 +44,4 @@ The best part of using WordPress is its attractive layout . There are many WordP
 
 ![Vector](https://rtcamp.com/wp-content/uploads/2010/05/Vector.jpg)[Demo : Download](http://www.ezwpthemes.com/templates/vector-flower.html)
 
-I always prefer to choose high quality and professional looking theme for my blog. I hope you will also like above themes. Do share your feedback about these free high quality WordPress themes.
+Do share your feedback about these free high quality WordPress themes.

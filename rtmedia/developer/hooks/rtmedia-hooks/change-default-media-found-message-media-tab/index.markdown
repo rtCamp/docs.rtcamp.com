@@ -1,10 +1,10 @@
 ---
-title: Change default no media found message in media tab
+title: Change Default No Media Found Message in Mmedia Tab
 ---
 
-You can use filter `rtmedia_no_media_found_message_filter` in your theme and can return your message to change default message **"Oops ! There's no media found for the request !!"** in media tab.
+You can use the filter `rtmedia_no_media_found_message_filter` in your theme and can modify the default message of **"Oops ! There's no media found for the request !!"** in media tab.
 
-Add following code in your theme's functions.php file:
+Add the following code in your theme's functions.php file:
 
     
     <code>function custom_no_media_found_message_function( $message ) { 

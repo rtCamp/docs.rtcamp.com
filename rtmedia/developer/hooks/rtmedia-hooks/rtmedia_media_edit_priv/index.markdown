@@ -5,7 +5,7 @@ title: rtmedia_media_edit_priv
 ### Description
 
 
-Addition check to allow user to edit media or allow logged in user to edit another user's media based on certain conditions.
+Allow logged in user to edit another user's media based on certain conditions.
 
 
 ### Example

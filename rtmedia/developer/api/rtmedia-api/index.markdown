@@ -12,17 +12,14 @@ rtMedia boasts of a very extensive API that allows fine grained control on rtMed
 
 
 The rtMedia API is roughly divided into three parts:
-
-
+	
+  1. [Upload API](hthttp://rtcamp.com/buddypress-media/docs/developer/rtmedia-api/upload-api), that allows interaction with the **uploader**, and the **create** functionality of media.
 
 	
-  1. an [Upload API](hthttp://rtcamp.com/buddypress-media/docs/developer/rtmedia-api/upload-api), that allows interaction with the **uploader**, and the **create** functionality of media.
+  2. [Media API](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/media-api), that allows interaction with the media collections, and their **display**.
 
 	
-  2. a [Media API](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/media-api), that allows interaction with the media collections, and their **display**.
-
-	
-  3. an [API Core](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/api-core/), that allows general interaction with the plugin and contains functionality **common** to both the APIs, above.
+  3. [API Core](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/api-core/), that allows general interaction with the plugin and contains functionality **common** to both the APIs, above.
 
 
 

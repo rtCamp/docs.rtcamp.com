@@ -1,8 +1,8 @@
 ---
-title: Add user's media link in wp main nav menu
+title: Add User's Media Link in the WordPress Navigation Menu
 ---
 
-Add following code in your theme to add user's media link in WordPress nav menu. Make sure you have `**Navigation Menu**` to be checked in menu settings in `**Appearance**` settings.
+Add the following code in your theme to add user's media link in WordPress navigation menu. Make sure you have `**Navigation Menu**` to be checked in menu settings in `**Appearance**` settings.
 
     
     function my_wp_get_nav_menu_items( $items, $menu, $args ){

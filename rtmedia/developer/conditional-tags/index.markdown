@@ -5,13 +5,11 @@ title: Conditional Tags
 Following are the available conditional tags present in rtMedia.
 
 
-
+	
+* **is_rtmedia_gallery()** - When a media ( video, music, photo or all ) archive or album archive page is displayed.
 
 	
-  * **is_rtmedia_gallery() -** When a media ( video, music, photo or all ) archive or album archive page is displayed.
-
-	
-  * **is_rtmedia_album_gallery()** - When an album archive page is displayed.
+* **is_rtmedia_album_gallery()** - When an album archive page is displayed.
 
 	
   * **is_rtmedia_single() -** When a single media page is displayed.

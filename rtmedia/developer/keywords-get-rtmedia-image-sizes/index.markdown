@@ -1,17 +1,17 @@
 ---
-title: Keywords to get rtMedia image sizes
+title: Keywords to Get rtMedia Image Sizes
 ---
 
 Image sizes used by rtMedia are described [here](http://docs.rtcamp.com/rtmedia/getting-started/settings/#ImageSizes).
 
-You can use following image size to retrieve rtMedia images.
+You can use the following image size to retrieve rtMedia images.
 
 1. rt_media_thumbnail  : For thumbnail image
 2. rt_media_activity_image : For medium size image
 3. rt_media_single_image : For large size image
 4. rt_media_featured_image : For featured image
 
-Below is the sample code which you can use in your theme, plugin or custom code where you can use these keywords.
+The following is sample code which you can use in your theme, plugin or custom code where you can use these keywords.
 
 
     

@@ -5,54 +5,45 @@ title: JSON API
 ## Note
 
 
-Do not use this in production application before consulting with us.
+Do not use this in production before consulting us.
 
 
 ## API Syntax and usage
-
-
-
 
 ### API Endpoint
 
 
 [http://example.com/wp-admin/admin-ajax.php](http://example.com/wp-admin/admin-ajax.php)
 
-We are using wordpress admin-ajax endpoint actions to implement rtMedia JSON API calls.
+We are using WordPress admin-ajax endpoint actions to implement rtMedia JSON API calls.
 
 
 ### Parameters
 
-
-
-
 #### action => rtmedia_api
 
 
-action will be always equal to rtmedia_api. This will be always required.
+Action will be always equal to *rtmedia_api*. This will always be required.
 
 
 #### method => method_name
 
 
-This is another important parameter. It will identify exact rtMedia method to be called on server side.
+This is another important parameter. It will identify the exact rtMedia method to be called on the server side.
 
 
-#### Other parameters
+#### Other Parameters
 
 
-Depending on method you want to call, you may need to pass one or more parameters.
+Depending on the method you want to call, you may need to pass one or more parameters.
 
 
 ## API Methods
 
-
-
-
 ### WordPress-Related Methods
 
 
-This group of methods implements register, login, logout, forgot-password. Login methods also provides tokens to be used for subsequent calls for other methods.
+This group of methods implements **register**, **login**, **logout**, **forgot-password**. Login methods also provide tokens to be used for subsequent calls for other methods.
 
 **Response **Format****
 
@@ -82,7 +73,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     signup_password_confirm => user password repeat
 
 
-**Response sample for successful registration**
+**Response Sample for Successful Registration**
 
     
     {"status":"TRUE",
@@ -92,7 +83,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     }
 
 
-**Response sample for registration failure (fields empty)**
+**Response Sample for Registration Failure (Fields Empty)**
 
     
     {"status":"FALSE",
@@ -116,7 +107,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     password => wordpress password
 
 
-**Response sample for successful login**
+**Response Sample for Successful Login**
 
     
     {"status":"TRUE",
@@ -128,7 +119,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     }
 
 
-**Response sample for login failure**
+**Response Sample for Login Failure**
 
     
     {"status":"FALSE",
@@ -151,7 +142,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     token	=> 1c1486ad94f3eb155ce52d3dfe0842292ca4f0a1
 
 
-**Response sample for successful logout**
+**Response Sample for Successful Logout**
 
     
     {"status":"TRUE",
@@ -161,7 +152,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     }
 
 
-**Response sample for logout failure(invalid token)**
+**Response Sample for Logout Failure (Invalid Token)**
 
     
     {"status":"FALSE",
@@ -184,7 +175,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     user_login => email
 
 
-**Response sample for forgot password success**
+**Response Sample for Forgot Password Success**
 
     
     {"status":"TRUE",
@@ -194,7 +185,7 @@ This group of methods implements register, login, logout, forgot-password. Logi
     }
 
 
-**Response sample for forgot password failure(invalid email)**
+**Response Sample for Forgot Password Failure (Invalid Email)**
 
     
     {"status":"FALSE",
@@ -209,13 +200,13 @@ This group of methods implements register, login, logout, forgot-password. Logi
 ### BuddyPress-Related Methods
 
 
-This group of methods implements bp_get_activtities, bp_get_profile and requires token to access data.
+This group of methods implements **bp_get_activtities**, **bp_get_profile** and requires token to access data.
 
 
 #### [GET] bp_get_activities
 
 
-The method returns  recent BuddyPress activities on the site, if `activity_user_id` is provided, it returns user specific activity.
+The method returns recent BuddyPress activities on the site. If `activity_user_id` is provided, it returns user specific activity.
 
 **Request Format**
 
@@ -228,7 +219,7 @@ The method returns  recent BuddyPress activities on the site, if `activity_user
     activity_user_id => <strong>optional</strong>, to get user specific activity
 
 
-**Response sample for bp_get_activities success**
+**Response Sample for bp_get_activities Success**
 
     
     {"status":"TRUE",
@@ -238,7 +229,7 @@ The method returns  recent BuddyPress activities on the site, if `activity_user
     }
 
 
-**Response sample for bp_get_activities failure(invalid token)**
+**Response Sample for bp_get_activities Failure (Invalid Token)**
 
     
     {"status":"FALSE",
@@ -264,7 +255,7 @@ The function returns User avatar, Buddypress Profile Fields
     user_id	=> <strong>optional</strong>, fetches the profile of other user
 
 
-**Response sample for bp_get_profile success**
+**Response Sample for bp_get_profile Success**
 
     
     {"status":"TRUE",
@@ -279,13 +270,13 @@ The function returns User avatar, Buddypress Profile Fields
 ### RTMedia-Related Methods
 
 
-These methods implements comments, media likes, media add, rtmedia_gallery  and requires token for data processing.
+These methods implement comments, media likes, media add, rtmedia_gallery and requires token for data processing.
 
 
 #### Media Upload
 
 
-Details of method to upload a new media using RTMedia API.
+Details of the method to upload a new media using RTMedia API.
 
 
 ##### [POST] rtmedia_upload_media (under development)
@@ -304,7 +295,7 @@ API  currently supports only uploading of images through a multipart form data.
     context => profile(default)
 
 
-**Response sample for rtmedia_uplaod_media success**
+**Response Sample for rtmedia_uplaod_media success**
 
     
     {"status":"TRUE",
@@ -314,7 +305,7 @@ API  currently supports only uploading of images through a multipart form data.
     }
 
 
-**Response sample for rtmedia_uplaod_media failure**
+**Response Sample for rtmedia_uplaod_media failure**
 
     
     {"status":"FALSE",
@@ -322,8 +313,6 @@ API  currently supports only uploading of images through a multipart form data.
     "message":"no file",
     "data":false
     }
-
-
 
 
 #### Comment Methods
@@ -335,7 +324,7 @@ Methods available for adding, removing comments for a media, list comments
 ##### [POST] add_rtmedia_comment
 
 
-This method can be used to add a comment to media, requires media_id, comment content and user token.
+This method can be used to add a comment to media. The method requires media_id, comment content and user token.
 
 **Request Format**
 
@@ -347,7 +336,7 @@ This method can be used to add a comment to media, requires media_id, comment co
     content => example content
 
 
-**Response sample for add_rtmedia_comment success**
+**Response Sample for add_rtmedia_comment Success**
 
     
     {"status":"TRUE",
@@ -357,7 +346,7 @@ This method can be used to add a comment to media, requires media_id, comment co
     }
 
 
-**Response sample for add_rtmedia_comment failure**
+**Response Sample for add_rtmedia_comment Failure**
 
     
     {"status":"FALSE",
@@ -372,7 +361,7 @@ This method can be used to add a comment to media, requires media_id, comment co
 ##### [GET] get_rtmedia_comment
 
 
-Fetches comments for a user or media if provided media_id
+Fetches comments for a user or media if you provide the media_id
 
 **Request Format**
 
@@ -383,7 +372,7 @@ Fetches comments for a user or media if provided media_id
     media_id => 47 ( <strong>optional, </strong>to fetch comments for a particular media )
 
 
-**Response sample for get_rtmedia_comment success(for user)**
+**Response Sample for get_rtmedia_comment Success (For User)**
 
     
     {"status":"TRUE",
@@ -407,7 +396,7 @@ Fetches comments for a user or media if provided media_id
     }
 
 
-**Response sample for get_rtmedia_comment success(for media)**
+**Response Sample for get_rtmedia_comment Success (For Media)**
 
     
     {"status":"TRUE",
@@ -433,7 +422,7 @@ Fetches comments for a user or media if provided media_id
     comment_id => 11 ( comment should be added by current logged in user )
 
 
-**Response sample for remove_comment success**
+**Response Sample for remove_comment Success**
 
     
     {"status":"TRUE",
@@ -443,9 +432,9 @@ Fetches comments for a user or media if provided media_id
     }
 
 
-**Response sample for remove_comment failure**
+**Response Sample for remove_comment Failure**
 
-If comment id provided is associated with different user, method returns invalid id.
+If comment id provided is associated with a different user, the method returns invalid id.
 
     
     {"status":"FALSE",
@@ -460,13 +449,13 @@ If comment id provided is associated with different user, method returns invalid
 #### Like Methods
 
 
-Methods available for like/unlike, get likes for a media
+Methods available for like and unlike, get likes for a media
 
 
 ##### [POST] like_media
 
 
-**Toggle:  **method allows to like/unlike a media
+**Toggle:  **method allows to like and unlike a media
 
 **Request Format**
 
@@ -477,7 +466,7 @@ Methods available for like/unlike, get likes for a media
     media_id => 47
 
 
-**Response sample for like_media ( like )**
+**Response Sample for like_media ( Like )**
 
     
     {"status":"TRUE",
@@ -487,7 +476,7 @@ Methods available for like/unlike, get likes for a media
     }
 
 
-**Response sample for like_media ( unlike )**
+**Response Sample for like_media ( Unlike )**
 
     
     {"status":"TRUE",
@@ -508,7 +497,7 @@ Methods available for like/unlike, get likes for a media
     media_id => 47
 
 
-**Response sample for get_likes_rtmedia**
+**Response Sample for get_likes_rtmedia**
 
     
     {"status":"TRUE",
@@ -520,7 +509,7 @@ Methods available for like/unlike, get likes for a media
 
 
 
-#### GET media Methods
+#### GET Media Methods
 
 
 Methods available for fetching a single media or all media
@@ -547,7 +536,7 @@ rtmedia_gallery method can be used to get different types of media with availabl
     page => 2 (<strong>optional, </strong>displays media for first page by default)
 
 
-**Response sample for rtmedia_gallery(success)**
+**Response Sample for rtmedia_gallery (Success)**
 
     
     {"status":"TRUE",
@@ -557,7 +546,7 @@ rtmedia_gallery method can be used to get different types of media with availabl
     }
 
 
-for more details refer: [https://rtcamp.com/rtmedia/docs/common/shortcodes/gallery-shortcode/](https://rtcamp.com/rtmedia/docs/common/shortcodes/gallery-shortcode/)
+For more details refer: [https://rtcamp.com/rtmedia/docs/common/shortcodes/gallery-shortcode/](https://rtcamp.com/rtmedia/docs/common/shortcodes/gallery-shortcode/)
 
 
 ##### [GET] rtmedia_get_media_details
@@ -572,7 +561,7 @@ for more details refer: [https://rtcamp.com/rtmedia/docs/common/shortcodes/gall
     media_id => 47
 
 
-**Response sample for rtmedia_get_media_details(success)**
+**Response Sample for rtmedia_get_media_details (Success)**
 
     
     {"status":"TRUE",

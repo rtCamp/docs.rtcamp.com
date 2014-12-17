@@ -1,8 +1,8 @@
 ---
-title: Scroll bar missing in media tab
+title: Scroll Bar Missing in Mmedia Tab
 ---
 
-In some of the themes scrollbar is missing in media tab. This issue is encounter with Bootstrap based themes. Add following CSS code in your theme's style.css file to fix this issue.
+In some of the themes, the scrollbar might be missing in the media tab. This issue may occur with Bootstrap based themes. Add the following CSS code in your theme's *style.css* file to fix this issue.
 
     
     <code>body.media {
