@@ -1,6 +1,6 @@
 ---
 excerpt: How rtCamp fixed orientation of images in BuddyPress Media
-title: How BuddyPress-Media fixed image orientation using PHP
+title: Fixing Orientation of Images in BuddyPress Media, Using PHP
 ---
 
 Users of [BuddyPress Media](http://wordpress.org/extend/plugins/buddypress-media/) have submitted bug reports saying images uploaded via the plugin have random orientations. This might happen often, if you are developing a plugin that uploads images into WordPress.
@@ -9,7 +9,7 @@ Users of [BuddyPress Media](http://wordpress.org/extend/plugins/buddypress-media
 ## The Problem:
 
 
-Most often reported by iPhone and iPad users. You click a photo and upload it and expect it show straight up as illustrated below_._
+The issue is most often reported by iPhone and iPad users. You click a photo and upload it and expect it show straight up as illustrated below_._
 
 [caption id="attachment_34353" align="alignnone" width="283"][![What you expect](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect-283x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect.jpg) What you expect[/caption]
 
@@ -20,13 +20,13 @@ What happens instead is this:
 What can be guessed from the images is that these smartphones do not correct the rotation in the image's [EXIF data](http://en.wikipedia.org/wiki/Exchangeable_image_file_format). The phone's native app reads the EXIF data and displays it properly. However, when uploaded into WordPress, this reading is not done and hence images appear rotated.
 
 
-## The ideal solution
+## The Ideal Solution
 
 
 Ideally, the application that displays the image should read the image's orientation and rotate it as required on display. In our case, browsers should know that the image is rotated and correct the display. Unfortunately, apart from the latest (surprise!) Internet Explorer, no browser is known to implement this.
 
 
-## How we fixed in PHP!
+## How We Fixed the Issue in PHP!
 
 
 The other way to solve this is, read the EXIF data and fix the rotation. With [BuddyPress Media 2.7.2](http://wordpress.org/extend/plugins/buddypress-media/changelog/), we did this:
@@ -109,8 +109,8 @@ The exif function reads the exif data and fixes it:
     ?>
 
 
-This fixes the orientation. The actual implementation is here: [https://github.com/rtCamp/buddypress-media/blob/master/app/main/includes/BPMediaHostWordpress.php#L113](http://github.com/rtCamp/buddypress-media/blob/master/app/main/includes/BPMediaHostWordpress.php#L113) onwards.
+This fixes the orientation. The actual implementation is here: [https://github.com/rtCamp/buddypress-media/blob/master/app/main/includes/BPMediaHostWordpress.php#L113](http://github.com/rtCamp/buddypress-media/blob/master/app/main/includes/BPMediaHostWordpress.php#L113).
 
-The image used in the example is from [rtParty](https://rtcamp.com/events/rtcamp-4-years/) where rtCampers chill out after a year of hardwork!
+The image used in the example is from [rtParty](https://rtcamp.com/events/rtcamp-4-years/) where rtCampers chill out after a year of hard work!
 
 **Link:** [BuddyPress-Media](https://rtcamp.com/rtmedia/)

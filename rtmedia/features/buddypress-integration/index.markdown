@@ -6,10 +6,10 @@ rtMedia adds rich media capabilities to BuddyPress activity pages, profiles and 
 
 BuddyPress users will find a **Media** menu made available in the admin bar menu, as shown below:
 
-![Media menu with BuddyPress on site](https://rtcamp.com/wp-content/uploads/2013/09/adminBarMediaMenuBuddyPress.png)
+[![Media menu with BuddyPress on site](https://rtcamp.com/wp-content/uploads/2013/09/adminBarMediaMenuBuddyPress.png)](https://rtcamp.com/wp-content/uploads/2013/09/adminBarMediaMenuBuddyPress.png)
 
 
-### Media tab in BuddyPress profiles and groups
+### Media Tab in BuddyPress Profiles and Groups
 
 
 A **Media** tab is added on BuddyPress profiles and groups.
@@ -26,6 +26,6 @@ The **All** tab displays thumbnails of all recently uploaded media or other item
 
 Media is classified under Albums, Photos, Videos and Music. If the [rtMedia PRO add-on](https://rtcamp.com/products/rtmedia-pro/) is running on the site, additional tabs of Playlists, Documents and Others will also be provided.
 
-![Media Tab BuddyPress Profiles](https://rtcamp.com/wp-content/uploads/2013/09/mediaTabBuddyPressProfiles.png)
+[![Media Tab BuddyPress Profiles](https://rtcamp.com/wp-content/uploads/2013/09/mediaTabBuddyPressProfiles.png)](https://rtcamp.com/wp-content/uploads/2013/09/mediaTabBuddyPressProfiles.png)
 
 

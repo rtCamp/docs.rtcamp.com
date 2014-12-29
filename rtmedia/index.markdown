@@ -19,16 +19,16 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 ## [2. Features](http://docs.rtcamp.com/rtmedia/features/)
 
-  1. [Like Buttons / Comments for Media](http://docs.rtcamp.com/rtmedia/features/like/)
-  2. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
-  3. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
-  4. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
-  5. [Privacy](http://docs.rtcamp.com/rtmedia/features/privacy/)
-  6. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
+  1. [Like Buttons / Comments for Media](/rtmedia/features/like/)
+  2. [Upload Media](/rtmedia/features/upload-media/)
+  3. [View Album Gallery and Items](/rtmedia/features/view/)
+  4. [Manage Albums](/rtmedia/features/manage/)
+  5. [Privacy](/rtmedia/features/privacy/)
+  6. [Delete Media](/rtmedia/features/delete/)
 
 
 ## [3. rtMedia Add Ons]()
-* [Overview](http://docs.rtcamp.com/rtmedia/addons/)
+* [Overview](/rtmedia/addons/)
 
 * [rtMedia PRO](/rtmedia/addons/rtmedia-pro/)
 
@@ -53,34 +53,22 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 
 
-## [4. Upgrading](http://docs.rtcamp.com/rtmedia/upgrading/)
+## [4. Upgrading](/rtmedia/upgrading/)
 
-
-
-
-
-	
-  1. [Upgrading from rtMedia 3.2.x to 3.3.x](http://docs.rtcamp.com/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)[
-](http://docs.rtcamp.com/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)
+* [Upgrading from rtMedia 3.2.x to 3.3.x](/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)[
+](/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)
 
 	
-  2. [Upgrading To rtMedia 3.5](http://docs.rtcamp.com/rtmedia/upgrading/upgrading-to-rtmedia-3-5/)
+* [Upgrading To rtMedia 3.5](/rtmedia/upgrading/upgrading-to-rtmedia-3-5/)
 
 
+## [5. Developers](/rtmedia/developer/)
 
-
-## [5. Developers](http://docs.rtcamp.com/rtmedia/developer/)
-
-
-
-
-
-	
-  1. [API](http://docs.rtcamp.com/rtmedia/developer/api/)[
+* [API](http://docs.rtcamp.com/rtmedia/developer/api/)[
 ](http://docs.rtcamp.com/rtmedia/developer/api/)
 
 	
-  2. [Hooks](http://docs.rtcamp.com/rtmedia/developer/hooks/)
+* [Hooks](http://docs.rtcamp.com/rtmedia/developer/hooks/)
 
 	
   3. [Themes
@@ -89,14 +77,14 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 
 
-## [6. Troubleshooting](http://docs.rtcamp.com/rtmedia/troubleshooting/)
+## [6. Troubleshooting](/rtmedia/troubleshooting/)
 
 
 
 
-## [7. Support](http://docs.rtcamp.com/rtmedia/support-2/)
+## [7. Support](/rtmedia/support-2/)
 
 
 
 
-## [8. Contribute](http://docs.rtcamp.com/rtmedia/contribute/)
+## [8. Contribute](/rtmedia/contribute/)

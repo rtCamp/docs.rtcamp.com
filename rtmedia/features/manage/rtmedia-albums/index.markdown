@@ -1,26 +1,23 @@
 ---
-title: rtMedia albums
+title: rtMedia Albums
 ---
 
+	
+* Albums can organize your media. Since rtMedia 3.0, you can create albums _without needing BuddyPress_.
 
 	
-  * Albums can organize your media. Since rtMedia 3.0, you can create albums _without needing BuddyPress_.
+* A lightbox appears to present a slideshow of media items in an album.
 
 	
-  * A lightbox appears to present a slideshow of media items in an album.
+* You can move media between albums and merge albums.
 
 	
-  * You can move media between albums and merge albums.
-
-	
-  * Global albums can be used to define preset albums. "Wall Posts" is an example of global album.
+* Global albums can be used to define preset albums. "Wall Posts" is an example of global album.
 
 
-![rtMedia Album](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaAlbum1.png)
+  [![rtMedia Album](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaAlbum1.png)](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaAlbum1.png)
 
 
-
-	
-  * Albums can be disabled if you do not wish to use them.
+* Albums can be disabled if you do not wish to use them.
 
 

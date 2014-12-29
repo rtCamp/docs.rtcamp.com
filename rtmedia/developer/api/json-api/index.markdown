@@ -5,7 +5,7 @@ title: JSON API
 ## Note
 
 
-Do not use this in production before consulting us.
+We recommend that you use these APIs first on a test machine, before using them in production.
 
 
 ## API Syntax and usage

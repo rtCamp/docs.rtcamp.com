@@ -1,19 +1,16 @@
 ---
-title: Request a feature
+title: Request a Feature
 ---
 
-Many of the requests on our support forum (& contact form) involve building/developing a custom feature within our existing plugin. Most common scenarios are as follows:
+Many of the requests on our support forum (& contact form) involve building or developing a custom feature within our existing plugin. Most common scenarios are as follows:
 
-
-
-	
-  1. You are a developer who uses our plugin & happen to come up with brilliant feature to add to the plugin. Many times, such a feature is on our roadmap for the same plugin or as a premium add-on.
+1. You are a developer who uses our plugin & happen to come up with brilliant feature to add to the plugin. Many times, such a feature is on our roadmap for the same plugin or as a premium add-on.
 
 	
-  2. You are a Creative Agency with a client, whose website uses BuddyPress Media for community sharing. Now your client wants to add a specific feature within the already existing plugin (This happens a lot!).
+2. You are a Creative Agency with a client, whose website uses BuddyPress Media for community sharing. Now your client wants to add a specific feature within the already existing plugin (This happens a lot!).
 
 	
-  3. You are or you will be a Venture Capitalist with faith in rtCamp & wants to support our "premium add-on" development.
+3. You are or you will be a Venture Capitalist with faith in rtCamp & wants to support our "premium add-on" development.
 
 
 Finding the  best solution which fits all 3 scenarios listed above was tough, so we came up with multiple options for you to choose:
@@ -22,7 +19,7 @@ Finding the  best solution which fits all 3 scenarios listed above was tough, s
   1. 
 
 
-#### Develop for us:
+#### Develop for Us:
 
 
 
@@ -48,7 +45,7 @@ Finding the  best solution which fits all 3 scenarios listed above was tough, s
   2. 
 
 
-#### Hire us to develop for you:
+#### Hire Us to Develop for You:
 
 
 
@@ -70,7 +67,7 @@ Finding the  best solution which fits all 3 scenarios listed above was tough, s
 
 
 
-### Developing Premium Themes with us:
+### Developing Premium Themes With Us:
 
 
 
@@ -78,10 +75,10 @@ Finding the  best solution which fits all 3 scenarios listed above was tough, s
 #### Our Designs, Your Poetry!
 
 
-Are you a developer with crisp coding skills? Do you like to work from home at whatever time you want and no Dress-Code? Great! We have some amazing .PSDs ready to be coded into premium themes! Once the themes are ready, you can list them in our store and earn crazy profits!
+Are you a developer with crisp coding skills? Do you like to work from home at whatever time you want and no dress code? Great! We have some amazing .PSDs ready to be coded into premium themes! Once the themes are ready, you can list them in our store and earn crazy profits!
 
 
 #### Your Theme, Our Store!
 
 
-Let me guess, you have the complete package ready! But need a store which values your efforts and dose not gulp down 20-30% of your revenue. You do not wish to go through stringent security or validation issues, with thousands of clauses; you just want to publish your clean coded theme to like minded people! rtStore is that place, just one click away!
+Let me guess, you have the complete package ready! You just need a store which values your efforts and does not gulp down 20-30% of your revenue. You do not wish to go through stringent security or validation issues, with thousands of clauses; you just want to publish your clean coded theme to like minded people! rtStore is that place, just one click away!

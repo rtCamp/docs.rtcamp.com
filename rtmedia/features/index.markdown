@@ -6,44 +6,38 @@ Once rtMedia has been installed on your WordPress software, it has many features
 
 
 ### Access rtMedia Settings
-
-
-
-
+	
+* On WordPress dashboard, the rtMedia plugin options are visible on the left hand column.
 
 	
-  * On WordPress dashboard, the rtMedia plugin options are visible on the left hand column.
+* Click the rtMedia link and users will be able to see links to Settings, Addons, Support, Themes, Hire Us and Premium.
 
 	
-  * Click on the rtMedia link and users will be able to see links to Settings, Addons, Support, Themes, Hire Us and Premium.
-
-	
-  * Click on Settings to access controls for all rtMedia features.
+* Click **Settings** to access controls for all rtMedia features.
 
 
-Read [documentation on rtMedia Settings](http://docs.rtcamp.com/rtmedia/getting-started/settings/)
+Read [documentation on rtMedia Settings](/rtmedia/getting-started/settings/)
 
 Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 
 
 
 	
-  1. [Like Buttons for Media](http://docs.rtcamp.com/rtmedia/features/like/)
+  1. [Like Buttons for Media](/rtmedia/features/like/)
 
 	
-  2. [Upload Media](http://docs.rtcamp.com/rtmedia/features/upload-media/)
+  2. [Upload Media](/rtmedia/features/upload-media/)
 
 	
-  3. [View Album Gallery and Items](http://docs.rtcamp.com/rtmedia/features/view/)
+  3. [View Album Gallery and Items](/rtmedia/features/view/)
 
 	
-  4. [Manage Albums](http://docs.rtcamp.com/rtmedia/features/manage/)
+  4. [Manage Albums](/rtmedia/features/manage/)
 
 	
-  5. [Privacy
-](http://docs.rtcamp.com/rtmedia/features/privacy/)
+  5. [Privacy](/rtmedia/features/privacy/)
 
 	
-  6. [Delete Media](http://docs.rtcamp.com/rtmedia/features/delete/)
+  6. [Delete Media](/rtmedia/features/delete/)
 
 

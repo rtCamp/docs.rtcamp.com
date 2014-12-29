@@ -1,8 +1,8 @@
 ---
-title: rtMedia for advanced users
+title: rtMedia for Advanced Users
 ---
 
-### rtMedia for advanced users
+### rtMedia for Advanced Users
 
 
 rtMedia can be used anywhere in the form of an **uploader** and a **gallery**.

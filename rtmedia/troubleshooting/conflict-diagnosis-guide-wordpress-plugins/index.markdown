@@ -1,21 +1,21 @@
 ---
-title: Conflict Diagnosis Guide for WordPress plugins
+title: Conflict Diagnosis Guide for WordPress Plugins
 ---
 
-## What is a conflict?
+## What is a Conflict?
 
 
-There are a lot of plugins and themes in the WordPress ecosystem. At times, multiple plugins try and modify the same feature in WordPress. WordPress recommends using the Hooks, Actions and Filters so that these can work in a coordinated way and minimise conflicts.
+There are many plugins and themes in the WordPress ecosystem. At times, multiple plugins try and modify the same feature in WordPress. WordPress recommends using the Hooks, Actions and Filters so that these can work in a coordinated way and minimize conflicts.
 
-However, a lot of plugins and themes by inexperienced authors, for various reasons do not follow the standard recommended methods. Due to this, a poorly written plugin/theme can break functionality of other plugins. In effect, there is a conflict between the two (plugin/theme).
-
-
-## JavaScript conflicts
+However, a lot of plugins and themes by inexperienced authors, for various reasons do not follow the standard recommended methods. Due to this, a poorly written plugin or theme can break functionality of other plugins. In effect, there is a conflict between the two (plugin or theme).
 
 
-A lot of themes and plugins need to add javascript on the frontend, the dashboard or both. Again, there are standard methods for this (wp_enqueue_script). Some plugins and themes, again don't follow the standards for various reasons, due to which some expected functionality breaks.
+## JavaScript Conflicts
 
-More problematic is when some javascript has an error(s). An error in javascript prevents anything after that to run. So, if the javascript added by one plugin has an error, the execution of the code will stop. Subsequent scripts loaded by any other plugin/theme will not be run and the functionality breaks.
+
+Many themes and plugins need to add JavaScript on the front end, the dashboard or both. Again, there are standard methods for this (for example, *wp_enqueue_script*). Some plugins and themes, do not follow the standards for various reasons, due to which some expected functionality breaks.
+
+More problematic is when JavaScript code has an error(s). An error in JavaScript prevents anything after that to run. If the JavaScript code added by one plugin has an error, the execution of the code will stop. Subsequent scripts loaded by any other plugin or theme will not be run and the functionality breaks.
 
 
 ## Diagnosing Conflicts
@@ -23,16 +23,16 @@ More problematic is when some javascript has an error(s). An error in javascript
 
 
 
-### Find the source
+### Find the Source
 
 
-This is useful, especially in case of javascript. By looking at the console, you might be able to locate the file that is throwing the error. If the file is inside a particular plugin or theme's directory, you know the offending one. However, you might have to toggle debug mode in WordPress to pinpoint such errors. This requires a bit of technical know-how and modifications to wp-config.php.
+This is useful, especially in case of JavaScript. By looking at the console, you might be able to locate the file that is throwing the error. If the file is inside a particular plugin or theme's directory, you know the offending one. However, you might have to toggle debug mode in WordPress to pinpoint such errors. This requires a bit of technical know-how and modifications to *wp-config.php*.
 
 See more on [Debugging in WordPress](http://codex.wordpress.org/Debugging_in_WordPress)[
 ](http://codex.wordpress.org/WP_DEBUG)
 
 
-### Isolating the culprit
+### Isolating the Culprit
 
 
 The other, simpler, but more time consuming method is this:
@@ -61,7 +61,7 @@ The other, simpler, but more time consuming method is this:
     * Enable one plugin, check if the problem comes back.
 
 	
-    * If the problem still doesn't reappear, disable this plugin and enable the next plugin.
+    * If the problem still does not reappear, disable this plugin and enable the next plugin.
 
 	
     * Check if the problem reappears.
@@ -75,7 +75,7 @@ The other, simpler, but more time consuming method is this:
 
 
 
-## This doesn't help. What else can I do?
+## This Does Not Help. What Else Can I Do?
 
 
-Unfortunately, beyond this, there are no general steps or processes that can identify and resolve conflicts. After this, you really need to have technical know-how to diagnose the conflict. Doing that is a whole art form and requires expertise beyond the scope of a one page tutorial. You'd have to hire a professional.
+Unfortunately, beyond this, there are no general steps or processes that can identify and resolve conflicts. After this, you really need to have technical know-how to diagnose the conflict. Doing that is a whole art form and requires expertise beyond the scope of a one page tutorial. You will have to hire a professional.
