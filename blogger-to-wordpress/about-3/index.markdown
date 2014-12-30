@@ -7,7 +7,7 @@ title: 'About '
 
 Blogger to WP (Wordpress) migration professional service is for bloggers who are looking to migrate their Blogger.com blog to self-hosted wordpress setup. We have started this service, because we understand as a blogging platform, Wordpress offer better user experience, SEO advantage and community engagement. Most of the BlogSpot (Blogger.com) bloggers now understand the importance of Wordpress platform, but at the same time they are worried about losing ranking, search engine traffic, broken permalink, images and comments.
 
-##In our Professional service, we provide##:
+##In our Professional service, we provide:
 
 
 
