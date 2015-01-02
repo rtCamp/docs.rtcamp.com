@@ -6,7 +6,7 @@ title: Uploader Shortcode
 
 
 
-Displays the rtMedia anywhere uploader. The simplest way to use this shortcode is:
+Displays the rtMedia anywhere uploader. The simplest way to use this shortcode is as follows:
 
     
     [[rtmedia_uploader]]
@@ -16,15 +16,9 @@ Displays the rtMedia anywhere uploader. The simplest way to use this shortcode i
 
 ## Options
 
-
-
-
-context
+### context
     
 
-
-
-	
   * a post_type (post, page, event, topic, reply, etc)
 
 	
@@ -34,14 +28,11 @@ context
   * a custom context, registered via code
 
 
-This sets the context in which the media is uploaded. If not provided, the uploader assumes the current post type as the context. If BuddyPress is installed, the context is assumed to be the component on the current page. If bbPress is installed and user is on a forum, the context is set to the current topic or reply.
+This sets the context in which the media is uploaded. If the context is not provided, the uploader assumes the current post type as the context. If BuddyPress is installed, the context is assumed to be the component on the current page. If bbPress is installed and user is on a forum, the context is set to the current topic or reply.
 
 
-context_id
+#### context_id
     
-
-
-
 	
   * id of the current post_type (post, page, event, topic, reply, etc)
 
@@ -55,9 +46,14 @@ context_id
 This provides the unique id of the context. For custom contexts, the database table and the id column have to be registered via code.
 
 
-album_id
-    Specifies the album that the media must be uploaded to. If not specified the media will be added to the default 'Wall Posts' album.
-privacy
-    Sets the privacy level of the uploaded file. If the user has set a default privacy, it will default to that. Else, it defaults to the sitewide privacy
-media_type
-    Type of media (photo, video, music ) to be uploaded using the shortcode. rtMedia PRO users can also specify media type as "document" or "other" for document and other media types as required.
+### album_id
+
+Specifies the album that the media must be uploaded to. If not specified the media will be added to the default 'Wall Posts' album.
+
+### privacy
+
+Sets the privacy level of the uploaded file. If the user has set a default privacy, it will default to that. Else, it defaults to the site wide privacy.
+
+### media_type
+
+Type of media (photo, video, music ) to be uploaded using the shortcode. rtMedia PRO users can also specify media type as "document" or "other" for document and other media types as required.
