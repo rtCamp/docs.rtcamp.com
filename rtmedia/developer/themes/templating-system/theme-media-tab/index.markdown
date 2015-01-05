@@ -7,13 +7,13 @@ By default, rtMedia uses the current theme's `index.php` template as the base te
 Just put the following code in your theme's `functions.php` file.
 
     
-    <code>function rtmedia_main_template_include($template, $new_rt_template) {
+    `function rtmedia_main_template_include($template, $new_rt_template) {
             global $wp_query;
     	$wp_query->is_page = true;
     	return get_page_template();
     }
     add_filter('rtmedia_main_template_include', 'rtmedia_main_template_include', 20, 2);
-    </code>
+    `
 
 
 This will set the theme `page.php` template as base template for rtMedia. If you wish to make a different template for the same, just use this function `locate_template('your-custom-template.php')` instead of the function `get_page_template()` used in the above code.

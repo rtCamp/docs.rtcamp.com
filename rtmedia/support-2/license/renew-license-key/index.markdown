@@ -4,28 +4,27 @@ title: Renew License Key
 
 You can renew license for any of your purchased product with 50% discount.
 
-Follow steps below:
+To renew your license:
 
-1. Login to my account section https://rtcamp.com/my-account/, please use your purchased username and password.
+1. Login to my account section https://rtcamp.com/my-account/.
 
 [![Selection_035](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_035.png)](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_035.png)
 
 
 
-2. Go to "Purchase History" tab, click on  "View License".
+2. Go to "Purchase History" tab and click "View License".
 
-[![Selection_018](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_018-1024x488.png)](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_018.png)
+[![Selection_018](http://i.imgur.com/nv01vyi.png)](http://i.imgur.com/nv01vyi.png)
 
-3. If your license is expired, you will see "Expire and renew now" link.
+3. If your license is expired, you will see the "Expire and renew now" link.
 
 [![Selection_017](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_017-1024x440.png)](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_017.png)
 
 
-
-Then follow further process to renew the license key of products.
-
+Click the "Expire and renew now" link to renew the license key of products.
 
 
-**Please Note:** _We are giving flat 50% discount for the renewal._
+
+**Note:** We are giving flat 50% discount for the renewal._
 
 

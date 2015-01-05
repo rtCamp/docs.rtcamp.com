@@ -15,13 +15,13 @@ The following is sample code which you can use in your theme, plugin or custom c
 
 
     
-    <code>$image_sizes = array( 'rt_media_thumbnail', 'rt_media_activity_image', 'rt_media_single_image', 'rt_media_featured_image' );
+    `$image_sizes = array( 'rt_media_thumbnail', 'rt_media_activity_image', 'rt_media_single_image', 'rt_media_featured_image' );
     
     $attachment_id = 8; // attachment ID
     
     foreach ( $image_sizes as $image_size ) {
         $url = wp_get_attachment_image_src( $attachment_id, $image_size );
-    }</code>
+    }`
 
 
 

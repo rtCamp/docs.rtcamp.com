@@ -15,7 +15,7 @@ Adds a field to enter the camera model used to take the photo. ( Check [rtmedia_
 
 
     
-    <code>function custom_rtmedia_camera_build($type) {
+    `function custom_rtmedia_camera_build($type) {
         if ( $type == 'photo' ) {
             global $rtmedia_media;
             $id = $rtmedia_media->id;
@@ -25,4 +25,4 @@ Adds a field to enter the camera model used to take the photo. ( Check [rtmedia_
         }
     }
     
-    add_action('rtmedia_add_edit_fields', 'custom_rtmedia_camera_build');</code>
+    add_action('rtmedia_add_edit_fields', 'custom_rtmedia_camera_build');`

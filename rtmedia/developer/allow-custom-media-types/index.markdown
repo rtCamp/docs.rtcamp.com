@@ -6,7 +6,7 @@ By default, rtMedia supports `mp4` file format for video and `mp3` for audio. To
 
 
     
-    <code>function rt_custom_allowed_types( $types ){
+    `function rt_custom_allowed_types( $types ){
     	if ( isset( $types[0] ) && isset( $types[0]['extensions'] ) ) {
     		if ( is_rtmedia_upload_video_enabled() )
     			$types[0]['extensions'] .= ',mov,mpg,flv,wmv,mkv,webm,ogv,mxf,asf,vob,mts,qt,mpeg,x-msvideo'; //Allow video types of file to be uploded
@@ -30,7 +30,7 @@ By default, rtMedia supports `mp4` file format for video and `mp3` for audio. To
     }
     
     // filter to show allowed media types in admin settings
-    add_filter('rtmedia_allowed_types', 'rt_custom_allowed_types_admin_settings', 10, 1);</code>
+    add_filter('rtmedia_allowed_types', 'rt_custom_allowed_types_admin_settings', 10, 1);`
 
 
 

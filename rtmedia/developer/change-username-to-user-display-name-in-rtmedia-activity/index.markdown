@@ -7,14 +7,14 @@ By default rtMedia uses user's nice name in activity. You can change it as per y
 Use the following sample code to upload a single media from the media tab:
 
     
-    <code>function change_rtmedia_activity_username_single_media( $action, $username, $count, $user_nicename, $media_type ) {
+    `function change_rtmedia_activity_username_single_media( $action, $username, $count, $user_nicename, $media_type ) {
     	$user_id  = get_current_user_id();
     	$user     = get_userdata( $user_id );
      	$username = '<a href="' . get_rtmedia_user_link ( $user_id ) . '">' . $user->user_firstname . '</a>';
     	$action   = sprintf( __( '%s added %d %s', 'rtmedia' ), $username, $count, RTMEDIA_MEDIA_SLUG );
     	return $action;
     }
-    add_filter('rtmedia_buddypress_action_text_fitler', 'change_rtmedia_activity_username_single_media', 10, 5);</code>
+    add_filter('rtmedia_buddypress_action_text_fitler', 'change_rtmedia_activity_username_single_media', 10, 5);`
 
 
 
@@ -27,11 +27,11 @@ The following screen shows the username in activity feed.
 Use the following sample code to upload multiple media from the media tab.
 
     
-    <code>function change_rtmedia_activity_username_multiple_media( $action, $username, $count, $user_nicename ) {
+    `function change_rtmedia_activity_username_multiple_media( $action, $username, $count, $user_nicename ) {
     	$user_id  = get_current_user_id();
     	$user     = get_userdata( $user_id );
      	$username = '<a href="' . get_rtmedia_user_link ( $user_id ) . '">' . $user->user_firstname . '</a>';
     	$action   = sprintf( __( '%s added %d %s', 'rtmedia' ), $username, $count, RTMEDIA_MEDIA_SLUG );
     	return $action;
     }
-    add_filter('rtmedia_buddypress_action_text_fitler_multiple_media', 'change_rtmedia_activity_username_multiple_media', 10, 4);</code>
+    add_filter('rtmedia_buddypress_action_text_fitler_multiple_media', 'change_rtmedia_activity_username_multiple_media', 10, 4);`

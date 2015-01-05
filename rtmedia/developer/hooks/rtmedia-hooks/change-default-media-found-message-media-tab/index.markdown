@@ -7,7 +7,7 @@ You can use the filter `rtmedia_no_media_found_message_filter` in your theme and
 Add the following code in your theme's functions.php file:
 
     
-    <code>function custom_no_media_found_message_function( $message ) { 
+   `function custom_no_media_found_message_function( $message ) { 
         $message = "Custom Message"; return $message; 
     }
-    add_filter( 'rtmedia_no_media_found_message_filter', 'custom_no_media_found_message_function' ,10, 1 );</code>
+    add_filter( 'rtmedia_no_media_found_message_filter', 'custom_no_media_found_message_function' ,10, 1 );`

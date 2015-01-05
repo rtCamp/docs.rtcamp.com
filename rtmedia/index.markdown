@@ -28,7 +28,13 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 
 ## [3. rtMedia Add Ons]()
+
 * [Overview](/rtmedia/addons/)
+
+* [Licensing](/rtmedia/support-2/license/)
+  
+  * [Renewing Your Licence](/rtmedia/support-2/license/renew-license-key/)
+  
 
 * [rtMedia PRO](/rtmedia/addons/rtmedia-pro/)
 
@@ -55,25 +61,13 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 ## [4. Upgrading](/rtmedia/upgrading/)
 
-* [Upgrading from rtMedia 3.2.x to 3.3.x](/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)[
-](/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)
+* [Upgrading from rtMedia 3.2.x to 3.3.x](/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)
 
 	
 * [Upgrading To rtMedia 3.5](/rtmedia/upgrading/upgrading-to-rtmedia-3-5/)
 
 
 ## [5. Developers](/rtmedia/developer/)
-
-* [API](http://docs.rtcamp.com/rtmedia/developer/api/)[
-](http://docs.rtcamp.com/rtmedia/developer/api/)
-
-	
-* [Hooks](http://docs.rtcamp.com/rtmedia/developer/hooks/)
-
-	
-  3. [Themes
-](http://docs.rtcamp.com/rtmedia/developer/themes/)and more...
-
 
 
 
@@ -83,6 +77,8 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 
 ## [7. Support](/rtmedia/support-2/)
+
+* [Request a Feature](/rtmedia/support-2/developer-program/)
 
 
 
