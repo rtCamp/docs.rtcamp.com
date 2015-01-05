@@ -2,7 +2,7 @@
 title: Gallery Shortcode
 ---
 
-[[rtmedia_gallery global="false" context="post" context_id="23" media_type="photo" media_author="1"]]
+    [[rtmedia_gallery global="false" context="post" context_id="23" media_type="photo" media_author="1"]]
 
 
 
