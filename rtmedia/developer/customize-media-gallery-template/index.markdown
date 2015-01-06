@@ -14,7 +14,6 @@ To do that first of all you need a function which will fetch the author's name.
 	    if ( $rtmedia_backbone[ 'backbone' ] ){
 		echo '<%= author %>';
 	    } else {
-		global $rtmedia_media;
 		return stripslashes( htmlentities( rtmedia_author_name( false ) ) );
 	    }
 	}
