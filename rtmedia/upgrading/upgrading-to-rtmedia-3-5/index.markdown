@@ -39,10 +39,10 @@ We have added two new hooks:
 
 
 	
-  1. rtmedia_add_edit_tab_title - Use this hook to add the tab title.
+  1. *rtmedia_add_edit_tab_title* - Use this hook to add the tab title.
 
 	
-  2. rtmedia_add_edit_tab_content - Use this hook to add the content for the tab.
+  2. *rtmedia_add_edit_tab_content* - Use this hook to add the content for the tab.
 
 
 In following templates:

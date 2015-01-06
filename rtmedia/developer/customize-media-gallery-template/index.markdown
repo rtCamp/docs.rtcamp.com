@@ -1,11 +1,11 @@
 
-Customize media gallery template
+Customize Media Gallery Template
 
-By default media gallery template [ i.e. media-gallery-item.php ] contains media thumbnails along with media title. You can modify it by overriding rtMedia templates in your theme.
+By default media gallery template [ i.e. *media-gallery-item.php* ] contains media thumbnails along with media title. You can modify it by overriding rtMedia templates in your theme.
 
-For example below is the sample code which one can use to show author name in media gallery. 
+For example, the following is the sample code to show author name in media gallery. 
 
-To do that first of all you need a function which will fetch the author's name.
+To do that, first you need a function which will fetch the author's name.
 
 ```
 function custom_rtmedia_author_name() {
@@ -19,7 +19,7 @@ function custom_rtmedia_author_name() {
 }
 ```
 
-You can use this function in media gallery by modifying media-gallery-item.php template in your theme. Add following code in media-gallery-item.php template.
+You can use this function in media gallery by modifying the *media-gallery-item.php* template in your theme. Add the following code in *media-gallery-item.php* template.
 
 ```
 <h4 title="Author Name:">
@@ -27,11 +27,11 @@ You can use this function in media gallery by modifying media-gallery-item.php t
 </h4>
 ```
 
-Using above code, it will only show author name on page load but not when you click load more or any pagination links. rtMedia uses Backbone to handle load more / pagination. You also need to filter the JSON response which is handled by Backbone.
+Using the above code, it will only show author name on page load but not when you click load more or any pagination links. rtMedia uses Backbone to handle load more / pagination. You also need to filter the JSON response which is handled by Backbone.
 
 Filter name : rtmedia_media_array_backbone
 
-Below is the sample code which you can put into your theme's function.php file :
+You can use the following sample code your theme's *function.php* file :
 
 ```
 function rtmedia_backbone_template_filter_author_name( $media_array ){

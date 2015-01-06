@@ -2,7 +2,7 @@
 title: Upgrading from rtMedia 3.2.x to 3.3.x
 ---
 
-This upgrade guide applies to you **only** if you have overridden [rtMedia template files](https://rtcamp.com/rtmedia/docs/developer/templating-system/).
+This upgrade guide applies **only** if you have overridden [rtMedia template files](https://rtcamp.com/rtmedia/docs/developer/templating-system/).
 
 
 ## Markup Changes
@@ -71,9 +71,6 @@ When single media is displayed without lightbox, on its own page:
 
 
 ### Inside media-gallery.php
-
-
-
 
 
 	
