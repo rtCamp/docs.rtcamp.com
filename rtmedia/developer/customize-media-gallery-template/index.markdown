@@ -23,7 +23,7 @@ You can use this function in media gallery by modifying media-gallery-item.php t
 
 
 	<h4 title="Author Name:">
-			<?php custom_rtmedia_author_name ();?>
+		<?php custom_rtmedia_author_name ();?>
 	</h4>
 
 
