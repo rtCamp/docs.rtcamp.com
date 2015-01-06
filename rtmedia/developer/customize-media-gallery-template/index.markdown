@@ -1,5 +1,6 @@
-
-Customize media gallery template
+---
+title: Customize media gallery template
+---
 
 By default media gallery template [ i.e. media-gallery-item.php ] contains media thumbnails along with media title. You can modify it by overriding rtMedia templates in your theme.
 
