@@ -1,5 +1,5 @@
 ---
-title: Customize media gallery template
+title: Customize Media Gallery Template
 ---
 
 
