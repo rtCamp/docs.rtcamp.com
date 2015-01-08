@@ -13,7 +13,7 @@ rtMedia boasts of a very extensive API that allows fine grained control on rtMed
 
 The rtMedia API is roughly divided into three parts:
 	
-  1. [Upload API](hthttp://rtcamp.com/buddypress-media/docs/developer/rtmedia-api/upload-api), that allows interaction with the **uploader**, and the **create** functionality of media.
+  1. [Upload API](/rtmedia/developer/api/rtmedia-api/upload-api), that allows interaction with the **uploader**, and the **create** functionality of media.
 
 	
   2. [Media API](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/media-api), that allows interaction with the media collections, and their **display**.
@@ -27,7 +27,7 @@ The rtMedia API is roughly divided into three parts:
 ## RESTful
 
 
-The API is accessible on RESTful [API endpoints](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/), as well and allows manipulation of Media objects in rtMedia. Both the [Upload Endpoint](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/upload-endpoint) (/upload/) and [Media Endpoint](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/media-endpoint) (/media/) are documented separately.
+The API is accessible on RESTful [API endpoints](/rtmedia/developer/api/rtmedia-api/endpoints/), as well and allows manipulation of Media objects in rtMedia. Both the [Upload Endpoint](/rtmedia/developer/api/rtmedia-api/endpoints/upload-endpoint/) (/upload/) and [Media Endpoint](https://rtcamp.com/rtmedia/docs/developer/rtmedia-api/endpoints/media-endpoint) (/media/) are documented separately.
 
 
 ## Concepts
@@ -38,7 +38,7 @@ To create meaningful interaction with the API, some concepts are required before
 
 
 	
-  1. [Database Description](https://rtcamp.com/rtmedia/docs/developer/database-description/),
+  1. [Database Description](/rtmedia/developer/database-description/),
 
 	
   2. the Media Object,
