@@ -5,13 +5,13 @@ build:
     # Run a smart version of bundle install
     # which improves build execution time of
     # future builds
-    # - bundle-install
+    - bundle-install
 
     # A custom script step
     # that actually builds the jekyll site
     - script:
         name: generate site
-        code: gem install jekyll && jekyll build --trace
+        code: bundle exec jekyll build --trace
 
 deploy:
    steps:
