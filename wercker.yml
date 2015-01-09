@@ -7,19 +7,19 @@ build:
     # future builds
     - bundle-install
 
-    - install-packages:
-        packages: sshpass
-
     # A custom script step
     # that actually builds the jekyll site
     - script:
         name: generate site
-        code: bundle exec jekyll build --trace
+        code: bundle exec jekyll build
 
 deploy:
    steps:
+    - install-packages:
+        packages: sshpass
+               
     - script:
-        name: deploy to C
+        name: deploy to cdn
         code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* SSHUSER@$SSHHOST:/www/
 
             # echo "python version $(python --version) running"
