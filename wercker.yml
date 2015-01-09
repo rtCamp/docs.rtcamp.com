@@ -13,6 +13,8 @@ build:
         name: generate site
         code: bundle exec jekyll build
 
+deploy:
+  steps:    
     - install-packages:
         packages: sshpass
 
