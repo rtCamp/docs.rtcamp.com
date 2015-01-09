@@ -19,12 +19,3 @@ build:
     - script:
         name: deploy to cdn
         code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
-
-            # echo "python version $(python --version) running"
-            # echo "pip version $(pip --version) running"
-
-
-# jekyll build && rsync -avz --progress --rsh="sshpass -p vYLl45F5sLTfitt4254H ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* user_xceoobwr@push-18.cdn77.com:/www/
-
-#purge CDN
-# curl --data "cdn_id=26542&login=rahul.bansal@rtcamp.com&passwd=S0KqrRCyJthDLMW12sxZwvGTc6a3bE9F" https://client.cdn77.com/api/v2.0/data/purge-all
