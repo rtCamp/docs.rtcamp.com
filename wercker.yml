@@ -7,6 +7,9 @@ build:
     # future builds
     - bundle-install
 
+    - install-packages:
+        packages: sshpass
+
     # A custom script step
     # that actually builds the jekyll site
     - script:
@@ -17,7 +20,7 @@ deploy:
    steps:
     - script:
         name: deploy to C
-        code: apt-get install sshpass && rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* SSHUSER@$SSHHOST:/www/
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* SSHUSER@$SSHHOST:/www/
 
             # echo "python version $(python --version) running"
             # echo "pip version $(pip --version) running"
