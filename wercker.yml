@@ -1,0 +1,29 @@
+# our build should run within a Ruby box
+box: wercker/ruby
+build:
+  steps:
+    # Run a smart version of bundle install
+    # which improves build execution time of
+    # future builds
+    - bundle-install
+
+    # A custom script step
+    # that actually builds the jekyll site
+    - script:
+        name: generate site
+        code: bundle exec jekyll build --trace
+
+deploy:
+   steps:
+    - script:
+        name: deploy to C
+        code: apt-get install sshpass && rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* SSHUSER@$SSHHOST:/www/
+
+            # echo "python version $(python --version) running"
+            # echo "pip version $(pip --version) running"
+
+
+# jekyll build && rsync -avz --progress --rsh="sshpass -p vYLl45F5sLTfitt4254H ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* user_xceoobwr@push-18.cdn77.com:/www/
+
+#purge CDN
+# curl --data "cdn_id=26542&login=rahul.bansal@rtcamp.com&passwd=S0KqrRCyJthDLMW12sxZwvGTc6a3bE9F" https://client.cdn77.com/api/v2.0/data/purge-all
