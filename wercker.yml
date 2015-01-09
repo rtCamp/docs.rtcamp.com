@@ -13,14 +13,12 @@ build:
         name: generate site
         code: bundle exec jekyll build
 
-deploy:
-   steps:
     - install-packages:
         packages: sshpass
-               
+
     - script:
         name: deploy to cdn
-        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* SSHUSER@$SSHHOST:/www/
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
 
             # echo "python version $(python --version) running"
             # echo "pip version $(pip --version) running"
