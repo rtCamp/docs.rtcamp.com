@@ -16,7 +16,7 @@ build:
 deploy:
   steps:
     - install-packages:
-        packages: sshpass
+        packages: sshpass  #needed by cdn77
 
     - script:
         name: deploy to cdn
