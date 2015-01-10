@@ -17,7 +17,7 @@ Enable moderation by turning **ON** this option.
 
 
 This option allows the site administrator to set the maximum number of reports after which the user reported content will be sent for moderation. If this field is set to **0**, the reported content will be immediately sent for moderation. In both cases, content that is sent for moderation cannot be viewed by anyone other than the site administrator(s).
-Read more: [Managing Reported Media/Other Items](rtmedia/addons/rtmedia-pro/moderation/managing-reported-media/).
+Read more: [Managing Reported Media/Other Items](/rtmedia/addons/rtmedia-pro/moderation/managing-reported-media/).
 
 
 ### Admin Emails
