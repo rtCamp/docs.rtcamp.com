@@ -14,10 +14,22 @@ build:
         code: bundle exec jekyll build
 
 deploy:
-  steps:    
+  steps:
     - install-packages:
         packages: sshpass
 
     - script:
         name: deploy to cdn
         code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
+
+  after-steps:
+    - script:
+        name: purge cdn
+        code: curl --data "cdn_id=$CDNID&login=$APIUSER&passwd=$APIPASS" https://client.cdn77.com/api/v2.0/data/purge-all
+
+    - sherzberg/slack-notify:
+        subdomain: rtcamp
+        token: $SLACKTOKEN
+        channel: "#docs"
+        username: wercker
+        icon_url: https://avatars3.githubusercontent.com/u/1695193?s=140
