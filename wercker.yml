@@ -20,7 +20,7 @@ deploy:
 
     - script:
         name: deploy to cdn
-        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l user_xceoobwr -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
 
   after-steps:
     - script:
