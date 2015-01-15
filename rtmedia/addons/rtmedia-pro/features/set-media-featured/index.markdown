@@ -17,7 +17,7 @@ Use these steps to set media (typically an image) as featured:
   2. Click **Set Featured**.
 
 
-    [![](https://rtcamp.com/wp-content/uploads/2013/11/setfeatured.png)](https://rtcamp.com/wp-content/uploads/2013/11/setfeatured.png)
+      [![](https://rtcamp.com/wp-content/uploads/2013/11/setfeatured.png)](https://rtcamp.com/wp-content/uploads/2013/11/setfeatured.png)
 
 To stop using a media item as featured:
 

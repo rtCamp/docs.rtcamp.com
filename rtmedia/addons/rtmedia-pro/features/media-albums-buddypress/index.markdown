@@ -41,7 +41,7 @@ To create a new album:
 
   1. Click the Create Album icon on the media page of a BuddyPress profile or group, or any of the tabs under it.
   
-    [![rtMedia create new album icon](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaCreateNewAlbumIcon.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaCreateNewAlbumIcon.png)
+      ![rtMedia create new album icon](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaCreateNewAlbumIcon.png)
 
 	
   2. Type the desired title for the album in the pop-up that appears.
@@ -52,14 +52,13 @@ To create a new album:
 	
   4. Click **Create New Album**.
   
-    [![rtMedia create new album dialog](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaCreateNewAlbumDialog.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaCreateNewAlbumDialog.png)
+      ![rtMedia create new album dialog](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaCreateNewAlbumDialog.png)
 
 ### Adding Media and Other Files to Albums
 
   1. Click the upload icon on the media page of a BuddyPress profile or group, or any of the tabs under it.
   
-    [![rtMedia upload icon](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaUploadIcon.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaUploadIcon.png)
-
+      ![rtMedia upload icon](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaUploadIcon.png)
 	
   2. Choose the album to upload the media in the dialog that opens.
 
@@ -69,7 +68,7 @@ To create a new album:
 	
   4. Click **Select** to open your computer's file dialog and choose files. Press the Ctrl key to select multiple files simultaneously. The upload size limit is set by administrators.
   
-    [![Upload media or other files to existing albums](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaUploadMedia.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaUploadMedia.png)
+      ![Upload media or other files to existing albums](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaUploadMedia.png)
     
 The successful upload of files is indicated with a list of file names, 100% upload completion percentage and file sizes.
 

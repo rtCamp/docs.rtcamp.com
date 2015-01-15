@@ -19,4 +19,4 @@ To set an image as album cover:
   2. On the individual page or lightbox that opens, click **Set as Album Cover**.
 
 
-    [![](https://rtcamp.com/wp-content/uploads/2013/11/rtMediasetasalbumcover.png)](https://rtcamp.com/wp-content/uploads/2013/11/rtMediasetasalbumcover.png)
+      [![](https://rtcamp.com/wp-content/uploads/2013/11/rtMediasetasalbumcover.png)](https://rtcamp.com/wp-content/uploads/2013/11/rtMediasetasalbumcover.png)

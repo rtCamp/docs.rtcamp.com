@@ -12,7 +12,7 @@ To change the default video thumbnail:
 	
   2. Click **Edit**.
   
-    [![Click edit to set a default video thumbnail](https://rtcamp.com/wp-content/uploads/2013/11/videoedit.png)]
+      [![Click edit to set a default video thumbnail](https://rtcamp.com/wp-content/uploads/2013/11/videoedit.png)]
 
 	
   3. On the Edit media page, choose one of the thumbnails generated as the default.
@@ -20,7 +20,7 @@ To change the default video thumbnail:
 	
   4. Click **Save**.
   
-    [![Choose a video thumbnail](https://rtcamp.com/wp-content/uploads/2013/11/image19.png)](https://rtcamp.com/wp-content/uploads/2013/11/image19.png)
+      [![Choose a video thumbnail](https://rtcamp.com/wp-content/uploads/2013/11/image19.png)](https://rtcamp.com/wp-content/uploads/2013/11/image19.png)
 
 
 **Note**: The number of thumbnails depend on the relevant [setting saved by your site’s administrator](/rtmedia/addons/rtmedia-pro/settings/). If videos were uploaded before your site was upgraded to rtMedia core v3.1 or started using the [audio/video encoding service](https://rtcamp.com/rtmedia/addons/audio-video-encoding-service/), contact your site’s administrator to [regenerate video thumbnails](/rtmedia/admin/regenerate-video-thumbnails/).
