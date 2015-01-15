@@ -11,11 +11,11 @@ Users of [BuddyPress Media](http://wordpress.org/extend/plugins/buddypress-media
 
 The issue is most often reported by iPhone and iPad users. You click a photo and upload it and expect it show straight up as illustrated below_._
 
-[caption id="attachment_34353" align="alignnone" width="283"][![What you expect](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect-283x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect.jpg) What you expect[/caption]
+[![What you expect](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect-283x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect.jpg) What you expect
 
 What happens instead is this:
 
-[caption id="attachment_34354" align="alignnone" width="432"][![What you get, instead!](https://rtcamp.com/wp-content/uploads/2013/03/whatuget-432x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/whatuget.jpg) What you get, instead![/caption]
+[![What you get, instead!](https://rtcamp.com/wp-content/uploads/2013/03/whatuget-432x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/whatuget.jpg) What you get, instead!
 
 What can be guessed from the images is that these smartphones do not correct the rotation in the image's [EXIF data](http://en.wikipedia.org/wiki/Exchangeable_image_file_format). The phone's native app reads the EXIF data and displays it properly. However, when uploaded into WordPress, this reading is not done and hence images appear rotated.
 

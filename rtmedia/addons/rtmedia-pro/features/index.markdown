@@ -24,7 +24,7 @@ The features are as follows:
 
 9. [Download Button For Media](/rtmedia/addons/rtmedia-pro/features/download-button-media/) - Users can download photos, videos and music. Administrators have the control to allow media downloads.
 
-10. [Edit Media](/rtmedia/addons/rtmedia-pro/features/edit-media/) - Edit your media files the way yu want them.
+10. [Edit Media](/rtmedia/addons/rtmedia-pro/features/edit-media/) - Edit your media files the way you want them.
 
 11. [FavList](/rtmedia/addons/rtmedia-pro/features/favlist) - Create your own list of favorite media.
 
