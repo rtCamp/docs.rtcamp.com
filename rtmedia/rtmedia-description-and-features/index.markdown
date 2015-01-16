@@ -117,7 +117,7 @@ rtMedia can be used anywhere in the form of an **uploader** and a **gallery**.
 
 
 	
-  * Use the shortcode `[[rtmedia_uploader]]` in any WordPress area like a post, page or custom post.
+  * Use the shortcode `[rtmedia_uploader]` in any WordPress area like a post, page or custom post.
 
 	
   * Use template tag`<?php rtmedia_uploader() ?>` in relevant areas of your themes files
@@ -146,7 +146,7 @@ rtMedia can be used anywhere in the form of an **uploader** and a **gallery**.
 
 
 	
-  * You can display a media gallery anywhere on your site using: Shortcode`[[rtmedia_gallery]]` or template tag `<?php rtmedia_gallery(); ?>`.
+  * You can display a media gallery anywhere on your site using: Shortcode`[rtmedia_gallery]` or template tag `<?php rtmedia_gallery(); ?>`.
 
 	
   * The gallery can be usually accessed by appending`/media`at the end of a WordPress URL. If it's a valid context, media uploaded from rtMedia Uploader will show up, as you can see in the picture below.

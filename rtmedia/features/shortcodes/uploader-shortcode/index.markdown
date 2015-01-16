@@ -2,14 +2,14 @@
 title: Uploader Shortcode
 ---
 
-[[rtmedia_uploader context="post" context_id="2" album_id="34" privacy="40"]]
+[rtmedia_uploader context="post" context_id="2" album_id="34" privacy="40"]
 
 
 
 Displays the rtMedia anywhere uploader. The simplest way to use this shortcode is as follows:
 
     
-    [[rtmedia_uploader]]
+    [rtmedia_uploader]
 
 
 

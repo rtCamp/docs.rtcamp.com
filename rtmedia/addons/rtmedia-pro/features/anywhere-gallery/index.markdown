@@ -6,7 +6,7 @@ rtMedia can help display media galleries anywhere on a WordPress site, listing m
 
 If [rtMedia PRO](https://rtcamp.com/store/rtmedia-pro/) is running on the site, documents and other files can also be listed along with regular media (images, audio and video).
 
-Media and other files can be uploaded by users through an Anywhere uploader, [as explained here](/rtmedia/docs/user/rtmedia-wordpress/anywhere-uploader/). 
+Media and other files can be uploaded by users through an Anywhere uploader, [as explained here](/rtmedia/features/shortcodes/uploader-shortcode/). 
 
 The following screenshot indicates how a typical gallery will display on on a page on your site: 
 

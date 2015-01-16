@@ -2,7 +2,7 @@
 title: Gallery Shortcode
 ---
 
-    [[rtmedia_gallery global="false" context="post" context_id="23" media_type="photo" media_author="1"]]
+    [rtmedia_gallery global="false" context="post" context_id="23" media_type="photo" media_author="1"]
 
 
 
@@ -109,7 +109,7 @@ Set this option to **FALSE**, if you do not want to show media title in gallery 
 ## Attributes Short-Code
 
   
-    [[rtmedia_gallery attribute_slug="slug-of-attribute" term_slug="terms-slug"]]
+    [rtmedia_gallery attribute_slug="slug-of-attribute" term_slug="terms-slug"]
 
 
 attribute_slug: is the slug of attributes which is created or generated when you create a attribute.
@@ -121,7 +121,7 @@ term_slug: is the slug of terms which are created under the attributes. We can u
 As the above screenshots show, the short-code of attributes will look as follows:
 
     
-    [[rtmedia_gallery attribute_slug="rtcamp" term_slug="services,product"]]
+    [rtmedia_gallery attribute_slug="rtcamp" term_slug="services,product"]
 
 
 
@@ -130,7 +130,7 @@ As the above screenshots show, the short-code of attributes will look as follows
 
 
     
-    [[rtmedia_gallery favlist_id="xxx"]]
+    [rtmedia_gallery favlist_id="xxx"]
 
 
 xxx: the id of favlist which is created.
