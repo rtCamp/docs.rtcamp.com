@@ -11,7 +11,7 @@ rtMedia addons can be purchased from the rtCamp Store. You can pick and choose a
 
 
   1. **[rtMedia -PRO*
-](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/)**Extend settings, use added features and get 1-on-1 support.
+](/rtmedia/addons/rtmedia-pro/)**Extend settings, use added features and get 1-on-1 support.
 
 	
   2. [**rtMedia Photo Tagging**
