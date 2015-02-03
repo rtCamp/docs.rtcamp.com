@@ -8,7 +8,7 @@ title: "EasyEngine"
 # The Easy Part!
 
 	# Install EasyEngine 3.0
-	wget -qO ee rt.cx/eebeta && sudo bash install
+	wget http://rt.cx/eebeta && sudo bash install
 
 	# Install WordPress on example.com
 	ee site create example.com --wp
