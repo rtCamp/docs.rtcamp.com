@@ -1,13 +1,13 @@
 ---
-title: "EasyEngine"
+title: "easyengine"
 ---
 
-**EasyEngine** (ee) is a linux shell-script to manage your WordPress-Nginx websites on Ubuntu and Debian server.
+**easyengine** (ee) is a linux shell-script to manage your WordPress-Nginx websites on Ubuntu and Debian server.
 
 
 # The Easy Part!
 
-	# Install EasyEngine 3.0
+	# Install easyengine 3.0
 	wget http://rt.cx/eebeta && sudo bash install
 
 	# Install WordPress on example.com
@@ -77,10 +77,10 @@ Creating a high traffic site, big enough to crash Nginx! ;-)
 
 # Commands
 
- * [site](/EasyEngine/commands/site/)
- * [stack](/EasyEngine/commands/stack/)
- * [debug](/EasyEngine/commands/debug/)
- * [clean](/EasyEngine/commands/clean/)
- * [info](/EasyEngine/commands/info/)
- * [secure](/EasyEngine/commands/secure/)
- * [import-slow-log](/EasyEngine/commands/import-slow-log/)
+ * [site](/easyengine/commands/site/)
+ * [stack](/easyengine/commands/stack/)
+ * [debug](/easyengine/commands/debug/)
+ * [clean](/easyengine/commands/clean/)
+ * [info](/easyengine/commands/info/)
+ * [secure](/easyengine/commands/secure/)
+ * [import-slow-log](/easyengine/commands/import-slow-log/)
