@@ -5,7 +5,7 @@ title: rtmedia_allowed_types
 ### Description
 
 
-Add or modify media types allowed in rtMedia.
+Add or modify media types allowed in rtMedia. It's necessary to use this filter in [mu-plugin](http://codex.wordpress.org/Must_Use_Plugins) in order to make this filter work.
 
 
 ### Example 1
@@ -14,7 +14,7 @@ Add or modify media types allowed in rtMedia.
 Adds a media type document.
 
     
-   `function custom_rtmedia_allowed_types($allowed_types) {
+    function custom_rtmedia_allowed_types($allowed_types) {
         $allowed_types['document'] = array(
             'name' => 'document',
             'plural' => 'documents',
@@ -26,7 +26,7 @@ Adds a media type document.
         return $allowed_types;
     }
     
-    add_filter('rtmedia_allowed_types', 'custom_rtmedia_allowed_types');`
+    add_filter('rtmedia_allowed_types', 'custom_rtmedia_allowed_types');
 
 
 
@@ -37,9 +37,9 @@ Adds a media type document.
 Changes the default thumbnail for music.
 
     
-   `function custom_rtmedia_default_music_thumb($allowed_types) {
+    function custom_rtmedia_default_music_thumb($allowed_types) {
         $allowed_types['music']['thumbnail'] = get_stylesheet_directory_uri().'/images/default_music_thumb.jpg';
         return $allowed_types;
     }
     
-    add_filter('rtmedia_allowed_types', 'custom_rtmedia_default_music_thumb');`
+    add_filter('rtmedia_allowed_types', 'custom_rtmedia_default_music_thumb');
