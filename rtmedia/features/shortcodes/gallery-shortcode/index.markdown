@@ -117,14 +117,14 @@ You can use `sort_parameters` parameter in gallery shortcode and can specify sor
 Use following shortcode to provide view and like sort options:
 
     
-    [rtmedia_gallery global=true sort_parameters=’view,like’]
+    [rtmedia_gallery global=true sort_parameters="view,like"]
 
 
 
 Use following shortcode to provide view, like and rate sort options:
 
     
-    [rtmedia_gallery global=true sort_parameters=’view,like,rate’]
+    [rtmedia_gallery global=true sort_parameters="view,like,rate"]
 
 
 
