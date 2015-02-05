@@ -108,14 +108,17 @@ Set this option to **FALSE**, if you do not want to show media title in gallery 
 
 ## Sort Parameters
 
-By default rtMedia Pro provides sort options to sort media by Title, Upload Date and Media Size. More sorting option like sort by views, likes, comments and rate has been added for media gallery rendered via gallery shortcode.
+By default **rtMedia Pro** provides sort options to sort media by Title, Upload Date and Media Size. More sorting option like sort by views, likes, comments and rate has been added for media gallery rendered via gallery shortcode.
 
-You can use ‘sort_parameters’ parameter in gallery shortcode and can specify sort options.
+**Note:** This option is available in **rtMedia Pro** only.
+
+You can use `sort_parameters` parameter in gallery shortcode and can specify sort options.
 
 Use following shortcode to provide view and like sort options:
 
     
     [rtmedia_gallery global=true sort_parameters=’view,like’]
+
 
 
 Use following shortcode to provide view, like and rate sort options:
@@ -124,21 +127,22 @@ Use following shortcode to provide view, like and rate sort options:
     [rtmedia_gallery global=true sort_parameters=’view,like,rate’]
 
 
-Following are the allowed values for ‘sort_parameters’. Use comma separated values for multiple sort options.
 
-  1. new : Sort media based on Uploaded Date
+Following are the allowed values for `sort_parameters`. Use comma separated values for multiple sort options.
 
-	
-  2. view : Sort media based on Most Viewed
+  1. **new:** Sort media based on Uploaded Date
 
 	
-  3. like : Sort media based on Most Liked
+  2. **view:** Sort media based on Most Viewed
+
+	
+  3. **like:** Sort media based on Most Liked
 
 
-  4. comment : Sort media based on Most Commented
+  4. **comment:** Sort media based on Most Commented
 
 
-  5. rate : Sort media based on Most Rated
+  5. **rate:** Sort media based on Most Rated
 
 
 ![sort parameters](https://cloud.githubusercontent.com/assets/7807348/6060841/92a68000-ad67-11e4-892b-378c6995cc7f.png)
