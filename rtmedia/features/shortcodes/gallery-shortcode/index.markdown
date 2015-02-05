@@ -106,38 +106,6 @@ Set this option to **FALSE**, if you do not want to show media title in gallery 
 
 
 
-## Attributes Short-Code
-
-  
-    [rtmedia_gallery attribute_slug="slug-of-attribute" term_slug="terms-slug"]
-
-
-attribute_slug: is the slug of attributes which is created or generated when you create a attribute.
-
-term_slug: is the slug of terms which are created under the attributes. We can use a number of terms associate under the same attribute in single short-code. The terms must be comma separated.
-
-[![Selection_018](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0182.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0182.png) [![Selection_017](https://rtcamp.com/wp-content/uploads/2013/06/Selection_017.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_017.png)
-
-As the above screenshots show, the short-code of attributes will look as follows:
-
-    
-    [rtmedia_gallery attribute_slug="rtcamp" term_slug="services,product"]
-
-
-
-
-## Favlist Short-Code
-
-
-    
-    [rtmedia_gallery favlist_id="xxx"]
-
-
-xxx: the id of favlist which is created.
-
-
-
-
 ## Sort Parameters
 
 By default rtMedia Pro provides sort options to sort media by Title, Upload Date and Media Size. More sorting option like sort by views, likes, comments and rate has been added for media gallery rendered via gallery shortcode.
@@ -171,6 +139,40 @@ Following are the allowed values for ‘sort_parameters’. Use comma separated 
 
 
   5. rate : Sort media based on Most Rated
+
+
+![sort parameters](https://cloud.githubusercontent.com/assets/7807348/6060841/92a68000-ad67-11e4-892b-378c6995cc7f.png)
+
+
+
+## Attributes Short-Code
+
+  
+    [rtmedia_gallery attribute_slug="slug-of-attribute" term_slug="terms-slug"]
+
+
+attribute_slug: is the slug of attributes which is created or generated when you create a attribute.
+
+term_slug: is the slug of terms which are created under the attributes. We can use a number of terms associate under the same attribute in single short-code. The terms must be comma separated.
+
+[![Selection_018](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0182.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0182.png) [![Selection_017](https://rtcamp.com/wp-content/uploads/2013/06/Selection_017.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_017.png)
+
+As the above screenshots show, the short-code of attributes will look as follows:
+
+    
+    [rtmedia_gallery attribute_slug="rtcamp" term_slug="services,product"]
+
+
+
+
+## Favlist Short-Code
+
+
+    
+    [rtmedia_gallery favlist_id="xxx"]
+
+
+xxx: the id of favlist which is created.
 
 
 
