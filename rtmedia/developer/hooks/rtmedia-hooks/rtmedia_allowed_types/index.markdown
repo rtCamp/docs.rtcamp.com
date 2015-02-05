@@ -5,7 +5,9 @@ title: rtmedia_allowed_types
 ### Description
 
 
-Add or modify media types allowed in rtMedia. It's necessary to use this filter in [mu-plugin](http://codex.wordpress.org/Must_Use_Plugins) in order to make this filter work.
+Add or modify media types allowed in rtMedia. 
+
+**Note:** It's necessary to use this filter in [mu-plugins](http://codex.wordpress.org/Must_Use_Plugins) in order to make this filter work.
 
 
 ### Example 1
