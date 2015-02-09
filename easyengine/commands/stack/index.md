@@ -4,7 +4,9 @@ title: "Stack"
 description: ""
 ---
 
-EasyEngine(ee) Stack Module covers following operations:
+EasyEngine(ee) Stack manages packages required to run your website smoothly.
+
+*Stack here* is referred as group of packages.
 
 # Install Packages
 ## Install web packages
@@ -28,7 +30,7 @@ If you are thinking installing all packages is not suitable for you, can install
 
 *NOTE: By default EasyEngine set username as easyengine and random password as HTTP authentication*
 
-Refer: [How to change HTTP Authentication](doc.rtcamp.com/EasyEngine/commands/secure)
+Refer: [How to change HTTP Authentication](/easyengine/commands/secure)
 
 ## Install PHP
 
@@ -126,7 +128,7 @@ This will install Amavis, SpamAssassin and ClamAV on your system.
 
 Note: If your RAM is less than 512MB,with Mail Packages EasyEngine will not install MailScanner on your system. You need to use this command to install MailScanner packges.
 
- 
+
 ## Install All Packages
 
 	ee stack install --all
@@ -326,4 +328,3 @@ You can also start/stop/restart/reload perticular service using following option
 ## Postfix
 
 	ee stack start --postfix
-

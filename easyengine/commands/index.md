@@ -1,11 +1,10 @@
 ---
 title: "commands"
 ---
-
- * [site](/EasyEngine/commands/site/)
- * [stack](/EasyEngine/commands/stack/)
- * [debug](/EasyEngine/commands/debug/)
- * [clean](/EasyEngine/commands/clean/)
- * [info](/EasyEngine/commands/info/)
- * [secure](/EasyEngine/commands/secure/)
- * [import-slow-log](/EasyEngine/commands/import-slow-log/)
+ * [stack](/easyengine/commands/stack/)
+ * [site](/easyengine/commands/site/)
+ * [debug](/easyengine/commands/debug/)
+ * [clean](/easyengine/commands/clean/)
+ * [info](/easyengine/commands/info/)
+ * [secure](/easyengine/commands/secure/)
+ * [import-slow-log](/easyengine/commands/import-slow-log/)
