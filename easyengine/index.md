@@ -1,86 +1,19 @@
 ---
-title: "easyengine"
+title: "EasyEngine"
 ---
 
-**easyengine** (ee) is a linux shell-script to manage your WordPress-Nginx websites on Ubuntu and Debian server.
+**EasyEngine** (ee) is a python tool to *easily* manage your WordPress websites with NGINX webserver, supported on Ubuntu and Debian Linux Distributions.
 
+## Why NGINX??
 
-# The Easy Part!
+NGINX is the world’s most popular open source lightweight web server for high-traffic websites. It's small, powerful, scalable web/proxy server. Its event driven mechanism makes better use of hardware to serve high traffic on your server.
 
-	# Install easyengine 3.0
-	wget http://rt.cx/eebeta && sudo bash install
+## Install EasyEngine
 
-	# Install WordPress on example.com
-	ee site create example.com --wp
+If you want EasyEngine to manage your websites. Why to Wait??
 
-# The Not-so-easy Part
+#### [Start Here](/easyengine/install/)
 
-Creating a high traffic site, big enough to crash Nginx! ;-)
+## Commands
 
-
-
-# Site Creation Commands
-
-## Standard WordPress Sites
-
-	# Install WordPress without any page caching
-	ee site create example.com --wp
-
-	# Install WordPress with w3-total-cache plugin
-	ee site create example.com --w3tc
-
-	# Install WordPress with wp-super-cache plugin
-	ee site create example.com --wpsc
-
-	# Install WordPress + Nginx fastcgi_cache
-	ee site create example.com --wpfc
-
-## WordPress Multsite with subdirectory
-
-	# Install WPMU-subdirectory without any page caching
-	ee site create example.com --wpsubdir
-
-	# Install WPMU-subdirectory with w3-total-cache plugin
-	ee site create example.com --wpsubdir --w3tc
-	
-	# Install WPMU-subdirectory with wp-super-cache plugin
-	ee site create example.com --wpsubdir --wpsc
-
-	# Install WPMU-subdirectory + Nginx fastcgi_cache
-	ee site create example.com --wpsubdir --wpfc
-
-## WordPress Multsite with subdomain
-
-	# Install WPMU-subdomain without any page caching
-	ee site create example.com --wpsubdom
-
-	# Install WPMU-subdomain with w3-total-cache plugin
-	ee site create example.com --wpsubdom --w3tc
-
-	# Install WPMU-subdomain with wp-super-cache plugin 
-	ee site create example.com --wpsubdom --wpsc
-
-	# Install WPMU-subdomain + Nginx fastcgi_cache
-	ee site create example.com --wpsubdom --wpfc
-
-## Non-WordPress Sites
-
-	# Create example.com for static/html sites
-	ee site create example.com --html
-
-	# Create example.com with php support
-	ee site create example.com --php
-
-	# Create example.com with php & mysql support
-	ee site create example.com --mysql
-
-
-# Commands
-
- * [site](/easyengine/commands/site/)
- * [stack](/easyengine/commands/stack/)
- * [debug](/easyengine/commands/debug/)
- * [clean](/easyengine/commands/clean/)
- * [info](/easyengine/commands/info/)
- * [secure](/easyengine/commands/secure/)
- * [import-slow-log](/easyengine/commands/import-slow-log/)
+Get started with EasyEngine [commands](/easyengine/commands/) here.
