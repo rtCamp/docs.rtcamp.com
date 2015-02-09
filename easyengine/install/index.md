@@ -4,9 +4,9 @@ title: "Install EasyEngine"
 
 ## Launch/Deploy/Create Server Instance
 
-    Launch/Deploy/Create your server instance with your hosting provider
+Launch/Deploy/Create your server instance with your hosting provider
 
-    Follow these guide or skip to Quick Setup If you are already done.
+Follow these guide or skip to Quick Setup If you are already done.
 
 
 - [AWS](/easyengine/install/aws.html)
