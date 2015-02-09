@@ -57,4 +57,4 @@ Click on *Launch Instance* to start your amazon EC2 Instance Launch.
 
         ssh -i key.pem ubuntu@<public-ip-of-ec2>
 
-- Next Step is to [Install EasyEngine](/easyengine/install/#QuickSetup) On your Fresh Droplet
+- Next Step is to [Install EasyEngine](/easyengine/#QuickSetup) On your Fresh Droplet

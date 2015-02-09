@@ -4,15 +4,41 @@ title: "EasyEngine"
 
 **EasyEngine** (ee) is a python tool to *easily* manage your WordPress websites with NGINX webserver, supported on Ubuntu and Debian Linux Distributions.
 
-## Why NGINX??
-
-NGINX is the world’s most popular open source lightweight web server for high-traffic websites. It's small, powerful, scalable web/proxy server. Its event driven mechanism makes better use of hardware to serve high traffic on your server.
 
 ## Install EasyEngine
 
-If you want EasyEngine to manage your websites. Why to Wait??
+If you want EasyEngine to manage your websites. Why wait??
 
-#### [Start Here](/easyengine/install/)
+### Launch/Deploy/Create Server Instance
+
+Launch/Deploy/Create your server instance with your hosting provider
+
+Follow these guide or skip to **Quick Setup** If you are already done.
+
+
+- [AWS](/easyengine/install/aws.html)
+
+- [Linode](/easyengine/install/linode.html)
+
+- [DigitalOcean](/easyengine/install/digitalocean.html)
+
+
+
+### Quick Setup
+
+*Here are the quick commands to setup EasyEngine on your server and making your site* **Live**
+
+- First command installs EasyEngine on your server.
+- Second command installs necessary stack and creates *Single WordPress Site* with domain example.com
+
+Just paste following commands in your shell
+
+	wget -qO ee rt.cx/ee && sudo bash ee
+
+	sudo ee site create example.com --wp
+
+
+**To view your site in browser just point your domain to server.**
 
 ## Commands
 

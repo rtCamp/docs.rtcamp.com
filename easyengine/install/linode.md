@@ -24,7 +24,7 @@ title: "Install EasyEngine on Linode"
 
     Select **Ubuntu** or **Debian** as EasyEngine supports these only.
 
-    Configure Disk size, Swap size, and set password
+    Configure Disk size, Swap size, and set root user password
 
     Click Rebuild
 
@@ -38,4 +38,4 @@ title: "Install EasyEngine on Linode"
 
 - Login with SSH
 
-- Next Step is to [Install EasyEngine](/easyengine/install/#QuickSetup) On your Fresh Droplet
+- Next Step is to [Install EasyEngine](/easyengine/#QuickSetup) On your Fresh Droplet

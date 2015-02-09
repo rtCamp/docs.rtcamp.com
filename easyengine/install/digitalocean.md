@@ -16,4 +16,4 @@ title: "Install EasyEngine on Digital Ocean droplet"
 
 - Click On Create Droplet and you are done creating your droplet.
 
-- Next Step is to [Install EasyEngine](/easyengine/install/#QuickSetup) On your Fresh Droplet
+- Next Step is to [Install EasyEngine](/easyengine/#QuickSetup) On your Fresh Droplet
