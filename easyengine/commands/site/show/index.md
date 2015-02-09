@@ -1,5 +1,5 @@
 ---
-title: "Show"
+title: "show"
 ---
 Nginx configuration for the website can be viewed with
 

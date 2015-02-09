@@ -1,5 +1,5 @@
 ---
-title: "Edit"
+title: "edit"
 ---
 
 	ee site edit example.com

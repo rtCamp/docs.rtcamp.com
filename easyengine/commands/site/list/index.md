@@ -1,5 +1,5 @@
 ---
-title: "List"
+title: "list"
 ---
 
 ## List enable websites:
@@ -13,4 +13,3 @@ NOTE: above command run the ls `/etc/nginx/sites-enabled/`
 	ee site list available
 
 NOTE: above command run the ls `/etc/nginx/sites-available/`
-

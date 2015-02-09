@@ -1,5 +1,5 @@
 ---
-title: "Clean"
+title: "clean"
 ---
 
 Clean NGINX FastCGI cache, Opcacache, Memcache

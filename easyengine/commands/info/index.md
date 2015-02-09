@@ -1,5 +1,5 @@
 ---
-title: "Info"
+title: "info"
 ---
 
 
@@ -18,7 +18,7 @@ Output will look like:
 	keepalive_timeout		 30
 	fastcgi_read_timeout		 300
 	client_max_body_size		 100m
-	allow				 127.0.0.1 
+	allow				 127.0.0.1
 
 # PHP Info
 
@@ -79,5 +79,3 @@ Output will look like this:
 To view all commands output together use
 
 	ee info
-
-

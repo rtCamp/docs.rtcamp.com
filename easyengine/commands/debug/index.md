@@ -1,5 +1,5 @@
 ---
-title: "Debug"
+title: "debug"
 ---
 
 # Global options
@@ -48,7 +48,7 @@ These commands are used for site level debugging.
 
 *–rewrite*        : This option enable `rewrite_log` on for example.com
 
-*–wp*             : This option enable `wp-content/debug.log` logging. This also, installs developer plugin. [Click here for more details](https://rtcamp.com/tutorials/wordpress/debugging/) 
+*–wp*             : This option enable `wp-content/debug.log` logging. This also, installs developer plugin. [Click here for more details](https://rtcamp.com/tutorials/wordpress/debugging/)
 
 *–stop*           : Stop debug mode.
 
@@ -101,4 +101,3 @@ If you are using `--php` flag to analyse xdebug profiling information you may be
 This is because EasyEngine has set xdebug to profile only on trigger. This is good for profiling live sites as xdebug profiling data take too much space.
 
 Triggering is easy. You can use this browser extension to trigger profiling for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug/), [Chrome](https://chrome.google.com/extensions/detail/eadndfjplgieldjbigjakmdgkmoaaaoc), [Safari](https://github.com/benmatselby/xdebug-toggler) and [Opera](http://addons.opera.com/extensions/details/xdebug-launcher/)
-

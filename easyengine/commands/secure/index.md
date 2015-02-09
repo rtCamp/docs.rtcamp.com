@@ -1,5 +1,5 @@
 ---
-title: "Secure"
+title: "secure"
 ---
 
 # Changing HTTP authentication credentials
@@ -31,9 +31,7 @@ EasyEngine (ee) can whitelist IP’s, which can be done using
 
 	ee secure --ip [Optional comma separated IPs]
 
-If you don't provide IP address list at command line, Then EasyEngine will ask you IPs. The list of IP addresses, should be provided in comma seperated format for whitelisting them. 
+If you don't provide IP address list at command line, Then EasyEngine will ask you IPs. The list of IP addresses, should be provided in comma seperated format for whitelisting them.
 
 	Enter the comma separated IP addresses to white list [127.0.0.1]: 1.2.3.4, 2.3.6.4,2.3.9.8
 	Executing service nginx reload, please wait...
-
-

@@ -1,5 +1,5 @@
 ---
-title: "CD"
+title: "cd"
 ---
 
 Change directory to site webroot in subshell

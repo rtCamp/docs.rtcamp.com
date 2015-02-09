@@ -1,5 +1,5 @@
 ---
-title: "Create"
+title: "create"
 ---
 
 ## HTML Website

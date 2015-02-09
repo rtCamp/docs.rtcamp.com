@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Stack"
+title: "stack"
 description: ""
 ---
 
@@ -20,7 +20,7 @@ Above command install all the require packages, now you can create your site usi
 
 *NOTE: By default EasyEngine set username as easyengine and random password as HTTP authentication*
 
-Refer: [How to change HTTP Authentication](doc.rtcamp.com/EasyEngine/commands/secure)
+Refer: [How to change HTTP Authentication](/easyengine/commands/secure)
 
 If you are thinking installing all packages is not suitable for you, can install single packages by using following commands:
 

@@ -1,5 +1,5 @@
 ---
-title: "Update"
+title: "update"
 ---
 ## Policies EasyEngine use before updating any site
 ee site update command follows following procedure while updating current site.
@@ -38,7 +38,7 @@ Update currently WordPress single site created with easyengine to WordPress Mult
 
 
 Similarly, you can use these commands.
-		
+
 	ee site update example.com --wp --wpfc
 	ee site update example.com --wp --w3tc
 	ee site update example.com --wp --wpsc
@@ -50,4 +50,3 @@ Similarly, you can use these commands.
 	ee site update example.com --wpsubdomain --wpfc
 	ee site update example.com --wpsubdomain --w3tc
 	ee site update example.com --wpsubdomain --wpsc
-
