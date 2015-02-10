@@ -24,7 +24,7 @@ This page contains documentation for developers contibuting EasyEngine. It outli
     |-- core
     `-- utils
 
-**docs/** -  contains manpages files foe the application.
+**docs/** -  contains manpages files for the easyengine commands.
 
 
 **tests/** -  testcases written for core and cli part of the application.
