@@ -73,7 +73,7 @@ Below command installs Adminer, phpMyAdmin, phpMemcachedAdmin, FastCGI cleanup s
 
 Note: Recommended RAM for Mail Package installation is minimum 1GB
 
-	ee stack install mail
+	ee stack install --mail
 
 
 Above command install all the require packages for mail server.
