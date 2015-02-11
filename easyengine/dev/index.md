@@ -10,4 +10,4 @@ It outlines the whole developement environment for EasyEngine.
 
 -  #### [Directory Structure](/easyengine/dev/codes/)
 
--  #### [Plugin Development](/easyengine/dev/codes/)
+-  #### [Plugin Development](/easyengine/dev/plugins/)
