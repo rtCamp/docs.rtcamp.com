@@ -25,4 +25,4 @@ Get started with EasyEngine [commands](/easyengine/commands/) here.
 
 ## [Developer Documentation](/easyengine/dev/)
 
-##  [Liscense](/easyengine/liscense.html)
+##  [Liscense](/easyengine/license.html)

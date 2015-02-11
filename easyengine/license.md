@@ -1,5 +1,5 @@
 ---
-title: "Liscense"
+title: "License"
 ---
 
 #### The MIT License (MIT)
