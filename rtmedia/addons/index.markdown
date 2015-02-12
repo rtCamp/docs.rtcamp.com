@@ -46,4 +46,7 @@ Manage memberships to your WordPress site(s) with rtMedia installed
 ### rtMedia compatible Theme
 
 
-**[InspireBook Theme](/inspirebook/)**
+  1. **[InspireBook Theme](/inspirebook/)**
+
+
+  2. **[rtDating Theme](/rtdating/)**
