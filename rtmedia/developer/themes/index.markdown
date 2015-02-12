@@ -5,10 +5,16 @@ title: Themes
 Clicking on **Themes** will display the theme options available to you. Currently, you have 2 options:
 
 
-## Themes by rtCamp(Recommended)
+## Themes by rtCamp (Recommended)
 
 
-As of now, rtCamp offers only 1 theme called InspireBook. A premium theme, it is designed especially for BuddyPress and rtMedia powered social networks.
+As of now, rtCamp offers 2 themes:
+  
+* InspireBook
+
+* rtDating
+
+These themes are designed especially for BuddyPress and rtMedia powered social networks.
 
 
 ## Third Party Themes
