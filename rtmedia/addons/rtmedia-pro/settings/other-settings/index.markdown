@@ -12,7 +12,7 @@ title: Other Settings
 
   4. Set this to ON for making user to check the terms and conditions before uploading the media. You can specify link to the terms and condition page in textbox where user can read terms and conditions.
 
-  ![terms-and-conditions](https://cloud.githubusercontent.com/assets/7771963/6265316/ba40bd1a-b852-11e4-8576-af7d4577d288.png)
+   ![terms-and-conditions](https://cloud.githubusercontent.com/assets/7771963/6265316/ba40bd1a-b852-11e4-8576-af7d4577d288.png)
   
   5. Set this to ON for allowing user to make direct URL upload. Users don't have to download media first and then upload it. They can directly give URL of the media, rtMedia will handle it. You can find more detail on this feature [here](http://docs.rtcamp.com/rtmedia/addons/rtmedia-pro/features/direct-url-upload/)
 
