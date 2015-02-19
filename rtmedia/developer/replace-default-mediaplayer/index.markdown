@@ -15,3 +15,11 @@ You can remove default player and can assign your custom player after calling fo
 	    rtm_player = jQuery(this)[0].player;
 	    rtm_player.remove();
 	});
+
+Now you need to bind your cusotm player. Below is the sample code to bind [JWPLAYER](http://www.jwplayer.com/) to rtMedia video.
+
+	jwplayer('rtm-mejs-video-container').setup({
+    	file: 'provide absolute file path of video here', 
+	    height: 360, 
+	    width: 640 
+  	});
