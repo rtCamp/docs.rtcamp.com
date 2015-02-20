@@ -25,4 +25,8 @@ Get started with EasyEngine [commands](/easyengine/commands/) here.
 
 ## [Developer Documentation](/easyengine/dev/)
 
-##  [License](/easyengine/license.html)
+## [FAQ](/easyengine/faq.html)
+
+## [License](/easyengine/license.html)
+
+

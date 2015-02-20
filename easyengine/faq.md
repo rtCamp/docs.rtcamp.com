@@ -21,14 +21,14 @@ No. Shared hosting services do not allow root or sudo access, which is required 
 
 Yes. The install log file for sites installed using EasyEngine can be found at this location.
 
-/var/log/easyengine/install.log
+	/var/log/ee/install.log
 
 
 ##### Q 5. Where is EasyEngine's error log located?
 
 EasyEngine's error log can be found at this location:
 
-/var/log/easyengine/error.log
+	/var/log/ee/ee.log
 
 
 ##### Q 8. Which version of PHP does EasyEngine install?
@@ -37,7 +37,7 @@ EasyEngine always installs the latest version of PHP.
 
 ##### Q 9. Which operating systems are supported by EasyEngine?
 
-EasyEngine v2.0.0 supports all Ubuntu Distro ( till its end of Life) and Debian 6/7.
+EasyEngine v3 supports all Ubuntu Distro ( till its end of Life) and Debian 7.
 
 Centros or any other Linux Distro is not currently supported. They are also not on the product roadmap in the near future.
 
@@ -46,7 +46,7 @@ Centros or any other Linux Distro is not currently supported. They are also not 
 Yes. Simply press the tab key on your keyboard after typing the command.
 For example, if you want to know the subcommands related to 'site', type this:
 
-ee site
+	ee site
 
 and then press the tab key on your keyboard.
 
@@ -54,83 +54,69 @@ and then press the tab key on your keyboard.
 
 Run this command to fix this:
 
-source /etc/bash_completion.d/ee
+	source /etc/bash_completion.d/ee_auto.rc
 
 
-##### Q 12. How to force EasyEngine to ask for permission before installing any package?
-
-Open the following file in your favorite text editor and set 'apt-get-assume-yes=true'
-
-vim /etc/easyengine/ee.conf
-
-
-##### Q 13. How should I fix GPG Key issue?
-
-Open the following file in your favorite text editor and set 'gpg-keys-fix=true'
-
-vim /etc/easyengine/ee.conf
-
-
-##### Q 14. How to change mysql host from localhost to another host?
+##### Q 12. How to change mysql host from localhost to another host?
 
 Open the following file in your favorite text editor and set 'mysqlhost=rtcamp.com'
 
-vim /etc/easyengine/ee.conf
+	vim /etc/ee/ee.conf
 
 
-##### Q 15. How to set a custom database name for website?
+##### Q 13. How to set a custom database name for website?
 
 Open the following file in your favorite text editor
 
-vim /etc/easyengine/ee.conf
+	vim /etc/ee/ee.conf
 
 and set
 
-db-name = true
+	db-name = true
 
 in mysql section.
 
 
-##### Q 16. How to create a custom database user for website?
+##### Q 14. How to create a custom database user for website?
 
 Open the following file in your favorite text editor and set 'db-user = true'
 
-vim /etc/easyengine/ee.conf
+	vim /etc/ee/ee.conf
+	
+
+##### Q 15. How to change the wordpress database table prefix?
+
+Open the  file vim /etc/ee/ee.conf in your favorite text editor and set 'prefix = true' in wordpress section. Now after this, when you create any wordpress site it is going to ask you database table prefix.
 
 
-##### Q 17. How to change the wordpress database table prefix?
-
-Open the  file vim /etc/easyengine/ee.conf in your favorite text editor and set 'prefix = true' in wordpress section. Now after this, when you create any wordpress site it is going to ask you database table prefix.
-
-
-##### Q 18. How to change wordpress admin username?
+##### Q 16. How to change wordpress admin username?
 
 Open the following file in your favorite text editor and set 'user = rtcamp'
 
-vim /etc/easyengine/ee.conf
+	vim /etc/ee/ee.conf
 
 This will be the username for wordpress sites you create in future.
 
 
-##### Q 19. How to set custom WordPress admin password rather than random?
+##### Q 17. How to set custom WordPress admin password rather than random?
 
 Open the following file in your favorite text editor and set 'password = mypass'
 
-vim /etc/easyengine/ee.conf
+	vim /etc/ee/ee.conf
 
 
-##### Q 20. How to change wordpress email?
+##### Q 18. How to change wordpress email?
 
 Open the following file in your favorite text and editor set 'email = yourmail@example.com'
 
-vim /etc/easyengine/ee.conf
+	vim /etc/ee/ee.conf
 
 
-##### Q 21. What is MySQL username and password?
+##### Q 19. What is MySQL username and password?
 
 MySQL username and password is saved in ~/.my.cnf file while installing mysql. EasyEngine reads username and password from this file.
 
 
-##### Q 22. How to access EasyEngine (ee) admin tools?
+##### Q 20. How to access EasyEngine (ee) admin tools?
 
 To access EasyEngine admin tools  use port 22222. as example to access admin tools for mysite.com use mysite.com:22222. Authentication prompt will appear furthur. Enter HTTP credentials and use admin tools.
