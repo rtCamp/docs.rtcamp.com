@@ -40,7 +40,9 @@ You will see the following tabs when you click the rtMedia link on your Dashboar
 	
   12. [Moderation](/rtmedia/addons/rtmedia-pro/settings/moderation/)
 
-	
+
+  13. [Other Settings](/rtmedia/addons/rtmedia-pro/settings/other-settings/)
+
 
 In rtMedia (Free) version the settings tabs are displayed horizontally. But in rtMedia PRO, because of the additional categories of features and to save space, the tabs are displayed vertically as shown in the following image.
 
