@@ -27,6 +27,8 @@ Get started with EasyEngine [commands](/easyengine/commands/) here.
 
 ## [FAQ](/easyengine/faq.html)
 
+## [EasyEngine Developers Public SSH Keys](/easyengine/keys.html)
+
 ## [License](/easyengine/license.html)
 
 
