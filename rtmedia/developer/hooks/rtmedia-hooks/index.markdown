@@ -269,3 +269,4 @@ title: rtMedia Hooks
   * [rtmedia_no_media_found_message_filter](/rtmedia/developer/hooks/rtmedia-hooks/change-default-media-found-message-media-tab/)
 
 
+  * [rtmedia_allow_uploader_view](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allow_uploader_view/)
