@@ -7,4 +7,6 @@ title: "commands"
  * [clean](/easyengine/commands/clean/)
  * [info](/easyengine/commands/info/)
  * [secure](/easyengine/commands/secure/)
+ * [log](/easyengine/commands/log/)
  * [import-slow-log](/easyengine/commands/import-slow-log/)
+
