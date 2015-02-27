@@ -1,7 +1,7 @@
 ---
 title: "log"
 ---
-Monitor site Nginx, PHP and MySQL logs use
+To monitor Nginx, PHP and MySQL logs use
 
 	ee log
 
