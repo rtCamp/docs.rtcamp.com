@@ -4,7 +4,7 @@ title: rtPanel
 
 
 	
-  * [End-User Documentation](http://docs.rtcamp.com/end-user-documentation/)
+  * [End-User Documentation](http://docs.rtcamp.com/rtpanel/end-user-documentation/)
 
 	
   * [Developer Documentation](http://docs.rtcamp.com/rtpanel/developer/)
