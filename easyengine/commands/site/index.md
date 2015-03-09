@@ -11,7 +11,6 @@ title: "site"
  * [info](/easyengine/commands/site/info)
  * [list](/easyengine/commands/site/list)
  * [log](/easyengine/commands/site/log)
- * [migrate](/easyengine/commands/site/migrate)
  * [show](/easyengine/commands/site/show)
  * [update](/easyengine/commands/site/update)
 
