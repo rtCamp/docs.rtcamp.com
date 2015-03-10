@@ -1,19 +1,13 @@
 ---
-title: Reordering Media Tab in BuddyPress
+title: Adding rtMedia updates to activity show dropdown
 ---
 
-If you want to reorder the position of the `Media` tab in BuddyPress, use the following piece of code:
+If you want to add rtMedia updates in activity's `show` dropdown, use the following piece of code:
 
+	`add_filter('bp_get_activity_show_filters_options', 'add_media_show_filter', 10, 2);
 
-    
-    `add_action('bp_init','change_media_tab_position', 12);
-    function change_media_tab_position(){
-        global $bp;
-        if( isset ($bp->bp_nav['media'])){
-            $bp->bp_nav['media']['position'] = 70;
-        }
-    }`
+	function add_media_show_filter( $filters, $context ){
+		$filters['rtmedia_update'] = 'rtMedia Updates';
+		return $filters;
+	}`
 
-
-
-Set the value for the position as you require.
