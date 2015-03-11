@@ -1,5 +1,5 @@
 ---
-title: Remove media file's name
+title: Remove media file names
 ---
 
 Add below css code in Custom Css tab under rtMedia admin setting to hide media file's name from media gallery :
