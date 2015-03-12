@@ -11,4 +11,4 @@ To delete a media item or any other uploaded file:
 2. Click on the **Delete** button, and click **OK** on the popup confirmation box.
 
 
-[![Delete button ](https://rtcamp.com/wp-content/uploads/2013/11/delete.png)](https://rtcamp.com/wp-content/uploads/2013/11/delete.png)
+![selection_038](https://cloud.githubusercontent.com/assets/1140051/6613194/0c75f4e4-c8af-11e4-9ebf-55aa855266f1.png)
