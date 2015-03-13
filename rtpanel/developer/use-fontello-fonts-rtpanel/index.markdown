@@ -11,7 +11,9 @@ Follow these steps, to add custom Fontello icons,
 **1. Generate fonts**
 
 Import existing config.json file to [Fontello.com](http://fontello.com/)
-[caption id="attachment_56462" align="aligncenter" width="620"]![rtPanel Fontello Icon](https://rtcamp.com/wp-content/uploads/2014/01/rtPanel_Fontello_Icon-620x316.png) rtPanel Fontello Icons[/caption]
+![rtPanel Fontello Icon](https://rtcamp.com/wp-content/uploads/2014/01/rtPanel_Fontello_Icon-620x316.png)
+
+rtPanel Fontello Icons
 
 **2. Choose custom fonts**
 
