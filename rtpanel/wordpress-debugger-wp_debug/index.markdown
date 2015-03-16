@@ -92,10 +92,10 @@ WP Debug mode is one of the powerful tool in WordPress, to display PHP errors, 
   1. [Standard Guidelines](https://rtcamp.com/blog/rtpanel-developer-program-standards-guidelines/)
 
 	
-  2. [Quality Checklist for Developers](https://rtcamp.com/blog/checklist-developers/)
+  2. [Quality Checklist for Developers](http://docs.rtcamp.com/rtpanel/quality-checklist-for-developers/)
 
 	
-  3. [CSS Checklist for Developers](https://rtcamp.com/blog/css-checklist-developers/)
+  3. [CSS Checklist for Developers](http://docs.rtcamp.com/rtpanel/css-checklist-for-developers/)
 
 
 
