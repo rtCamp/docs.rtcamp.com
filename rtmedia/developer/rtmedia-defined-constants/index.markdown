@@ -102,4 +102,13 @@ Following is the list of rtMedia defined constants along with with their default
 	
   * `define ( 'RTMEDIA_OTHER_PLURAL_LABEL', 'Others' );`
 
+  
+  * `define ( 'RTMEDIA_FAVLIST_SLUG', 'favlist' );`
+  
+  
+  * `define ( 'RTMEDIA_FAVLIST_LABEL', 'FavList' );`
+
+
+  * `define ( 'RTMEDIA_FAVLIST_PLURAL_LABEL', 'FavList' );`
+
 
