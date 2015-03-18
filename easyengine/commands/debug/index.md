@@ -2,7 +2,10 @@
 title: "debug"
 ---
 
-# Global options
+	**Note** : --start/--stop options are deprecated since EasyEngine 3.0.5 version.
+
+
+# Debugging Server Parameters Globally (For all sites)
 
 These commands are used for server level debugging.
 
@@ -14,21 +17,34 @@ These commands are used for server level debugging.
            	--fpm                           # Debug FastCGI
            	--php                           # Debug PHP
            	--mysql                         # Debug MySQL
-           	--stop                          # Stop debug mode
            	--import-slow-log-interval      # Import MySQL slow log to Anemometer
+			--all 							# Debug all server paramenters
 
 
 *-i*            : This option enables interactive debugging and stop the debugging once ctrl+c is pressed
 
-*–nginx*        : This option enables Nginx enable `debug_connection` for ip_address enlisted in `/etc/easyengine/ee.conf`. If ip_address is blank then its start debug_connection for 0.0.0.0/0 ip
+*–-nginx*        : This option enables Nginx enable `debug_connection` for ip_address enlisted in `/etc/easyengine/ee.conf`. If ip_address is blank then its start debug_connection for 0.0.0.0/0 ip
 
-*–rewrite*      : This option enable `rewrite_log` on in `/etc/nginx/nginx.conf` file
+*–-rewrite*      : This option enable `rewrite_log` on in `/etc/nginx/nginx.conf` file
 
-*–php*          : This option enable PHP5-FPM slow log, xdebug profiling
+*–-php*          : This option enable PHP5-FPM slow log, xdebug profiling
 
-*–fpm*          : This option change PHP5-FPM `log_level` from `notice` to `debug` level
+*–-fpm*          : This option change PHP5-FPM `log_level` from `notice` to `debug` level
 
-*–mysql*        : This option enable MySQL slow log
+*–-mysql*        : This option enable MySQL slow log
+
+*--all*          : This option starts debugging all parametrs at server level.
+
+
+### To stop debugging for any parameter just pass `off` value for that parameter
+
+For example you started debugging all parameters and you want to stop any one say nginx
+
+	ee debug --nginx=off
+
+Similarly, you can do it for `--all`
+
+	ee debug --all=off
 
 # Site options
 
@@ -40,24 +56,23 @@ These commands are used for site level debugging.
         	--nginx                   # Debug Nginx.
         	--rewrite                 # Debug Nginx rewrite rules.
         	--wp                      # Debug wordpress sites.
-        	--stop                    # Stop debug mode
+			--all                     # Debug all site wide parameters
+
 
 *-i*              : This option enables interactive debugging and stop the debugging once `ctrl+c` is pressed
 
-*–nginx*          : This option enables Nginx `error_log` for example.com in debugging mode.
+*–-nginx*          : This option enables Nginx `error_log` for example.com in debugging mode.
 
-*–rewrite*        : This option enable `rewrite_log` on for example.com
+*–-rewrite*        : This option enable `rewrite_log` on for example.com
 
-*–wp*             : This option enable `wp-content/debug.log` logging. This also, installs developer plugin. [Click here for more details](https://rtcamp.com/tutorials/wordpress/debugging/)
+*–-wp*             : This option enable `wp-content/debug.log` logging. This also, installs developer plugin. [Click here for more details](https://rtcamp.com/tutorials/wordpress/debugging/)
 
-*–stop*           : Stop debug mode.
+*--all*           : Starts debug dor all site wide parametrs
 
 # Start Debugging
 
 ## Global
-
-	ee debug
-	ee debug --start
+	ee debug --all
 	ee debug --nginx --rewrite --fpm --php --mysql
 
 To debug a specific part, you can use one or more command below:
@@ -74,14 +89,13 @@ To enable slow log import for each time interval, let say for each 5min interval
 
 To stop debug mode :
 
-	ee debug --stop
+	ee debug --all=off
 
 ## Site-wide
 
 To start complete debugging for a site, please use either command below:
 
-	ee debug example.com
-	ee debug example.com --start
+	ee debug example.com --all
 	ee debug example.com --wp --nginx --rewrite
 
 To debug a specific part, you can use one or more command below:
@@ -90,9 +104,13 @@ To debug a specific part, you can use one or more command below:
 	ee debug example.com --nginx
 	ee debug example.com --rewrite
 
+To stop debug mode for single parameter:
+
+	ee debug example.com --wp=off
+
 To stop debug mode for site :
 
-	ee debug example.com --stop
+	ee debug example.com --all=off
 
 ### Trigger Xdebug Profiling
 
