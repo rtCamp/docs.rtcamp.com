@@ -18,7 +18,7 @@ These commands are used for server level debugging.
            	--php                           # Debug PHP
            	--mysql                         # Debug MySQL
            	--import-slow-log-interval      # Import MySQL slow log to Anemometer
-			--all 							# Debug all server paramenters
+           	--all                           # Debug all server paramenters
 
 
 *-i*            : This option enables interactive debugging and stop the debugging once ctrl+c is pressed
@@ -56,7 +56,7 @@ These commands are used for site level debugging.
         	--nginx                   # Debug Nginx.
         	--rewrite                 # Debug Nginx rewrite rules.
         	--wp                      # Debug wordpress sites.
-			--all                     # Debug all site wide parameters
+        	--all                     # Debug all site wide parameters
 
 
 *-i*              : This option enables interactive debugging and stop the debugging once `ctrl+c` is pressed
