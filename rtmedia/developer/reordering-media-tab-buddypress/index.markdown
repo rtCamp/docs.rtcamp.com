@@ -2,7 +2,7 @@
 title: Reordering Media Tab in BuddyPress
 ---
 
-If you want to reorder the position of the `Media` tab in BuddyPress, use the following piece of code:
+If you want to reorder the position of the `Media` tab in BuddyPress, use the following piece of code in your theme's functions.php file:
 
 
     

@@ -13,7 +13,7 @@ Add or modify media types allowed in rtMedia.
 ### Example 1
 
 
-Adds a media type document.
+Below Example will add a media type document. You need to use the following piece of code in your theme's functions.php file:
 
     
     function custom_rtmedia_allowed_types($allowed_types) {
@@ -36,7 +36,7 @@ Adds a media type document.
 ### Example 2
 
 
-Changes the default thumbnail for music.
+Below Example changes the default thumbnail for music. You need to use the following piece of code in your theme's functions.php file:
 
     
     function custom_rtmedia_default_music_thumb($allowed_types) {
