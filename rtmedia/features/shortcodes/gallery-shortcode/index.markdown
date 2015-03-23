@@ -13,7 +13,7 @@ title: Gallery Shortcode
 ### global
 
 Default is FALSE.
-If set to TRUE, context, context_id, album_id, author_id will be ignored. Only media_type value will be processed.
+If set to TRUE, context, context_id will be ignored. Only media_type value will be processed.
     
 ### context
 
