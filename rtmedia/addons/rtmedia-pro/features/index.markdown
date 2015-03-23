@@ -69,3 +69,5 @@ The features are as follows:
 31. [User's Liked Media Page](/rtmedia/addons/rtmedia-pro/features/users-liked-media-page/) - View user's liked media page. A new tab - **Likes** - has been added.
 
 32.  [WordPress Comment Attachment](/rtmedia/addons/rtmedia-pro/features/wordpress-comment-attachment) - Attach files to WordPress comments.
+
+33. [WordPress Albums](/rtmedia/addons/rtmedia-pro/features/wordpress-albums) - media gallery for WordPress.
