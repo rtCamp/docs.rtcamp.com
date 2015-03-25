@@ -293,6 +293,7 @@ API  currently supports only uploading of images through a multipart form data.
     rtmedia_file => file input ( input type file )
     title => <strong>optional, </strong>file name by default
     context => profile(default)
+    image_type => jpeg/png
 
 
 **Response Sample for rtmedia_uplaod_media success**
