@@ -185,24 +185,73 @@ Add a plan according to the following steps.
 8. Click **Update** to save and apply the changes.
 
 
-### View Members Plan
+### View Members Plan & Limit
 
 
-[![view plans](https://cloud.githubusercontent.com/assets/8191145/5339679/a7e30d8a-7f09-11e4-96bb-119bd289aca6.png)](https://cloud.githubusercontent.com/assets/8191145/5339679/a7e30d8a-7f09-11e4-96bb-119bd289aca6.png)
+[![view plans and limit](https://cloud.githubusercontent.com/assets/7807348/6823086/dcec47da-d30a-11e4-997a-4f8daeda2bd1.png)](https://cloud.githubusercontent.com/assets/7807348/6823086/dcec47da-d30a-11e4-997a-4f8daeda2bd1.png)
 
 
   1. Manage membership for individual users by looking them up under **Users** on the WordPress Dashboard.
 
 	
-  2. View plans subscribed by the members.
+  2. View plans & limits subscribed by the members.
 
 
-### View Plan Details
+### View Plan Details of User
 
 
 [![view plan details](https://cloud.githubusercontent.com/assets/8191145/5339733/4c08a4ce-7f0a-11e4-8ddf-4e9f67366f29.png)](https://cloud.githubusercontent.com/assets/8191145/5339733/4c08a4ce-7f0a-11e4-8ddf-4e9f67366f29.png)
 
 Site Admins can view the plan details of other members and their own.
+
+
+### Edit Members Plan & Limit
+
+
+[![edit plans and limit](https://cloud.githubusercontent.com/assets/7807348/6823366/4c307042-d30d-11e4-9e10-f6d02c1994f1.png)](https://cloud.githubusercontent.com/assets/7807348/6823366/4c307042-d30d-11e4-9e10-f6d02c1994f1.png)
+
+
+  1. Manage membership for individual users by looking them up under **Users** on the WordPress Dashboard.
+
+
+  2. Select **Users** of which plan & limit you want to change.
+
+
+  3. You can **Add Users To** or **Remove Users From** different plan & limit.
+
+
+  4. Select **Plan**
+
+
+  5. Select **Limit**
+
+
+  6. Click **Update**
+
+
+### Edit Plan Details of User
+
+
+[![edit plan limit of user](https://cloud.githubusercontent.com/assets/7807348/6823754/333b5cce-d311-11e4-96b5-c58beaad031c.png)](https://cloud.githubusercontent.com/assets/7807348/6823754/333b5cce-d311-11e4-96b5-c58beaad031c.png)
+
+
+  1. Select **Plan**
+
+
+  2. Select **Limit**
+
+
+  3. Enter **Upload Limit** value in **MB**
+
+
+  4. Enter **No. of Files**
+
+
+  5. If you want to allow **Plan's Default** value then you need to check this checkbox.
+
+
+  6. You can go to **Plan Listing Page** from here.
+
 
 ## Features (Users)
 
