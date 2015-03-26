@@ -39,6 +39,9 @@ Add your own watermarks to your images.
   7. **[rtMedia Membership Add-on](http://docs.rtcamp.com/rtmedia/addons/membership)**
 Manage memberships to your WordPress site(s) with rtMedia installed
 
+  8. **[rtMedia Social Sync](http://docs.rtcamp.com/rtmedia/addons/rtmedia-social-sync)**
+Import or publish media to popular social media.
+
 
 * rtMedia -PRO add-on is not required to purchase the other add-ons mentioned here. They all work independently and have their independent features.
 
