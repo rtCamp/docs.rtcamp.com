@@ -1,10 +1,10 @@
 ---
 title: rtMedia Social Sync
 ---
+rtMedia Social Sync is a rtMedia addon that allows you to import and publish media from popular social media sites. Make sure that [rtMedia plugin](https://wordpress.org/plugins/buddypress-media/) is installed as it is a prerequisite to use rtMedia Social Sync.
 
 Currently it only supports media importing from Facebook. Post new upload to Facebook from rtMedia will be added in future. You will need live Facebook app in order to make this plugin work. You can create app from [here](https://developers.facebook.com/apps).
 
-rtMedia Social Sync is a rtMedia addon that allows you to import and publish media from popular social media sites. Make sure that [rtMedia plugin](https://wordpress.org/plugins/buddypress-media/) is installed as it is a prerequisite to use rtMedia Social Sync.
 
 ## Installation:
 
