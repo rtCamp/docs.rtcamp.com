@@ -59,6 +59,5 @@ You can import more media by clicking on **Import from Facebook* button.
 
 ##Future Milestones:
 
-1. Import/export media from Picasa and Flickr. 
+1. Import/export media from Google+, Instagram and Flickr. 
 2. Post new upload to Facebook account from website where rtMedia is installed.
-3. Export media from website to social sites.
