@@ -1,5 +1,5 @@
 ---
-title: wpml
+title: wpml plugin
 ---
 
-* [WPML plugin](/rtmedia/compatible-themes-and-plugins/wpml/)
+* [WPML plugin](/rtmedia/compatible-themes-and-plugins/wpml-plugin/)
