@@ -24,7 +24,7 @@ The rtMedia Photo Tagging addon does not require any settings or server configur
 5. Media author can tag itself to the media. 
 
 
-6. On mouse over, we can see how tagged to the photo. 
+6. On mouse over, we can see who tagged to the photo. 
 
 
 ## Troubleshooting
