@@ -2,4 +2,4 @@
 title: Plugins
 ---
 
-{% child_pages depth:1 %}
+* [WPML plugin](/rtmedia/compatible-themes-and-plugins/wpml/)
