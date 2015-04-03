@@ -6,6 +6,16 @@ The rtMedia Photo Tagging addon does not require any settings or server configur
 
 [![Photo tagging View](https://rtcamp.com/wp-content/uploads/2013/06/Selection_018-620x3141.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0181.png)
 
+##How it works:
+
+1. The user which you want to tag to the photo, he/she must be a friend of yours then only tagging will work. 
+
+2. Once user tag other member to the photo, user will get a notification along with link of that media and time when its tagged. 
+
+3. Media author can tag itself to the media. 
+
+4. On mouse over, we can see how tagged to the photo. 
+
 
 ## Troubleshooting
 
