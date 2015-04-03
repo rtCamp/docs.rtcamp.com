@@ -2,4 +2,5 @@
 title: compatible themes and plugins
 ---
 
-{% child_pages depth:1 %}
+  * [Themes](/rtmedia/compatible-themes-and-plugins/themes/)
+  * [Plugins](/rtmedia/compatible-themes-and-plugins/plugins/)
