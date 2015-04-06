@@ -259,7 +259,7 @@ Below command remove phpMemcachedAdmin, FastCGI cleanup script, OPcache, Webgrin
 
 Below command purges Adminer, phpMyAdmin, phpMemcachedAdmin, FastCGI cleanup script, OPcache, Webgrind, Anemometer.
 
-	ee stack purges --admins
+	ee stack purge --admin
 
 
 ## Purge Mail Packages
