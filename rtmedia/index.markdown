@@ -54,4 +54,4 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 ## [8. Contribute](/rtmedia/contribute/)
 
-## [8. Compatible themes and plugins](/rtmedia/compatible-themes-and-plugins/)
+## [9. Compatible themes and plugins](/rtmedia/compatible-themes-and-plugins/)
