@@ -5,6 +5,9 @@ title: WPML
 
 rtMedia plugin provides features to upload media for BuddyPress based websites. Users can upload audio, video and images on website and also create separate albums. There are many more features available with [rtMedia plugin](https://rtcamp.com/rtmedia/) and it’s related [add-ons](https://rtcamp.com/rtmedia/addons/).
 
+![rtmedia-plugin-certificate-of-wpml-compatibility](https://cloud.githubusercontent.com/assets/1140051/7046827/364dfe6a-de26-11e4-9675-b4be8f94924c.png)
+
+
 This document is about how to configure and what steps are required to use rtMedia Plugin and WPML together. 
 
 rtMedia follows all the WordPress standards to translate strings and it is translation ready. However, there are many languages, and end users not that much tech savvy, hence the WPML translation is an easy way to translate all the strings with less efforts.
