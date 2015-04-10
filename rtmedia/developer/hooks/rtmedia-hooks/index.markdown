@@ -270,3 +270,6 @@ title: rtMedia Hooks
 
 
   * [rtmedia_allow_uploader_view](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allow_uploader_view/)
+
+
+  * [rtmedia_post_update_click_message](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_post_update_click_message/)
