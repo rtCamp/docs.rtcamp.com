@@ -27,4 +27,3 @@ You can add below code in your theme's functions.php file:
 The following screen-shot shows modified text message in activity feed.
 
 [![post-update-text-message-modified](https://cloud.githubusercontent.com/assets/7771963/7086431/869447de-df9e-11e4-8a1e-418c31be7788.png)](https://cloud.githubusercontent.com/assets/7771963/7086431/869447de-df9e-11e4-8a1e-418c31be7788.png)
-

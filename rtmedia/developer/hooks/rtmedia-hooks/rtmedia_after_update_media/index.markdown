@@ -12,7 +12,7 @@ This action occurs after the media is updated.
 ### Example
 
 
-Updates the camera information. ( Check [rtmedia_add_edit_fields](https://rtcamp.com/rtmedia/docs/developer/rtmedia-hooks/rtmedia_add_edit_fields/) )
+Updates the camera information. ( Check [rtmedia_add_edit_fields](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_add_edit_fields/) )
 
 
     
