@@ -1,6 +1,8 @@
 ---
-title: rtmedia_post_update_click_message
+title: Filter to change text of post update message
 ---
+
+Filter Name : rtmedia_post_update_click_message
 
 ### Description
 

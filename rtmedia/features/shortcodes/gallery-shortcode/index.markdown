@@ -104,6 +104,39 @@ Set this option to **FALSE**, if you have enabled **Use lightbox to display med
 
 Set this option to **FALSE**, if you do not want to show media title in gallery shortcode. Default value is **TRUE**.
 
+### Some examples for your easy understanding
+
+List out media of a perticular album_id ( Default Album ).
+
+	[rtmedia_gallery global=true album_id=125 sort_parameters="new,view,like,rate,comment" media_type=photo per_page=21]
+
+List out media from a perticular user profile ( context_id = User_id ).
+
+	[rtmedia_gallery context=profile context_id=5]
+
+List out media which belongs to BuddyPress group_id 1 and which are uploaded to album_id 48 ( context_id = group_id ).
+
+	[rtmedia_gallery context=group context_id=1 album_id=48]
+
+List out media which belongs to one page ( page_id 11 ).
+
+	[rtmedia_gallery context=page context_id=11]
+
+List out media which belongs to WordPress Album ( context_id = WordPress Album_id ).
+
+	[rtmedia_gallery context=dashboard context_id=248]
+Note: All WordPress album has context set to **dashboard**
+
+List out friend's media which has privacy set to 'Friend' ( contex_id = user_id of my friend, privacy = 40 ).
+
+	[rtmedia_gallery context=profile context_id=5 privacy=40]
+
+Note: Privacy levels and their values are as follow
+
+Public : 0
+Logged in user : 20
+Friends : 40
+Private : 60
 
 
 ## Sort Parameters
