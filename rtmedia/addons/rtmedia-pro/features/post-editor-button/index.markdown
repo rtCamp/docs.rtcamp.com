@@ -14,4 +14,5 @@ Also read:
 
 With this button, a UI appears to quickly generate shortcodes for special pages such as "Editorial Picks".
 
-[![Selection_063](http://docs.rtcamp.com/wp-content/uploads/2014/08/Selection_063.png)](http://docs.rtcamp.com/wp-content/uploads/2014/08/Selection_063.png)
+[![shortcode_button_popup](https://cloud.githubusercontent.com/assets/7771963/7117779/ad0b0034-e218-11e4-9d01-f706f49ee652.png)](https://cloud.githubusercontent.com/assets/7771963/7117779/ad0b0034-e218-11e4-9d01-f706f49ee652.png)
+

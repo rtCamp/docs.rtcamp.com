@@ -12,9 +12,9 @@ To create a gallery shortcode in the post editor:
 
 1. Click the shortcode generator button as indicated below:
 
-    [![rtMedia post editor shortcode button](https://rtcamp.com/wp-content/uploads/2013/11/image17.png)](https://rtcamp.com/wp-content/uploads/2013/11/image17.png)
+[![rtMedia post editor shortcode button](https://rtcamp.com/wp-content/uploads/2013/11/image17.png)](https://rtcamp.com/wp-content/uploads/2013/11/image17.png)
 
-    [![rtMedia post editor gallery shortcode generator](https://rtcamp.com/wp-content/uploads/2013/11/image18.png)](https://rtcamp.com/wp-content/uploads/2013/11/image18.png)
+[![gallery_shortcode_button_popup](https://cloud.githubusercontent.com/assets/7771963/7118275/aad53c14-e21b-11e4-8e8e-5e62cf3ffe27.png)](https://cloud.githubusercontent.com/assets/7771963/7118275/aad53c14-e21b-11e4-8e8e-5e62cf3ffe27.png)
 
     
 2. By default, the gallery option appears in the dropdown; leave it at that.
@@ -34,11 +34,23 @@ To avoid confusion, ensure that either the default is chosen in both Step 4 and 
 	
 6. Choose the media type.
 
-	
-7. Specify the Author ID associated with the gallery. Leave blank for default, which is the ID of the current author.
+7. Specify the Favlist ID if you want to fetch associated media with it.
 
+8. Specify the Author ID associated with the gallery. Leave blank for default, which is the ID of the current author.
 	
-8. Click **Insert into Post**.
+9. Specify position to show the uploader along with the gallery. Default is **FALSE**.
+	
+	1. before : uploader on top of gallery
+	
+	2. after : uploader at the end of gallery
+	
+	3. true : uploader at the end of gallery (alias for after)
+
+10. Keep **Enable** selected, if you want to open media in lighbox ( popup ).
+
+11. Choose **Hide**, if you want to hide medie file's name which appears under the media in default gallery template. 
+	
+12. Click **Insert into Post**.
 
   
 
