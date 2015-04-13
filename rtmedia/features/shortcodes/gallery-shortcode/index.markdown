@@ -114,29 +114,42 @@ List out media from a perticular user profile ( context_id = User_id ).
 
 	[rtmedia_gallery context=profile context_id=5]
 
-List out media which belongs to BuddyPress group_id 1 and which are uploaded to album_id 48 ( context_id = group_id ).
+List out media which belongs to BuddyPress group_id #1 and which are uploaded to album_id #48 ( context_id = group_id ).
 
 	[rtmedia_gallery context=group context_id=1 album_id=48]
 
-List out media which belongs to one page ( page_id 11 ).
+List out media which belongs to one page ( page_id #11 ).
 
 	[rtmedia_gallery context=page context_id=11]
 
 List out media which belongs to WordPress Album ( context_id = WordPress Album_id ).
 
 	[rtmedia_gallery context=dashboard context_id=248]
+
+List out all the global media ( user profile / group / forum etc. ) of a perticular media author ( For example user_id = #1 ).
+
+	[rtmedia_gallery global=true media_author=1]
+
+
 Note: All WordPress album has context set to **dashboard**
 
 List out friend's media which has privacy set to 'Friend' ( contex_id = user_id of my friend, privacy = 40 ).
 
 	[rtmedia_gallery context=profile context_id=5 privacy=40]
 
-Note: Privacy levels and their values are as follow
+Note: Default rtMedia **privacy levels** and their values are as follow :
 
-Public : 0
-Logged in user : 20
-Friends : 40
-Private : 60
+	
+  1. Public : 0
+
+	
+  2. Logged in user : 20
+
+	
+  3. Friends : 40
+
+
+  4. Private : 60
 
 
 ## Sort Parameters
