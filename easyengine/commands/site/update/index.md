@@ -54,7 +54,7 @@ Similarly, you can use these commands.
 
 ### Enable/Disable HHVM on site
 
-(Note: This command is available with EasyEngine 3.1.0 and onwards)
+(Note: This feature is available with EasyEngine 3.1.0 and onwards)
 
 To enable HHVM on site you can use following commands:
 
@@ -67,7 +67,7 @@ Similarly,to disable HHVM on site you can use following commands:
 
 ### Enable/Disable Pagespeed on site
 
-(Note: This command is available with EasyEngine 3.1.0 and onwards)
+(Note: This feature is available with EasyEngine 3.1.0 and onwards)
 
 To enable Pagespeed on site you can use following commands:
 

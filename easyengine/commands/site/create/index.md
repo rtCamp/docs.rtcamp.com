@@ -61,7 +61,7 @@ To create WordPress Multisite with subdomain setup use from following command.
 
 ## HHVM Site
 
-(Note: This command is available with EasyEngine 3.1.0 and onwards)
+(Note: This feature is available with EasyEngine 3.1.0 and onwards)
 
 To create site with HHVM you can use `--hhvm` during site creation
 
@@ -71,7 +71,7 @@ For example, you can create WordPress site running on HHVM using following comma
 
 ## Pagespeed Site
 
-(Note: This command is available with EasyEngine 3.1.0 and onwards)
+(Note: This feature is available with EasyEngine 3.1.0 and onwards)
 
 To create site with Pagespeed you can use `--pagespeed` during site creation
 
