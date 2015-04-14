@@ -9,11 +9,10 @@ Read more about shortcodes: [Shortcodes in rtMedia](https://rtcamp.com/rtmedia/d
 To create an uploader shortcode in the post editor:
 	
   1. Click on the shortcode generator button as indicated below:
+    [![rtMedia post editor shortcode button](https://rtcamp.com/wp-content/uploads/2013/11/rtMediaShortcodeGeneratorButton.png)](https://rtcamp.com/wp-content/uploads/2013/11/rtMediaShortcodeGeneratorButton.png)
 
-[![rtMedia post editor shortcode button](https://rtcamp.com/wp-content/uploads/2013/11/rtMediaShortcodeGeneratorButton.png)](https://rtcamp.com/wp-content/uploads/2013/11/rtMediaShortcodeGeneratorButton.png)
+    [![uploader_shortcode_button_popup](https://cloud.githubusercontent.com/assets/7771963/7135627/3d433952-e2c6-11e4-8e67-d3074f7b9243.png)](https://cloud.githubusercontent.com/assets/7771963/7135627/3d433952-e2c6-11e4-8e67-d3074f7b9243.png)
 
-[![uploader_shortcode_button_popup](https://cloud.githubusercontent.com/assets/7771963/7135627/3d433952-e2c6-11e4-8e67-d3074f7b9243.png)](https://cloud.githubusercontent.com/assets/7771963/7135627/3d433952-e2c6-11e4-8e67-d3074f7b9243.png)
-	
   2. In the shortcode generator that appears, use the dropdown to choose Uploader.
 	
   3. Choose the Context with which the uploaded media or other items should be associated. This determines the WordPress, BuddyPress or bbPress context to associate the uploaded items. If Default is chosen, the current context will be considered. Read more: [Context in rtMedia](https://rtcamp.com/rtmedia/docs/core-concepts/context/).
