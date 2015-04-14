@@ -92,6 +92,3 @@ Note: Default rtMedia **privacy levels** and their values are as follow :
 
 This privacy levels will have their effect to uploader shortcode only if 'Allow users to set privacy for their content' option from Privacy tab is set to ON under rtMedia admin settings otherwise, the privacy you are setting with the uploader ShortCode page ( or with any post ), will be overridden by the default privacy set under 'Privacy Settings'.
 
-
-
-
