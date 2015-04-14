@@ -79,4 +79,6 @@ For example, you can create WordPress site running with Pagespeed using followin
 	
 	ee site create example.com --wp --pagespeed
 
+By default EasyEngine does not enables any filters for Pagespeed, you can add various filters from https://developers.google.com/speed/pagespeed/module/config_filters using command
 
+	ee site edit example.com

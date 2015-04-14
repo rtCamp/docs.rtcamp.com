@@ -21,6 +21,12 @@ clean fastgi cache by default.
 
 	ee clean --opcache
 
-### Clean FastCGI, Memcache, OPcache
+### Clean Pagespeed cache
+
+	ee clean --pagespeed
+
+### Clean FastCGI, Memcache, OPcache and PageSpeed cache
 
 	ee clean --all
+
+
