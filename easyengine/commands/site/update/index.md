@@ -1,7 +1,7 @@
 ---
 title: "update"
 ---
-## Policies EasyEngine use before updating any site
+## Policies EasyEngine uses before updating any site
 ee site update command follows following procedure while updating current site.
 
 Before Updating any site easyengine
