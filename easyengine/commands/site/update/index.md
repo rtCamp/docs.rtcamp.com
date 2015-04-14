@@ -50,3 +50,31 @@ Similarly, you can use these commands.
 	ee site update example.com --wpsubdomain --wpfc
 	ee site update example.com --wpsubdomain --w3tc
 	ee site update example.com --wpsubdomain --wpsc
+
+
+### Enable/Disable HHVM on site
+
+(Note: This command is available with EasyEngine 3.1.0 and onwards)
+
+To enable HHVM on site you can use following commands:
+
+	ee site update example.com --hhvm=on
+
+Similarly,to disable HHVM on site you can use following commands:
+
+	ee site update example.com --hhvm=off
+
+
+### Enable/Disable Pagespeed on site
+
+(Note: This command is available with EasyEngine 3.1.0 and onwards)
+
+To enable Pagespeed on site you can use following commands:
+
+	ee site update example.com --pagespeed=on
+
+Similarly,to disable Pagespeed on site you can use following commands:
+
+	ee site update example.com --pagespeed=off
+
+

@@ -58,3 +58,25 @@ To create WordPress Multisite with subdomain setup use from following command.
 	ee site create example.com --wpsubdom --w3tc # install wpmu-subdomain with w3-total-cache plugin
 	ee site create example.com --wpsubdom --wpsc # install wpmu-subdomain with wp-super-cache plugin
 	ee site create example.com --wpsubdom --wpfc # install wpmu-subdomain + nginx fastcgi_cache
+
+## HHVM Site
+
+(Note: This command is available with EasyEngine 3.1.0 and onwards)
+
+To create site with HHVM you can use `--hhvm` during site creation
+
+For example, you can create WordPress site running on HHVM using following command:
+
+	ee site create example.com --wp --hhvm
+
+## Pagespeed Site
+
+(Note: This command is available with EasyEngine 3.1.0 and onwards)
+
+To create site with Pagespeed you can use `--pagespeed` during site creation
+
+For example, you can create WordPress site running with Pagespeed using following command:
+	
+	ee site create example.com --wp --pagespeed
+
+
