@@ -2,6 +2,10 @@
 title: Media Attributes
 ---
 
+## Select attributes during media upload 
+
+Attribute is nothing but custom taxonomy which can be predefined by site owner. So that end users/members of site can use during media upload. 
+
 You can set as many attributes as you want for media such as Photo Category, Camera Type, and Location.
 
 After adding attributes, you will need to add terms for that attribute. For example for the attribute *Camera*, terms can be *Digital*, *SLR*, and *DSLR*. You can also edit or delete attributes.
@@ -28,3 +32,7 @@ After that, click on `Configure` button to set `terms` for each attributes. `Ter
 Also, site admin can found all these `Attributes` under `Media` section in WordPress site backend. From there the `terms` can be defined. 
 
 ![selection_116](https://cloud.githubusercontent.com/assets/1140051/7131304/02f6a520-e29b-11e4-9b36-5c04519f3380.png)
+
+## Attributes Shortcodes 
+
+Please read document here http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code
