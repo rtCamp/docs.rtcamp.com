@@ -46,5 +46,3 @@ To avoid confusion, ensure that either the default is chosen in both Step 4 and 
 	
 12. Click **Insert into Post**.
 
-  
-

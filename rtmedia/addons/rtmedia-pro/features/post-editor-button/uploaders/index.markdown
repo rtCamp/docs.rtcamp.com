@@ -9,6 +9,7 @@ Read more about shortcodes: [Shortcodes in rtMedia](https://rtcamp.com/rtmedia/d
 To create an uploader shortcode in the post editor:
 	
   1. Click on the shortcode generator button as indicated below:
+
     [![rtMedia post editor shortcode button](https://rtcamp.com/wp-content/uploads/2013/11/rtMediaShortcodeGeneratorButton.png)](https://rtcamp.com/wp-content/uploads/2013/11/rtMediaShortcodeGeneratorButton.png)
 
     [![uploader_shortcode_button_popup](https://cloud.githubusercontent.com/assets/7771963/7135627/3d433952-e2c6-11e4-8e67-d3074f7b9243.png)](https://cloud.githubusercontent.com/assets/7771963/7135627/3d433952-e2c6-11e4-8e67-d3074f7b9243.png)
@@ -29,5 +30,4 @@ To avoid confusion, ensure that either the default is chosen in both Step 3 and 
   8. Set Redirect to **True** or **False**. If set to **True**, a user who uploads a media item or other file type will be redirected to the uploaded item’s individual page. If set to **False**, no redirection takes place.
 	
   9. Click on** Insert into Post**.
-
 
