@@ -26,3 +26,5 @@ After that, click on `Configure` button to set `terms` for each attributes. `Ter
 
 
 Also, site admin can found all these `Attributes` under `Media` section in WordPress site backend. From there the `terms` can be defined. 
+
+![selection_116](https://cloud.githubusercontent.com/assets/1140051/7131304/02f6a520-e29b-11e4-9b36-5c04519f3380.png)
