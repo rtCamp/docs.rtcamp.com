@@ -97,7 +97,7 @@ This command will gzip `/var/log/php5/slow.log` and `/var/log/php5/fpm.log`
 
 To Gzip MySQL slow logs use
 
-	ee log Gzip --mysql
+	ee log gzip --mysql
 
 This command will Gzip `/var/log/mysql/mysql-slow.log`
 
@@ -106,7 +106,7 @@ This command will Gzip `/var/log/mysql/mysql-slow.log`
 
 To Email Nginx, PHP and MySQL logs use
 
-	ee log reset --to=ee@example.com --to=ee1@example.com
+	ee log mail --to=ee@example.com --to=ee1@example.com
 
 This will EMail logs files to address ee@example.com, ee1@example.com
 
@@ -114,7 +114,7 @@ This will EMail logs files to address ee@example.com, ee1@example.com
 
 To EMail Nginx logs use
 
-	ee log show --nginx --to=ee@example.com 
+	ee log mail --nginx --to=ee@example.com
 
 This command will email all Nginx error logs , `/var/log/nginx/*error.log`, to ee@example.com
 
@@ -122,7 +122,7 @@ This command will email all Nginx error logs , `/var/log/nginx/*error.log`, to e
 
 To EMail PHP logs use
 
-	ee log show --php --to=ee@example.com
+	ee log mail --php --to=ee@example.com
 
 This command will email `/var/log/php5/slow.log` and `/var/log/php5/fpm.log` to ee@example.com
 
@@ -130,7 +130,7 @@ This command will email `/var/log/php5/slow.log` and `/var/log/php5/fpm.log` to 
 
 To EMail MySQL slow logs use
 
-	ee log show --mysql --to=ee@example.com
+	ee log mail --mysql --to=ee@example.com
 
 This command will email `/var/log/mysql/mysql-slow.log` to ee@example.com
 
