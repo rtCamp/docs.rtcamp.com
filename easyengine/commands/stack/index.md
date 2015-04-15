@@ -36,7 +36,11 @@ Refer: [How to change HTTP Authentication](/easyengine/commands/secure)
 
 	ee stack install --php
 
-## Install Percona MySQL
+## Install HHVM
+
+	ee stack install --hhvm
+
+## Install MariaDB MySQL
 
 	ee stack install --mysql
 
@@ -157,7 +161,11 @@ If you are thinking removing all packages is not suitable for you, can remove si
 
 	ee stack remove --php
 
-## Remove Percona MySQL
+## Remove HHVM
+
+	ee stack hhvm --hhvm
+
+## Remove MariaDB MySQL
 
 	ee stack remove --mysql
 
@@ -229,7 +237,11 @@ If you are thinking removing all packages is not suitable for you, can remove si
 
 	ee stack purge --php
 
-## Purge MySQL
+## Purge HHVM
+
+	ee stack purge --hhvm
+
+## Purge MariaDB MySQL
 
 	ee stack purge --mysql
 
