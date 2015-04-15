@@ -10,4 +10,5 @@ title: "commands"
  * [log](/easyengine/commands/log/)
  * [sync](/easyengine/commands/sync/)
  * [import-slow-log](/easyengine/commands/import-slow-log/)
+ * [update](/easyengine/commands/update/)
 
