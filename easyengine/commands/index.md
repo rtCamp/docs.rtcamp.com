@@ -8,5 +8,6 @@ title: "commands"
  * [info](/easyengine/commands/info/)
  * [secure](/easyengine/commands/secure/)
  * [log](/easyengine/commands/log/)
+ * [sync](/easyengine/commands/sync/)
  * [import-slow-log](/easyengine/commands/import-slow-log/)
 
