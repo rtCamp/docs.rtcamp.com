@@ -2,7 +2,8 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title
 
-exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md","*/node_modules/*"]
+exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md","*/node_modules/*","rtbiz/"]
+
 highlighter: pygments
 
 defaults:
@@ -11,7 +12,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
