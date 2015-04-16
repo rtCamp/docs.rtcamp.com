@@ -78,3 +78,6 @@ Similarly,to disable Pagespeed on site you can use following commands:
 	ee site update example.com --pagespeed=off
 
 
+By default EasyEngine does not enables any filters for Pagespeed, you can add various filters from https://developers.google.com/speed/pagespeed/module/config_filters using command
+
+	ee site edit example.com --pagespeed

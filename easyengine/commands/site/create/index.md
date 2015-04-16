@@ -81,4 +81,4 @@ For example, you can create WordPress site running with Pagespeed using followin
 
 By default EasyEngine does not enables any filters for Pagespeed, you can add various filters from https://developers.google.com/speed/pagespeed/module/config_filters using command
 
-	ee site edit example.com
+	ee site edit example.com --pagespeed
