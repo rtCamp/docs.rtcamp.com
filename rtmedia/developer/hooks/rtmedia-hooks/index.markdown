@@ -272,4 +272,4 @@ title: rtMedia Hooks
   * [rtmedia_allow_uploader_view](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_allow_uploader_view/)
 
 
-  * [rtmedia_post_update_click_message](/rtmedia/developer/hooks/rtmedia-hooks/filter_to_change_text_of_post_update_message/)
+  * [rtmedia_post_update_click_message](/rtmedia/developer/hooks/rtmedia-hooks/filter-to-change-text-of-post-update-message/)
