@@ -2,7 +2,7 @@
 title: ' rtMedia Kaltura Add-on'
 ---
 
-The rtMedia Kaltura add-on automatically converts videos uploaded with rtMedia. Kaltura is a video-management platform. To use this plugin, you must first get an account on Kaltura. You can get a free trial of Kaltura [here](http://corp.kaltura.com/free-trial). If you want to buy self-hosted Kaltura-CE Setup Service, click [here](https://rtcamp.com/store/rtmedia-kaltura-ce-setup-service/).
+The rtMedia Kaltura add-on automatically converts videos uploaded with rtMedia. Kaltura is a video-management platform. To use this plugin, you must first get an account on Kaltura. You can get a free trial of Kaltura [here](http://corp.kaltura.com/free-trial). If you want to buy self-hosted Kaltura-CE Setup Service, click [here](https://rtcamp.com/products/rtmedia-kaltura-ce-setup-service/).
 
 
 ## Installing rtMedia Kaltura Add-on
@@ -18,9 +18,13 @@ After creating your account on Kaltura, perfrom the following steps to install t
 
 4. Go to **rtMedia** > **Settings** > **Kaltura**. You will see the settings as follows:
 
-[![Kaltura Settings](http://docs.rtcamp.com/wp-content/uploads/2014/06/Kaltura-Settings.jpg)](http://docs.rtcamp.com/wp-content/uploads/2014/06/Kaltura-Settings.jpg)
+![selection_134](https://cloud.githubusercontent.com/assets/1140051/7228946/d614f74c-e77b-11e4-86e4-354665487d79.png)
 
 5. Enter your email address in the **User ID** field. Open **Settings** > **Integration** **Settings** in  your Kaltura account to access your **Partner ID**, **Sub Partner ID**, **Admin Secret** and **User Secret**.
+
+6. Once, click on `Save Settings` button, the player list will be displayed with dropdown. The player list will be fetched from your configured kaltura account. Select the player from dropdown. See below image how to create players in kaltura account. 
+
+![selection_138](https://cloud.githubusercontent.com/assets/1140051/7229004/854793dc-e77c-11e4-88d5-e88e916ffdec.png)
 
 6. Click **Save Settings**. Your Kaltura add-on is now ready to use.
 
