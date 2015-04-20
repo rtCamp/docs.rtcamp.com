@@ -40,4 +40,5 @@ Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 	
   6. [Delete Media](/rtmedia/features/delete/)
 
+  7. [Edit Media](/rtmedia/features/edit-media/)
 
