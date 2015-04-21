@@ -1,5 +1,5 @@
 ---
-title: Upgrading from rtMedia 3.7.x to 3.8
+title: upgrade rtmedia to 3.8
 ---
 
 This upgrade guide applies if you have overridden [rtMedia template files](http://docs.rtcamp.com/rtmedia/developer/themes/templating-system/) or created custom themes or plugins using rtMedia plugin hooks/filters.
