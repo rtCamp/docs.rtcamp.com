@@ -1,0 +1,12 @@
+{
+  "plugins": ["edit-link","ga","anchors","-mathjax"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://git.rtcamp.com/rtbiz/rtbiz-helpdesk/edit/master/docs/dev",
+      "label": "Edit This Page"
+    },
+    "ga": {
+      "token": "UA-15354140-3"
+    }
+  }
+}
