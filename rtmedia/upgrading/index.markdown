@@ -22,7 +22,7 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 ## Latest Version
 
 
-[rtMedia version 3.7.3](http://wordpress.org/plugins/buddypress-media/)
+[rtMedia version](http://wordpress.org/plugins/buddypress-media/)
 
 
 ## Requirements
