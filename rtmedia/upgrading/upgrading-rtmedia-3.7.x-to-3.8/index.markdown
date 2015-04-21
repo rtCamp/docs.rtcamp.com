@@ -19,7 +19,7 @@ In rtMedia 3.8, we made changes to the following template files. Use rtMedia tem
 
 ## Markup Changes
 
-We have removed [foundation](http://foundation.zurb.com/) from rtMedia code. The `rtp-foundation-js` handler is no more in rtMedia code. If you want to continue with foundation, then you must need to include own foundation files and do required changes. 
+We have removed [foundation](http://foundation.zurb.com/) from rtMedia code. The `rtp-foundation-js` handler is no more in rtMedia code. If you want to continue with foundation, then you must need to include your own foundation files and do required changes. 
 
 **Following CSS classes introduced**
 
@@ -27,7 +27,5 @@ We have removed [foundation](http://foundation.zurb.com/) from rtMedia code. The
 * `rtm-media-options-list` used in rtMedia options under media gallery section.
 * `rtm-tabs` for all the tabs provided by rtMedia plugin.
 * `rtm-media-type-XXX` class added on media-single.php *(where xxx is media type audio/video/image)*
-
-If you are using any template file from the above list in your theme, you may need to change template files to provide a seamless rtMedia experience for your users.
 
 If you have any questions, feel free to use [our free support forum](http://community.rtcamp.com/category/rtmedia/).
