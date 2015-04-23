@@ -289,7 +289,7 @@ Users will see a screen like the one shown above and  need to login to PayPal to
 
 After succesful payment , users will see  a similar image as below :
 
-[![payment done](https://cloud.githubusercontent.com/assets/8191145/5352906/291bc5fa-7f95-11e4-944f-daff0180774a.png)((https://cloud.githubusercontent.com/assets/8191145/5352906/291bc5fa-7f95-11e4-944f-daff0180774a.png)
+[![payment done](https://cloud.githubusercontent.com/assets/8191145/5352906/291bc5fa-7f95-11e4-944f-daff0180774a.png)
 
 
 ### Subscription Payment (Daily, Weekly, Monthly, Yearly)
