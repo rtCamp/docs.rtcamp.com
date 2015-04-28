@@ -12,6 +12,6 @@ Thumbs.db
 
 assets/themes/*/node_modules
 assets/themes/*/.sass-cache/*
-_book/
+_book
 .*~
-node_modules/
+node_modules
