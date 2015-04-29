@@ -2,7 +2,7 @@
   "plugins": ["edit-link","ga","anchors","-mathjax"],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/rtCamp/rtbiz/edit/master/docs/dev",
+      "base": "https://github.com/rtCamp/docs.rtcamp.com/tree/master/rtbiz/core/dev",
       "label": "Edit This Page"
     },
     "ga": {

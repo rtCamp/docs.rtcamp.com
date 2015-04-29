@@ -23,22 +23,22 @@ build:
     # build gitbooks: rtbiz/core/dev
     - script:
         name: build rtbiz core dev book
-        code: gitbook install rtbiz/core/dev && gitbook build rtbiz/core/dev
+        code: gitbook install rtbiz/core/dev && gitbook build rtbiz/core/dev _site/rtbiz/core/dev
 
     # build gitbooks: rtbiz/core/user
     - script:
         name: build rtbiz core user book
-        code: gitbook install rtbiz/core/user && gitbook build rtbiz/core/user
+        code: gitbook install rtbiz/core/user && gitbook build rtbiz/core/user _site/rtbiz/core/user
 
     # build gitbooks: rtbiz/helpdesk/admin
     - script:
         name: build rtbiz helpdesk admin book
-        code: gitbook install rtbiz/helpdesk/admin && gitbook build rtbiz/helpdesk/admin
+        code: gitbook install rtbiz/helpdesk/admin && gitbook build rtbiz/helpdesk/admin _site/rtbiz/helpdesk/admin
 
     # build gitbooks: rtbiz/helpdesk/staff
     - script:
         name: build rtbiz helpdesk staff book
-        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff
+        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff 
 
 deploy:
   steps:
