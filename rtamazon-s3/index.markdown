@@ -19,55 +19,55 @@ Perform the following steps to install rtAmazon s3 plugin:
 
 [![rtamazon-s3-login](https://cloud.githubusercontent.com/assets/7807348/7199130/c345f6f2-e50f-11e4-9702-ef813c9a3f86.png)](https://cloud.githubusercontent.com/assets/7807348/7199130/c345f6f2-e50f-11e4-9702-ef813c9a3f86.png)
 
-1. Enter **Amazon Access Kay ID**
+1. Enter `Amazon Access Kay ID`
 
-2. Enter **Amazon Secret Access Key**
+2. Enter `Amazon Secret Access Key`
 
-3. Click **Next** to get started
+3. Click `Next` to get started
 
-4. If you don't have an account then you can **Sign Up** to Amazon S3
+4. If you don't have an account then you can [Sign Up](https://console.aws.amazon.com/iam/home?region=us-east-1#users) to Amazon S3
 
 5. Do not use your root credentials to login, it is best practice to use [IAM user](http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPractices.html) and assign amazon s3 full access to the user,as this will protect your sensitive data.
 
 ## Bucket Selection
 
-After successfully logged in, a dropdown will appear to select **Bucket selection** page.
+After successfully logged in, a dropdown will appear to select `Bucket selection` page.
 
 [![rtamazon-s3-bucket-selection](https://cloud.githubusercontent.com/assets/7807348/7202116/cca169e4-e52c-11e4-8b75-0c9676a365f7.png)](https://cloud.githubusercontent.com/assets/7807348/7202116/cca169e4-e52c-11e4-8b75-0c9676a365f7.png)
 
-1. You can see your **Access Key ID** and **Secret Access Key**
+1. You can see your `Access Key ID` and `Secret Access Key`
 
-2. If you want to change your **Access Key ID** and **Secret Access Key** then enter new details and click on **Change** button
+2. If you want to change your `Access Key ID` and `Secret Access Key` then enter new details and click on **Change** button
 
-3. You can see you **Amazon S3 Buckets**.
+3. You can see you `Amazon S3 Buckets`.
 
-4. If you want to add new bucket, click on **Create new Bucket** button
+4. If you want to add new bucket, click on `Create new Bucket` button
 
 ## Create Bucket
 
-After clicking on **Create new Bucket**, you will be able to see **Bucket Creation Popup**
+After clicking on `Create new Bucket`, you will be able to see `Bucket Creation Popup`
 
 [![rtamazon-s3-create-bucket](https://cloud.githubusercontent.com/assets/7807348/7202131/0324ad00-e52d-11e4-8612-2d474d4c62d0.png)](https://cloud.githubusercontent.com/assets/7807348/7202131/0324ad00-e52d-11e4-8612-2d474d4c62d0.png)
 
-1. Enter **Bucket Name**
+1. Enter `Bucket Name`
 
-2. Select **Region**
+2. Select `Region`
 
-3. Click **Create Bucket** button.
+3. Click `Create Bucket` button.
 
-4. You can see **Rules for creating Bucket**
+4. You can see `Rules for creating Bucket`
 
-5. If you don't want to create a Bucket then simply **Close** the popup.
+5. If you don't want to create a Bucket then simply `Close` the popup.
 
 ## Bucket Settings
 
-After **Selecting a Bucket** or **Creating a Bucket** you can see **Selected Bucket's** or **Created Bucket's** Settings.
+After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's` or `Created Bucket's` Settings.
 
 [![rtamazon-s3-bucket-settings](https://cloud.githubusercontent.com/assets/7807348/7202203/c1cdc700-e52d-11e4-9d44-f744eaf8671f.png)](https://cloud.githubusercontent.com/assets/7807348/7202203/c1cdc700-e52d-11e4-9d44-f744eaf8671f.png)
 
-1. Upload media files to **Virtual Folder** on Amazon S3 Bucket. For example if the name of input folder is **test**, media are stored under **test** folder, if folder name is **test/sample**, media are stored under **sample** folder which is a folder under **test** and so on.
+1. Upload media files to **Virtual Folder** on Amazon S3 Bucket. For example if the name of input folder is **test**, media are stored under **test** folder, if folder name is `test/sample`, media are stored under **sample** folder which is a folder under **test** and so on.
 
-2. You can delete local media files after they have been successfully uploaded to your **S3 Bucket**. If you enable this option then uploaded files are served with their **S3 URL**. **Strongly Not Recommended!**
+2. You can delete local media files after they have been successfully uploaded to your **S3 Bucket**. If you enable this option then uploaded files are served with their `S3 URL`. **Strongly Not Recommended!**
 
 3. You can serve media URL with from **S3 Bucket URL**
 
@@ -77,15 +77,15 @@ After **Selecting a Bucket** or **Creating a Bucket** you can see **Selected Buc
 
 6. You can see **Bucket Info** like:
 
-    1. **Bucket Name**
+    1. Bucket Name
   
-    2. **Bucket Owner**
+    2. Bucket Owner
   
-    3. **Bucket Creation Date**
+    3. Bucket Creation Date
   
-    4. **Bucket Versioning**
+    4. Bucket Versioning
   
-    5. **Bucket Location**
+    5. Bucket Location
 
 7. You can **Delete Bucket** directly from here. If there are objects in the Bucket then you need to **Delete Objects** first.
 
@@ -105,15 +105,15 @@ After **Selecting a Bucket** or **Creating a Bucket** you can see **Selected Buc
 
 3. Bulk Actions
 
-    1. **Download** -> You can download single object or multiple objects by selecting Download from Bulk Actions.
+    1. `Download` -> You can download single object or multiple objects by selecting Download from Bulk Actions.
   
-    2. **Delete** -> You can directly delete single object or multiple objects from the bucket by selecting Delete from Bulk Actions.
+    2. `Delete` -> You can directly delete single object or multiple objects from the bucket by selecting Delete from Bulk Actions.
   
-    3. **Move** -> First you have to select media and then select Move from Bulk Actions. After that select Destination Bucket.
+    3. `Move` -> First you have to select media and then select Move from Bulk Actions. After that select Destination Bucket.
 
-4. Click **Apply** After select bulk action.
+4. Click `Apply` After select bulk action.
 
-5. **Pagination** for bucket objects
+5. `Pagination` for bucket objects
 
 ## Upload All
 
@@ -136,16 +136,16 @@ You can upload selected media to Amazon S3 Bucket.
 
 ## Media Library
 
-You can upload media directly from WordPress' Media Lobrary to **S3 Bucket** or see the uploaded media with their **S3 URL**.
+You can upload media directly from WordPress' Media Library to **S3 Bucket** or see the uploaded media with their `S3 URL`
 
 [![rtamazon-s3-media-library](https://cloud.githubusercontent.com/assets/7807348/7370914/f98fe2b2-edda-11e4-8ca1-b4af2faefa61.png)](https://cloud.githubusercontent.com/assets/7807348/7370914/f98fe2b2-edda-11e4-8ca1-b4af2faefa61.png)
 
-1. You can see **Admin Notice** to upload remaining media to S3 Bucket.
+1. You can see `Admin Notice` to upload remaining media to S3 Bucket.
 
-2. New column to see/upload media i.e., **S3 URL**
+2. New column to see/upload media i.e., `S3 URL`
 
-3. **Upload** to S3 Bucket
+3. `Upload` to S3 Bucket
 
-4. **Link** to see the uploaded media
+4. `Link` to see the uploaded media
 
-5. You can **Bulk Upload** by selecting multiple media and select **Upload to S3** from Bulk Actions DropDown.
+5. You can `Bulk Upload` by selecting multiple media and select `Upload to S3` from Bulk Actions DropDown.
