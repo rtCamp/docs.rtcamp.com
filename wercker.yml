@@ -51,20 +51,20 @@ deploy:
 
     - script:
         name: deploy rtbiz core dev book
-        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/core/dev/_book/* $USER@$HOST:/www/rtbiz/core/dev/
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" rtbiz/core/dev/_book/* $SSHUSER@$SSHHOST:/www/rtbiz/core/dev/
 
     - script:
         name: deploy rtbiz core user book
-        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/core/user/_book/* $USER@$HOST:/www/rtbiz/core/user/
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" rtbiz/core/user/_book/* $SSHUSER@$SSHHOST:/www/rtbiz/core/user/
 
     - script:
         name: deploy rtbiz helpdesk admin book
-        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/helpdesk/admin/_book/* $USER@$HOST:/www/rtbiz/helpdesk/admin/
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" rtbiz/helpdesk/admin/_book/* $SSHUSER@$SSHHOST:/www/rtbiz/helpdesk/admin/
 
     - script:
         name: deploy rtbiz helpdesk staff book
-        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/helpdesk/staff/_book/* $USER@$HOST:/www/rtbiz/helpdesk/staff/
-        
+        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" rtbiz/helpdesk/staff/_book/* $SSHUSER@$SSHHOST:/www/rtbiz/helpdesk/staff/
+
   after-steps:
     - script:
         name: purge cdn
