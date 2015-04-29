@@ -1,9 +1,6 @@
 ---
-layout: page
 title: rtBiz Docs
 ---
-
-<h2>rtBiz Docs</h2>
 
 <ul>
   <li><a href="/rtbiz/core/user/">rtBiz - User Docs</a></li>

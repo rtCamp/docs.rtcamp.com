@@ -11,7 +11,10 @@ exclude: [".rvmrc",
           "Rakefile",
           "changelog.md",
           "*/node_modules/*",
-          "rtbiz/"]
+          "rtbiz/core/dev",
+          "rtbiz/core/user",
+          "rtbiz/helpdesk/staff",
+          "rtbiz/helpdesk/admin"]
 
 include: ["rtbiz/core/index.md",
           "rtbiz/helpdesk/index.md",
