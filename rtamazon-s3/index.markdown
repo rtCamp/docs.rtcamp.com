@@ -6,6 +6,7 @@ rtAmazon S3 allows site admin to move WordPress media uploads to Amazon S3 Bucke
 
 ## Installation
 Perform the following steps to install rtAmazon s3 plugin:
+
   1. Download **rtAmazon S3** plugin from the [My Account](https://rtcamp.com/my-account) section
   
   2. Go to WordPress site dashboard and navigate to `Plugins > Add New > Upload`.
