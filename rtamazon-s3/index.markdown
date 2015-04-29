@@ -71,7 +71,7 @@ After **Selecting a Bucket** or **Creating a Bucket** you can see **Selected Buc
 
 3. You can serve media URL with from **S3 Bucket URL**
 
-4. You can directly sync uploaded media files to **S3 Bucket** as they are uploaded from media library, blog post or rtmedia plugin.
+4. You can directly copy uploaded media files to **S3 Bucket** as they are uploaded from media library, blog post or rtmedia plugin.
 
 5. **Save Settings** after changes
 
