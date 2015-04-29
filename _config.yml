@@ -5,7 +5,17 @@ permalink: /:title
 
 timezone: 'Asia/Kolkata'
 
-exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md","*/node_modules/*","rtbiz/"]
+exclude: [".rvmrc",
+          ".rbenv-version",
+          "readme.md",
+          "Rakefile",
+          "changelog.md",
+          "*/node_modules/*",
+          "rtbiz/"]
+
+include: ["rtbiz/core/index.md",
+          "rtbiz/helpdesk/index.md",
+          "rtbiz/index.md"]
 
 highlighter: pygments
 
