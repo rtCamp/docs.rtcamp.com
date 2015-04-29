@@ -340,3 +340,54 @@ You can also start/stop/restart/reload perticular service using following option
 ## Postfix
 
 	ee stack start --postfix
+
+#Upgrade
+
+(Note: This feature is available with EasyEngine 3.1.2 and onwards)
+
+EasyEngine stack can now safely upgraded with using command
+
+	ee stack upgrade
+
+This will upgrade Nginx, PHP, MySQL, Postfix and HHVM to their latest version
+
+## Nginx
+
+	ee stack upgrade --nginx
+
+This will upgrade Nginx to their latest version.
+
+## PHP
+
+	ee stack upgrade --php
+
+This will upgrade PHP to their latest version
+
+## MySQL
+
+	ee stack upgrade --mysql
+
+This will upgrade MySQL to their latest version
+
+## Postfix
+
+	ee stack upgrade --postfix
+
+This will upgrade Postfix to their latest version
+
+
+## Mail server
+
+	ee stack upgrade --mail
+
+This will upgrade mail server to their latest version
+
+
+## PHP 5.6
+
+To upgrade to PHP5.6 from PHP5.5 use command as:
+
+	 ee stack upgrade --php56
+
+
+
