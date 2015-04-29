@@ -1,6 +1,9 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
+
 permalink: /:title
+
+timezone: 'Asia/Kolkata'
 
 exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md","*/node_modules/*","rtbiz/"]
 

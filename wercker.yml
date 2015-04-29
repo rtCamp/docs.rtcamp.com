@@ -1,5 +1,7 @@
 # our build should run within a Ruby box
-box: wercker/ruby
+# box: wercker/ruby
+# docker pull marcellodesales/nodejs-ruby
+box: marcellodesales/nodejs-ruby
 build:
   steps:
     # Run a smart version of bundle install
@@ -13,15 +15,56 @@ build:
         name: generate site
         code: bundle exec jekyll build
 
+    # install gitbook itself
+    - script:
+        name: install gitbook
+        code: npm -g install gitbook-cli
+
+    # build gitbooks: rtbiz/core/dev
+    - script:
+        name: build rtbiz core dev book
+        code: gitbook install rtbiz/core/dev && gitbook build rtbiz/core/dev
+
+    # build gitbooks: rtbiz/core/user
+    - script:
+        name: build rtbiz core user book
+        code: gitbook install rtbiz/core/user && gitbook build rtbiz/core/user
+
+    # build gitbooks: rtbiz/helpdesk/admin
+    - script:
+        name: build rtbiz helpdesk admin book
+        code: gitbook install rtbiz/helpdesk/admin && gitbook build rtbiz/helpdesk/admin
+
+    # build gitbooks: rtbiz/helpdesk/staff
+    - script:
+        name: build rtbiz helpdesk staff book
+        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff
+
 deploy:
   steps:
     - install-packages:
-        packages: sshpass  #needed by cdn77
+        packages: sshpass  rsync #needed by cdn77
 
     - script:
-        name: deploy to cdn
+        name: deploy jekyll docs to cdn
         code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
 
+    - script:
+        name: deploy rtbiz core dev book
+        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/core/dev/_book/* $USER@$HOST:/www/rtbiz/core/dev/
+
+    - script:
+        name: deploy rtbiz core user book
+        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/core/user/_book/* $USER@$HOST:/www/rtbiz/core/user/
+
+    - script:
+        name: deploy rtbiz helpdesk admin book
+        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/helpdesk/admin/_book/* $USER@$HOST:/www/rtbiz/helpdesk/admin/
+
+    - script:
+        name: deploy rtbiz helpdesk staff book
+        code: rsync -avz --progress --rsh="sshpass -p $PASS ssh -l USER -o StrictHostKeyChecking=no" rtbiz/helpdesk/staff/_book/* $USER@$HOST:/www/rtbiz/helpdesk/staff/
+        
   after-steps:
     - script:
         name: purge cdn
