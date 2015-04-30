@@ -26,7 +26,10 @@
     * [import-slow-log](./commands/import-slow-log/index.md)
 - EasyEngine Internals
     * [EasyEngine Database]
-
+    * [Known Issues]
+- Developer Documentation
+    * [Directory Structure]
+    
 - Troubleshooting
 - FAQ
 - Debugging
