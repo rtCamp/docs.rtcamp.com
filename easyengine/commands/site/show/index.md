@@ -1,6 +1,5 @@
----
-title: "show"
----
+## show
+
 Nginx configuration for the website can be viewed with
 
 	ee site show example.com

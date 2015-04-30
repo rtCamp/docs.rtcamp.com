@@ -1,8 +1,4 @@
----
-layout: page
-title: "update"
-description: "Update EasyEngine to its latest version"
----
+## update
 
 #### Available with EasyEngine v3.0.6 and onwards
 

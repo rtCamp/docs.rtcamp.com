@@ -1,6 +1,4 @@
----
-title: "delete"
----
+## delete
 
 To delete site created with EasyEngine (ee) use
 

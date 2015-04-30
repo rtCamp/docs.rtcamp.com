@@ -1,6 +1,4 @@
----
-title: "info"
----
+## info
 
 
 This command will show you the information related to Nginx and PHP. You need to log in as root user and run this command.

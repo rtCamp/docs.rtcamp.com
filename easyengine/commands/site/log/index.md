@@ -1,6 +1,5 @@
----
-title: "log"
----
+## log
+
 Monitor site access and error logs.
 
 	ee site log example.com

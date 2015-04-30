@@ -1,6 +1,4 @@
----
-title: "debug"
----
+## debug
 
 	**Note** : --start/--stop options are deprecated since EasyEngine 3.0.5 version.
 

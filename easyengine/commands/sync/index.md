@@ -1,8 +1,5 @@
----
-layout: page
-title: "sync"
-description: "Synchronize EasyEngine database"
----
+## sync
+
 #### Available with EasyEngine v3.0.9 and onwards
 
 EasyEngine maintains a lightweight sqlite database, which needs to be synced with your sites information, in order to work EasyEngine commands perfectly.

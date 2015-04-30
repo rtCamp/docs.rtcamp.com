@@ -1,6 +1,4 @@
----
-title: "list"
----
+## list
 
 ## List all available websites:
 

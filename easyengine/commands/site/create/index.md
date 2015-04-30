@@ -1,6 +1,4 @@
----
-title: "create"
----
+##create
 
 ## HTML Website
 
@@ -76,7 +74,7 @@ For example, you can create WordPress site running on HHVM using following comma
 To create site with Pagespeed you can use `--pagespeed` during site creation
 
 For example, you can create WordPress site running with Pagespeed using following command:
-	
+
 	ee site create example.com --wp --pagespeed
 
 By default EasyEngine does not enables any filters for Pagespeed, you can add various filters from https://developers.google.com/speed/pagespeed/module/config_filters using command

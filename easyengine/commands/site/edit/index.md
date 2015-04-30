@@ -1,6 +1,4 @@
----
-title: "edit"
----
+##edit
 
 	ee site edit example.com
 
@@ -18,4 +16,3 @@ Above command opens `/var/www/example.com/conf/nginx/pagespeed.conf` in your def
 When you make any changes, after saving file, this will also test and reload Nginx configuration
 
 By default EasyEngine does not enables any filters for Pagespeed, you can add various filters from https://developers.google.com/speed/pagespeed/module/config_filters
-

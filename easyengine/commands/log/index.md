@@ -1,6 +1,4 @@
----
-title: "log"
----
+## log
 
 #### Available with EasyEngine v3.1.0 and onwards
 
@@ -18,7 +16,7 @@ Use `Ctrl+c` to exit from command
 
 ### Access logs
 
-To monitor Nginx access logs use 
+To monitor Nginx access logs use
 
 	ee log show --access
 
@@ -90,7 +88,7 @@ To reset site specific logs use
 
 ### Access logs
 
-To reset Nginx access logs use 
+To reset Nginx access logs use
 
 	ee log reset --access
 
@@ -166,7 +164,7 @@ To Gzip site specific logs use
 
 ### Access logs
 
-To Gzip Nginx access logs use 
+To Gzip Nginx access logs use
 
 	ee log gzip --access
 
@@ -238,7 +236,7 @@ To mail site specific logs use
 
 ### Access logs
 
-To mail Nginx access logs use 
+To mail Nginx access logs use
 
 	ee log mail --access --to=ee@example.com
 
@@ -295,4 +293,3 @@ To mail WordPress debug logs use
 	ee log mail example.com --wp --to=ee@example.com
 
 This command will mail `/var/www/example.com/htdocs/wp-content/debug.log`
-

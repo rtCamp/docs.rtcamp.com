@@ -1,6 +1,4 @@
----
-title: "clean"
----
+## clean
 
 Clean NGINX FastCGI cache, Opcacache, Memcache
 
@@ -28,5 +26,3 @@ clean fastgi cache by default.
 ### Clean FastCGI, Memcache, OPcache and PageSpeed cache
 
 	ee clean --all
-
-

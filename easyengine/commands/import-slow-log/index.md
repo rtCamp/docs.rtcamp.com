@@ -1,8 +1,4 @@
----
-layout: page
-title: "import-slow-log"
-description: ""
----
+## import-slow-log
 
 Import MySQL slow log to Anemometer using command
 

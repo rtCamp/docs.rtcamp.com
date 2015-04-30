@@ -1,6 +1,4 @@
----
-title: "info"
----
+## info
 
 Show information about site
 

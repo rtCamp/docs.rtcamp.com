@@ -1,6 +1,4 @@
----
-title: "secure"
----
+## secure
 
 # Changing HTTP authentication credentials
 
