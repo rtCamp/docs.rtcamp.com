@@ -1,6 +1,3 @@
----
-title: "Developer Documentation"
----
 
 ## EasyEngine Directory structure
 

@@ -1,6 +1,3 @@
----
-title: "Developer Documentation"
----
 
 EasyEngine is developed in Python so its necessary to give some information to developers about python
 and standards we are using for developement to make their coding efforts easier.

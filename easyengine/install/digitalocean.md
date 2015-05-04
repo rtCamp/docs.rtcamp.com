@@ -1,6 +1,5 @@
----
-title: "Install EasyEngine on Digital Ocean droplet"
----
+## Install EasyEngine on Digital Ocean droplet
+
 
 [Sign up](http://rt.cx/digitalocean) to DigitalOcean and Follow these steps
 

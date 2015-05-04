@@ -1,6 +1,4 @@
----
-title: "Plugin Development"
----
+## Plugin Development
 
 EasyEngine uses [Cement Framework]() due to its inbuilt features helping to focus on development of core functionality of application.
 

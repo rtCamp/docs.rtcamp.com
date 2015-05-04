@@ -1,7 +1,6 @@
----
-title: "Install EasyEngine on Linode"
----
-[Sign up](http://rt.cx/digitalocean) to Linode and Follow these steps
+## Install EasyEngine on Linode
+
+[Sign up](http://rt.cx/linode) to Linode and Follow these steps
 
 - Select the Plan and Server Location
 

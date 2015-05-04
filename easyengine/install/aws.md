@@ -1,6 +1,5 @@
----
-title: "Install EasyEngine on AWS Instance"
----
+## Install EasyEngine on AWS Instance
+
 [Sign up](https://aws.amazon.com/) For Amazon and Follow these steps
 
 - Launch New Instance
