@@ -5,17 +5,17 @@
 **EasyEngine** (ee) is a python tool to *easily* manage your WordPress websites with NGINX webserver, supported on Ubuntu and Debian Linux Distributions.
 
 
-## [Getting Started](/easyengine/install/)
+## [Getting Started](./install/README.md)
 
-- [Quick Setup](/easyengine/install/#QuickSetup)
-- [Launch/Deploy/Create your server](/easyengine/install/#Launch/Deploy/CreateServerInstance)
-  - [AWS](http://docs.rtcamp.com/easyengine/install/aws.html)
-  - [Linode](http://docs.rtcamp.com/easyengine/install/linode.html)
-  - [DigitalOcean](http://docs.rtcamp.com/easyengine/install/digitalocean.html)
+- [Quick Setup](./install/README.md#QuickSetup)
+- [Launch/Deploy/Create your server](/easyengine/install/README.md#Launch/Deploy/CreateServerInstance)
+  - [AWS](./install/aws.md)
+  - [Linode](./install/linode.md)
+  - [DigitalOcean](.s/install/digitalocean.md)
 
 ## Commands
 
-Get started with EasyEngine [commands](/easyengine/commands/) here.
+Get started with EasyEngine [commands](../easyengine/commands/README.md) here.
 
 ## Other Docs
 - [Developer Documentation](/easyengine/dev/)
