@@ -28,8 +28,9 @@
     * [EasyEngine Database]
     * [Known Issues]
 - Developer Documentation
-    * [Directory Structure]
-    
+    * [Developing cli apps Cement]
+    * [EasyEngine Directory Structure]
+    * [Plugin Developement]
 - Troubleshooting
 - FAQ
 - Debugging
