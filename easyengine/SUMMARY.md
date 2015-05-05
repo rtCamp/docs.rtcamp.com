@@ -1,4 +1,4 @@
-# Summary    
+# Summary
 * [Quick Setup](./install/quicksetup.md)
     * [Cheatsheet]
 - Commands
@@ -24,12 +24,12 @@
     * [sync](./commands/sync/README.md)
     * [import-slow-log](./commands/import-slow-log/README.md)
 - EasyEngine Internals
-    * [EasyEngine Database]
-    * [Known Issues]
+    * [EasyEngine Database](./internal/db.md)
+    * [Known Issues](./internals/known-issues.md)
 - Developer Documentation
-    * [Developing cli apps with Cement]
-    * [EasyEngine Directory Structure](./dev/codes/README.md)
+    * [Cement Tutorial](./dev/cliapps/README.md)
+    * [Directory Structure](./dev/codes/README.md)
     * [Plugin Developement](./dev/plugins/README.md)
 - Troubleshooting
-- FAQ
-- Debugging
+    * [FAQ](./faq.md)
+    * [Debugging](./debugging.md)

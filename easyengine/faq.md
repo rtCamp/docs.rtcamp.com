@@ -1,6 +1,4 @@
----
-title: "FAQ"
----
+
 ##### Q 1. How will EasyEngine make a difference to my site?
 
 EasyEngine makes it greatly easy to manage nginx, a fast web-server software that consumes little memory when handling increasing volumes of concurrent users.
@@ -82,7 +80,7 @@ in mysql section.
 Open the following file in your favorite text editor and set 'db-user = true'
 
 	vim /etc/ee/ee.conf
-	
+
 
 ##### Q 15. How to change the wordpress database table prefix?
 
