@@ -1,7 +1,7 @@
 ---
 title: "Install EasyEngine on Linode"
 ---
-[Sign up](http://rt.cx/digitalocean) to Linode and Follow these steps
+[Sign up](http://rt.cx/linode) to Linode and Follow these steps
 
 - Select the Plan and Server Location
 
@@ -38,4 +38,4 @@ title: "Install EasyEngine on Linode"
 
 - Login with SSH
 
-- Next Step is to [Install EasyEngine](/easyengine/#QuickSetup) On your Fresh Droplet
+- Next Step is to [Install EasyEngine](/easyengine/install/#QuickSetup) On your Fresh Droplet
