@@ -5,7 +5,7 @@ Launch/Deploy/Create your server instance with your hosting provider
 Follow these guide or skip to **Quick Setup** If you are already done.
 
 
-- [AWS](./aws.md)
+- [AWS](../install/aws/README.md)
 
 - [Linode](./linode.md)
 

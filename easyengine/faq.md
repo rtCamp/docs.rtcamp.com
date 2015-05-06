@@ -20,6 +20,7 @@ No. Shared hosting services do not allow root or sudo access, which is required 
 Yes. The install log file for sites installed using EasyEngine can be found at this location.
 
 	/var/log/ee/install.log
+	/var/log/ee/ee.log
 
 
 ##### Q 5. Where is EasyEngine's error log located?
