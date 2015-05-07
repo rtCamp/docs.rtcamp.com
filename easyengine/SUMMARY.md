@@ -1,7 +1,7 @@
 # Summary
 * [Quick Setup](./install/quicksetup.md)
     * [Cheatsheet]
-- Commands
+- [Commands](./commands/README.md)
     * [site](./commands/site/README.md)
          * [cd](./commands/site/cd/README.md)
          * [create](./commands/site/create/README.md)
