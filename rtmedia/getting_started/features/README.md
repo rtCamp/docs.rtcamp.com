@@ -1,14 +1,14 @@
 # Features
-[]
-Once rtMedia has been installed on your WordPress software, it has many features that can be used. 
+
+Once rtMedia has been installed on your WordPress software, it has many features that can be used.
 
 Each feature of rtMedia can  be customized and controlled with the use of Settings.
 
 Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 
-  1. [Like Buttons for Media](./like.html)
-  2. [Upload Media](/rtmedia/features/upload-media/)
 
+  1. [Like Buttons for Media](./like.md)
+  2. [Upload Media](/rtmedia/features/upload-media/)
   3. [View Album Gallery and Items](/rtmedia/features/view/)
 
   4. [Manage Albums](/rtmedia/features/manage/)
@@ -32,4 +32,3 @@ Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 
 
 Read [documentation on rtMedia Settings](/rtmedia/getting-started/settings/)
-
