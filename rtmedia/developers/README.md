@@ -1,3 +1,24 @@
-# Developers Documentation
+## Developers Documentation
 
-
+* [Adding rtMedia updates to activity show dropdown](getting_started/settings/other-settings.md)
+* [Allow Custom Media Types]
+* [API]
+* [Change Username to User's Display Name in rtMedia Activity]
+* [Conditional Tags]
+* [Context]
+* [Custom sorting for media gallery]
+* [Custom thumbnail for each file type]
+* [Customize Media Gallery Template]
+* [Database Description]
+* [Featured Media]
+* [Hooks]
+* [Keywords to Get rtMedia Image Sizes]
+* [Remove media file names]
+* [Remove post-editor Shortcode Button]
+* [Rename rtMedia Upload Directory]
+* [Reordering Media Tab in BuddyPress]
+* [Replace Default Mediaplayer]
+* [rtMedia Defined Constants]
+* [rtMedia js hooks]
+* [Show last N images in header]
+* [Themes]
