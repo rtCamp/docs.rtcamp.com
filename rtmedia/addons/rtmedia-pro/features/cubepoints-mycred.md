@@ -1,8 +1,6 @@
----
-title: CubePoints, myCRED Integration
----
+## CubePoints and myCRED Integration
 
-## **Prerequisite**
+### **Prerequisite**
 
 
 Install either the [CubePoints](http://wordpress.org/plugins/cubepoints/) or [myCRED](http://wordpress.org/plugins/mycred/) plugin to use this feature.
@@ -11,56 +9,25 @@ Cubepoints and myCRED are point management systems for sites running on WordPres
 
 The points system is currently supported for the following activities:
 
-	
+
   1. Upload image
-
-	
   2. Upload video
-
-	
   3. Upload music
-
-	
   4. Create album
-
-	
   5. Create playlist
-
-	
   6. Rate media
-
-	
   7. Like media
-
-	
   8. Download media
-
-	
   9. View media
-
-	
   10. Edit media
-
-	
   11. Edit album
-
-	
   12. Delete media _(you can add negative points for this)_
-
-	
   13. Report abuse on media
-
-	
   14. Set as album cover
-
-	
   15. Set as featured image
-
-	
   16. Add media comment
 
-
-## Integration with Cubepoints
+### Integration with Cubepoints
 
 
 1. Install the [Cubepoints](http://wordpress.org/plugins/cubepoints/) plugin.
