@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Glossary](gloassary.md)
 * [Installation](installation.md)
+   * [Setup Wizard](11_setup_wizard.md)
 * [Dashboard](dashboard.md)
 * [Settings ](mailbox/index.md)
    * [General](mailbox/general.md)

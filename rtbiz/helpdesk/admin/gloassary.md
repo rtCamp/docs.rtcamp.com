@@ -27,7 +27,7 @@ Below are the terms that will be used across this manual.
 
 9. **Client/Customer -** A person who has bought a product from an organisation.
 
-10. **Offering/Product -** Any product/service that organisation is sellling.
+10. **Offering/Product -** Any product/service that organisation is selling.
 
 12. ** Notifications ** - Email alerts sent to staff and ticket authors on various actions on a ticket.
 
