@@ -1,6 +1,4 @@
----
-title: Reward Points
----
+## Reward Points
 
 Users can obtain reward points for activities such as creating albums, uploading media and more.
 
@@ -9,11 +7,11 @@ Using Reward Points on your site will encourage your users to become more active
 
   1. [CubePoints](http://wordpress.org/plugins/cubepoints/)
 
-	
+
   2. [myCRED](http://wordpress.org/plugins/mycred/)
 
 
-The points for each action are [set by site administrators](/rtmedia/addons/rtmedia-pro/features/cubepoints-mycred-integration/).
+The points for each action are [set by site administrators](./cubepoints-mycred.md).
 
 The currently logged in user’s points and a leaderboard are shown in sidebar widgets on the site, as indicated in the screenshots below.
 

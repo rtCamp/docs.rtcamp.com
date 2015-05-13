@@ -7,11 +7,6 @@ Go to **rtMedia** > **Settings**, and click the **Default Albums** tab:
 ![selection_008](https://cloud.githubusercontent.com/assets/1140051/7611032/2296ebd6-f99f-11e4-9ad3-025d9a29cdd3.png)
 
 
-1. **Default Album**
+1. **Default Album**  Set the default global album where all uploaded media will be saved.
 
-    Set the default global album where all uploaded media will be saved.
-
-
-2. **Add New Default Album**
-
-    Create a album here.
+2. **Add New Default Album**  Create a album here.

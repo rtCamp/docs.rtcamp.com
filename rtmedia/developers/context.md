@@ -5,54 +5,29 @@ To display and upload media, rtMedia needs to know where each media file will be
 
 Some contexts are understood by rtMedia, implicitly. Others have to be explicitly defined.
 
-## Implicit Contexts
+### Implicit Contexts
 
 Some contexts are **implicit** to rtMedia:
 
 
 1. **WordPress**
 
-
-    1. _page_
-
-
-    2. _post_
-
-
-    3. _{custom post type}_
-
-
-    4. _profile_: WordPress author page (http://yoursite.com/authors/username)
-
-
-    5. _comment_
-
-
-
-
+    1. page
+    2. post
+    3. {custom post type}
+    4. profile: WordPress author page (http://yoursite.com/authors/username)
+    5. comment
 
 2. **BuddyPress**
 
-
-    1. _profile_: BuddyPress profile
-
-
-    2. _group_: BuddyPress group
-
-
-    3. _{custom component}_
-
-
+    1. profile: BuddyPress profile
+    2. group: BuddyPress group
+    3. {custom component}
 
 3. **bbPress**
 
-
-    1. _topic_
-
-
-    2. _reply_
-
-
+    1. topic
+    2. reply
 
 The context defines where the media belongs and how it should be displayed. Contexts are also useful for grouping media items. Each context is defined with a context ID to specify the particular context (user, post, page, BuddyPress group, etc), to which the media is attached.
 
