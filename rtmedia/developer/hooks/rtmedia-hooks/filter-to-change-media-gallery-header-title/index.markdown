@@ -12,3 +12,4 @@ Add the following code in your theme's functions.php file:
 	}
 	add_filter('rtmedia_gallery_title', 'change_media_gallery_title', 10, 1);
 
+_Where "New Media Label" will be name which you want to use._
