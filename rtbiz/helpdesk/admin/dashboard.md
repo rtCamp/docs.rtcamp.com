@@ -65,7 +65,8 @@ To know more about tickets, visit chapter #4.
 
 To know more about ticket listing UI, visit chapter #4.6
 
-![ticket_listing](https://cloud.githubusercontent.com/assets/9676513/6571364/9b6d6c8c-c72d-11e4-9488-847bc46c6b4d.png)
+![ticket_listing](https://cloud.githubusercontent.com/assets/8191145/7627448/10f53702-fa35-11e4-8fad-202cb04fb418.png)
+
 
 
 #### 3. Add Ticket
