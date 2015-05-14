@@ -22,7 +22,7 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 4. The rtBiz Helpdesk plugin will automatically install and activate rtBiz & Posts to Posts plugins.
 
-5. The Setup Wizard will appear which will guide you to customize the Helpdesk plugin.(See section 1.1)
+5. The Setup Wizard will appear which will guide you to customize the Helpdesk plugin.(See section 2)
 
 
 

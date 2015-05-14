@@ -65,7 +65,8 @@ To know more about tickets, visit chapter #4.
 
 To know more about ticket listing UI, visit chapter #4.6
 
-![ticket_listing](https://cloud.githubusercontent.com/assets/8191145/7627448/10f53702-fa35-11e4-8fad-202cb04fb418.png)
+![ticket_listing_1](https://cloud.githubusercontent.com/assets/8191145/7628003/820de442-fa3b-11e4-9cf3-f5240e6e9429.png)
+
 
 
 
@@ -75,4 +76,5 @@ Clicking on this tab will redirect you to the interface to add new ticket.
 
 To know more about adding tickets, visit chapter #4.2.
 
-![add_ticket](https://cloud.githubusercontent.com/assets/9676513/6571362/9b215176-c72d-11e4-8480-8307b474d3b4.png)
+![add_ticket_1](https://cloud.githubusercontent.com/assets/8191145/7628097/539bf03a-fa3c-11e4-9d14-90abcbc14872.png)
+

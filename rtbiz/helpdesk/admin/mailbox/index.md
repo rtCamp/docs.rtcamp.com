@@ -2,7 +2,7 @@
 
 ### Setting Access
 
-Follwing users have read and write access to Helpdesk settings:
+Following users have read and write access to Helpdesk settings:
 
 1. WordPress administrator
 
