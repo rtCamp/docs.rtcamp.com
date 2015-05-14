@@ -1,4 +1,4 @@
-
+# FAQ
 ##### Q 1. How will EasyEngine make a difference to my site?
 
 EasyEngine makes it greatly easy to manage nginx, a fast web-server software that consumes little memory when handling increasing volumes of concurrent users.

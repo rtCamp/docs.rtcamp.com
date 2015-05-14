@@ -23,13 +23,14 @@
     * [secure](./commands/secure/README.md)
     * [sync](./commands/sync/README.md)
     * [import-slow-log](./commands/import-slow-log/README.md)
-- EasyEngine Internals
+- [EasyEngine Internals](./internal/README.md)
     * [EasyEngine Database](./internal/db.md)
-    * [Known Issues](./internals/known-issues.md)
-- Developer Documentation
-    * [Cement Tutorial](./dev/cliapps/README.md)
+- [Developer Documentation](./dev/README.md)
+    * [Language and Libraries](./dev/python/README.md)
     * [Directory Structure](./dev/codes/README.md)
+    * [Cement Tutorial](./dev/cliapps/README.md)
     * [Plugin Developement](./dev/plugins/README.md)
-- Troubleshooting
-    * [FAQ](./faq.md)
-    * [Debugging](./debugging.md)
+- [Troubleshooting](./troubleshooting/README.md)
+    * [Known Issues](./troubleshoting/issues.md)
+    * [FAQ](./troubleshooting/faq.md)
+    * [Debugging](./troubleshooting/debugging.md)
