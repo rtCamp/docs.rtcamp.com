@@ -23,10 +23,7 @@ Below is the screenshot of how a ticket looks on the front end
 6. Time-stamp & reply permalink - The time at which a particular reply is added. It is linked to its permalink. Use this link to share a particular reply.
 
 7. Collapsed follow-ups - The UI automatically collapses ticket follow-ups if they are more than four. Click this button to expand and see all the follow-ups.
-
-
 #### B. Ticket Meta
-
 8. Edit Ticket* - Clicking the pencil icon will lead the staff to access the backend of a ticket.
 
 9. Subscribe/Unsubscribe -Option for a staff member to get updates for the communication on the ticket. The assignee of a ticket by default is a subscriber to that ticket.
@@ -36,16 +33,13 @@ Below is the screenshot of how a ticket looks on the front end
 11. Status* - Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can use this to update status without reaching the ticket backend.
 
 12. Assignee - The staff member to whom the ticket is assigned.
-
 Assign me* - Another staff members can assign a ticket to themselves by clicking on the Assign Me option
-
 13. Offerings - The offering/product for which customer has created a ticket.
 
 14. Participants- Ticket Author, Subscriber and staff members can add people to the ticket. Gravatars of the participants will be displayed as shown in the above screenshot.
 If the people added have no prior access to the Helpdesk system, they will be added as Participants(Customers), if the persons added are staff members, then they will show as Participants(Staff) in that ticket's backend.
 
 15. Attachments - List of all the attachements that have been added to the replies, either by customer or staff.
-
 ### C. Customer meta
 16. Purchase History* - List of products, which a customer has either bought or has the order still under process. Order status is mentioned alongside the products name.
 

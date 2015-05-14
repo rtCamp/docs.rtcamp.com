@@ -1,6 +1,6 @@
 # Ticket Workflow
 
-Please see section 4.1 to know more about ticket status.
+Please see section 3.1 to know more about ticket status.
 
 The ticket workflow is as follows:
 1. A new ticket has default status as 'Unanswered'

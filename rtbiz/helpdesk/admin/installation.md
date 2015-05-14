@@ -11,7 +11,6 @@ You will need to have following installed on your server before installing Helpd
 ### Installation
 
 
-
 Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 1. Once you complete the purchase, you’ll get download link for rtBiz Helpdesk.
@@ -22,7 +21,7 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 4. The rtBiz Helpdesk plugin will automatically install and activate rtBiz & Posts to Posts plugins.
 
-5. The Setup Wizard will appear which will guide you to customize the Helpdesk plugin.(See section 2)
+5. The Setup Wizard will appear which will guide you to customize the Helpdesk plugin.(See section 1.1)
 
 
 
