@@ -273,3 +273,6 @@ title: rtMedia Hooks
 
 
   * [rtmedia_post_update_click_message](/rtmedia/developer/hooks/rtmedia-hooks/filter-to-change-text-of-post-update-message/)
+
+
+  * [rtmedia_gallery_title](/rtmedia/developer/hooks/rtmedia-hooks/filter-to-change-media-gallery-header-title/)
