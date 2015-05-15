@@ -52,7 +52,7 @@ From this window, users can import their Facebook media into rtMedia. In the top
 
 By default it will load 10 media only. If there are more media, **Load more** button will be shown.
 
-![rtmedia-facebook-import](https://cloud.githubusercontent.com/assets/2941333/6849186/8ea6ad84-d3f7-11e4-81ba-5a99f01587b4.png)
+![rtmedia-facebook-import](https://cloud.githubusercontent.com/assets/1140051/7654811/60de1a50-fb3d-11e4-83f7-f0e7e8005e73.png)
 
 Users can set **Privacy** of media (if allowed from rtMedia admin settings) and can select **album** before start importing selected media. You can also remove media from upload queue of you don’t want to upload it by clicking on ‘x’. Click on **START UPLOAD** button to start importing selected media from Facebook.
 

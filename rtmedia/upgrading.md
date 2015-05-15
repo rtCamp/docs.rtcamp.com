@@ -27,11 +27,3 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 * [Upgrading rtMedia from 3.2 to 3.3](upgrading/upgrading-rtmedia-3-2-to-3-3.md)
 * [Upgrading to rtMedia 3.5](upgrading/upgrading-to-rtmedia-3-5.md)
 * [Upgrading rtMedia from 3.7.x to 3.8](upgrading/upgrading-rtmedia-3-7-x-to-3-8.md)
-
-## Requirements
-
-
-  1. WordPress 3.6 or higher
-
-
-  2. Compatible up to: WordPress 3.9 + BuddyPress 2.0
