@@ -40,6 +40,7 @@ Similarly can filter by Offerings , Departments, Companies etc.
 
 Authorised Staff members can check ticket statuses  in different formats as shown below :
 
-![helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/6577154/cd6f90d2-c761-11e4-84cd-6b1eb2a71d23.png)
+![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7612951/814298a4-f9ab-11e4-89ea-2a9d601e9d9b.png)
+
 
 

@@ -14,13 +14,13 @@ Now, you will see the screen as shown below:
 
 **1. Support Page -** Here you need to select a WordPress Page to be used as a support page.
 
-i. Select pages already created: From the dropdown, you can select any page already there in your site to be used as support page.
+i) Select pages already created: From the dropdown, you can select any page already there in your site to be used as support page.
 
 ![support_page](https://cloud.githubusercontent.com/assets/8191145/7454947/02883148-f296-11e4-9302-0f0feadd2bee.png)
 
 or
 
-ii. Create a new Support Page: You can create a new support form page by clicking on **-Create New Page-** and enter the name of the page in the textbox.
+ii) Create a new Support Page: You can create a new support form page by clicking on **-Create New Page-** and enter the name of the page in the textbox.
 
 ![new_support_page](https://cloud.githubusercontent.com/assets/8191145/7455191/a16a6ece-f297-11e4-8981-ad4775d21885.png)
 
@@ -34,12 +34,12 @@ ii. Create a new Support Page: You can create a new support form page by clickin
 
 **3. Setup Your Team -** - You can setup your support team in three ways
 
-i. You can search and add users as shown in the screenshot below
+i) You can search and add users as shown in the screenshot below
 ![3_setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7610069/69c8de68-f997-11e4-8780-68f9c92558c7.png)
 
-ii. Add all users from domain
+ii) Add all users from domain
 
-iii. Add all WordPress users
+iii) Add all WordPress users
 
 ![3_2_setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7610686/57f6ff58-f99c-11e4-83b1-97bf282a3e37.png)
 
@@ -49,10 +49,10 @@ iii. Add all WordPress users
 
 **5.Mailbox Setup -** It is required to configure a mailbox for the Helpdesk system for sending emails/ notifications to the users
 
-i. You can set  Gmail, Yahoo, Outlook/Hotmail and other custom accounts as mailboxes.
+i) You can set  Gmail, Yahoo, Outlook/Hotmail and other custom accounts as mailboxes.
 ![5_mailbox_setup](https://cloud.githubusercontent.com/assets/8191145/7610579/93cb11f0-f99b-11e4-911f-ba0ee3348e19.png)
 
-ii. Click on Next and add a name for the Outgoing Emails and select the mailbox from the mailboxes created by you in the previous step.
+ii) Click on Next and add a name for the Outgoing Emails and select the mailbox from the mailboxes created by you in the previous step.
 
 ![5 1_mailbox_setup](https://cloud.githubusercontent.com/assets/8191145/7610587/98bd740a-f99b-11e4-8d36-df29e3d8e24f.png)
 

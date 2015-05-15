@@ -1,82 +1,93 @@
 # Ticket Listing UI
 
-Helpdesk uses the WordPress bahaviour to show tickets listings.
-Here is a screenshot of a sample ticket listing.
 
-** [Screesnhot with numbered areas and A B C marked]**
+Helpdesk uses the WordPress behaviour to show tickets listing.
+Here is a screenshot of the same
 
-![ticket_listings](https://cloud.githubusercontent.com/assets/9676513/6466123/77f6e04a-c1eb-11e4-87da-8f4667f82156.png)
+
+![ticket_listing_latest copy](https://cloud.githubusercontent.com/assets/8191145/7650567/806acfe4-fb15-11e4-91f6-19b3507a08a7.png)
 
 #### A. Listing Columns
 
-1. Ticket ID - Unique ID generated for each ticket.
+1. Ticket - Unique ID generated for each ticket along with ticket title which is the mail subject or form title, as submitted by the ticket author.
 
-2. Ticket Title -  The mail subject or form title, as submitted by the ticket author.
+2. Status -  Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can update the status from ticket's web UI too. (Refer Section 3.4, Point 11)
 
 3. Ticket Assignee - The staff member to whom the ticket is assigned.
 
-4. Status -  Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can update the status from ticket's web UI too.
+4. Ticket Author - Customer name who has created the ticket, appended by the ticket creation timestamp.
 
-5. Ticket Author - Customer name who has created the ticket, appended by the ticket creation timestamp.
+5. Reply Count- The number of replies on a ticket.
 
-6. Comments - The number of replies on a ticket.
+6. Last reply by- Details of the user who replied last in the ticket.
 
-7. ** Updated by ** -  Time stamp when ticket was created. This is appended by the staff/customer name who has creted the ticket.
+7. Offerings -  The offering for which customer has created a ticket. Staff can assign offerings for the tickets created via mails by simply doing a Quick Edit. (Ref: C. Ticket Editing)
 
-8. ** Last reply by**
+8. Teams - You can assign a ticket to various teams (Ref Section 5.1)
 
-9. Offerings -  The offering for which customer has created a ticket. Staff can assign offerings for the tickets created via mails.
-
-10. Contacts - Includes the ticket author and any member he has added in CC while creating the ticket.
-
-11. **Companies**
-
-12. ** Departments ** - Department to which a ticket belongs to. Staff have to update these manually when a ticket arrives.
-
-13. Select Columns - The list columns are user-specific. This means a user can select the columns by  checking the boxes in the screenoptions.
-
-    ** [Screenshot with border] **
-![screen_options](https://cloud.githubusercontent.com/assets/9676513/6466003/b211db28-c1ea-11e4-9070-2cedef4259e9.png)
+9. Contacts - Includes the ticket author and any member he has added in CC while creating the ticket.
 
 
 ### B. Sorting and Filters
 
-** [Screenshot with numbers] **
-
-![filters](https://cloud.githubusercontent.com/assets/9676513/6465970/7adbf31e-c1ea-11e4-8dfd-56dd7c311bd7.png)
+![sorting_n_filters](https://cloud.githubusercontent.com/assets/8191145/7651616/20581480-fb20-11e4-8aa2-e3bab5545b45.png)
 
 
-1. All - Option used to list all tickets with any status, sorted as latest first.
+1. Mine - Lists all tickets assigned to the logged-in staff member.
 
-2. Status filters - Options used to filter tickets with a a particular status. The filtered tickets are sorted as latest first.
+2. All - Option used to list all tickets with any status, sorted as latest first.
 
-3. My tickets - Lists all tickets assigned to the logged-in staff member. The filtered tickets are sorted as latest first.
+3. Unanswered - Lists all the unanswered tickets
 
-4. Filter by Date - Option to filter tickets by date.
+4. Answered - Lists all the answered tickets
 
-5. Filter by Status - Option to filter tickets by ticket status.
+5. Solved - Lists all the solved tickets
 
-6. Filter by Assignee - Option to filter tickets by assignee.
+6. Subscribed - Lists the tickets which the logged in user has subscribed to.
 
-7. Filter by Product - Option to filter tickets by assignee.
+7. Bulk Actions - Used for Bulk Editing and bulk trashing of tickets.
 
-The filters #4 - #7 can be used together to filter tickets.
+8. Filter by Dates - Option to filter tickets by date.
+
+9. Filter by Status - Option to filter tickets by ticket status.
+
+10. Filter by Assignee - Option to filter tickets by assignee.
+
+11. Filter by Product - Option to filter tickets by assignee.
+
+The filters #8 - #11 can be used together to filter tickets. Choose the values and click the Filter button.
+
 
 ### C. Ticket Editing
-1. Edit ticket - Option for where staff can click to access the backend of a ticket.
 
-2. Bulk edit - Use this to bulk edit more than one ticket in one go.
+**1. Quick Edit -** Mouseover any ticket to quickly edit it.
 
-** [Screenshot] **
+![quick_edit](https://cloud.githubusercontent.com/assets/8191145/7651073/257aa762-fb1a-11e4-9e43-276d6a2657c2.png)
 
-![bulk_edit](https://cloud.githubusercontent.com/assets/9676513/6465908/0dac7aca-c1ea-11e4-9219-61e3d967eb22.png)
+
+Clicking Quick Edit link will open the screen as shown below where you can quickly edit and update the important ticket details like ticket's title,offerings, status etc.
+Click on the Update button when editing is finished.
+
+![ticket_listing_latest another copy](https://cloud.githubusercontent.com/assets/8191145/7651113/86098eb8-fb1a-11e4-907a-267ebb700147.png)
+
+
+
+
+**2. Bulk edit -** You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click Apply.
+
+You will see the selected tickets under Bulk Edit similar to  the screenshot below.
+Click on Update button when editing is finished.
+
+![bulk_edit](https://cloud.githubusercontent.com/assets/8191145/7651158/02f42514-fb1b-11e4-858e-77b381a89f97.png)
 
 
 ### D. View Options
 
-1. List View
+1. List View - For viewing tickets in List View
 
-2. See Ticket Content in List View
+2. Pagination- For easily navigating to other pages. You can set number of tickets that can be viewed in one page in Screen Options as explained below.
 
-3. Pagination
+### E. Screen Options
+
+The list columns are user-specific. This means a user can select the columns by  checking the boxes in the screen options located in top right of the page.
 

@@ -2,9 +2,11 @@
 
 It is required to configure a mailbox for the Helpdesk system for sending emails/ notifications to the users. Administrators can set up multiple mailboxes.
 
+![mail_setup](https://cloud.githubusercontent.com/assets/8191145/7652579/9df8c884-fb2b-11e4-8c94-b6580eec527d.png)
+
 ##### 1. Mail Set Up
 
-i. Set up the mailbox by going to **rtHelpdesk Settings -> Mail Setup**.
+i. Set up the mailbox by going to **Helpdesk Settings -> Mail Setup**.
 
 
 ii.Click on 'Add Email'

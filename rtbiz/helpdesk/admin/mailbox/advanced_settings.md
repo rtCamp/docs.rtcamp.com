@@ -1,4 +1,5 @@
 # Advanced Settings
+![advanced_settings](https://cloud.githubusercontent.com/assets/8191145/7652745/354fa940-fb2d-11e4-8f71-637d56d8d975.png)
 
 #### 1. Enable auto assign
 

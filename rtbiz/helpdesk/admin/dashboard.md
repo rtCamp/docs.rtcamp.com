@@ -52,29 +52,3 @@ These reports are presented in form of widgets, which can be activated or deacti
 
 ![new_screen_options](https://cloud.githubusercontent.com/assets/8191145/7613150/a074a4dc-f9ac-11e4-84cd-5d53d8320f01.png)
 
-## Helpdesk Menu
-#### 1. Dashboard
-
-As shown above
-
-#### 2. Tickets
-
-Clicking on this tab will redirect you to the ticket listing section.
-
-To know more about tickets, visit chapter #4.
-
-To know more about ticket listing UI, visit chapter #4.6
-
-![ticket_listing_1](https://cloud.githubusercontent.com/assets/8191145/7628003/820de442-fa3b-11e4-9cf3-f5240e6e9429.png)
-
-
-
-
-#### 3. Add Ticket
-
-Clicking on this tab will redirect you to the interface to add new ticket.
-
-To know more about adding tickets, visit chapter #4.2.
-
-![add_ticket_1](https://cloud.githubusercontent.com/assets/8191145/7628097/539bf03a-fa3c-11e4-9d14-90abcbc14872.png)
-
