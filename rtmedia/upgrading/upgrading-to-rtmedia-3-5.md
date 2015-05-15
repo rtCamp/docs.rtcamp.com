@@ -1,8 +1,4 @@
----
-excerpt: This rtMedia upgrade guide applies only if you have overridden default template
-  files in your theme.
-title: Upgrading To rtMedia 3.5
----
+## Upgrading To rtMedia 3.5
 
 This upgrade guide applies to you only if you have overridden [rtMedia template files](https://rtcamp.com/rtmedia/docs/developer/templating-system/).
 

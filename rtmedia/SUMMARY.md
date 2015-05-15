@@ -51,6 +51,10 @@
    * [Show last N images in header]
    * [Themes]
 * [Troubleshooting](troubleshooting/README.md)
+* [Upgrading](upgrading.md)
+   * [Upgrading rtMedia from 3.2 to 3.3](upgrading/upgrading-rtmedia-3-2-to-3-3.md)
+   * [Upgrading to rtMedia 3.5](upgrading/upgrading-to-rtmedia-3-5.md)
+   * [Upgrading rtMedia from 3.7.x to 3.8](upgrading/upgrading-rtmedia-3-7-x-to-3-8.md) 
 * [Addons](addons/README.md)
    * [FFMpeg](addons/ffmpeg.md)
    * [Instagram](addons/rtmedia-instagram.md)
