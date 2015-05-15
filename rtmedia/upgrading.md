@@ -1,6 +1,4 @@
----
-title: Upgrading
----
+## Upgrading
 
 The rtMedia plugin is updated regularly.
 We strongly advise you to make sure that your site is running the latest software,
@@ -24,6 +22,11 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 
 [rtMedia version](http://wordpress.org/plugins/buddypress-media/)
 
+## Links
+
+* [Upgrading rtMedia from 3.2 to 3.3](upgrading/upgrading-rtmedia-3-2-to-3-3.md)
+* [Upgrading to rtMedia 3.5](upgrading/upgrading-to-rtmedia-3-5.md)
+* [Upgrading rtMedia from 3.7.x to 3.8](upgrading/upgrading-rtmedia-3-7-x-to-3-8.md)
 
 ## Requirements
 
@@ -32,11 +35,3 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 
 
   2. Compatible up to: WordPress 3.9 + BuddyPress 2.0
-
-
-
-
-## Upgrading Archive
-
-
-{% child_pages depth:1 %}
