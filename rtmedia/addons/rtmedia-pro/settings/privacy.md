@@ -1,9 +1,6 @@
----
-title: Privacy
----
+## Privacy
 
-### ![Privacy rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/Privacy-rtMedia-PRO.jpg)
-
+![privacy](https://cloud.githubusercontent.com/assets/1140051/7648608/8b9c8cd0-fb02-11e4-8221-a21f2b71207c.png)
 
 ### Enable Privacy
 
@@ -12,7 +9,7 @@ To use rtMedia’s privacy settings, first turn on **Enable Privacy**. Then, ena
 
 Users can also choose the privacy level while sharing media or other items, as shown below:
 
-[![User privacy settings can override the rtMedia backend settings](https://rtcamp.com/wp-content/uploads/2013/09/UsersSettingPrivacyBuddyPressUpdates.png)](https://rtcamp.com/wp-content/uploads/2013/09/UsersSettingPrivacyBuddyPressUpdates.png)
+![privacy-media](https://cloud.githubusercontent.com/assets/1140051/7648664/025c1552-fb03-11e4-900c-f5ab322a3838.png)
 
 
 ### Default Privacy
@@ -20,16 +17,16 @@ Users can also choose the privacy level while sharing media or other items, as s
 
 This option allows you to set the default privacy for all of the media that you have uploaded on your WordPress site. There are 4 options:
 
-	
+
   * **Private**
 
-	
+
   * **Friends**
 
-	
+
   * **Logged In Users**
 
-	
+
   * **Public**
 
 

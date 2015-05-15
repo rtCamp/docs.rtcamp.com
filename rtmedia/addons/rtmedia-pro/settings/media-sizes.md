@@ -1,9 +1,6 @@
----
-title: Image Sizes
----
+## Image Sizes
 
-[![Image Sizes rtMedia PRO](http://docs.rtcamp.com/wp-content/uploads/2014/06/Image-Sizes-rtMedia-PRO.jpg)](http://docs.rtcamp.com/wp-content/uploads/2014/06/Image-Sizes-rtMedia-PRO.jpg)
-
+![image sizes](https://cloud.githubusercontent.com/assets/1140051/7648586/4c07a32a-fb02-11e4-900a-9a1e36bf1963.png)
 
 ### Category
 

@@ -1,4 +1,4 @@
-# Premium Add-on for rtMedia plugin
+## Premium Add-on for rtMedia plugin
 
 rtMedia is a free plugin available in the [WordPress plugin directory](https://wordpress.org/plugins/buddypress-media). However, there are addons that extend the capabilities of this free rtMedia Plugin.
 
@@ -7,29 +7,22 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 ### rtMedia Addons and Paid Services
 
 
-  1. **[rtMedia -PRO*](./rtmedia-pro/rtmedia-pro.md)**Extend settings, use added features and get 1-on-1 support.
-  2. [**rtMedia Photo Tagging**
-](http://docs.rtcamp.com/rtmedia/addons/photo-tagging/)Users can tag themselves or their friends on their own or friends photos.[
-](http://docs.rtcamp.com/rtmedia/addons/photo-tagging/)
-  3. [**rtMedia Photo Filters**
-](http://docs.rtcamp.com/rtmedia/addons/rtmedia-instagram/)Allows users to use photo filters on images they have uploaded.
-  4. **[rtMedia FFmpeg](http://docs.rtcamp.com/rtmedia/addons/ffmpeg/)**
-  5. [**rtMedia Kaltura**
-](http://docs.rtcamp.com/rtmedia/addons/rtmedia-kaltura-add-on/)Automatically converts videos uploaded with rtMedia along with Kaltura account.[
-](http://docs.rtcamp.com/rtmedia/addons/rtmedia-kaltura-add-on/). For more [information see](/rtmedia/addons/compare-encoding-solutions/).
-  6. **[rtMedia Watermark Add-on](http://docs.rtcamp.com/rtmedia/addons/watermark)**
-Add your own watermarks to your images.
-  7. **[rtMedia Membership Add-on](http://docs.rtcamp.com/rtmedia/addons/membership)**
-Manage memberships to your WordPress site(s) with rtMedia installed
-  8. **[rtMedia Social Sync](http://docs.rtcamp.com/rtmedia/addons/rtmedia-social-sync)**
-Import or publish media to popular social media.
+  1. [rtMedia -PRO](./rtmedia-pro/rtmedia-pro.md) - Providing extra features like  *moderation, likes, star rating, RSS, etc*
+
+  2. [rtMedia FFmpeg](../addons/ffmpeg.md) - Convert audio-video files of any format to mp3 & mp4.
+
+  3. [rtMedia Photo Filters](../addons/rtmedia-instagram.md) - Provid instagram photo effects on uploaded images.
+
+  4. [rtMedia Kaltura](../addons/rtmedia-kaltura-addon.md) - Automatically converts videos uploaded from rtMedia via Kaltura account
+
+  5. [rtMedia Photo Tagging](../addons/photo-tagging.md) - Users can tag themselves or their friends on their own or friends photos.
+
+  6. [rtMedia Watermark Add-on](../addons/rtmedia-watermark.md) Add watermarks text to uploaded images.
+
+  7. [rtMedia Social Sync](../addons/rtmedia-social-sync.md) - Import media from popular social media site like Facebook.
+
+  8. [rtMedia Membership Add-on](../addons/membership.md) - Manage memberships to your WordPress site with rtMedia installed
 
 
- rtMedia -PRO add-on is not required to purchase the other add-ons mentioned here. They all work independently and have their independent features.
 
-
-### rtMedia compatible Theme
-
-
-  1. **[InspireBook Theme](/inspirebook/)**
-  2. **[rtDating Theme](/rtdating/)**
+ *rtMedia -PRO add-on is not required to purchase the other add-ons mentioned here. They all work independently and have their independent features.*
