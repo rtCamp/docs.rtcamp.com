@@ -9,23 +9,23 @@ Here is a screenshot of the same
 
 #### A. Listing Columns
 
-1. Ticket - Unique ID generated for each ticket along with ticket title which is the mail subject or form title, as submitted by the ticket author.
+1. Ticket - Helpdesk automatically assigns a unique id for each ticket. Along with ID, the ticket title shows here which is the mail subject or support form title, as submitted by the ticket author.
 
-2. Status -  Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can update the status from ticket's web UI too. (Refer Section 3.4, Point 11)
+2. Status -  Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can update the status from ticket's web ui too. (Refer Section 3.4, Point 11)
 
 3. Ticket Assignee - The staff member to whom the ticket is assigned.
 
-4. Ticket Author - Customer name who has created the ticket, appended by the ticket creation timestamp.
+4. Ticket Author - Name of the person who created the ticket, appended by the ticket creation timestamp.
 
-5. Reply Count- The number of replies on a ticket.
+5. Reply Count - The number of replies on a ticket.
 
-6. Last reply by- Details of the user who replied last in the ticket.
+6. Last reply by - Details of the user who replied last in the ticket.
 
-7. Offerings -  The offering for which customer has created a ticket. Staff can assign offerings for the tickets created via mails by simply doing a Quick Edit. (Ref: C. Ticket Editing)
+7. Offerings -  The offering/product for which the customer is creating the ticket. Staff can assign offerings for the tickets created via mails by simply doing a Quick Edit. (Ref: C. Ticket Editing below)
 
 8. Teams - You can assign a ticket to various teams (Ref Section 5.1)
 
-9. Contacts - Includes the ticket author and any member he has added in CC while creating the ticket.
+9. Contacts - Includes the ticket author,any member he has added in cc while creating the ticket.
 
 
 ### B. Sorting and Filters
@@ -33,7 +33,7 @@ Here is a screenshot of the same
 ![sorting_n_filters](https://cloud.githubusercontent.com/assets/8191145/7651616/20581480-fb20-11e4-8aa2-e3bab5545b45.png)
 
 
-1. Mine - Lists all tickets assigned to the logged-in staff member.
+1. Mine - Clicking mine lists all the tickets assigned to the logged-in staff member.
 
 2. All - Option used to list all tickets with any status, sorted as latest first.
 
@@ -45,7 +45,7 @@ Here is a screenshot of the same
 
 6. Subscribed - Lists the tickets which the logged in user has subscribed to.
 
-7. Bulk Actions - Used for Bulk Editing and bulk trashing of tickets.
+7. Bulk Actions - Used for Bulk Editing and moving the tickets to trash.
 
 8. Filter by Dates - Option to filter tickets by date.
 
@@ -60,23 +60,26 @@ The filters #8 - #11 can be used together to filter tickets. Choose the values a
 
 ### C. Ticket Editing
 
-**1. Quick Edit -** Mouseover any ticket to quickly edit it.
+**1. Quick Edit -** i) Mouseover any ticket to quickly edit it.
 
 ![quick_edit](https://cloud.githubusercontent.com/assets/8191145/7651073/257aa762-fb1a-11e4-9e43-276d6a2657c2.png)
 
 
-Clicking Quick Edit link will open the screen as shown below where you can quickly edit and update the important ticket details like ticket's title,offerings, status etc.
-Click on the Update button when editing is finished.
+ii) Clicking Quick Edit link will open the screen as shown below where you can quickly edit and update the important ticket details like ticket's Title,Offerings, Teams, Status etc.
+
+iii) Click on the Update button when editing is done.
 
 ![ticket_listing_latest another copy](https://cloud.githubusercontent.com/assets/8191145/7651113/86098eb8-fb1a-11e4-907a-267ebb700147.png)
 
 
 
 
-**2. Bulk edit -** You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click Apply.
+**2. Bulk edit -** i) You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click on Apply button.
 
-You will see the selected tickets under Bulk Edit similar to  the screenshot below.
-Click on Update button when editing is finished.
+ii) You will see the selected tickets under Bulk Edit similar to  the screenshot below.
+You as an admin and staff members with Editor role in helpdesk will be able to edit the details for multiple tickets as shown in the screenshot below. Staff with author role will only be able to edit the tickets assigned to them.
+
+iii) Click on Update button when editing is finished.
 
 ![bulk_edit](https://cloud.githubusercontent.com/assets/8191145/7651158/02f42514-fb1b-11e4-858e-77b381a89f97.png)
 
@@ -89,5 +92,6 @@ Click on Update button when editing is finished.
 
 ### E. Screen Options
 
-The list columns are user-specific. This means a user can select the columns by  checking the boxes in the screen options located in top right of the page.
+The list columns are user-specific. This means a user can select the columns by  checking the boxes in the screen options located in top right of the page. Check the screenshot below.
 
+![screen_options](https://cloud.githubusercontent.com/assets/8191145/7675245/acbfe080-fd53-11e4-9b64-bab183628df1.png)
