@@ -2,11 +2,7 @@
 
 After installing and activating Helpdesk, the Setup Wizard will guide you to set up and customize the Helpdesk system.
 
-Click on **Begin Setup** to continue.
-
-![begin setup](https://cloud.githubusercontent.com/assets/8191145/7454689/b05d6e4e-f293-11e4-8fd6-24a23e47560b.png)
-
-Now, you will see the screen as shown below:
+You will see the screen as below:
 
 ![1_support_page](https://cloud.githubusercontent.com/assets/8191145/7609097/36a138b4-f98d-11e4-876a-4b68adff359f.png)
 
@@ -24,26 +20,35 @@ ii) Create a new Support Page: You can create a new support form page by clickin
 
 ![new_support_page](https://cloud.githubusercontent.com/assets/8191145/7455191/a16a6ece-f297-11e4-8981-ad4775d21885.png)
 
-**2. Connect Store -** In this step, you can connect your WooCommerce or Easy Digital Download Products with Helpdesk. Helpdesk will automatically select the active eCommerce plugin for you.
+**2. Connect Store -** In this step, you can connect your WooCommerce or Easy Digital Download Products (EDD) store with Helpdesk.
 
 ![2_connect_store](https://cloud.githubusercontent.com/assets/8191145/7609244/abfc51ec-f98e-11e4-8572-4f0f31b41477.png)
 
- and you can also create custom products/offerings by ticking the Custom checkbox and entering the name of the product/offering as shown in the screenshot below.
+You can also create custom product by ticking the 'Custom' checkbox and entering the name of the product/offering as shown in the screenshot below.
 
-![custom](https://cloud.githubusercontent.com/assets/8191145/7609924/e54339e6-f995-11e4-90ac-b63ae433fb7d.png)
+![add custom product](https://cloud.githubusercontent.com/assets/9676513/7681401/a3b81d7e-fd8d-11e4-96e4-778841e5377d.png)
 
-**3. Setup Your Team -** - You can setup your support team in three ways
+The products from the selected plugin/s and/or the custom created product, will be automatically imported to Helpdesk in 'Offerings' section.
 
-i) You can search and add users as shown in the screenshot below
+**3. Setup Your Team -** You can setup your support team in three ways
+
+i) Search and add WordPress users as shown in the screenshot below
 ![3_setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7610069/69c8de68-f997-11e4-8780-68f9c92558c7.png)
 
-ii) Add all users from domain
+ii) Add users from a domain - You can use this option if you want add all the WordPress users who have similar domain name.
 
-iii) Add all WordPress users
+iii) Add all WordPress users - Using this option you can import all the WordPress users into Staff, in a single click.
+
+You can give roles to all these new staff members. The Helpdesk roles are same as WordPress roles.
+* Admin - Can manage all tickets and Helpdesk settings.
+* Editor - Can manage all the tickets. No access to settings.
+* Author - Can manage only the tickets assigned to them. No access to settings.
 
 ![3_2_setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7610686/57f6ff58-f99c-11e4-83b1-97bf282a3e37.png)
 
-**4. Set Assignee -**  Here you set default assignees for offerings.A ticket created for an offering will be assigned to the default assignee set by you. For example, Staff member Carl Lewis will receive any ticket created for Offering Helpdesk as shown in the screenshot below
+**4. Set Assignee -**  A ticket created for an offering will be assigned to the default assignee
+
+The admin of the Heldesk is kept as default assignee for all the offerings. You can set a default assignee for each of the offerings from the list of staff members.
 
 ![4_setup_assignee](https://cloud.githubusercontent.com/assets/8191145/7610595/a5ebfcbe-f99b-11e4-9526-dcfdbd1c0c1f.png)
 
