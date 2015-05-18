@@ -28,7 +28,10 @@ iv) Refresh the settings area. The newly created support page will be populated 
 
 
 
-The support form looks similar to the image below
+
+
+#### The support form looks similar to the image below
+
 
 ![support_form](https://cloud.githubusercontent.com/assets/8191145/7654087/05c07992-fb38-11e4-9d7b-c43be58ea6fb.png)
 
