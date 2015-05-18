@@ -28,6 +28,6 @@ rtMedia can be used anywhere in the form of an **uploader** and a **gallery**.
 * The gallery can be usually accessed by appending`/media`at the end of a WordPress URL. If it is a valid context, media uploaded from rtMedia Uploader will show up, as you can see in the picture below.
 
 
-  [![/media at the end of a URL ](https://rtcamp.com/wp-content/uploads/2013/08/mediaAtEndOfURL.png)](https://rtcamp.com/wp-content/uploads/2013/08/mediaAtEndOfURL.png)
+![media display](https://cloud.githubusercontent.com/assets/1140051/7677571/c5db12c6-fd6a-11e4-9a2f-b2e5fca90ec6.png)
 
 * More details on the [gallery shortcode can be found in the documentation page](/shortcodes/gallery-shortcode.md).

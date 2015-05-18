@@ -6,7 +6,7 @@ The addon's foremost feature is uploading and converting the entire audio and vi
 
 Along with converting your videos, the [FFMPEG converter](https://rtcamp.com/products/rtmedia-ffmpeg-addon/) also creates and sets an image thumbnail. It uses an algorithm to choose the best thumbnail. It also creates two additional thumbnails that you can switch to, in case you do not like the default one.
 
-You can test this on our [live demo server](http://demo.rtcamp.com/bpm-ffmpeg/). The following screenshot shows the interface to select a thumbnail:
+You can test this on our [live demo server](http://demo.rtcamp.com/rtmedia-ffmpeg/). The following screenshot shows the interface to select a thumbnail:
 
 ![rtmedia-ffmpeg-video-thumbail-selection](https://cloud.githubusercontent.com/assets/1140051/7650512/d2df2ab4-fb14-11e4-9031-105c24cfca5a.png)
 
@@ -19,7 +19,7 @@ You can test this on our [live demo server](http://demo.rtcamp.com/bpm-ffmpeg/)
 	2. Install a free & open-source media-node project to handle FFMPEG conversion/encoding queue, as per the [instructions here](https://rtcamp.com/media-node/).
 
   3. OS Requirement for media-node: Ubuntu 8.04 and higher, Debian 6.x and higher, Centos 6.x and higher, RHEL 6.x and higher. No support for Windows or Mac servers.
-  
+
   4. Make sure that the Media-Node Server is always running.
 
 

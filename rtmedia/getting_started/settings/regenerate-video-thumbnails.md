@@ -1,6 +1,9 @@
 ## Regenerate Video Thumbnails
 
-Video thumbnails can be generated for videos uploaded through [rtMedia's Audio/Video encoding service](https://rtcamp.com/rtmedia/addons/audio-video-encoding-service/). The number of video thumbnails to generate for each upload can be set from **rtMedia** > **Settings** > **Media Sizes**. *(this option will only show if encoding service activated)
+Video thumbnails can be generated for videos uploaded through [rtMedia's Audio/Video encoding service](https://rtcamp.com/rtmedia/addons/audio-video-encoding-service/).
+The number of video thumbnails to generate for each upload can be set from **rtMedia** > **Settings** > **Media Sizes**.
+
+*(this option will only show if encoding service activated)*
 
 ![thumbnail](https://cloud.githubusercontent.com/assets/1140051/7585011/6ba1cc82-f8bf-11e4-832b-826bde8591a1.png)
 

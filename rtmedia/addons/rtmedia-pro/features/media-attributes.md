@@ -35,4 +35,4 @@ Also, site admin can found all these `Attributes` under `Media` section in WordP
 
 ## Attributes Shortcodes
 
-Please read document here [http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code](http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code)
+Please read document [here](../../../getting_started/features/shortcodes/gallery-shortcode.html)

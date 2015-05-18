@@ -1,6 +1,4 @@
----
-title: Filter to change media gallery header title
----
+##  Filter to change media gallery header title
 
 You can use the filter `rtmedia_gallery_title` in your theme and can modify the default media gallery title  **"Media Gallery"** under media tab.
 

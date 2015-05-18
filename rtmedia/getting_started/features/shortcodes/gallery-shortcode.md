@@ -16,14 +16,12 @@ If set to TRUE, context, context_id will be ignored. Only media_type value will 
 
 ### context
 
-The [context](http://docs.rtcamp.com/rtmedia/developer/context/) from which the media should be listed:
+The [context](../../../developers/context.md) from which the media should be listed:
 
 
   * a post_type (post, page, event, topic, reply, etc)
 
-
   * a BuddyPress Component (activity, profile, group)
-
 
   * a custom context, registered via code
 
@@ -141,12 +139,9 @@ Note: Default rtMedia **privacy levels** and their values are as follow :
 
   1. Public : 0
 
-
   2. Logged in user : 20
 
-
   3. Friends : 40
-
 
   4. Private : 60
 
@@ -193,7 +188,6 @@ Following are the allowed values for `sort_parameters`. Use comma separated valu
 ![sort parameters](https://cloud.githubusercontent.com/assets/7807348/6060841/92a68000-ad67-11e4-892b-378c6995cc7f.png)
 
 
-
 ## Attributes Short-Code
 
 
@@ -236,8 +230,7 @@ For safety of your users, `rtmedia_gallery` will always fetch public content o
 
   1. Uploads in private buddypress groups will not show even if a user can access by going to that particular buddypress-group
 
-
-  2. Uploads for buddypress-profiles, limited to friends or logged-in users will not show up even if viewer can access them directly by going to a user profile.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2. Uploads for buddypress-profiles, limited to friends or logged-in users will not show up even if viewer can access them directly by going to a user profile.
 
 
 Idea is to protect privacy by default.

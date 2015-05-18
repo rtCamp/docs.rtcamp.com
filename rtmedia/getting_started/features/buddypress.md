@@ -24,4 +24,4 @@ The **All** tab displays thumbnails of all recently uploaded media or other item
 
 Media is classified under Albums, Photos, Videos and Music. If the [rtMedia PRO add-on](https://rtcamp.com/products/rtmedia-pro/) is running on the site, additional tabs of Playlists, Documents and Others will also be provided.
 
-[![Media Tab BuddyPress Profiles](https://rtcamp.com/wp-content/uploads/2013/09/mediaTabBuddyPressProfiles.png)](https://rtcamp.com/wp-content/uploads/2013/09/mediaTabBuddyPressProfiles.png)
+![media tabs](https://cloud.githubusercontent.com/assets/1140051/7677494/32920b0a-fd6a-11e4-8d22-c3c1fe096737.png)

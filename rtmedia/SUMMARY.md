@@ -44,6 +44,7 @@
    * [Hooks](developers/hooks/rtmedia-hooks.md)
       * [Change Default Media Found Message Media Tab](developers/hooks/rtmedia-hooks/change-default-media-found-message-media-tab.md)
       * [Filter To Change Text Of Post Update Message](developers/hooks/rtmedia-hooks/filter-to-change-text-of-post-update-message.md)
+      * [rtmedia_gallery_title](developers/hooks/rtmedia-hooks/filter-to-change-media-gallery-header-title.md)
       * [Media Gallery Widget](developers/hooks/rtmedia-hooks/media-gallery-widget.md)
       * [rtMedia Add Edit Fields](developers/hooks/rtmedia-hooks/rtmedia-add-edit-fields.md)
       * [rtMedia After Update Media](developers/hooks/rtmedia-hooks/rtmedia-after-update-media.md)

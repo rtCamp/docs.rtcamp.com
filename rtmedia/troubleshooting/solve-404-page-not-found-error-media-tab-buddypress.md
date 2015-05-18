@@ -22,6 +22,6 @@ When rtMedia is freshly installed, it refreshes WordPress's permalinks, automati
 
 If the media tabs still display the 'page not found' error, the problem is usually another plugin that also uses custom permalinks. If such a plugin does not follow the standard hooks and actions provided by WordPress, it can break rtMedia's permalink structure.
 
-Check if a plugin is causing such a conflict. Use this [Conflict Diagnosis Guide](../troubleshooting/conflict-diagnosis-guide-wordpress-plugins/).
+Check if a plugin is causing such a conflict. Use this [Conflict Diagnosis Guide](conflict-diagnosis-guide-wordpress-plugins.md).
 
 If it still persists, [contact support](http://community.rtcamp.com/category/rtmedia/) with details.

@@ -15,7 +15,7 @@
 * [Customize Media Gallery Template](customize-media-gallery-template.md)
 * [Database Description](./database-description.md)
 * [Featured Media](./featured-media.md)
-* [Hooks](./hooks.md)
+* [Hooks](./hooks/rtmedia-hooks.md)
 * [Keywords to Get rtMedia Image Sizes](./keywords-get-rtmedia-image-sizes.md)
 * [Remove media file names](./remove-media-file-names.md)
 * [Remove post-editor Shortcode Button](./remove-post-editor-shortcode-button.md)
