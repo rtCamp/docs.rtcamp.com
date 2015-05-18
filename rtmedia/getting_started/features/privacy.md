@@ -2,7 +2,7 @@
 
 rtMedia allows Admins to setup privacy for the end-user. Admins can do this by using `rtMedia > Settings > Privacy`.
 
-(Check [rtMedia Settings Documentation](../settings/settings.md)
+Check [rtMedia Settings Documentation](../settings/settings.md)
 
 If **User Override** is enabled by setting the switch to **ON**, a drop-down list appears so that users can choose who sees their uploaded media. (See the following screen shot).
 
