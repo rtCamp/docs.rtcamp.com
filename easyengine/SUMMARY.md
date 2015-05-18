@@ -1,6 +1,6 @@
 # Summary
 * [Quick Setup](./install/quicksetup.md)
-    * [Cheatsheet]
+    * [Cheatsheet](./commands/cheatsheet.md)
 - [Commands](./commands/README.md)
     * [site](./commands/site/README.md)
          * [cd](./commands/site/cd/README.md)
@@ -31,6 +31,6 @@
     * [Cement Tutorial](./dev/cliapps/README.md)
     * [Plugin Developement](./dev/plugins/README.md)
 - [Troubleshooting](./troubleshooting/README.md)
-    * [Known Issues](./troubleshoting/issues.md)
+    * [Known Issues](./troubleshooting/issues.md)
     * [FAQ](./troubleshooting/faq.md)
     * [Debugging](./troubleshooting/debugging.md)
