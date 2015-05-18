@@ -1,8 +1,24 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
+
 permalink: /:title
 
-exclude: [".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md","*/node_modules/*","rtbiz/"]
+timezone: 'Asia/Kolkata'
+
+exclude: [".rvmrc",
+          ".rbenv-version",
+          "readme.md",
+          "Rakefile",
+          "changelog.md",
+          "*/node_modules/*",
+          "rtbiz/core/dev",
+          "rtbiz/core/user",
+          "rtbiz/helpdesk/staff",
+          "rtbiz/helpdesk/admin"]
+
+include: ["rtbiz/core/index.md",
+          "rtbiz/helpdesk/index.md",
+          "rtbiz/index.md"]
 
 highlighter: pygments
 

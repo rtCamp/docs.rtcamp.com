@@ -81,3 +81,20 @@ Similarly,to disable Pagespeed on site you can use following commands:
 By default EasyEngine does not enables any filters for Pagespeed, you can add various filters from https://developers.google.com/speed/pagespeed/module/config_filters using command
 
 	ee site edit example.com --pagespeed
+
+
+### Update site configuration as Proxy configuration
+(Note: This feature is available with EasyEngine 3.1.2 and onwards)
+
+To update existing site configuration to proxy configuration use
+
+	ee site update example.com --proxy=host[:port]
+
+
+Here port is optional and default value is 80.
+
+For example, you can update exisiting configuration of example.com using
+
+	ee site update example.com --proxy=1.2.3.4
+
+

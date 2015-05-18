@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-You will need to have following installed on your server before installing rtBiz.
+You will need to have following installed on your server before installing Helpdesk
 
 * PHP 5.4 or above
 * WordPress 4.1 or higher (Ref: [The Famous 5-Minute WordPress Install](https://codex.wordpress.org/Installing_WordPress#Famous_5-Minute_Install))
@@ -10,7 +10,6 @@ You will need to have following installed on your server before installing rtBiz
 
 ### Installation
 
-Installation
 
 Please follow these simple steps to install rtBiz Helpdesk plugin.
 
@@ -20,13 +19,13 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 3. Activate it through the ‘Plugins’ section.
 
-4. The plugin will ask you to install rtBiz & Posts to Posts plugins. Please install & activate them.
+4. The rtBiz Helpdesk plugin will automatically install and activate rtBiz & Posts to Posts plugins.
 
-5. Now you should be able to see ‘rtBiz’ & ‘Helpdesk’ tabs on your WordPress site.
+5. The Setup Wizard will appear which will guide you to customize the Helpdesk plugin.(See section 1.1)
 
 
 
 ### Theme Compatibility
-This plugin has been optimized to work with default WordPress themes, namely: Twenty Fifteen, Twenty Fourteen, Twenty Thirteen.
+This plugin has been optimized to work with default WordPress themes, namely: Twenty Fifteen, Twenty Thirteen, Twenty Twelve.
 
 

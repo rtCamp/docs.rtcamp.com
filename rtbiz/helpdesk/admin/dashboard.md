@@ -2,13 +2,15 @@
 
 The Helpdesk dashboard is collection of widgets. The Helpdesk dashboard looks something as in the screenshot below:
 
-![dashboard](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/47469df3c6/dashboard.png)
+![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7612951/814298a4-f9ab-11e4-89ea-2a9d601e9d9b.png)
+
 
 ##### 1. Welcome Widget
 
-The welcome widgets consists of quick links that helps you get started with Helpdesk. The links are to settings, new ticket page, attributes etc
+The welcome widget consists of quick links that helps you get started with Helpdesk. The links are to settings, adding support ticket,setting up attributes, adding teams etc.
 
-![welcome_widget](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/470d9e0ee5/welcome_widget.png)
+![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7611787/5bd155ee-f9a4-11e4-8a9d-4a1e89266ef6.png)
+
 
 ##### 2. Tickets by Status
 
@@ -27,44 +29,26 @@ Shows the number and percentage of tickets per product/offerings
 ![offerings_new](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/4723ff996c/offerings_new.png)
 
 
-#####5. Team Load
+#####5. WorkLoad
 
 Shows the number of Unanswered , Answered and Archived tickets per staff members in a tabular format.
-![teamload](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/1b67bba672/teamload.png)
+
+![workload](https://cloud.githubusercontent.com/assets/8191145/7612003/a38e813a-f9a5-11e4-9f83-a71c643c8b4b.png)
+
 
 #####6. Ticket conversion from sales
 
 ![ticket_conversion_new](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/4131f80916/ticket_conversion_new.png)
 
-#####7. Top Clients
-![top_clients](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/34bffc1e25/top_clients.png)
+#####7. Top Customers
+
+![new_top_customers](https://cloud.githubusercontent.com/assets/8191145/7613026/db22533c-f9ab-11e4-8015-2bc3c602bfbc.png)
+
 
 #####8. Screen Options
 The dashboard presents you a quick reports of the tickets in the helpdesk system in various formats.
 
 These reports are presented in form of widgets, which can be activated or deactivated from the screen options tab on the top right of the screen.
 
-![screen_options_new](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/b4f9efb158/screen_options_new.png)
-## Helpdesk Menu
-#### 1. Dashboard
+![new_screen_options](https://cloud.githubusercontent.com/assets/8191145/7613150/a074a4dc-f9ac-11e4-84cd-5d53d8320f01.png)
 
-As shown above
-
-#### 2. Tickets
-
-Clicking on this tab will redirect you to the ticket listing section.
-
-To know more about tickets, visit chapter #4.
-
-To know more about ticket listing UI, visit chapter #4.6
-
-![ticket_listing](https://cloud.githubusercontent.com/assets/9676513/6571364/9b6d6c8c-c72d-11e4-9488-847bc46c6b4d.png)
-
-
-#### 3. Add Ticket
-
-Clicking on this tab will redirect you to the interface to add new ticket.
-
-To know more about adding tickets, visit chapter #4.2.
-
-![add_ticket](https://cloud.githubusercontent.com/assets/9676513/6571362/9b215176-c72d-11e4-8480-8307b474d3b4.png)

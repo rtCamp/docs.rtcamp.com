@@ -93,3 +93,4 @@
   * [rtmedia_no_media_found_message_filter](./rtmedia-hooks/change-default-media-found-message-media-tab.md)
   * [rtmedia_allow_uploader_view](./rtmedia-hooks/rtmedia-allow-uploader-view.md)
   * [rtmedia_post_update_click_message](./rtmedia-hooks/filter-to-change-text-of-post-update-message.md)
+  * [rtmedia_gallery_title](./rtmedia-hooks/filter-to-change-media-gallery-header-title.md)

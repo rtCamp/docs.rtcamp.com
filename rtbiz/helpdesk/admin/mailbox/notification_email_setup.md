@@ -1,5 +1,8 @@
 # Notification Email Setup
 
+
+![notification_emails](https://cloud.githubusercontent.com/assets/8191145/7652578/99fcb6f0-fb2b-11e4-9d0f-60fccbfd21ee.png)
+
 Admins can customize email notifications for following members:
 
 i. **Ticket Author/ Client** : Any user/customer on whose request/mail ticket is created.

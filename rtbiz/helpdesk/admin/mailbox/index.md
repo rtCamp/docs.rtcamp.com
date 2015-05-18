@@ -1,14 +1,12 @@
 # Settings
 
-### Setting Access
+### Settings Access
 
-Follwing users have read and write access to Helpdesk settings:
+Following users have read and write access to Helpdesk settings:
 
 1. WordPress administrator
 
-2. rtBiz contact who has admin access to Helpdesk
-
-3. rtBiz contact whose department has admin access
+2. Contacts who have admin role in Helpdesk
 
 All the other roles do not have any access to settings.
 
@@ -20,16 +18,12 @@ For example: There will be an option in 'Settings' for users to unsubscribe from
 
 ### Settings Interface
 
-The interface looks as in the screenshot below. Every settings tab is being covered in subesequent chapeters.
+The interface looks as in the screenshot below. Every settings tab is being covered in subsequent chapters.
 
-![settings](https://cloud.githubusercontent.com/assets/9676513/6479402/bacccd42-c26a-11e4-879e-6ea19f62ce6b.png)
+![settings](https://cloud.githubusercontent.com/assets/8191145/7652152/fd3ef2fa-fb26-11e4-9883-5a5512e35835.png)
 
 
 # Mailbox
-
-![Access](http://git.rtcamp.com/uploads/rtbiz/rtbiz/a8bd630377/IMG_5095.JPG)
-
-![Mail](http://git.rtcamp.com/uploads/rtbiz/rtbiz/0569371077/IMG_5096.JPG)
 
 ![Helpdesk_Mail_Workflow](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/b669c8b5b6/Helpdesk_Mail_Workflow.png)
 

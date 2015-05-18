@@ -43,6 +43,7 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 
 * [Upgrading from rtMedia 3.2.x to 3.3.x](/rtmedia/upgrading/upgrading-rtmedia-3-2-to-3-3/)	
 * [Upgrading To rtMedia 3.5](/rtmedia/upgrading/upgrading-to-rtmedia-3-5/)
+* [Upgrade to rtMedia 3.8](/rtmedia/upgrading/upgrade-to-rtmedia-3.8/)
 
 ## [5. Developers](/rtmedia/developer/)
 

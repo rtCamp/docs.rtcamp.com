@@ -6,7 +6,7 @@ There are three status for a ticket that the current version of Helpdesk support
 
 2. **Answered** - Represents that a ticket has been answered by staff.
 
-3. **Solved** - Represents that a ticket has been resolved by staff.
+3. **Solved** -  Represents that a ticket has been resolved by staff.
 
 Note: The new versions of helpdesk will have provision to create custom status.
 
