@@ -1,6 +1,5 @@
 # Summary
 * [Quick Setup](./install/quicksetup.md)
-    * [Cheatsheet](./commands/cheatsheet.md)
 - [Commands](./commands/README.md)
     * [site](./commands/site/README.md)
          * [cd](./commands/site/cd/README.md)
@@ -24,6 +23,7 @@
     * [sync](./commands/sync/README.md)
     * [import-slow-log](./commands/import-slow-log/README.md)
 - [EasyEngine Internals](./internal/README.md)
+    * [EasyEngine Configuration](./internal/configuration.md)
     * [EasyEngine Database](./internal/db.md)
 - [Developer Documentation](./dev/README.md)
     * [Language and Libraries](./dev/python/README.md)
@@ -33,4 +33,3 @@
 - [Troubleshooting](./troubleshooting/README.md)
     * [Known Issues](./troubleshooting/issues.md)
     * [FAQ](./troubleshooting/faq.md)
-    * [Debugging](./troubleshooting/debugging.md)

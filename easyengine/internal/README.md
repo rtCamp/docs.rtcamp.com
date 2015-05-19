@@ -1,7 +1,9 @@
 # EasyEngine Internals
 
+### [EasyEngine Configuration](./configuration.md)
+
 ### NGINX config files added by EasyEngine
-EasyEngine adds following file to `/etc/nginx/` directory having configurations for different purposes.
+EasyEngine adds following configuration files to `/etc/nginx/` directory having configurations different purposes.
 
     /etc/nginx/
     ├── common
