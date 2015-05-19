@@ -1,6 +1,6 @@
 # Ticket Workflow
 
-Please see section 3.1 to know more about ticket status.
+Please see section 2.1 to know more about ticket status.
 
 The ticket workflow is as follows:
 1. A new ticket has default status as 'Unanswered'
@@ -15,7 +15,7 @@ The ticket workflow is as follows:
 
 6. Staff can keep a ticket 'Unanswered' while replying by checking 'keep unanswered' option.
 
-Please see the flowchart below to understand the ticket workflow better:
+Please see the flowchart below to better understand the ticket workflow :
 
 ![Workflow](https://cloud.githubusercontent.com/assets/9676513/6328106/d0e9fccc-bb89-11e4-8354-4c406f07a98f.jpg)
 

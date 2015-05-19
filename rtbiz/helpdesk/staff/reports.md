@@ -1,7 +1,7 @@
 # Reports
 
 #####Backend reporting
- The staff members with access to Helpdesk backend can sort and filter the tickets based on Dates , Ticket Status , Assignee , Ticket Authors, Products/Offerings and more. (See Section 2.6 for details)
+ The staff members with access to Helpdesk backend can sort and filter the tickets based on Dates , Ticket Status , Assignee , Ticket Authors, Products/Offerings, Teams and more. (See Section 2.6 for details)
 
 #####Filters
 
@@ -18,19 +18,23 @@ i. Go to the Tickets section
 
 ii. Click on Ticket Author name to check the tickets connected with that Author
 
-Mouseover Ticket Author
+a) Mouseover Ticket Author- As in screenshot  below, there is a cursor next to ticket author Thomas Lewis in the first row.
+
 ![click_on_ticket_author](https://cloud.githubusercontent.com/assets/8191145/6576322/5aa351b0-c75c-11e4-8abc-40a47401bf0e.png)
 
-Clicking Ticket Author
+b) Click  Ticket Author - This will display all the tickets associated with that ticket author.
 
 ![clicking_on_ticket_author](https://cloud.githubusercontent.com/assets/8191145/6575656/bf7c8b52-c756-11e4-842d-bfb5b314d74e.png)
 
-ii. Can click on the Assignee to see all the tickets where Assignee is involved
 
-Mouseover Assignee
+
+iii. Can click on the Assignee to see all the tickets where Assignee is involved
+
+a) Mouseover Assignee - As in screenshot  below, there is a cursor next to Assignee Sumeet in the first row.
+
 ![click_on_assignee](https://cloud.githubusercontent.com/assets/8191145/6576227/9cbc0d5e-c75b-11e4-9e3c-2209c1f6a31f.png)
 
-Clicking on Assignee's name
+b) Click on Assignee's name - This will display all the tickets associated with that assignee.
 
 ![clicking_on_assignee](https://cloud.githubusercontent.com/assets/8191145/6576411/0bc30ea4-c75d-11e4-8127-3e6abcdfb3d0.png)
 
@@ -40,6 +44,7 @@ Similarly can filter by Offerings , Departments, Companies etc.
 
 Authorised Staff members can check ticket statuses  in different formats as shown below :
 
-![helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/6577154/cd6f90d2-c761-11e4-84cd-6b1eb2a71d23.png)
+![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7612951/814298a4-f9ab-11e4-89ea-2a9d601e9d9b.png)
+
 
 
