@@ -22,7 +22,7 @@ e) Click Publish/Update
 
 ![new_supportpage](https://cloud.githubusercontent.com/assets/8191145/7653966/36c134ba-fb37-11e4-9b43-a328d13e3ad8.png)
 
-iv) Refresh the settings area. The newly created support page will be populated in the drop-down. You can select this pag  which then will be used by your customers to send support requests.
+iv) Refresh the settings area. The newly created support page will be populated in the drop-down. You can select this page which then will be used by your customers to send support requests.
 
 ![select_support_form](https://cloud.githubusercontent.com/assets/9676513/6480262/f5026802-c277-11e4-81e1-62145daf208e.png)
 

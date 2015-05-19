@@ -4,7 +4,7 @@ Customers are the people who have purchased a product/offering from an organisat
 
 Customers will automatically be created when they create a support ticket by submitting support form or when they send an email to the Helpdesk mailbox.
 
-The customer list will be shown similar to the screenshot below:
+The customer page will be shown similar to the screenshot below:
 
 ![customerss](https://cloud.githubusercontent.com/assets/8191145/7679321/350fe8c0-fd79-11e4-97df-bebc90160877.png)
 

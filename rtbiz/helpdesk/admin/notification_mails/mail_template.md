@@ -2,23 +2,26 @@
 
 #### Emails to Customer :
 
+
 ##### When a New Ticket is created
 
-![acknowledgement_ticket_created](https://cloud.githubusercontent.com/assets/8191145/6556298/8dbfe5ba-c692-11e4-81a6-fcebe986a059.png)
-
+![ticket_creation_email_customer](https://cloud.githubusercontent.com/assets/8191145/7696515/da68ba20-fe1b-11e4-84fe-48f8a61467a2.png)
 
 ##### When a followup is added  by staff
-![followup_to _client](https://cloud.githubusercontent.com/assets/8191145/6557747/64170b20-c69d-11e4-97e6-8fc88bbfbf91.png)
+
+![ticket_followup_by_def_assignee](https://cloud.githubusercontent.com/assets/8191145/7696710/680f3330-fe1d-11e4-81a6-50907a7a6c38.png)
 
 
 ##### When a follow up is edited by Staff
 
-![followup_edited](https://cloud.githubusercontent.com/assets/8191145/6571760/be397aae-c731-11e4-8f78-72920586229a.png)
+
+![followup_edited_by__def_assignee](https://cloud.githubusercontent.com/assets/8191145/7696753/daea5b1e-fe1d-11e4-984d-c278aef6ed5f.png)
 
 
 ##### When a follow up is deleted by staff
 
-![followup_deleted](https://cloud.githubusercontent.com/assets/8191145/6571919/97832638-c733-11e4-9dff-fb4258e42f4e.png)
+![followup_deleted](https://cloud.githubusercontent.com/assets/8191145/7696873/7eeed4c8-fe1f-11e4-91d1-f54669e7fc3b.png)
+
 
 
 #####  When a customer creates a ticket for the first time and an account is created automatically for them

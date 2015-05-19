@@ -8,7 +8,7 @@ The Offerings page shows similar to the screenshot below
 
 A) Offerings - Click on Offerings menu item under Helpdesk to open it.
 
-B) Add New Offering Name - You can add a new offering as shown in the screenshot above. Click Add New Offering button when details of your offering/product is done
+B) Add New Offering - You can add a new offering as shown in the screenshot above. Click Add New Offering button when details of your offering/product is done
 
 C) Name - Names of offerings/products will display here.
 

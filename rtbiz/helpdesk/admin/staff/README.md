@@ -32,8 +32,7 @@ Click on update button when done
 
 or
 
-
-you can also quickly edit the individual members by doing a mouseover and clicking the Quick Edit link as shown in the screenshot below
+Quick Edit - You can also quickly edit the individual members by doing a mouseover and clicking the Quick Edit link as shown in the screenshot below
 
 
 ![quickedit](https://cloud.githubusercontent.com/assets/8191145/7678555/be77760c-fd72-11e4-8973-9f49d9dd0163.png)
@@ -41,6 +40,8 @@ you can also quickly edit the individual members by doing a mouseover and clicki
 Clicking quick edit will show similar to the screenshot below where you can edit various details related to the staff
 
 ![quick_edit](https://cloud.githubusercontent.com/assets/8191145/7678932/d9e48d82-fd75-11e4-8554-d50c94fc1fb9.png)
+
+Note: Admin role cannot be changed via quick/ bulk edit
 
 H) All Dates Filter - You can use this filter to quickly open the staff members added in  particular months
 

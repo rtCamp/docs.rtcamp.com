@@ -71,7 +71,7 @@ iii) Click on the Update button when editing is done.
 
 ![ticket_listing_latest another copy](https://cloud.githubusercontent.com/assets/8191145/7651113/86098eb8-fb1a-11e4-907a-267ebb700147.png)
 
-
+ Note : Admin role cannot be changed via quick/ bulk edit
 
 
 **2. Bulk edit -** i) You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click on Apply button.
