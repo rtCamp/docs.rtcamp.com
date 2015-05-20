@@ -1,6 +1,8 @@
 ---
-title: rtmedia_add_edit_fields
+title: Filter to add extra editable fields
 ---
+
+Filter Name : rtmedia_add_edit_fields
 
 ### Description
 

@@ -1,12 +1,13 @@
 ---
-title: rtmedia_after_update_media
+title: Filter after updating media
 ---
+
+Filter Name : rtmedia_after_update_media
 
 ### Description
 
 
 This action occurs after the media is updated.
-
 
 
 ### Example
@@ -16,7 +17,7 @@ Updates the camera information. ( Check [rtmedia_add_edit_fields](/rtmedia/devel
 
 
     
-    `function custom_save_rtmedia_camera_build($id, $state) {
+    function custom_save_rtmedia_camera_build($id, $state) {
         $type = rtmedia_type($id);
         if ( $type == 'photo' ) {
             $camera = get_rtmedia_meta($id,'camera');
@@ -25,4 +26,4 @@ Updates the camera information. ( Check [rtmedia_add_edit_fields](/rtmedia/devel
         }
     }
     
-    add_action('rtmedia_after_update_media', 'custom_save_rtmedia_camera_build', 10,2);`
+    add_action('rtmedia_after_update_media', 'custom_save_rtmedia_camera_build', 10,2);

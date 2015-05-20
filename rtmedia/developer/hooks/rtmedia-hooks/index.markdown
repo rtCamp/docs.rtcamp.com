@@ -62,7 +62,7 @@ title: rtMedia Hooks
   * rtmedia_before_update_media
 
 	
-  * [rtmedia_after_update_media](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_after_update_media/)
+  * [rtmedia_after_update_media](/rtmedia/developer/hooks/rtmedia-hooks/filter-after-updating-media/)
 
 	
   * rtmedia_before_delete_media
@@ -131,7 +131,7 @@ title: rtMedia Hooks
   * rtmedia_after_media_gallery
 
 	
-  * [rtmedia_add_edit_fields](/rtmedia/developer/hooks/rtmedia-hooks/rtmedia_add_edit_fields/)
+  * [rtmedia_add_edit_fields](/rtmedia/developer/hooks/rtmedia-hooks/filter-to-add-extra-editable-fields/)
 
 	
   * rtmedia_before_uploader
