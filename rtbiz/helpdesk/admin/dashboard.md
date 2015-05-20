@@ -5,9 +5,9 @@ The Helpdesk dashboard is collection of widgets. The Helpdesk dashboard looks so
 ![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7612951/814298a4-f9ab-11e4-89ea-2a9d601e9d9b.png)
 
 
-##### 1. Welcome Widget
+### 1. Welcome Widget
 
-The welcome widget consists of quick links that helps you get started with Helpdesk. The links are to settings, adding support ticket,setting up attributes, adding teams etc.
+The welcome widget consists of quick links that helps you get started with Helpdesk. The links are for settings, adding support ticket, setting up attributes and adding teams.
 
 ![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7611787/5bd155ee-f9a4-11e4-8a9d-4a1e89266ef6.png)
 
