@@ -15,6 +15,6 @@ To **Edit** a media or other item:
 
 2. Click **Edit** to open the **Edit Media** page.
 3. Set or modify the title, privacy setting, and description. Click **Save**.![selection_015](https://cloud.githubusercontent.com/assets/1140051/7563427/bfb18058-f7fa-11e4-85d0-bc6e721a357b.png)
-4. To modify an image, click **Modify Image** on the **Edit Media** page.![rtmedia-modify-image](https://rtcamp.com/wp-content/uploads/2013/11/image14.png)  
+4. To modify an image, click **Modify Image** on the **Edit Media** page.![rtmedia-modify-image](https://rtcamp.com/wp-content/uploads/2013/11/image14.png)
 5. Use one of the image editing tools to modify the image. The tools available are **Crop**, **Rotate counter-clockwise**, **Rotate clockwise**, **Flip vertically** and **Flip horizontally**. Click **Scale Image** to enter new dimensions. To crop the image, click the image and drag to select the desired region. Click **Help** for more information about cropping.![image-editing-tools](https://rtcamp.com/wp-content/uploads/2013/11/image15.png)
 6. Click **Save**.

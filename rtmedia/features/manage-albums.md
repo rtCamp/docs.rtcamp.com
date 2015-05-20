@@ -11,13 +11,12 @@
 * Albums can be disabled if you do not wish to use them from `rtMedia`->`Settings`.
 
 
-
 ## Viewing Album Gallery
 
 
 Click the `Media` tab of your BuddyPress profile, and then click `Albums` tab to view the `Album Gallery`.
 
-The **Album Gallery** lists all the albums that you have created. 
+The **Album Gallery** lists all the albums that you have created.
 
 On another user's profile, the albums will be visible as per the privacy setting with which they were created:
 
@@ -71,7 +70,7 @@ To make changes to an album or its items, use these steps while referring to the
 
 ## Merging Albums
 
-1. Click the **Merge Album**, after opening the album you wish to merge with another. Refer to the sections 'Viewing Album Gallery' and 'Viewing album items' above for related information.
+1. Click the **Merge Album**, after opening the album you wish to merge with another. Refer to the sections 'Viewing Album Gallery' and 'Viewing album items' above for related information.
 2. In the dialog that appears, use the dropdown to choose the album to merge the current album with.
 3. Click **Merge Album.**
 

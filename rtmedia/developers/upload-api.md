@@ -1,6 +1,5 @@
----
-title: Upload API
----
+# Upload API
+
 
 **Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/news/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet. Not recommended for production environments.
 
@@ -14,19 +13,19 @@ Using the Upload API, any media file can be added to rtMedia for display else wh
 The Upload API for rtMedia is accessible in multiple ways:
 
 
-	
+
 1. Uploader Shortcode
 
-	
+
 2. Uploader Template Tag
 
-	
+
 3. Uploader Template System (not recommended)
 
-	
+
 4. Hooks and Filters
 
-	
+
 5. RESTful API
 
 
@@ -45,19 +44,19 @@ The Upload API in rtMedia allows for seamless front-end media uploads and integr
 
 The Upload API provides the following interactions
 
-	
+
 1. Extending th
 
-	
+
 2. Adding additional fields in the default modes
 
-	
+
 3. Adding a custom upload mode
 
-	
+
 4. Directly uploading to the upload endpoint via REST
 
-	
+
 5. Integration into form submissions
 
 
@@ -76,10 +75,10 @@ rtmedia_after_{mode}_ui
 
 rtMedia ships with two default modes:
 
-	
+
 1. _file_upload_ For uploading media from user's system
 
-	
+
 2. _link_input_ For adding media via URLs
 
 ### Adding Custom Modes
