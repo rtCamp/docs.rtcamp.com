@@ -34,12 +34,9 @@ If not provided, the current post type is assumed as the context. If BuddyPress 
 
   * id of the current post_type (post, page, event, topic, reply, etc)
 
-
   * id of the current BuddyPress Component (activity, profile, group)
 
-
   * id of a custom context, registered via code
-
 
 This provides the unique id of the context. For custom contexts, the database table and the id column have to be registered via code.
 
@@ -48,17 +45,9 @@ This provides the unique id of the context. For custom contexts, the database ta
 
 
   1. all
-
-
   2. music
-
-
   3. video
-
-
   4. photo
-
-
   5. album
 
 
@@ -76,11 +65,7 @@ If media uploaded to a particular album needs to be displayed, set the album ID 
 ### uploader
 
   1. before : uploader on top of gallery
-
-
   2. after : uploader at the end of gallery
-
-
   3. true : uploader at the end of gallery (alias for after)
 
 
@@ -210,27 +195,14 @@ As the above screenshots show, the short-code of attributes will look as follows
 
 ## Favlist Short-Code
 
-
-
-    [rtmedia_gallery favlist_id="xxx"]
-
+```[rtmedia_gallery favlist_id="xxx"]```
 
 xxx: the id of favlist which is created.
 
-
-
-
 ## Privacy Note
-
 
 Note that the purpose of this shortcode is to provide a simpler way to display **public _galleries** of media content on your site.
 
 For safety of your users, `rtmedia_gallery` will always fetch public content only. Some _intended_ side-effects include:
 
-
-  1. Uploads in private buddypress groups will not show even if a user can access by going to that particular buddypress-group
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2. Uploads for buddypress-profiles, limited to friends or logged-in users will not show up even if viewer can access them directly by going to a user profile.
-
-
-Idea is to protect privacy by default.
+1. Uploads in private buddypress groups will not show even if a user can access by going to that particular buddypress-group
