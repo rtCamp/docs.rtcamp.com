@@ -24,9 +24,9 @@ Below is the screenshot of how a ticket looks on the front end
 
 7. Collapsed follow-ups - The UI automatically collapses ticket replies if there are more than four. Click this button to expand and see all the follow-ups.
 ### B. Ticket Meta
-8. Edit Ticket* - Clicking this icon will lead the staff to access the backend of a ticket. See chapter
+8. Edit Ticket* - Clicking this icon will lead the staff to access the backend of a ticket. See chapter 3.4 to know more about the backend UI.
 
-9. Subscribe/Unsubscribe -Option for a staff member to get updates for the communication on the ticket. The assignee of a ticket by default is a subscriber to a ticket.
+9. Subscribe/Unsubscribe - Option for a staff to get e-mail updates for the communication on the ticket. The assignee of a ticket by default is a subscriber to a ticket.
 
 10. Favorite - Mark the tickets as favorite ticket by clicking the star icon.
 
@@ -53,4 +53,4 @@ If the people added have no prior access to the Helpdesk system, they will be ad
 For a customer not all the features listed above will be visible. The items marked with asterisk are not visible to customers.
 
 These marked featured are meant for the staff members, enabling them to get all the customer information at one place. This will reduce their number of visits to WordPress dashboard.
-abling them to get all the customer information at one place. This will reduce their number of visits to WordPress dashboard.
+enabling them to get all the customer information at one place. This will reduce their number of visits to WordPress dashboard.

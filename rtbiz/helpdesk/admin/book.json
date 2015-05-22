@@ -1,12 +1,17 @@
 {
-  "plugins": ["edit-link","ga","anchors","-mathjax"],
-  "pluginsConfig": {
-    "edit-link": {
-      "base": "https://github.com/rtCamp/docs.rtcamp.com/tree/master/rtbiz/helpdesk/admin",
-      "label": "Edit This Page"
-    },
-    "ga": {
-      "token": "UA-15354140-3"
+    "plugins": [
+        "edit-link",
+        "ga",
+        "anchors",
+        "-mathjax"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/rtCamp/docs.rtcamp.com/tree/master/rtbiz/helpdesk/admin",
+            "label": "Edit This Page"
+        },
+        "ga": {
+            "token": "UA-15354140-3"
+        }
     }
-  }
 }
