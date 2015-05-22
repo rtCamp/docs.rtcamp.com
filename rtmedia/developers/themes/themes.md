@@ -1,6 +1,6 @@
 ## Themes
 
-rtMedia support below mentioned themes out of box. These themes tested with rtMedia plugin and along with all the premium add-on.
+rtMedia supports below mentioned themes out of box. These themes tested with rtMedia plugin and along with all the premium add-on.
 
 ### Themes by rtCamp (Recommended)
 

@@ -1,5 +1,5 @@
 {
 "gitbook": "2.0.1",
-  "plugins": ["youtube"]
+  "plugins": ["youtube","collapsible-menu"]
 
 }

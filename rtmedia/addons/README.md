@@ -25,4 +25,4 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 
 
 
- *rtMedia -PRO add-on is not required to purchase the other add-ons mentioned here. They all work independently and have their independent features.*
+ *rtMedia-PRO addon is not required to be purchased for other add-ons mentioned here.*

@@ -8,7 +8,8 @@ To change the default video thumbnail:
   1. Click the video to open it on its individual page or lightbox.
 
   2. Click **Edit**.
-      [![Click edit to set a default video thumbnail](https://rtcamp.com/wp-content/uploads/2013/11/videoedit.png)]
+  
+      ![Click edit to set a default video thumbnail](https://rtcamp.com/wp-content/uploads/2013/11/videoedit.png)
 
   3. On the Edit media page, choose one of the thumbnails generated as the default.
 
