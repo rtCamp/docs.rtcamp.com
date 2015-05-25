@@ -10,11 +10,8 @@ In the member’s media page, you will find a **Playlists** tab.
 
 
 1. Click the audio and notice an **Add to Playlist** button, as highlighted in the screenshot of an audio’s individual page or in lightbox.
-
 ![selection_011](https://cloud.githubusercontent.com/assets/1140051/7611896/fe22a0b4-f9a4-11e4-98ac-71483af28cfd.png)
-
 2. On clicking **Add to Playlist**, you will be prompted to either choose from an existing playlist, or create a new playlist.
-
 ![selection_013](https://cloud.githubusercontent.com/assets/1140051/7611958/56c4a802-f9a5-11e4-989a-aba930a373e4.png)
 
 If you want to create a playlist, enter the title of the playlist and choose the privacy setting. Click **Add**.

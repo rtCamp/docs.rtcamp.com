@@ -14,14 +14,14 @@ The following screen-shot shows the default text message in activity feed.
 ### Example
 
 You can add below code in your theme's functions.php file:
-
+```php
 	add_filter( 'rtmedia_post_update_click_message', 'rtmedia_change_post_update_click_message', 10, 1 );
 
 	function rtmedia_change_post_update_click_message( $message ){
 		$message = "Here comes your custom message!";
 		return $message;
 	}
-
+```
 The following screen-shot shows modified text message in activity feed.
 
 [![post-update-text-message-modified](https://cloud.githubusercontent.com/assets/7771963/7086431/869447de-df9e-11e4-8a1e-418c31be7788.png)](https://cloud.githubusercontent.com/assets/7771963/7086431/869447de-df9e-11e4-8a1e-418c31be7788.png)

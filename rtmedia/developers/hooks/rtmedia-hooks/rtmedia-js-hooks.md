@@ -22,11 +22,13 @@ rtMedia has several js hooks defined which works like WordPress hooks, you can u
 
 To use rtMedia js hook, you need to register corresponding function to hook. Check below example for how to use rtMedia js hooks.
 
-	if( typeof rtMediaHook == "object" ){	// check if rtMediaHook defined or not
-		rtMediaHook.register(
-		    'rtmedia_js_after_file_upload', // hook id here
-		    function ( args ) { // your function here
-		        // your code here
-		    }
-		);
-	}
+```php
+if( typeof rtMediaHook == "object" ){	// check if rtMediaHook defined or not
+rtMediaHook.register(
+ 'rtmedia_js_after_file_upload', // hook id here
+  function ( args ) { // your function here
+ // your code here
+  }
+);
+}
+```

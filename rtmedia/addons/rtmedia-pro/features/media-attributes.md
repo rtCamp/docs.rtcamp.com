@@ -24,7 +24,7 @@ Now, create attributes as per requirements which will display in media gallery s
 
 ![selection_109](https://cloud.githubusercontent.com/assets/1140051/7131121/ac73c996-e298-11e4-9452-b0610c677e7d.png)
 
-After that, click on `Configure` button to set `terms` for each attributes. `Terms` are like sub-items of single `attribute`. Like if you have a location as an attribute, then you can set terms as 'India', 'United States', etc. That way user can distinguish exact location where they have captured image.  
+After that, click on `Configure` button to set `terms` for each attributes. `Terms` are like sub-items of single `attribute`. Like if you have a location as an attribute, then you can set terms as 'India', 'United States', etc. That way user can distinguish exact location where they have captured image.
 
 ![selection_114](https://cloud.githubusercontent.com/assets/1140051/7131279/87b633da-e29a-11e4-9a8d-2ff770851d11.png)
 

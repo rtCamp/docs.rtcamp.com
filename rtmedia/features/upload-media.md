@@ -12,7 +12,6 @@ A **media** tab will be displayed in user profile section. Click on **media** ta
 In BuddyPress site wide activity page and user activity page and buddypress group, we can see a media upload icon. Click on it, select media file from computer system and click on `Post Update` button.
 ![media-activity](https://cloud.githubusercontent.com/assets/1140051/7513527/70a8a98a-f4d2-11e4-966b-b5fcd1c6300c.png)
 
-
 #### "Anywhere Uploader" created using shortcode
 
 Site admin just need to put a shortcode in any page or post. `[rtmedia_uploader]`

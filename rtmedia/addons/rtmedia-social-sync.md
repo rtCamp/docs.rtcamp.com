@@ -71,9 +71,7 @@ You can import more media by clicking on **Import from Facebook* button.
 Your app should be configured with live website URL and `App Domain`.
 
 1. Edit your Facebook App from here https://developers.facebook.com/apps/, click on the app which you want to use with rtMedia Social sync plugin.
-
 2. Now, add `App Domains`. You need to add your site domain name there in which you have installed rtMedia Social Sync plugin.  ![selection_123](https://cloud.githubusercontent.com/assets/1140051/7214878/9df628ae-e5dc-11e4-8d6e-32613cc46251.png)
-
 3. After that click on `Add Platform` and select `Website`.  You need to provide the live website URL and save changes button.  ![selection_126](https://cloud.githubusercontent.com/assets/1140051/7214887/2fc815b2-e5dd-11e4-862d-00a60968de26.png)
 
 Now, you can go to rtMedia Social Sync settings under your WordPress site and add Facebook APP id. Start using the feature to import media from faceboook account.

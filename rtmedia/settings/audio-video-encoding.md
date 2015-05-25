@@ -25,9 +25,8 @@ Choose the plan that best meets your usage needs and click **Subscribe**. For **
 
 ## How does it work:
 
+After you have chosen a plan, you will be sent a unique API key by email. Enter your API key in the **Enter API KEY** field, and click **Submit**. rtCamp will be able to keep track of your usage plan with the help of this key.
 
-After you have chosen a plan, you will be sent a unique API key by email. Enter your API key in the **Enter API KEY** field, and click **Submit**. rtCamp will be able to keep track of your usage plan with the help of this key.
-
-Note that the **Enter API Key** field is blank until an audio/video encoding plan is selected. In the screenshot above, the **Enter API KEY** field already contains a value because the Free plan has been chosen.
+Note that the **Enter API Key** field is blank until an audio/video encoding plan is selected. In the screenshot above, the **Enter API KEY** field already contains a value because the Free plan has been chosen.
 
 Click [here](https://rtcamp.com/rtmedia/addons/compare-encoding-solutions/) to learn more about Audio/Video Encoding.

@@ -6,83 +6,46 @@
 
 Using the Upload API, any media file can be added to rtMedia for display else where using the Media API. The uploader can be completely customised and custom upload/import methods can be added easily.
 
-
 ## Accessing the API
-
 
 The Upload API for rtMedia is accessible in multiple ways:
 
-
-
 1. Uploader Shortcode
-
-
 2. Uploader Template Tag
-
-
 3. Uploader Template System (not recommended)
-
-
 4. Hooks and Filters
-
-
 5. RESTful API
-
-
-
 
 ## The Upload Endpoint
 
-
 The Anywhere Uploader of the Upload API works via the upload endpoint. It is a good idea to start with an understanding of the endpoint.
-
 
 ## Concepts and Definitions
 
 The Upload API in rtMedia allows for seamless front-end media uploads and integration with rtMedia for WordPress, BuddyPress and bbPress. Furthermore, it allows for complete customization and extension via addons.
 
-
 The Upload API provides the following interactions
-
-
 1. Extending th
-
-
 2. Adding additional fields in the default modes
-
-
 3. Adding a custom upload mode
-
-
 4. Directly uploading to the upload endpoint via REST
-
-
 5. Integration into form submissions
-
 
 ## Adding Additional Fields in the Default Modes
 
-
-rtmedia_before_{mode}_ui
+``` rtmedia_before_{mode}_ui ```
 
 This action hook, lets you add the
 
-rtmedia_after_{mode}_ui
-
+``` rtmedia_after_{mode}_ui ```
 
 ## Upload Modes
 
-
 rtMedia ships with two default modes:
-
-
-1. _file_upload_ For uploading media from user's system
-
-
-2. _link_input_ For adding media via URLs
+1. _file_upload_ For uploading media from user's system
+2. _link_input_ For adding media via URLs
 
 ### Adding Custom Modes
-
 
 A custom mode can be added using the filter
 

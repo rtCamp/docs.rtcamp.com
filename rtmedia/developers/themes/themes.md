@@ -11,18 +11,16 @@ As of now, rtCamp offers 2 themes:
 
 These themes are designed especially for BuddyPress and rtMedia powered social networks.
 
-
 ## Third Party Themes
 
+Some third party themes are available which work perfectly fine with rtMedia plugin
 
-Some third party themes are available which work perfectly fine with rtMedia plugin
-
-* [Sweet Date ](http://rt.cx/sweetdate)
+* [Sweet Date](http://rt.cx/sweetdate)
 * [KLEO](http://rt.cx/kleo)
 * [Klein](http://rt.cx/klein)
 * [Msocial](http://rt.cx/msocial)
 
-Note that rtCamp does not provide support for any third party themes. For any issues or queries regarding these themes, please contact the respective developers.
+Note that rtCamp does not provide support for any third party themes. For any issues or queries regarding these themes, please contact the respective developers.
 
 ## Supported Free Themes
 

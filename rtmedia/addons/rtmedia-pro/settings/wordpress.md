@@ -16,13 +16,12 @@ This option allows anybody who can access your site to upload files using the co
 
 There are 2 display options:
 
-* **With Thumbnail + file name** - Every media file will be displayed along with a thumbnail above its name
-
-* **Without Thumbnail (only file name)** - Every media file will be displayed without a thumbnail above its name.
+* **With Thumbnail + file name** - Every media file will be displayed along with a thumbnail above its name
+* **Without Thumbnail (only file name)** - Every media file will be displayed without a thumbnail above its name.
 
 ### Enable Sitewide Gallery Section
 
-Enable this feature and then create a new album. Then, click the link marked **manage sitewide galleries**. Add files in the new album and click **Upload Now**. Note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not part of a group.
+Enable this feature and then create a new album. Then, click the link marked **manage sitewide galleries**. Add files in the new album and click **Upload Now**. Note that only the site admin can create sitewide galleries. A sitewide gallery is one that can be viewed by all people who visit the website. This gallery is not part of a group.
 
 
 ### Slug for Sitewide Gallery Section

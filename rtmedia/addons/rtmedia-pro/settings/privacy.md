@@ -17,20 +17,12 @@ Users can also choose the privacy level while sharing media or other items, as s
 
 This option allows you to set the default privacy for all of the media that you have uploaded on your WordPress site. There are 4 options:
 
+* **Private**
+* **Friends**
+* **Logged In Users**
+* **Public**
 
-  * **Private**
-
-
-  * **Friends**
-
-
-  * **Logged In Users**
-
-
-  * **Public**
-
-
-The default option is **Private**.
+The default option is **Private**.
 
 
 ### Allow Users to Set Privacy for their Content

@@ -4,9 +4,7 @@ The rtMedia plugin is updated regularly.
 We strongly advise you to make sure that your site is running the latest software,
 and that includes rtMedia.
 
-
 ## How to Update rtMedia Plugin?
-
 
 If you have rtMedia Plugin updated on website, look up the plugin list on your WordPress Dashboard.
 
@@ -18,7 +16,6 @@ Alternatively, whenever a new update to rtMedia is available, you will receive a
 
 
 ## Latest Version
-
 
 [rtMedia version](http://wordpress.org/plugins/buddypress-media/)
 

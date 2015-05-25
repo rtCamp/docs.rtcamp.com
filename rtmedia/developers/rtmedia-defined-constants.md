@@ -2,9 +2,6 @@
 
 Following is the list of rtMedia defined constants along with with their default value. These values can be modified in the *wp-config.php* file.
 
-
-
-
   * `define ( 'RTMEDIA_MEDIA_SLUG', 'media' );`
   * `define ( 'RTMEDIA_MEDIA_LABEL', 'Media' );`
   * `define ( 'RTMEDIA_ALL_SLUG', 'all' );`
@@ -17,7 +14,7 @@ Following is the list of rtMedia defined constants along with with their default
   * `define ( 'RTMEDIA_UPLOAD_LABEL', 'Upload' );`
   * `define ( 'RTMEDIA_GLOBAL_ALBUM_LABEL', 'Wall Post' );`
   * `define ( 'RTMEDIA_PHOTO_SLUG', 'photo' );`
-  * `define ( 'RTMEDIA_PHOTO_PLURAL_SLUG', 'photos' );`  
+  * `define ( 'RTMEDIA_PHOTO_PLURAL_SLUG', 'photos' );`
 	* `define ( 'RTMEDIA_PHOTO_LABEL', 'Photo' );`
   * `define ( 'RTMEDIA_PHOTO_PLURAL_LABEL', 'Photos' );`
   * `define ( 'RTMEDIA_VIDEO_SLUG', 'video' );`

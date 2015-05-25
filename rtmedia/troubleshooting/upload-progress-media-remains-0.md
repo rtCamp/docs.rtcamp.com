@@ -7,17 +7,12 @@ It appears that the upload progress is stalled at 0%.
 
 ### The Default Behavior
 
-
 Uploading of media should start after:
 
-
 1. Some text is added to be included in a BuddyPress activity update.
-
 2. The **Post Update** button in the uploader is clicked.
 
-
 [![Uploading media in BuddyPress updates](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaBPActivity1.png)](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaBPActivity1.png)
-
 
 ### Explanation
 

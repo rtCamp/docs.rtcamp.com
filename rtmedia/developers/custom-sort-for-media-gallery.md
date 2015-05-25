@@ -25,6 +25,7 @@ Use **rtmedia_after_media_gallery_title** hook to render html markup after media
 	}
 
 	do_action( 'rtmedia_after_media_gallery_title', 'custom_rtmedia_gallery_sort_buttons', 99 );
+
 ```
 
 ## Pass sorting parameters

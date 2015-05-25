@@ -14,7 +14,6 @@ In rtMedia 3.8, we made changes to the following template files. Use rtMedia tem
 * /media/media-single.php
 * /upload/uploader.php
 
-
 ## Markup Changes
 
 We have removed [foundation](http://foundation.zurb.com/) from rtMedia code. The `rtp-foundation-js` handler is no more in rtMedia code. If you want to continue with foundation, then you must need to include your own foundation files and do required changes.

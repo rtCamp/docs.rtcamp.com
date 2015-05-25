@@ -2,7 +2,7 @@
 
 ### Actions
 
-  *  rtmedia_admin_page_insert
+  * rtmedia_admin_page_insert
   * rtmedia_admin_page_append
   * rtmedia_sanitize_settings
   * rtmedia_before_default_admin_widgets
@@ -53,7 +53,7 @@
 
 ### Filters
 
-  *  rtmedia_filter_admin_pages_array
+  * rtmedia_filter_admin_pages_array
   * media_add_tabs
   * rtmedia_add_settings_sub_tabs
   * rtmedia_addons

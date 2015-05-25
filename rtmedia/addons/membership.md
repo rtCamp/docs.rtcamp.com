@@ -10,37 +10,30 @@ Make sure that [rtMedia](https://wordpress.org/plugins/buddypress-media/) plugin
 
 Perform the following steps to get your Membership add-on running:
 
-  1.  Download rtMedia Membership plugin from the **My Account** Section
-
-  2. Go to your Dashboard and navigate to `Plugins > Add New > Upload `.
-Select the `rtmedia-membership.zip`  file from your computer and click upload.
-
-  3.  Click **Install Now** to install the plugin. Then, click the **Activate Plugin** link, to activate the plugin.
+1. Download rtMedia Membership plugin from the **My Account** Section
+2. Go to your Dashboard and navigate to `Plugins > Add New > Upload`.
+Select the `rtmedia-membership.zip` file from your computer and click upload.
+3. Click **Install Now** to install the plugin. Then, click the **Activate Plugin** link, to activate the plugin.
 
 
-### Settings (Site Admin)
+### Settings (Site Admin)
 
 As a site admin, you can use a range of settings to help you organize memberships to your website.
 
 **Membership**
 
-
 ![1 membership-settings](https://cloud.githubusercontent.com/assets/1140051/7650696/a9723994-fb16-11e4-9361-b6c8b7418440.png)
 
-  1. Go to   `rtMedia > Settings > Membership`.
-
-  2. Click the link, as shown above, to import user data in membership database tables.
+1. Go to `rtMedia > Settings > Membership`.
+2. Click the link, as shown above, to import user data in membership database tables.
 
 
 **Import Plans and Calculate Media Data**
 
 ![2 rtmedia-membership-import-user-media-data](https://cloud.githubusercontent.com/assets/1140051/7650716/e6bf804a-fb16-11e4-8926-81c303225bf3.png)
-
-  1. Choose either **Yes** or **No** to calculate previously uploaded user data or not.
-
-  2. Click **Start** to begin the import.
-
-  3. After import , click the link as shown below, to navigate to Membership Settings.
+1. Choose either **Yes** or **No** to calculate previously uploaded user data or not.
+2. Click **Start** to begin the import.
+3. After import , click the link as shown below, to navigate to Membership Settings.
 
 ![3 jump-to-rtmedia-membership-settings](https://cloud.githubusercontent.com/assets/1140051/7650733/0d494020-fb17-11e4-970c-b0206d64906a.png)
 
@@ -48,48 +41,30 @@ As a site admin, you can use a range of settings to help you organize membership
 
 ![4 file-and-upload-settings](https://cloud.githubusercontent.com/assets/1140051/7650749/45054090-fb17-11e4-8bd9-28a7def70add.png)
 
-  1. General Settings for Membership plugin
-
-  2. A value of **-1** means Unlimited and **0** means No Access.
-
-  3. Set **Upload Limit** in MB on Daily, Weekly, Monthly, Yearly and Lifetime basis. These upload limits can be set differently for each Membership plan.
-
-  4. Similarly, set **File Limits** for each membership plan.
-
-  5. Manage plans will take you to another page that allows you to add new plans or modify existing ones. [Documentation](#ManagePlans)
-
-  6. Click the link to recalculate the number of files and the upload data used by each user.
-
-  7. After all the changes are made, apply them by clicking **Save Settings.**
+1. General Settings for Membership plugin
+2. A value of **-1** means Unlimited and **0** means No Access.
+3. Set **Upload Limit** in MB on Daily, Weekly, Monthly, Yearly and Lifetime basis. These upload limits can be set differently for each Membership plan.
+4. Similarly, set **File Limits** for each membership plan.
+5. Manage plans will take you to another page that allows you to add new plans or modify existing ones. [Documentation](#ManagePlans)
+6. Click the link to recalculate the number of files and the upload data used by each user.
+7. After all the changes are made, apply them by clicking **Save Settings.**
 
 
 **Payment Settings**
 
 ![5 payment-settings](https://cloud.githubusercontent.com/assets/1140051/7650774/6bec5ac2-fb17-11e4-994f-793544d3eb6d.png)
 
-
 1. Payment Settings for Membership plugin
-
 2. Option for selecting **PayPal Live** for live PayPal account or **PayPal Sandbox** for PayPal testing account.
-
 3. Enter your PayPal account's email address here.
-
 4. Select Membership Table Page from the listing. **Note: [rtmedia_membership] shortcode must be on this page**. When membership plugin is activated , this page will be created automatically.
-
 5. Select **Transaction Success Page** from the listing. **Note: [rtmedia_membership_receipt] shortcode must be on this page**. When membership plugin is activated , this page will be created automatically.
-
 6. Select **Transaction Failure Page** from the listing. When membership plugin is activated , this page will be created automatically.
-
 7. Set this IPN URL to your Notification URL in your PayPal Profile Settings. To know how to set your Notification URL, click [here](https://developer.paypal.com/docs/classic/ipn/integration-guide/IPNSetup/#id089EG030E5Z).
-
 8. The values of **-1 = Not for Sale** and **0 = Free**. When set to **-1** it means that the plan is NOT for sale. The subscription button will be disabled for the plan. When set to **0**, the plan is free and the user will be subscribed without being redirected to pay with Paypal.
-
 9. Currency is in **USD**.
-
 10. You can set Prices in USD on **Daily, Weekly, Monthly, Yearly and Lifetime** basis. These prices can be set differently for each Membership plan.
-
 11. Click **Save Settings** to save and apply the settings.
-
 
 **Recalculate user data**
 
@@ -109,41 +84,29 @@ Click **Manage Plans** on the top-right corner to add plans or modify existing o
 
 Add a plan according to the following steps.
 
-  1. Enter a name for the plan.
-
-  2. Add a description of the Membership plan.
-
-  3. Select a color for the plan. If you prefer, you can add CSS color code directly.
-
-  4. Click **Add New Plan** to create the plan. The plan is then displayed on the list at the right.
-
+1. Enter a name for the plan.
+2. Add a description of the Membership plan.
+3. Select a color for the plan. If you prefer, you can add CSS color code directly.
+4. Click **Add New Plan** to create the plan. The plan is then displayed on the list at the right.
 
 ### Update Plans
 
 ![8 rtmedia-membership-update-plans](https://cloud.githubusercontent.com/assets/1140051/7650824/e00249ee-fb17-11e4-921c-17bc50516368.png)
 
-  1. You might want to modify the default plans that we have. You can check for additional options by clicking **Screen Options.**
-
-  2. Click **Edit** or **Quick Edit** to make changes to the user plans. Clicking **Delete** will remove the user plan.
+1. You might want to modify the default plans that we have. You can check for additional options by clicking **Screen Options.**
+2. Click **Edit** or **Quick Edit** to make changes to the user plans. Clicking **Delete** will remove the user plan.
 
 ### Edit Plan
 
 ![9 edit-plan](https://cloud.githubusercontent.com/assets/1140051/7650829/efea0fea-fb17-11e4-9ecb-5e0fbcd2a236.png)
 
 1. Edit Plan
-
 2. Enter any **Name** for the plan. Plan names should be unique.
-
 3. Enter any **Description** for the plan.
-
 4. Select a **Color** for the plan.
-
-5. Set the **Upload Limit**. Remember **-1** means Unlimited and **0** means No Access.
-
+5. Set the **Upload Limit**. Remember **-1** means Unlimited and **0** eans No Access.
 6. Set the **File Count**. Remember **-1** means Unlimited and **0** means No Access.
-
 7. Enter the plan **Prices**. Remember **-1** means the plan is NOT for sale and **0** means Free.
-
 8. Click **Update** to save and apply the changes.
 
 
@@ -151,11 +114,8 @@ Add a plan according to the following steps.
 
 ![10 view-plans-and-limit](https://cloud.githubusercontent.com/assets/1140051/7650838/052b4752-fb18-11e4-85c7-92225dc8747c.png)
 
-
-  1. Manage membership for individual users by looking them up under **Users** on the WordPress Dashboard.
-
-  2. View plans & limits subscribed by the members.
-
+1. Manage membership for individual users by looking them up under **Users** on the WordPress Dashboard.
+2. View plans & limits subscribed by the members.
 
 ### View Plan Details of User
 
@@ -169,18 +129,12 @@ Site Admins can view the plan details of other members and their own.
 
 ![selection_099](https://cloud.githubusercontent.com/assets/1140051/7651116/8e53b1c0-fb1a-11e4-8bfa-142a221633f2.png)
 
-
-  1. Manage membership for individual users by looking them up under **Users** on the WordPress Dashboard.
-
-  2. Select **Users** of which plan & limit you want to change.
-
-  3. You can **Add Users To** or **Remove Users From** different plan & limit.
-
-  4. Select **Plan**
-
-  5. Select **Limit**
-
-  6. Click **Update**
+1. Manage membership for individual users by looking them up under **Users** on the WordPress Dashboard.
+2. Select **Users** of which plan & limit you want to change.
+3. You can **Add Users To** or **Remove Users From** different plan & limit.
+4. Select **Plan**
+5. Select **Limit**
+6. Click **Update**
 
 
 ### Edit Plan Details of User
@@ -188,18 +142,12 @@ Site Admins can view the plan details of other members and their own.
 
 [![edit plan limit of user](https://cloud.githubusercontent.com/assets/7807348/6823754/333b5cce-d311-11e4-96b5-c58beaad031c.png)](https://cloud.githubusercontent.com/assets/7807348/6823754/333b5cce-d311-11e4-96b5-c58beaad031c.png)
 
-
-  1. Select **Plan**
-
-  2. Select **Limit**
-
-  3. Enter **Upload Limit** value in **MB**
-
-  4. Enter **No. of Files**
-
-  5. If you want to allow **Plan's Default** value then you need to check this checkbox.
-
-  6. You can go to **Plan Listing Page** from here.
+1. Select **Plan**
+2. Select **Limit**
+3. Enter **Upload Limit** value in **MB**
+4. Enter **No. of Files**
+5. If you want to allow **Plan's Default** value then you need to check this checkbox.
+6. You can go to **Plan Listing Page** from here.
 
 
 ## Features (Users)
@@ -272,9 +220,8 @@ After succesful payment , users will see  a similar image as below :
 
 [![membership plans subscribed](https://cloud.githubusercontent.com/assets/8191145/5340255/8a72c658-7f10-11e4-8daa-a8164d6f24a8.png)](https://cloud.githubusercontent.com/assets/8191145/5340255/8a72c658-7f10-11e4-8daa-a8164d6f24a8.png)
 
-  1. Click the **Membership** option.
-
-  2. **Subscribed** text will be shown for the members of that plan.
+1. Click the **Membership** option.
+2. **Subscribed** text will be shown for the members of that plan.
 
 
 ## Plan Values on BuddyPress Profiles

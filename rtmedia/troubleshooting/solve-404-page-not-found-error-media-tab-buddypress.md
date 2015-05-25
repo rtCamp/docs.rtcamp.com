@@ -3,11 +3,9 @@
 
 ### The Problem
 
-
 You have just installed rtMedia. You get a_ Page Not Found_(404) error message on trying to access the media tabs.
 
 [![Clicking the media tab results in a 404 Page Not Found, sometimes.](https://rtcamp.com/wp-content/uploads/2013/07/ClickingMediaTabResultsIn404.png)](https://rtcamp.com/wp-content/uploads/2013/07/ClickingMediaTabResultsIn404.png)
-
 
 ### The Solution
 

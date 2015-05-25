@@ -8,5 +8,4 @@ Go to **rtMedia** > **Settings**, and click the **Default Albums** tab:
 
 
 1. **Default Album**  Set the default global album where all uploaded media will be saved.
-
 2. **Add New Default Album**  Create a album here.

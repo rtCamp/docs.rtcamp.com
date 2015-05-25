@@ -4,85 +4,39 @@
 
 The upload endpoint is accessible on any WordPress url at `/upload/`. This means that the upload endpoint is available at:
 
-  * _http://yoursite.com/upload/_ (home)
-
-
-  * _http://yoursite.com/some-blog-post/upload/_ (a blog post)
-
-
-  * _http://yoursite.com/events/some-event/upload/_ (a custom post type)
-
-
-  * _http://yousite.com/members/username/upload/_ (a BuddyPress profile)
-
-
-  * and so on, on any WordPress url
-
+* _http://yoursite.com/upload/_ (home)
+* _http://yoursite.com/some-blog-post/upload/_ (a blog post)
+* _http://yoursite.com/events/some-event/upload/_ (a custom post type)
+* _http://yousite.com/members/username/upload/_ (a BuddyPress profile)
+* and so on, on any WordPress url
 
 ## Read/Write Methods
 
-
 The upload endpoint only supports a $_POST request and returns a 404, not found error on a $_GET request, as when requested by a browser.
-
 
 Needless to say, the upload endpoint will only work (as will rtMedia) when [pretty permalinks](http://codex.wordpress.org/Using_Permalinks) are enabled.
 
-
 ## The Upload Object
-
 
 The upload endpoint POST method accepts the following $_POST fields, along with the $_FILES array. What follows is a brief description. Look at the Upload Object for more details.
 
+* mode
+* context
+* context_id
+* media_author
+* privacy
+* custom_fields
+* taxonomy
+* album_id
+* files
+* title
+* description
+* rt_media_upload_nonce
 
-  * mode
-
-
-  * context
-
-
-  * context_id
-
-
-  * media_author
-
-
-  * privacy
-
-
-  * custom_fields
-
-
-  * taxonomy
-
-
-  * album_id
-
-
-  * files
-
-
-  * title
-
-
-  * description
-
-
-  * rt_media_upload_nonce
-
-
-mode (optional)
-    The possible values and their meaning for the upload endpoint.
-
-
-  * **file_upload** (default): Files are being uploaded from the users' hard drive
-
-
-  * **link_input**: A url needs to be imported
-
-
-  * and any custom mode that has been registered via custom hooks and filters
-
-
+* **mode (optional)** The possible values and their meaning for the upload endpoint.
+* **file_upload** (default): Files are being uploaded from the users' hard drive
+* **link_input**: A url needs to be imported
+* and any custom mode that has been registered via custom hooks and filters
 
 **context (optional)**
 

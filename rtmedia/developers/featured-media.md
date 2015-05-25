@@ -21,30 +21,25 @@ The id of the user for whom the featured media is to be fetched. For example, if
 
 
 ## Example
-
-
 In the default BuddyPress theme, find
 
-
-    /members/single/member-header.php
-
+`/members/single/member-header.php`
 
 Replace the following code:
-
-
+```php
     <?php if ( bp_is_active( 'activity' ) ) : ?>
     	<div id="latest-update">
     		<?php bp_activity_latest_update( bp_displayed_user_id() ); ?>
     	</div>
     <?php endif; ?>
 
-
+```
 with:
 
-
+```php
     <div id="featured-media">
     	<?php rtmedia_featured(); ?>
     </div>
-
+```
 
 And instead of the latest update, the featured media would show up!

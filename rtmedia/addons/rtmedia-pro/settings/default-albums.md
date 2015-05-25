@@ -11,4 +11,4 @@ If you want to add a new album to the list, click **Add**.
 
 Note that you cannot search for any media in the search bar, that is, you cannot access any media by entering its name in the search bar. You can only access media if you know the album in which it resides.
 
-Similarly, you cannot search for albums, you have to know the album name in order to access it.
+Similarly, you cannot search for albums, you have to know the album name in order to access it.

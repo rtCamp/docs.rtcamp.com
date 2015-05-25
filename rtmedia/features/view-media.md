@@ -23,4 +23,4 @@ In the **Album Gallery**, click an album cover photo or its name to view the ite
 
 ### BuddyPress Activity Stream
 
-Media uploads also appear in activity stream. 
+Media uploads also appear in activity stream.

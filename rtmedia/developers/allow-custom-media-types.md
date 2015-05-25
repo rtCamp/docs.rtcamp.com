@@ -3,9 +3,8 @@
 
 By default, rtMedia supports `mp4` file format for video and `mp3` for audio. To allow other file formats, add the following code in your theme or plugin.
 
-
-
-    `function rt_custom_allowed_types( $types ){
+```php
+function rt_custom_allowed_types( $types ){
     	if ( isset( $types[0] ) && isset( $types[0]['extensions'] ) ) {
     		if ( is_rtmedia_upload_video_enabled() )
     			$types[0]['extensions'] .= ',mov,mpg,flv,wmv,mkv,webm,ogv,mxf,asf,vob,mts,qt,mpeg,x-msvideo'; //Allow video types of file to be uploded
@@ -29,8 +28,7 @@ By default, rtMedia supports `mp4` file format for video and `mp3` for audio. To
     }
 
     // filter to show allowed media types in admin settings
-    add_filter('rtmedia_allowed_types', 'rt_custom_allowed_types_admin_settings', 10, 1);`
-
-
+    add_filter('rtmedia_allowed_types', 'rt_custom_allowed_types_admin_settings', 10, 1);
+```
 
 rtMedia uses [mediaelement.js](http://mediaelementjs.com/) to play video and audio which might not support the types you have allowed using the above filters. In this case, you will need a custom media player that you can use with rtMedia to play audio/video files.

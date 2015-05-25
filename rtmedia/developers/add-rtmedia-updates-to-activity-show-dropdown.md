@@ -1,6 +1,5 @@
 ## Adding rtMedia updates to activity show dropdown
 
-
 If you want to add rtMedia updates in activity's `show` dropdown, use the following piece of code in your function.php file:
 
 ```php
