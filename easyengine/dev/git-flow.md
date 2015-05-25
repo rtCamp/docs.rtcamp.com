@@ -14,9 +14,9 @@
 
 ## Initializing git-flow
 
-    git flow init
+    git flow init -d
 
-Above command will ask for the branching to setup for your project.
+Above command will setup branches for your project.
 
     Which branch should be used for bringing forth production releases?
        - master
@@ -104,7 +104,3 @@ For example:
     git flow hotfix finish v3.1.x
 
 Finishing a hotfix will merge the hotfix in master and develop branch
-
-
-
-
