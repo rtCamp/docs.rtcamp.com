@@ -27,7 +27,7 @@ Here you can find a [guide for installing & activating WPML](http://wpml.org/doc
 Also make sure you are using BuddyPress plugin in your website, you can read more about it here - [BuddyPress Multilingual plugin](https://wpml.org/documentation/related-projects/buddypress-multilingual/). 
 
 
-##How to setup rtMedia in your language using WPML translation:
+##How to setup rtMedia in your language using WPML translation
 
 a. Add your language from "Languages" tab under WPML menu.
 ![rtmedia-wpml-01](https://cloud.githubusercontent.com/assets/1140051/6965668/05a03f44-d971-11e4-9040-b1a449f995f3.png)
