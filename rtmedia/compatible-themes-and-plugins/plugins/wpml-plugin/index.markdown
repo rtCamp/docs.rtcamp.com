@@ -7,6 +7,7 @@ rtMedia plugin provides features to upload media for BuddyPress based websites. 
 
 ![rtmedia-plugin-certificate-of-wpml-compatibility](https://cloud.githubusercontent.com/assets/1140051/7046827/364dfe6a-de26-11e4-9675-b4be8f94924c.png)
 
+All rtMedia [premium add-ons](https://rtcamp.com/rtmedia/addons/) and [themes](https://rtcamp.com/products/category/themes/) are compatible with WPML theme. You can follow below steps to translate strings added by rtMedia add-ons. 
 
 This document is about how to configure and what steps are required to use rtMedia Plugin and WPML together. 
 
