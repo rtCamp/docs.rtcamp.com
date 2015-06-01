@@ -10,22 +10,37 @@ myCRED is a point management system for sites running on WordPress. Through it's
 
 The points system is currently supported for the following activities:
 
-1. Upload image
-2. Upload video
-3. Upload music
-4. Create album
-5. Create playlist
-6. Rate media
-7. Like media
-8. Download media
-9. View media
-10. Edit media
-11. Edit album
-12. Delete media _(you can add negative points for this)_
-13. Report abuse on media
-14. Set as album cover
-15. Set as featured image
-16. Add media comment
+ Upload image
+
+ Upload video
+
+ Upload music
+
+ Create album
+
+ Create playlist
+
+ Rate media
+
+ Like media
+
+ Download media
+
+ View media
+
+ Edit media
+
+ Edit album
+
+ Delete media _(you can add negative points for this)_
+
+ Report abuse on media
+
+ Set as album cover
+
+ Set as featured image
+
+ Add media comment
 
 
 ## Integration with myCRED

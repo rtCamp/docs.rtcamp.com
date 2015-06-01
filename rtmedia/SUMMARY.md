@@ -144,6 +144,8 @@
   * [rtMedia Moderation](addons/moderation.md)
   * [rtMedia Custom Attributes](addons/custom-attributes.md)
   * [rtMedia Docs and Other files](addons/docs-and-other-files.md)
+  * [rtMedia Default Albums](addons/default-albums.md)
+  * [rtMedia Podcast (RSS and Atom feeds)](addons/podcast.md)
 * [Support](support.md)
 * [Developer Program](developer-program.md)
 * [Translation](translations.md)

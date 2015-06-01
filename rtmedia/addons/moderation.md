@@ -8,4 +8,4 @@ The site admin first needs to enable the **Moderation** option from **Moderation
 **Remove content after reports** : The content will be removed automatically after the count of reports in rtMedia reaches this specified number.
 
 A new Button -  **Report** - will be added while viewing media, as shown.
-[![moderation-report](https://cloud.githubusercontent.com/assets/7771963/7881806/84049c74-0624-11e5-8cbd-0f086da6a749.png)](https://cloud.githubusercontent.com/assets/7771963/7881806/84049c74-0624-11e5-8cbd-0f086da6a749.png)
+[![moderation-report-1](https://cloud.githubusercontent.com/assets/7771963/7907290/52d99a4a-0855-11e5-8e18-6a6f1065f5c9.png)](https://cloud.githubusercontent.com/assets/7771963/7907290/52d99a4a-0855-11e5-8e18-6a6f1065f5c9.png)
