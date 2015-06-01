@@ -55,11 +55,11 @@ function my_custom_company_fields( $fields ) {
 
 ##### `rtbiz_print_metabox_js()`
 
-Overriden from `Rtbiz_Entity` parent class. It is adding JS codes for email validations & other features.
+Overridden from `Rtbiz_Entity` parent class. It is adding JS codes for email validations & other features.
 
 ##### `rtbiz_save_meta_values()`
 
-Overriden from `Rtbiz_Entity` parent class. Here all the meta values will be saved for Company.
+Overridden from `Rtbiz_Entity` parent class. Here all the meta values will be saved for Company.
 
 ``` php
 @param $post_id int - WordPress Post ID
@@ -74,7 +74,7 @@ Overriden from `Rtbiz_Entity` parent class. Here all the meta values will be sav
 
 ##### `rtbiz_post_table_columns( $columns )`
 
-Modifies the columns array for new sequence for Company List Table, i.e., Country, Offerings, etc. This method is overriden from `Rtbiz_Entity` parent class.
+Modifies the columns array for new sequence for Company List Table, i.e., Country, Offerings, etc. This method is overridden from `Rtbiz_Entity` parent class.
 
 ``` php
 @param $columns array - Existing columns for Company List Table.
@@ -111,6 +111,6 @@ This filter can be used to add additional custom meta fields.
 
 ###### `rt_biz_company_labels`
 ``` php
-@param $cpt_labels // Company post type cpt array
+@param $cpt_labels // Company post type CPT array
 ```
 This filter is used to change company post type labels.

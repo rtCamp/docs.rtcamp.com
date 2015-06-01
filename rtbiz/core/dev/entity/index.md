@@ -426,7 +426,7 @@ Converts a connection object into a string. Used for getting a difference betwee
 ``` php
 @param $post_id int             - WordPress Post ID
 @param $connection string       - Connection Type
-@param $term_seperator string   - seperator charater. Default: ' , '
+@param $term_seperator string   - separator character. Default: ' , '
 
 @uses get_post()    - WordPress Core.
 @uses get_posts()   - WordPress Core.
@@ -540,13 +540,13 @@ Hooks available for this class:
 Entity action will be called with entity object.
 ###### `rtbiz_entity_meta_boxes`
 ``` php
-@param $post_type // post type of entity object ie. conact or comapny
+@param $post_type // post type of entity object ie. contact or company
 ```
 Will be called with meta boxes.
 
 ###### `rtbiz_before_render_meta_fields`
 ``` php
-@param $meta_fields // additional meta fields to be renderd
+@param $meta_fields // additional meta fields to be renders
 ```
 Called before rendering additional metabox.
 ###### `rtbiz_after_render_meta_fields`
@@ -583,7 +583,7 @@ To mange custom column using wordpress hook `'manage_'.$post-type.'_posts_custom
 ``` php
 @param $field
 ```
-Can be used when user want to change perticular field from addtional meta.
+Can be used when user want to change perticular field from additional meta.
 
 ###### `rtbiz_entity_columns`
 ``` php

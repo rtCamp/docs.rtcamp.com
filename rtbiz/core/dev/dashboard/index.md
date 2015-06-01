@@ -143,7 +143,7 @@ This method calls for chart library which would render all the charts in the wid
 
 ##### `rtbiz_add_dashboard_widgets()`
 
-Add all the dashboard widget here as a metaboz on the dashboard page.
+Add all the dashboard widget here as a metabox on the dashboard page.
 
 ``` php
 @uses Rtbiz_Dashboard_get_redux_settings() - rtBiz core. Get redux settings for label.
@@ -152,7 +152,7 @@ Add all the dashboard widget here as a metaboz on the dashboard page.
 @uses RT_Attributes_Model() - Attributes model class for DB operations.
 @uses RT_Attributes_Relationship_Model() - Attributes Relationship model class for DB operations.
 @uses RT_Attributes_Relationship_Model::get_relations_by_post_type() - Get relations based on post type.
-@uses RT_Attributes_Model::get_attribute() - get attribute detaild for given attribute ID.
+@uses RT_Attributes_Model::get_attribute() - get attribute detailed for given attribute ID.
 ```
 
 ##### `rtbiz_dashboard_recent_posts( $args, $post_type )`
@@ -183,11 +183,11 @@ This method gives post count of all the posts which does not have any terms link
 
 ##### `rtbiz_offering_wise_contacts( $obj, $args )`
 
-This method renders the widget UI where contacts are dispalyed in a chart categorized by offerings.
+This method renders the widget UI where contacts are displayed in a chart categorized by offerings.
 
 ##### `rtbiz_contact_type_wise_contacts( $obj, $args )`
 
-This method renders the widget UI where contacts are dispalyed in a chart categorized by contact type.
+This method renders the widget UI where contacts are displayed in a chart categorized by contact type.
 
 ##### `rtbiz_dashboard_widget_content( $obj, $args )`
 
@@ -209,5 +209,5 @@ This action is being used internally to specify which dashboard widget is to ren
 
 ###### `rtbiz_dashboard_recent_comments_row_comment_type`
 ``` php
-@param $comment_type - This will be called if there is new comment type specified and it is not in swich.
+@param $comment_type - This will be called if there is new comment type specified and it is not in switch.
 ```

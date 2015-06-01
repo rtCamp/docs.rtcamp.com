@@ -11,6 +11,9 @@ Developers Documentation
 - [Addons](/rtbiz/dev/addons/)
 
 
+Convention
+================================
+
 Title
 ===============
 ### `Class class_name`

@@ -119,7 +119,7 @@ Call back method to manage user columns for rtBiz Contact Export.
 @return string - Markup string to display in the column.
 
 @uses rtbiz_get_contact_for_wp_user() - rtBiz core. Get rtBiz contact for given WP User ID
-@uses wp_create_nonce() - WordPrecc Core. Creates nonce for export action.
+@uses wp_create_nonce() - Wordpress Core. Creates nonce for export action.
 ```
 
 ##### `rtbiz_check_primary_email_for_admin_notice()`
@@ -260,7 +260,7 @@ function my_custom_contact_meta_field( $fields ) {
 
 ##### `rtbiz_print_metabox_js()`
 
-This includes, different kind of JS codes that are required in meta fields functionality. It is overriden from `Rtbiz_Entity` parent class.
+This includes, different kind of JS codes that are required in meta fields functionality. It is overridden from `Rtbiz_Entity` parent class.
 
 ##### `rtbiz_primary_email_empty()`
 
@@ -280,7 +280,7 @@ This method displays admin notice for duplicate primary email error.
 
 ##### `save_meta_values()`
 
-This method saves all additional meta fields values for rtBiz contact. It is overriden from `Rtbiz_Entity` parent class.
+This method saves all additional meta fields values for rtBiz contact. It is overridden from `Rtbiz_Entity` parent class.
 
 ``` php
 @uses update_user_meta() - WordPress Core. Updates user meta value.
