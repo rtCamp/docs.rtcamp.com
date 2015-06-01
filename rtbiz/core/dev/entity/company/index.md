@@ -1,9 +1,9 @@
 Company
 =======
 
-### `Class Rt_Company`
+### `Class Rtbiz_Company`
 
-Just like `Rt_Contact`, `Rt_Company` is also inherited from `Rt_Entity`.
+Just like `Rtbiz_Contact`, `Rtbiz_Company` is also inherited from `Rtbiz_Entity`.
 
 #### Attributes
 
@@ -18,25 +18,25 @@ This key is used to store account's primary email in meta.
 Constructor method for the class.
 
 ``` php
-@uses Rt_Entity::__construct()			- rtBiz core. Calling parent class constructor.
-@uses Rt_Company::setup_meta_fields()	- rtBiz core. Settings up meta fields for company.
+@uses Rtbiz_Entity::__construct()			- rtBiz core. Calling parent class constructor.
+@uses Rtbiz_Company::rtbiz_setup_meta_fields()	- rtBiz core. Settings up meta fields for company.
 @uses add_action()						- WordPress core. To add init action for initialize entity i.e., company.
 ```
 
-##### `setup_meta_fields()`
+##### `rtbiz_setup_meta_fields()`
 
 This method defines all the meta fields needed for `Company` entity.
 
 ``` php
 @uses apply_filters()	- WordPress core. To define new filter hook.
 
-@defined rt_biz_company_meta_fields	- Custom WP Filter to add extra fields for company.
+@defined rtbiz_company_meta_fields	- Custom WP Filter to add extra fields for company.
 ```
 
 *Example*
 
 ``` php
-add_filter( 'rt_biz_company_meta_fields', 'my_custom_company_fields' );
+add_filter( 'rtbiz_company_meta_fields', 'my_custom_company_fields' );
 
 function my_custom_company_fields( $fields ) {
 	$fields[] = array(
@@ -53,46 +53,46 @@ function my_custom_company_fields( $fields ) {
 }
 ```
 
-##### `print_metabox_js()`
+##### `rtbiz_print_metabox_js()`
 
-Overriden from `Rt_Entity` parent class. It is adding JS codes for email validations & other features.
+Overridden from `Rtbiz_Entity` parent class. It is adding JS codes for email validations & other features.
 
-##### `save_meta_values()`
+##### `rtbiz_save_meta_values()`
 
-Overriden from `Rt_Entity` parent class. Here all the meta values will be saved for Company.
+Overridden from `Rtbiz_Entity` parent class. Here all the meta values will be saved for Company.
 
 ``` php
 @param $post_id int - WordPress Post ID
 
-@uses rt_biz_is_primary_email_unique_company() - rtBiz Core. Checks for unique email.
-@uses Rt_Entity::get_meta()					- rtBiz core. Gets meta value of Company for given meta key.
-@uses Rt_Entity::delete_meta()				- rtBiz Core. deletes meta value of company for given key.
-@uses Rt_Entity::add_meta()					- rtBiz Core. add meta value for company with given key and value.
-@uses Rt_Entity::update_meta()				- rtBiz Core. update existing meta value.
-@uses Rt_Entity::save_meta_values()			- rtBiz Core. Calling parent method for this class.
+@uses rtbiz_is_primary_email_unique_company() - rtBiz Core. Checks for unique email.
+@uses Rtbiz_Entity::get_meta()					- rtBiz core. Gets meta value of Company for given meta key.
+@uses Rtbiz_Entity::delete_meta()				- rtBiz Core. deletes meta value of company for given key.
+@uses Rtbiz_Entity::add_meta()					- rtBiz Core. add meta value for company with given key and value.
+@uses Rtbiz_Entity::update_meta()				- rtBiz Core. update existing meta value.
+@uses Rtbiz_Entity::rtbiz_save_meta_values()			- rtBiz Core. Calling parent method for this class.
 ```
 
-##### `post_table_columns( $columns )`
+##### `rtbiz_post_table_columns( $columns )`
 
-Modifies the columns array for new sequence for Company List Table, i.e., Country, Offerings, etc. This method is overriden from `Rt_Entity` parent class.
+Modifies the columns array for new sequence for Company List Table, i.e., Country, Offerings, etc. This method is overridden from `Rtbiz_Entity` parent class.
 
 ``` php
 @param $columns array - Existing columns for Company List Table.
 
 @return $cols array - New columns for Company List Table.
 
-@uses Rt_Entity::post_table_columns()	- rtBiz Core. Calling parent method.
+@uses Rtbiz_Entity::rtbiz_post_table_columns()	- rtBiz Core. Calling parent method.
 ```
 
-##### `manage_post_table_columns()`
+##### `rtbiz_manage_post_table_columns()`
 
 Manages additional columns mentioned above.
 
-##### `add_company( $name, $note, $address, $country, $meta )`
+##### `rtbiz_add_company( $name, $note, $address, $country, $meta )`
 
 Adds new company in the database.
 
-##### `get_company()`
+##### `rtbiz_get_company()`
 
 Returns companies post objects if found according to arguments passed and empty array if not found.
 
@@ -102,6 +102,15 @@ Returns companies post objects if found according to arguments passed and empty 
 
 ##### Filters
 
-###### `rt_biz_organization_meta_fields`
+###### `rtbiz_company_meta_fields`
 
+``` php
+@param $meta_array // additional meta array for company CPT
+```
 This filter can be used to add additional custom meta fields.
+
+###### `rt_biz_company_labels`
+``` php
+@param $cpt_labels // Company post type CPT array
+```
+This filter is used to change company post type labels.

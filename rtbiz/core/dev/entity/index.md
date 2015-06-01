@@ -10,19 +10,19 @@ Each of the above entity is a Custom Post Type in WordPress.
 
 We have build the base of this plugin such as this entities can be extended or even a new entity can be added later on if required.
 
-We abstracted a parent class for all the entities in rtBiz family named `Rt_Entity`. Other specific entities will inherit this class and automatically get all the common methods/attributes on its own.
+We abstracted a parent class for all the entities in rtBiz family named `Rtbiz_Entity`. Other specific entities will inherit this class and automatically get all the common methods/attributes on its own.
 
 So structure would go as follows:
 
-    |-Rt_Entity
-        |-Rt_Contact
-        |-Rt_Company
+    |-Rtbiz_Entity
+        |-Rtbiz_Contact
+        |-Rtbiz_Company
 
-### `Class Rt_Entity`
+### `Class Rtbiz_Entity`
 
 #### Attributes
 
-Common attributes that are defined in `Rt_Entity` class:
+Common attributes that are defined in `Rtbiz_Entity` class:
 
 ##### `$enabled_post_types`
 
@@ -46,14 +46,14 @@ Prefix string for all the meta keys of entity.
 
 #### Methods
 
-A few common methods that are defined in `Rt_Entity` class:
+A few common methods that are defined in `Rtbiz_Entity` class:
 
 ##### `__construct()`
 
 Constructor method for the class.
 
 ``` php
-@uses Rt_Entity::hooks()    - rtBiz Core. Initializes hooks for this class.
+@uses Rtbiz_Entity::hooks()    - rtBiz Core. Initializes hooks for this class.
 ```
 
 ##### `init_entity()`
@@ -61,7 +61,7 @@ Constructor method for the class.
 Initializes the post_type in WordPress.
 
 ``` php
-@uses Rt_Entity::register_post_type to register the post type.
+@uses Rtbiz_Entity::register_post_type to register the post type.
 ```
 
 ##### `hooks()`
@@ -75,7 +75,7 @@ Common hooks that are needed to be added for entity
 @uses rt_biz_get_redux_settings()  - rtBiz Core. To check for offerings settings.
 @uses do_action()               - WordPress Core. To introduce an action hook.
 
-@defined rt_biz_entity_hooks    - Custom WP Action. This can be used to add extra hooks from other plugins/themes.
+@defined Rtbiz_Entity    - Custom WP Action. This can be used to add extra hooks from other plugins/themes.
 ```
 
 *Example*
@@ -179,7 +179,7 @@ This method gets called when a entity is saved from admin panel. It is used to s
 @uses rt_biz_get_company_post_type()        - rtBiz Core. Fetches company post type
 @uses rt_biz_is_primary_email_unique()         - rtBiz Core. Checks for duplicate email address
 @uses rt_biz_is_primary_email_unique_company() - rtBiz Core. Checks for duplicate email address
-@uses Rt_Entity::get_meta()                 - rtBiz Core. fetches meta value for the given key.
+@uses Rtbiz_Entity::get_meta()                 - rtBiz Core. fetches meta value for the given key.
 @uses wp_get_current_user()                 - WordPress Core. Gets current logged in use.
 @uses rt_biz_get_redux_settings()              - rtBiz Core. Fetches Biz settings to get the label.
 @uses wp_insert_comment()                   - WordPress Core. Inserts rtBot comment.
@@ -284,12 +284,12 @@ Common metabox that will be rendered for Entity. This will give you additional g
 @uses do_action()                   - WordPress Core. To define new actions.
 @uses wp_get_post_terms()           - WordPress Core. Gets post terms for the given post id & category.
 @uses apply_filters()               - WordPress Core. To define new filters.
-@uses Rt_Entity::get_meta()         - rtBiz Core. Gets meta value of entity for given key.
+@uses Rtbiz_Entity::get_meta()         - rtBiz Core. Gets meta value of entity for given key.
 @uses wp_nonce_field()              - WordPress Core. Generates a nonce value for the form.
-@uses Rt_Entity::print_metabox_js() - rtBiz Core. Prints JS code in script tag if added.
+@uses Rtbiz_Entity::print_metabox_js() - rtBiz Core. Prints JS code in script tag if added.
 
 @defined rt_biz_before_render_meta_fields   - This action is used when additional markup needs to be added before meta fields.
-@defined rt_entity_fields_loop_single_field - This filter is used when any field attributes needs to be changed/filtered.
+@defined Rtbiz_Entity_fields_loop_single_field - This filter is used when any field attributes needs to be changed/filtered.
 @defined rt_biz_after_render_meta_fields    - This action is useful when extra markup is required to add after meta fields.
 @defined rt_biz_print_metabox_js            - This action lets you add any additional JS script in the markup.
 ```
@@ -300,7 +300,7 @@ Common metabox that will be rendered for Entity. This will give you additional g
 add_action( 'rt_biz_before_render_meta_fields', 'my_custom_before_meta_fields' );
 add_action( 'rt_biz_after_render_meta_fields', 'my_custom_after_meta_fields' );
 add_action( 'rt_biz_print_metabox_js', 'my_custom_metabox_js' );
-add_filter( 'rt_entity_fields_loop_single_field', 'my_custom_loop_sigle_field' )
+add_filter( 'rtbiz_entity_fields_loop_single_field', 'my_custom_loop_sigle_field' )
 
 function my_custom_before_meta_fields( $post, $entity_object ) {
     echo "Yo! This gets added at the start of meta field markup !";
@@ -335,8 +335,8 @@ Saves any additional details from the metabox, if they are used.
 @param $post_id int - WordPress Post ID
 
 @uses wp_verify_nonce()                 - WordPress Core. This verifies the valid nonce.
-@uses Rt_Entity::save_meta_assign_to()  - rtBiz Core. Save assignee of entity.
-@uses Rt_Entity::save_meta_values()     - rtBiz Core. Save other meta values of entity.
+@uses Rtbiz_Entity::save_meta_assign_to()  - rtBiz Core. Save assignee of entity.
+@uses Rtbiz_Entity::save_meta_values()     - rtBiz Core. Save other meta values of entity.
 ```
 
 ##### `save_meta_values( $post_id )`
@@ -426,7 +426,7 @@ Converts a connection object into a string. Used for getting a difference betwee
 ``` php
 @param $post_id int             - WordPress Post ID
 @param $connection string       - Connection Type
-@param $term_seperator string   - seperator charater. Default: ' , '
+@param $term_seperator string   - separator character. Default: ' , '
 
 @uses get_post()    - WordPress Core.
 @uses get_posts()   - WordPress Core.
@@ -533,26 +533,64 @@ Hooks available for this class:
 
 ##### Actions
 
-###### `rt_biz_entity_hooks`
+###### `rtbiz_entity_hooks`
+``` php
+@param $entity // entity Object will be called with this action. Either contact or company
+```
+Entity action will be called with entity object.
+###### `rtbiz_entity_meta_boxes`
+``` php
+@param $post_type // post type of entity object ie. contact or company
+```
+Will be called with meta boxes.
 
-###### `rt_biz_entity_meta_boxes`
+###### `rtbiz_before_render_meta_fields`
+``` php
+@param $meta_fields // additional meta fields to be renders
+```
+Called before rendering additional metabox.
+###### `rtbiz_after_render_meta_fields`
+``` php
+@param $post // Wp post for current object contact or company
+@param $post_type //post type of current object.
+```
+###### `rtbiz_print_metabox_js`
+``` php
+@param $post // Wp post for current object contact or company
+@param $post_type //post type of current object.
+```
+To echo additional js if there any.
 
-###### `rt_biz_before_render_meta_fields`
+###### `rtbiz_save_entity_meta`
+``` php
+@param $post // Wp post for current object contact or company
+@param $post_type //post type of current object.
+@param $obj // object of entity class
+```
+To save added additional metabox.
 
-###### `rt_biz_after_render_meta_fields`
-
-###### `rt_biz_print_metabox_js`
-
-###### `rt_biz_save_entity_meta`
-
-###### `rt_entity_manage_columns`
-
+###### `rtbiz_entity_manage_columns`
+``` php
+@param $column // column
+@param $post_id // post id of contact or company
+@param $obj // object of entity class
+```
+To mange custom column using wordpress hook `'manage_'.$post-type.'_posts_custom_column`
 
 ##### Filters
 
-###### `rt_entity_fields_loop_single_field`
+###### `rtbiz_entity_fields_loop_single_field`
+``` php
+@param $field
+```
+Can be used when user want to change perticular field from additional meta.
 
-###### `rt_entity_columns`
+###### `rtbiz_entity_columns`
+``` php
+@param $columns
+@param $obj
+```
+It uses wordpress `manage_' . $post_type . '_posts_columns` filter can be used to manage columns.
 
 
 **NOTE:** You can check the methods documentation above on how to make use of these hooks ( actions and filters ).
