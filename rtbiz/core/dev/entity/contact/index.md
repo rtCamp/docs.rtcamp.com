@@ -1,7 +1,7 @@
 Contact
 =======
 
-### `Class Rt_Contact`
+### `Class Rtbiz_Contact`
 
 This class is inherited from `Rt_Entity`.
 
@@ -19,22 +19,6 @@ This meta key is for primary email of a contact.
 
 A meta key in use to store contact website in meta table.
 
-##### `static $user_category_taxonomy = 'rt-contact-group';`
-
-A string constant for slug of Contact Category taxonomy.
-
-##### `static $employees_category_slug = 'employees';`
-
-A string constant for slug of *Employees* term.
-
-##### `static $customer_category_slug = 'customers';`
-
-A string constant for slug of *Customers* term.
-
-##### `static $vendor_category_slug = 'vendors';`
-
-A string constant for slug of *Vendors* term.
-
 #### Methods
 
 ##### `__construct()`
@@ -42,13 +26,13 @@ A string constant for slug of *Vendors* term.
 Constructor method for the class. It is initializing required tasks for Contact entity such as *WP User to Contact* sync, taxonomy registration, adding default taxonomy terms, P2P connections, metaboxes and other miscellaneous tasks.
 
 ``` php
-@uses Rt_Entity::__construct()			- rtBiz Core. Calling out parent constructor.
-@uses Rt_Contact::setup_meta_fields()	- rtBiz Core. Define meta fields to save for Contact.
+@uses Rtbiz_Entity::__construct()			- rtBiz Core. Calling out parent constructor.
+@uses Rtbiz_Contact::setup_meta_fields()	- rtBiz Core. Define meta fields to save for Contact.
 @uses add_action()						- WordPress Core. Adding init action to initialize contact entity and other tasks.
 @uses add_filter()						- WordPress Core. Useful for some of the miscellaneous tasks.
 ```
 
-##### `exported_admin_notice()`
+##### `rtbiz_exported_admin_notice()`
 
 Admin notice method to display the user message when WordPress users are exported to rtBiz contacts.
 
@@ -57,18 +41,18 @@ Admin notice method to display the user message when WordPress users are exporte
 @uses number_format_i18n()	- WordPress Core. Internationalization function
 ```
 
-##### `callback_rtbiz_bulk_action()`
+##### `rtbiz_callback_bulk_action()`
 
 Call back method for bulk export action from users.php to export rtbiz contacts
 
 ``` php
 @uses check_admin_referer()				- WordPress core. To verify bulk action.
-@uses Rt_Contact::export_biz_contacts()	- rtBiz core. Exports WP user to rtBiz contact.
+@uses self::rtbiz_export_biz_contacts()	- rtBiz core. Exports WP user to rtBiz contact.
 @uses add_query_arg()					- WordPress core. Build redirection URL.
 @uses wp_redirect()						- WordPress core. To redirect user back to Users page.
 ```
 
-##### `add_export_user_bulk_action()`
+##### `rtbiz_add_export_user_bulk_action()`
 
 This method adds bulk action option to export WordPress users to rtBiz Contacts via JS hack.
 
@@ -78,21 +62,21 @@ AJAX callback for single user export from user.php
 
 ``` php
 @uses check_ajax_referer()				- WordPress core. To verify export action for user.
-@uses Rt_contact::export_biz_contact()	- rtBiz Core. Exports WP user to rtBiz Contact.
+@uses Rt_contact::rtbiz_manage_export_user_columns()	- rtBiz Core. Exports WP user to rtBiz Contact.
 @uses get_post()						- WordPress core. To check for existing contact with same email.
 @uses get_edit_post_link()				- WordPress core. To get edit post link for contact.
 ```
 
-##### `rtbiz_export_all_contacts()`
+##### `rtbiz_export_contact()`
 
 AJAX callback to export all WordPress users to rtBiz Contacts.
 
 ``` php
 @uses check_ajax_referer() - WordPress Core. To verify export action.
-@uses Rt_Contact::export_biz_contacts() - rtBiz Core. Exports WordPress Users to rtBiz Contacts for given array of IDs.
+@uses Rtbiz_Contact::rtbiz_export_biz_contact() - rtBiz Core. Exports WordPress Users to rtBiz Contacts for given array of IDs.
 ```
 
-##### `export_biz_contacts( $ids )`
+##### `rtbiz_export_biz_contacts( $ids )`
 
 This method exports WP users to rtBiz contacts in bulk.
 
@@ -103,11 +87,11 @@ This method exports WP users to rtBiz contacts in bulk.
 
 @uses get_users() - WordPress Core. To fetch the users.
 @uses wp_list_pluck() - WordPress Core. To extract User ID from WordPress User object.
-@uses rt_biz_get_contact_for_wp_user() - rtBiz Core. Get mapped rtBiz Contact for give WP User ID.
-@uses Rt_Contact::export_biz_contact() - rtBiz Core. Export given User to rtBiz Contact.
+@uses rtbiz_get_contact_for_wp_user() - rtBiz Core. Get mapped rtBiz Contact for give WP User ID.
+@uses Rtbiz_Contact::rtbiz_export_biz_contacts() - rtBiz Core. Export given User to rtBiz Contact.
 ```
 
-##### `export_biz_contact()`
+##### `rtbiz_export_biz_contact()`
 
 This method exports single WP user to rtbiz contact. It will check if contact exists then it will map or else create new contact and will map with p2p.
 
@@ -118,12 +102,12 @@ This method exports single WP user to rtbiz contact. It will check if contact ex
 
 @uses get_user_by() - WordPress core. Get user object from ID.
 @uses get_posts() - WordPress core. Fetches contacts posts to verify if contact exists or not.
-@uses rt_biz_is_primary_email_unique() - rtBiz Core. To verify unique email.
-@uses rt_biz_add_contact() - rtBiz core. Adds new contact.
-@uses Rt_Contact::connect_contact_to_user() - connects WP User to rtBiz Contact.
+@uses rtbiz_is_primary_email_unique() - rtBiz Core. To verify unique email.
+@uses rtbiz_add_contact() - rtBiz core. Adds new contact.
+@uses Rtbiz_Contact::rtbiz_connect_contact_to_user() - connects WP User to rtBiz Contact.
 ```
 
-##### `manage_export_user_columns( $value, $column_name, $id )`
+##### `rtbiz_manage_export_user_columns( $value, $column_name, $id )`
 
 Call back method to manage user columns for rtBiz Contact Export.
 
@@ -134,16 +118,16 @@ Call back method to manage user columns for rtBiz Contact Export.
 
 @return string - Markup string to display in the column.
 
-@uses rt_biz_get_contact_for_wp_user() - rtBiz core. Get rtBiz contact for given WP User ID
+@uses rtbiz_get_contact_for_wp_user() - rtBiz core. Get rtBiz contact for given WP User ID
 @uses wp_create_nonce() - WordPrecc Core. Creates nonce for export action.
 ```
 
-##### `check_primary_email_for_admin_notice()`
+##### `rtbiz_check_primary_email_for_admin_notice()`
 
 This method checks for Unique Primary Email & Empty Primary Email for rtBiz Contact and adds appropriate admin notices on the screen.
 
 ``` php
-@uses rt_biz_get_contact_post_type() - rtBiz core. To check for needed post type.
+@uses rtbiz_get_contact_post_type() - rtBiz core. To check for needed post type.
 @uses get_user_meta() - WordPress core. Fetches email id from user meta table.
 @uses get_current_user_id() - WordPress core. Fetches User ID of currently logged in user.
 @uses add_action() - Adds action method to display admin notice.
@@ -186,7 +170,7 @@ Registers rtBiz Contact => WP User P2P connection
 @uses p2p_register_connection_type() - P2P Core. Registers new connection between two entities.
 ```
 
-##### `connect_contact_to_user( $from, $to )`
+##### `rtbiz_connect_contact_to_user( $from, $to )`
 
 Connects a rtBiz Contact to a WP User.
 
@@ -228,9 +212,9 @@ This method shows filter links on top of rtBiz Contacts List Table based on User
 Registers new taxonomy for User Category.
 
 ``` php
-@uses rt_biz_get_access_role_cap() - rtBiz Core. To check for ACL.
+@uses rtbiz_get_access_role_cap() - rtBiz Core. To check for ACL.
 @uses register_taxonomy() - WordPress Core. To register new taxonomy.
-@uses rt_biz_get_contact_post_type() - WordPress core. To get the contact post type slug.
+@uses rtbiz_get_contact_post_type() - WordPress core. To get the contact post type slug.
 ```
 
 ##### `add_defualt_categories_on_activate()`
@@ -248,13 +232,13 @@ This method defines all the meta fields needed for `Contact` entity.
 ``` php
 @uses apply_filters() - WordPress core. To define custom WP filter hook for other plugin/theme to change the meta fields for rtBiz Contact.
 
-@defined rt_biz_contact_meta_fields - WP Custom Filter to change meta fields for rtBiz Contact.
+@defined rtbiz_contact_meta_fields - WP Custom Filter to change meta fields for rtBiz Contact.
 ```
 
 *Example*
 
 ``` php
-add_filter( 'rt_biz_contact_meta_fields', 'my_custom_contact_meta_field' );
+add_filter( 'rtbiz_contact_meta_fields', 'my_custom_contact_meta_field' );
 
 function my_custom_contact_meta_field( $fields ) {
 
@@ -274,11 +258,11 @@ function my_custom_contact_meta_field( $fields ) {
 }
 ```
 
-##### `print_metabox_js()`
+##### `rtbiz_print_metabox_js()`
 
-This includes, different kind of JS codes that are required in meta fields functionality. It is overriden from `Rt_Entity` parent class.
+This includes, different kind of JS codes that are required in meta fields functionality. It is overriden from `Rtbiz_Entity` parent class.
 
-##### `primary_email_empty()`
+##### `rtbiz_primary_email_empty()`
 
 This method displays admin notice for empty primary email error.
 
@@ -286,7 +270,7 @@ This method displays admin notice for empty primary email error.
 @uses _e() - WordPress Core. Internationalization method.
 ```
 
-##### `primary_email_not_unique()`
+##### `rtbiz_primary_email_not_unique()`
 
 This method displays admin notice for duplicate primary email error.
 
@@ -296,13 +280,13 @@ This method displays admin notice for duplicate primary email error.
 
 ##### `save_meta_values()`
 
-This method saves all additional meta fields values for rtBiz contact. It is overriden from `Rt_Entity` parent class.
+This method saves all additional meta fields values for rtBiz contact. It is overriden from `Rtbiz_Entity` parent class.
 
 ``` php
 @uses update_user_meta() - WordPress Core. Updates user meta value.
 @uses get_current_user_id() - WordPress Core. Gets User ID of current logged in user.
 @uses delete_user_meta() - WordPress core. deletes user meta value.
-@uses rt_biz_is_primary_email_unique() - WordPress Core. Checks for primary email.
+@uses rtbiz_is_primary_email_unique() - WordPress Core. Checks for primary email.
 @uses Rt_Entity::get_meta() - rtBiz core. Get rtBiz Contact Meta.
 @uses Rt_Entity::delete_meta() - rtBiz core. Delete rtBiz Contact Meta.
 @uses Rt_Entity::add_meta() - rtBiz core. Add rtBiz Contact Meta.
@@ -310,23 +294,23 @@ This method saves all additional meta fields values for rtBiz contact. It is ove
 @uses Rt_Entity::save_meta_values() - rtBiz core. Calling parent class method to save meta fields.
 ```
 
-##### `post_table_columns()`
+##### `rtbiz_get_by_email()`
 
 Adds additional columns for Person list table. ( Phone Number, Country & Organization ). Overriden from `Rt_Entity` parent class.
 
 ``` php
-@uses Rt_Entity::post_table_columns() - rtBiz Core. Calling parent class method to add up extra columns.
+@uses Rt_Entity::rtbiz_post_table_columns() - rtBiz Core. Calling parent class method to add up extra columns.
 ```
 
-##### `manage_post_table_columns()`
+##### `rtbiz_manage_post_table_columns()`
 
 Manages additional columns mentioned above.
 
 ``` php
-@uses Rt_Entity::manage_post_table_columns() - rtBiz Core. Calling parent class method to manage extra columns.
+@uses Rt_Entity::rtbiz_add_contact() - rtBiz Core. Calling parent class method to manage extra columns.
 ```
 
-##### `add_contact( $name, $description, $email )`
+##### `rtbiz_add_contact( $name, $description, $email )`
 
 Adds new rtBiz Contact in the database.
 
@@ -338,10 +322,10 @@ Adds new rtBiz Contact in the database.
 @return $contact_id int - Returns rtBiz Contact Post ID.
 
 @uses wp_insert_post() - WordPress Core. Inserts new post in database.
-@uses rt_biz_update_entity_meta() - rtBiz Core. Adds email in Contact Meta.
+@uses rtbiz_update_entity_meta() - rtBiz Core. Adds email in Contact Meta.
 ```
 
-##### `get_by_email( $email )`
+##### `rtbiz_get_by_email( $email )`
 
 Search contact by email. Returns contact post object if found and empty array if not found.
 
@@ -353,7 +337,7 @@ Search contact by email. Returns contact post object if found and empty array if
 @uses get_posts() - WordPress Core. To fetch the contacts.
 ```
 
-##### `get_contact_for_wp_user( $user_id )`
+##### `rtbiz_get_contact_for_wp_user( $user_id )`
 
 Search contact object for given WP_User ID. Returns contact object if found otherwise empty array.
 
@@ -363,21 +347,11 @@ Search contact object for given WP_User ID. Returns contact object if found othe
 @uses get_posts() - WordPress core. Fetches rtBiz Contacts.
 ```
 
-##### `get_contact_by_category( $category_slug )`
-
-Get list of contact by category
-
-``` php
-@param $category_slug string - Category Slug to search for in rtBiz Contacts.
-
-@return array - An array of rtBiz Contacts for given category slug.
-```
-
-##### `get_wp_user_for_contact( $contact_id )`
+##### `rtbiz_get_wp_user_for_contact( $contact_id )`
 
 Search for WP_User for given person id. Returns WP_User ID if found otherwise returns `false`.
 
-##### `contact_create_for_wp_user( $user_id )`
+##### `rtbiz_contact_create_for_wp_user( $user_id )`
 
 Creates Contact object for given WP_User.
 
@@ -386,12 +360,12 @@ Creates Contact object for given WP_User.
 
 @uses get_user_by() - WordPress Core. Fetch users based on ID.
 @uses get_posts() - Fetch contacts and check for existing contact.
-@uses Rt_Contact::add_contact() - rtBiz Core. Add new contact if it does not exist.
-@uses Rt_Contact::connect_contact_to_user() - rtBiz Core. Connect rtBiz Contact with WP User.
-@uses Rt_Contact::update_meta() - rtBiz Core. Updates meta values for Contact.
+@uses Rtbiz_Contact::rtbiz_add_contact() - rtBiz Core. Add new contact if it does not exist.
+@uses Rtbiz_Contact::rtbiz_connect_contact_to_user() - rtBiz Core. Connect rtBiz Contact with WP User.
+@uses Rtbiz_Contact::update_meta() - rtBiz Core. Updates meta values for Contact.
 ```
 
-##### `get_user_from_name()`
+##### `rtbiz_search_user_ajax()`
 
 Search by name method for AJAX callback.
 
@@ -403,8 +377,48 @@ Search by name method for AJAX callback.
 
 ##### Actions
 
+###### `rtbiz_before_delete_contact_acl_remove`
+``` php
+@param $contactid Post id of contact cpt being delete.
+@param $userid User id mapped with post id on contact
+```
+
+Before contact ACL remove
+
+###### `rtbiz_after_delete_contact_acl_remove`
+``` php
+@param $contactid //Post id of contact cpt being delete.
+@param $userid User // id mapped with post id on contact
+```
+
+After contact ACL remove
+
+###### `rtbiz_after_delete_contact_acl_remove`
+``` php
+@param $contactid // Post id of contact cpt being delete.
+@param $userid User //  id mapped with post id on contact
+```
+
+After ACL Permission is removed.
+
+###### `rtbiz_before_delete_contact`
+``` php
+@param $contactid // Post id of contact cpt being delete.
+@param $userid User // id mapped with post id on contact
+```
+
+Before contact deleted from wordpress database and after ACL is removed this action will be called.
+
 ##### Filters
 
-###### `rt_biz_contact_meta_fields`
-
+###### `rtbiz_contact_meta_fields`
+``` php
+@param $meta_fields // array of additional meta fields
+```
 Additional custom fields can be added using this filter.
+
+##### `rtbiz_contact_labels`
+``` php
+@param $contact_columns // array of post type of array
+```
+Post type columns can be change using this hook
