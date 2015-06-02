@@ -26,10 +26,10 @@ Constructor method for the class. It initializes dashboard class & sets default 
 
 ``` php
 @uses add_action() - Wordpress Core. Adds ajax callback action for welcome widget dismissal.
-@uses Rtbiz_Dashboard::rtbiz_print_dashboard_js() - rtBiz Core. Setup default values for welcome widget dismissal key.
+@uses Rtbiz_Dashboard::print_dashboard_js() - rtBiz Core. Setup default values for welcome widget dismissal key.
 ```
 
-##### `rtbiz_setup_defaults()`
+##### `setup_defaults()`
 
 This method setup default values for welcome widget dismissal key in usermeta.
 
@@ -39,16 +39,16 @@ This method setup default values for welcome widget dismissal key in usermeta.
 @uses update_user_meta() - WordPress Core. updates usermeta value for dismissal key if it doesn't exists.
 ```
 
-##### `rtbiz_setup_dashboard()`
+##### `setup_dashboard()`
 
 This method setup the dashboard to be rendered on the page.
 
 ``` php
 @uses add_action() - WordPress core. Defines a few action methods for dashboard setup.
-@uses Rtbiz_Dashboard::rtbiz_check_welcome_panel() - rtBiz Core. Check whether to display welcome widget or not.
+@uses Rtbiz_Dashboard::check_welcome_panel() - rtBiz Core. Check whether to display welcome widget or not.
 ```
 
-##### `rtbiz_update_welcome_panel_ajax()`
+##### `update_welcome_panel_ajax()`
 
 AJAX action callback to update show/hide welcome widget action.
 
@@ -60,7 +60,7 @@ AJAX action callback to update show/hide welcome widget action.
 @uses get_current_user_id() - WordPress core. Gets current logged in user's ID.
 ```
 
-##### `rtbiz_print_dashboard_js()`
+##### `print_dashboard_js()`
 
 Adds required JS code into dashboard page. It also checks for Welcome Widget visibility.
 
@@ -71,7 +71,7 @@ Adds required JS code into dashboard page. It also checks for Welcome Widget vis
 @uses wp_get_current_user() - Gets current WP User object.
 ```
 
-##### `rtbiz_rtbiz_setup_defaults()`
+##### `rtbiz_setup_defaults()`
 
 This method checks for welcome widget query string and accordingly updates user meta.
 
@@ -80,7 +80,7 @@ This method checks for welcome widget query string and accordingly updates user 
 @uses get_current_user_id() - WordPress core. Gets current logged in user's ID.
 ```
 
-##### `rtbiz_welcome_panel()`
+##### `welcome_panel()`
 
 This method renders UI for rtBiz Welcome Widget.
 
@@ -108,7 +108,7 @@ function my_custom_plugin_quick_link() { ?>
 <?php }
 ```
 
-##### `rtbiz_add_screen_id( $screen_id )`
+##### `add_screen_id( $screen_id )`
 
 This methods set screen_id variable for the class.
 
@@ -116,11 +116,11 @@ This methods set screen_id variable for the class.
 @param $screen_id string - Screen ID for WordPress admin page.
 ```
 
-##### `rtbiz_footer_scripts()`
+##### `footer_scripts()`
 
 This method adds widget JS from the WordPress core on the dashboard page.
 
-##### `rtbiz_page_actions()`
+##### `page_actions()`
 
 Actions to be taken prior to page loading. This is after headers have been set.
 
@@ -133,7 +133,7 @@ This calls the `add_meta_boxes` hooks, adds screen options and enqueues the `pos
 @uses wp_enqueue_script() - Wordpress core. enqueues the `postbox.js` script.
 ```
 
-##### `rtbiz_render_google_charts()`
+##### `render_google_charts()`
 
 This method calls for chart library which would render all the charts in the widget.
 
@@ -141,9 +141,9 @@ This method calls for chart library which would render all the charts in the wid
 @uses Rt_Reports::render_chart() - rtBiz core. Renders the chart on a page.
 ```
 
-##### `rtbiz_add_dashboard_widgets()`
+##### `add_dashboard_widgets()`
 
-Add all the dashboard widget here as a metabox on the dashboard page.
+Add all the dashboard widget here as a metaboz on the dashboard page.
 
 ``` php
 @uses Rtbiz_Dashboard_get_redux_settings() - rtBiz core. Get redux settings for label.
@@ -152,10 +152,10 @@ Add all the dashboard widget here as a metabox on the dashboard page.
 @uses RT_Attributes_Model() - Attributes model class for DB operations.
 @uses RT_Attributes_Relationship_Model() - Attributes Relationship model class for DB operations.
 @uses RT_Attributes_Relationship_Model::get_relations_by_post_type() - Get relations based on post type.
-@uses RT_Attributes_Model::get_attribute() - get attribute detailed for given attribute ID.
+@uses RT_Attributes_Model::get_attribute() - get attribute detaild for given attribute ID.
 ```
 
-##### `rtbiz_dashboard_recent_posts( $args, $post_type )`
+##### `dashboard_recent_posts( $args, $post_type )`
 
 This method renders latest posts in the Recent Activity widget added based on the post type passed.
 
@@ -169,27 +169,27 @@ This method renders latest posts in the Recent Activity widget added based on th
 @uses WP_Query::have_posts() - Checks if post exists or not.
 ```
 
-##### `rtbiz_dashboard_recent_comments_row( &$comment, $show_date )`
+##### `dashboard_recent_comments_row( &$comment, $show_date )`
 
 This method displays a single comment in a row within Recent Comments widget on rtbiz dashboard.
 
-##### `rtbiz_dashboard_site_activity()`
+##### `dashboard_site_activity()`
 
 This is a combo widget displaying recent contacts, recent companies & recent comments.
 
-##### `rtbiz_get_post_count_excluding_tax( $taxonomy, $post_type )`
+##### `get_post_count_excluding_tax( $taxonomy, $post_type )`
 
 This method gives post count of all the posts which does not have any terms linked from given taxonomy.
 
-##### `rtbiz_offering_wise_contacts( $obj, $args )`
+##### `offering_wise_contacts( $obj, $args )`
 
-This method renders the widget UI where contacts are displayed in a chart categorized by offerings.
+This method renders the widget UI where contacts are dispalyed in a chart categorized by offerings.
 
-##### `rtbiz_contact_type_wise_contacts( $obj, $args )`
+##### `contact_type_wise_contacts( $obj, $args )`
 
-This method renders the widget UI where contacts are displayed in a chart categorized by contact type.
+This method renders the widget UI where contacts are dispalyed in a chart categorized by contact type.
 
-##### `rtbiz_dashboard_widget_content( $obj, $args )`
+##### `dashboard_widget_content( $obj, $args )`
 
 This method renders all the attributes widget that are defined from attributes library.
 
@@ -197,7 +197,8 @@ This method renders all the attributes widget that are defined from attributes l
 
 ##### Actions
 
-###### `rtbiz_welcome_panel_addon_link` - Action for other addons to add quick links for their plugins.
+###### `rtbiz_welcome_panel_addon_link`
+Action for other addons to add quick links for their plugins.
 
 ###### `rtbiz_dashboard_add_meta_boxes`
 ``` php
@@ -209,5 +210,5 @@ This action is being used internally to specify which dashboard widget is to ren
 
 ###### `rtbiz_dashboard_recent_comments_row_comment_type`
 ``` php
-@param $comment_type - This will be called if there is new comment type specified and it is not in switch.
+@param $comment_type - This will be called if there is new comment type specified and it is not in swich.
 ```

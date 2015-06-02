@@ -1,23 +1,25 @@
 Access Control
 ==============
 
-### `Class Rt_Access_Control`
+### `Class Rtbiz_Access_Control`
 
 This is the main class that handles the access control given to all the users within rtBiz environment.
 
 This class works as the base for all the permissions, user access for rtBiz family plugins.
-All the plugins including rtBiz will register with this class for the Access Control that it requires & from there Rt_Access_Controll will take it over.
+All the plugins including rtBiz will register with this class for the Access Control that it requires & from there Rtbiz_Access_Control will take it over.
 
 It will map a matrix for permissions for Plugin Modules => User Groups (Departments) and from there user access can be set as per requirement.
 
 #### Attributes
+
+##### `public static $page_slug = 'rtbiz-access-control';`
 
 ##### `public static $permissions;`
 
 These are more of the permission roles for the access control. By default, rtBiz plugin sets following permissions to start with. It can be changed or more permissions can be added as per need from any other plugin/theme.
 
 ``` php
-self::$permissions = apply_filters( 'rt_biz_permissions', array(
+self::$permissions = apply_filters( 'rtbiz_permissions', array(
 	'no_access' => array(
 		'value' => 0,
 		'name' => __( 'No Role' ),
@@ -43,7 +45,7 @@ self::$permissions = apply_filters( 'rt_biz_permissions', array(
 
 ##### `public static $modules = array();`
 
-An array of registered plugin modules with rtBiz for Rt_Access_Control
+An array of registered plugin modules with rtBiz for Rtbiz_Access_Control
 
 #### Methods
 
@@ -68,11 +70,11 @@ This is the main crux method of rtBiz ACL. This method actually defines who shou
 
 @return $all_caps array - An updated array of capabilities and their values with filtered access control.
 
-@uses Rt_Access_Control::get_admin_post_caps() - rtBiz core. Get all valid capabilities for admin role for given post type.
+@uses Rtbiz_Access_Control::get_admin_post_caps() - rtBiz core. Get all valid capabilities for admin role for given post type.
 @uses rt_biz_get_contact_for_wp_user() - rtBiz Core. get rtBiz contact for given WP User ID.
 @uses get_post_meta() - WordPress core. Gets meta value for given key for a contact. This is needed for Profile Level permissions.
-@uses Rt_Access_Control::get_role_key() - rtBiz core. Gets permission slug from the given permission value.
-@uses Rt_Access_Control::get_capability_from_access_role() - rtBiz core. To get the capability slug for given module and given role.
+@uses Rtbiz_Access_Control::get_role_key() - rtBiz core. Gets permission slug from the given permission value.
+@uses Rtbiz_Access_Control::get_capability_from_access_role() - rtBiz core. To get the capability slug for given module and given role.
 @uses get_site_option() - WordPress core. To fetch site options. For Group level permissions.
 @uses rt_biz_get_user_department() - rtBiz core. Gets department for the current user.
 ```
@@ -84,8 +86,8 @@ Initilize ACL on `plugins_loaded` with 15 priority. So that before this gets exe
 ``` php
 @uses apply_filters() - WordPress Core. To define custom wordpress filter hooks.
 
-@defined rt_biz_modules - Custom Filter to register new plugin modules with rtBiz for ACL.
-@defined rt_biz_permissions - Custom Filter to change default rtBiz ACL permissions.
+@defined rtbiz_modules - Custom Filter to register new plugin modules with rtBiz for ACL.
+@defined rtbiz_permissions - Custom Filter to change default rtBiz ACL permissions.
 ```
 
 *Example*
@@ -98,8 +100,8 @@ Initilize ACL on `plugins_loaded` with 15 priority. So that before this gets exe
 add_action( 'plugins_loaded', 'my_custom_init', 15 );
 
 function my_custom_init() {
-	add_filter( 'rt_biz_modules', 'my_custom_module' )
-	add_filter( 'rt_biz_permissions', 'my_custom_permission' );
+	add_filter( 'rtbiz_modules', 'my_custom_module' )
+	add_filter( 'rtbiz_permissions', 'my_custom_permission' );
 }
 
 function my_custom_module( $modules ) {
@@ -131,7 +133,7 @@ function my_custom_permission( $permissions ) {
 ##### `get_capability_from_access_role( $module_key, $role )`
 
 This method return the capability name text if you pass the module_slug & role.
-It will return proper cap if passed module_key is registered with Rt_Access_Control & passed role is valid.
+It will return proper cap if passed module_key is registered with Rtbiz_Access_Control & passed role is valid.
 
 Other wise it will return empty string.
 
@@ -139,7 +141,7 @@ Example :
 
 ``` php
 $module_key = 'rt_biz', $role = 'author'
-$access_role = Rt_Access_Control::get_capability_from_access_role( $module_key, $role );
+$access_role = Rtbiz_Access_Control::get_capability_from_access_role( $module_key, $role );
 // Return String - 'rt_biz_author'
 ```
 
@@ -235,7 +237,7 @@ Saves new ACL Permission Matrix to the Database
 Take Action according to permission saved from the form & then display the ACL Settings UI
 
 ``` php
-@uses Rt_Access_Control::save_acl_settings() - Saves new ACL Permission Matrix to the Database
+@uses Rtbiz_Access_Control::save_acl_settings() - Saves new ACL Permission Matrix to the Database
 @uses rt_biz_get_template() - Loads ACL UI template.
 ```
 
@@ -283,10 +285,10 @@ Adds department support for rtBiz plugin.
 
 ##### Filters
 
-###### `rt_biz_modules`
+###### `rtbiz_modules`
 
 This filter is used to register new plugin modules to rtBiz for its ACL.
 
-###### `rt_biz_permissions`
+###### `rtbiz_permissions`
 
 This filter is used to add / update default rtBiz permissions.
