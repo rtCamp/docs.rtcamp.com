@@ -1,4 +1,4 @@
-## Download media or other files
+## rtMedia Direct Download Link
 
 To download a media or any other file:
 

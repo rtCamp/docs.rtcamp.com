@@ -1,4 +1,4 @@
-## WordPress Albums
+## WordPress Sitewide Gallery (Albums)
 
 Site admins and editors can create and uplaod media into WordPress album. You can create album without being dependent on BuddyPress.
 

@@ -1,4 +1,4 @@
-##  Star ratings
+##  rtMedia Star Ratings
 
 Site users can leave their feedback on media or other files in the form of star ratings:
 

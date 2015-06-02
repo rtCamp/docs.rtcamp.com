@@ -1,4 +1,4 @@
-##  WordPress Comment Attachment
+##  rtMedia WordPress Comment Attachment
 
 You can attach files to WordPress comments.
 

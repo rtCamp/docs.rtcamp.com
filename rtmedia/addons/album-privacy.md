@@ -1,4 +1,4 @@
-## Album privacy
+## rtMedia Album privacy
 
 ### Creating an Album
 

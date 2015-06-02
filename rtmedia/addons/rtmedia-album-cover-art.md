@@ -1,9 +1,5 @@
 ## Set Image as Album Cover
 
-**Note**: This feature works only with rtMedia PRO. The plugin can be [purchased from our store](https://rtcamp.com/products/rtmedia-pro/).
-
-
-
 An image can be set as an album cover in BuddyPress profile or group albums, as indicated below.
 
 To set an image as album cover:

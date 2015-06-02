@@ -1,6 +1,5 @@
 ## Set Image as Profile Picture
 
-**Note**: This feature works only with rtMedia PRO. The plugin can be [purchased from our store](https://rtcamp.com/products/rtmedia-pro/).
 
 Any image can be set as a profile picture in BuddyPress or WordPress, as shown below:
 

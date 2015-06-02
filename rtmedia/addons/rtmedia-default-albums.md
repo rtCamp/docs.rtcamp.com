@@ -1,4 +1,4 @@
-## rtMedia Default Albums
+## rtMedia Default(Global) Albums
 
 This feature allows the creation of multiple global albums. One of these albums can be set as the default global album where all uploaded media will be saved.
 

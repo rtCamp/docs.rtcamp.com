@@ -1,4 +1,4 @@
-## bbPress Attachment
+## rtMedia bbPress Attachment
 
 You can attach files to bbPress topics and replies.
 

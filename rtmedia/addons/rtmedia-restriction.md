@@ -1,4 +1,4 @@
-## Per User Upload Quota
+## rtMedia Restriction - Per User Upload Quota
 
 Admins can set an upload limit on a time basis i.e Daily/Monthly/Lifetime. In addition, admins can set upload limits in terms of total size (MB) of all the media and total number of media a user can upload.
 

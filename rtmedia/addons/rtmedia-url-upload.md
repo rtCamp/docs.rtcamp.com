@@ -1,6 +1,6 @@
-## Direct URL Upload
+## rtMedia Upload by URL
 
-Users do not need to download media files from a URL and then upload it with rtMedia PRO. Just provide the URL for the media and rtMedia will handle it.
+Users do not need to download media files from a URL and then upload it with rtMedia. Just provide the URL for the media and rtMedia will handle it.
 
 
 ### Insert URL of the Media You Want to Upload
