@@ -1,7 +1,7 @@
 Attributes
 ==========
 
-### `Class Rt_Biz_Attributes`
+### `Class Rtbiz_Attributes`
 
 This class initiates Attributes library used in rtBiz and adds a few functionality around custom attributes.
 

@@ -19,18 +19,18 @@ Constructor method for the class.
 
 ``` php
 @uses Rtbiz_Entity::__construct()			- rtBiz core. Calling parent class constructor.
-@uses Rtbiz_Company::rtbiz_setup_meta_fields()	- rtBiz core. Settings up meta fields for company.
+@uses Rtbiz_Company::setup_meta_fields()	- rtBiz core. Settings up meta fields for company.
 @uses add_action()						- WordPress core. To add init action for initialize entity i.e., company.
 ```
 
-##### `rtbiz_setup_meta_fields()`
+##### `setup_meta_fields()`
 
 This method defines all the meta fields needed for `Company` entity.
 
 ``` php
 @uses apply_filters()	- WordPress core. To define new filter hook.
 
-@defined rtbiz_company_meta_fields	- Custom WP Filter to add extra fields for company.
+@defined rtbiz_get_company_meta_fields	- Custom WP Filter to add extra fields for company.
 ```
 
 *Example*
@@ -53,11 +53,11 @@ function my_custom_company_fields( $fields ) {
 }
 ```
 
-##### `rtbiz_print_metabox_js()`
+##### `print_metabox_js()`
 
 Overridden from `Rtbiz_Entity` parent class. It is adding JS codes for email validations & other features.
 
-##### `rtbiz_save_meta_values()`
+##### `save_meta_values()`
 
 Overridden from `Rtbiz_Entity` parent class. Here all the meta values will be saved for Company.
 
@@ -69,10 +69,10 @@ Overridden from `Rtbiz_Entity` parent class. Here all the meta values will be sa
 @uses Rtbiz_Entity::delete_meta()				- rtBiz Core. deletes meta value of company for given key.
 @uses Rtbiz_Entity::add_meta()					- rtBiz Core. add meta value for company with given key and value.
 @uses Rtbiz_Entity::update_meta()				- rtBiz Core. update existing meta value.
-@uses Rtbiz_Entity::rtbiz_save_meta_values()			- rtBiz Core. Calling parent method for this class.
+@uses Rtbiz_Entity::save_meta_values()			- rtBiz Core. Calling parent method for this class.
 ```
 
-##### `rtbiz_post_table_columns( $columns )`
+##### `post_table_columns( $columns )`
 
 Modifies the columns array for new sequence for Company List Table, i.e., Country, Offerings, etc. This method is overridden from `Rtbiz_Entity` parent class.
 
@@ -81,18 +81,18 @@ Modifies the columns array for new sequence for Company List Table, i.e., Countr
 
 @return $cols array - New columns for Company List Table.
 
-@uses Rtbiz_Entity::rtbiz_post_table_columns()	- rtBiz Core. Calling parent method.
+@uses Rtbiz_Entity::post_table_columns()	- rtBiz Core. Calling parent method.
 ```
 
-##### `rtbiz_manage_post_table_columns()`
+##### `manage_post_table_columns()`
 
 Manages additional columns mentioned above.
 
-##### `rtbiz_add_company( $name, $note, $address, $country, $meta )`
+##### `add_company( $name, $note, $address, $country, $meta )`
 
 Adds new company in the database.
 
-##### `rtbiz_get_company()`
+##### `get_company()`
 
 Returns companies post objects if found according to arguments passed and empty array if not found.
 
