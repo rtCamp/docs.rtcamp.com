@@ -67,7 +67,7 @@ AJAX callback for single user export from user.php
 @uses get_edit_post_link()				- WordPress core. To get edit post link for contact.
 ```
 
-##### `export_contact()`
+##### `export_all_contacts()`
 
 AJAX callback to export all WordPress users to rtBiz Contacts.
 
@@ -372,6 +372,11 @@ Search by name method for AJAX callback.
 ``` php
 @uses WPDB::get_results() - Executes custom query to fetch display name & username.
 ```
+
+
+##### `acl_meta_boxes()`
+
+Add ACL metabox on contact post page.
 
 #### Hooks
 
