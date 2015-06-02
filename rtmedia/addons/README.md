@@ -14,5 +14,15 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 6. [rtMedia Watermark Add-on](../addons/rtmedia-watermark.md) Add watermarks text to uploaded images.
 7. [rtMedia Social Sync](../addons/rtmedia-social-sync.md) - Import media from popular social media site like Facebook.
 8. [rtMedia Membership Add-on](../addons/membership.md) - Manage memberships to your WordPress site with rtMedia installed
+9. [rtMedia myCRED addon](../addons/mycred.md) - Points management system for media activity by rtMedia
+10. [rtMedia Cubepoints addon](../addons/cubepoints.md) - Points management system for media activity by rtMedia
+11. [rtMedia Playlists addon](../addons/playlists.md) - Group audio files into playlists.
+12. [rtMEdia Favorites addon](../addons/favorites.md) - Users can create their list of favorite media (FavList) in which they can add media previously uploaded by any user.
+13. [rtMedia Upload Terms](../addons/upload-terms.md) - Allow users to check the terms and conditions before uploading the media.
+14. [rtMedia Moderation](../addons/moderation.md) - Report media to be moderate by site admin.
+15. [rtMedia Custom Attributes](../addons/custom-attributes.md) - User can assign attributes to media to filter them.
+16. [rtMedia Docs and Other files](../addons/docs-and-other-files.md) - Allow users to upload document types as well as other ( user specified extension files ) files from media tab.
+17. [rtMedia Default Albums](../addons/default-albums.md) - Set a global album as the default album for uploads across your site.
+18. [rtMedia Podcast (RSS and Atom feeds)](../addons/podcast.md) - Consume rtMedia uploads from iTunes as well as any feed-reader/podcasting software.
 
 *rtMedia-PRO addon is not required to be purchased for other add-ons mentioned here.*
