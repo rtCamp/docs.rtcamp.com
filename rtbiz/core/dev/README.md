@@ -7,18 +7,8 @@ Developers Documentation
 - [Access control](/rtbiz/dev/access-control/)
 - [Attributes](/rtbiz/dev/attributes/)
 - [Mailbox](/rtbiz/dev/mailbox/)
+- [Contextual Help](/rtbiz/dev/contextual-help/)
 - [Internal Architecture](/rtbiz/dev/internal-architecture/)
 - [Database](/rtbiz/dev/database/)
 - [Contribute](/rtbiz/dev/contribute/)
 - [Addons](/rtbiz/dev/addons/)
-
-
-Convention
-================================
-
-Title
-===============
-### `Class class_name`
-#### Hooks / Method / Attributes
-##### Action / Filters
-##### `save_post`
