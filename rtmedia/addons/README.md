@@ -39,6 +39,9 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 31. [rtMedia Upload by URL](../addons/url-upload.md) - Upload media by providing the URL for the media.
 32. [rtMedia Likes](../addons/likes.md) - Enable media like feature for all the uploaded photos, audio, video files.
 33. [rtMedia Activity URL Preview](../addons/activity-preview-url.md) - Provides a preview of the URL that is shared and shows up on BuddyPress activity.
-
+34. [rtMedia View Counter](../addons/view-counter.md) - Display the number of times a media item has been viewed.
+35. [rtMedia shortcode generator](../addons/shortcode-generator.md) - Site administrators can quickly create gallery and uploader shortcodes by using the shortcode generator button in WordPress’ post editor.
+35. [rtMedia Album Privacy](../addons/album-privacy.md) - Users can set privacy to the albums.
+36. [rtMedia Set Custom Thumbnails](../addons/set-custom-thumbnail.md) - Allows media owner to upload a custom image as a thumbnail for audio and video files.
 
 *rtMedia-PRO addon is not required to be purchased for other add-ons mentioned here.*
