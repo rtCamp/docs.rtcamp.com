@@ -1,3 +1,12 @@
+#! /bin/bash
+
+## Usage: bash build.sh ../htdocs
+
+DEST=${1:-_site}
+echo Destination is = $DEST
+
+#setup dest
+
 #jekyll dependencies
 bundle install
 
@@ -8,19 +17,19 @@ bundle exec jekyll build
 npm -g install gitbook-cli
 
 # build gitbooks: rtbiz/core/dev
-gitbook install rtbiz/core/dev && gitbook build rtbiz/core/dev _site/rtbiz/core/dev
+gitbook install rtbiz/core/dev && gitbook build rtbiz/core/dev $DEST/rtbiz/core/dev
 
 # build gitbooks: rtbiz/core/user
-gitbook install rtbiz/core/user && gitbook build rtbiz/core/user _site/rtbiz/core/user
+gitbook install rtbiz/core/user && gitbook build rtbiz/core/user $DEST/rtbiz/core/user
 
 # build gitbooks: rtbiz/helpdesk/admin
-gitbook install rtbiz/helpdesk/admin && gitbook build rtbiz/helpdesk/admin _site/rtbiz/helpdesk/admin
+gitbook install rtbiz/helpdesk/admin && gitbook build rtbiz/helpdesk/admin $DEST/rtbiz/helpdesk/admin
 
 # build gitbooks: rtbiz/helpdesk/staff
-gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff
+gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff $DEST/rtbiz/helpdesk/staff
 
 # build gitbooks: rtmedia
-gitbook install rtmedia && gitbook build rtmedia _site/rtmedia
+gitbook install rtmedia && gitbook build rtmedia $DEST/rtmedia
 
 #deploy
 # install-packages:
@@ -28,7 +37,7 @@ gitbook install rtmedia && gitbook build rtmedia _site/rtmedia
 
 
 #deploy docs to cdn
-# rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
+# rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" $DEST/* $SSHUSER@$SSHHOST:/www/
 
 #purge cdn
 # curl --data "cdn_id=$CDNID&login=$APIUSER&passwd=$APIPASS" https://client.cdn77.com/api/v2.0/data/purge-all
