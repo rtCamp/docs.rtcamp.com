@@ -1,0 +1,6 @@
+{
+"gitbook": "2.0.1",
+
+  "plugins": ["collapsible-menu","youtube"]
+
+}

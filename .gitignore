@@ -2,8 +2,6 @@ _site/*
 _theme_packages/*
 .idea/*
 
-_book
-
 Thumbs.db
 .DS_Store
 
@@ -12,5 +10,9 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 
+assets/themes/*/node_modules
+assets/themes/*/.sass-cache/*
+_book
+*~
+*.log
 node_modules
-.sass-cache
