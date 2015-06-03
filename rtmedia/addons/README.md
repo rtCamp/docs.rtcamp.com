@@ -31,7 +31,7 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 23. [rtMedia Sidebar Widgets](../addons/sidebar-widgets.md) - Allows to create sidebar gallery and uploader.
 24. [rtMedia 5 Star Ratings](../addons/ratings.md) - Site users can leave their feedback on media or other files in the form of star ratings.
 25. [rtMedia Edit Mp3 Info (ID3 Tags)](../addons/edit-mp3-info.md) - Displays Mp3 info.
-26. [rtMedia sorting](../addons/sorting.md) - Sort media in ascending or descending.
+26. [rtMedia Sorting](../addons/sorting.md) - Sort media in ascending or descending.
 27. [rtMedia Bulk Edit](../addons/bulk-edit.md) - Edit/ Delete/ Move media in bulk.
 28. [rtMedia BuddyPress Profile Picture](../addons/set-image-as-profile-picture.md) - Any image can be set as a profile picture in BuddyPress or WordPress.
 29. [rtMedia Album Cover Art](../addons/album-cover-art.md) - An image can be set as an album cover in BuddyPress profile or group albums.
@@ -43,5 +43,7 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 35. [rtMedia shortcode generator](../addons/shortcode-generator.md) - Site administrators can quickly create gallery and uploader shortcodes by using the shortcode generator button in WordPress’ post editor.
 35. [rtMedia Album Privacy](../addons/album-privacy.md) - Users can set privacy to the albums.
 36. [rtMedia Set Custom Thumbnails](../addons/set-custom-thumbnail.md) - Allows media owner to upload a custom image as a thumbnail for audio and video files.
+37. [rtMedia BuddyPress Group Media Control](../addons/buddypress-group-media-control.md) - Allow group owner to provide media upload feature for their group.
+
 
 *rtMedia-PRO addon is not required to be purchased for other add-ons mentioned here.*
