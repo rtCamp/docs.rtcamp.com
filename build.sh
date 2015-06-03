@@ -19,6 +19,9 @@ gitbook install rtbiz/helpdesk/admin && gitbook build rtbiz/helpdesk/admin _site
 # build gitbooks: rtbiz/helpdesk/staff
 gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff
 
+# build gitbooks: rtmedia
+gitbook install rtmedia && gitbook build rtmedia _site/rtmedia
+
 #deploy
 # install-packages:
 # apt-get install sshpass rsync #needed by cdn77

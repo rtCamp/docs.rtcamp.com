@@ -38,7 +38,15 @@ build:
     # build gitbooks: rtbiz/helpdesk/staff
     - script:
         name: build rtbiz helpdesk staff book
-        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff 
+        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff
+
+    # build gitbooks: rtmedia
+    - script:
+        name: build rtmedia book
+        code: gitbook install rtmedia && gitbook build rtmedia _site/rtmedia
+
+
+
 
 deploy:
   steps:
