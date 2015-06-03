@@ -2,6 +2,9 @@
 
 Users do not need to download media files from a URL and then upload it with rtMedia. Just provide the URL for the media and rtMedia will handle it.
 
+To use this feature, the site admin first needs to enable the **Allow user to upload media via URL** feature from rtMedia admin settings.
+
+[![url-upload-setting](https://cloud.githubusercontent.com/assets/7771963/7959083/79784d58-0a13-11e5-9a9a-02fe0b238d36.png)](https://cloud.githubusercontent.com/assets/7771963/7959083/79784d58-0a13-11e5-9a9a-02fe0b238d36.png)
 
 ### Insert URL of the Media You Want to Upload
 
