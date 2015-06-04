@@ -13,7 +13,7 @@ If set to TRUE, context, context_id will be ignored. Only media_type value will 
 
 ### context
 
-The [context](../../../developers/context.md) from which the media should be listed:
+The [context](../../developers/context.md) from which the media should be listed:
 
 * a post_type (post, page, event, topic, reply, etc)
 * a BuddyPress Component (activity, profile, group)
@@ -106,11 +106,11 @@ Note: Default rtMedia **privacy levels** and their values are as follow :
 3. Friends : 40
 4. Private : 60
 
-## Sort Parameters *(feature of rtmedia pro add-on)*
+## Sort Parameters *(feature of rtMedia Sorting add-on)*
 
-By default **rtMedia Pro** provides sort options to sort media by Title, Upload Date and Media Size. More sorting option like sort by views, likes, comments and rate has been added for media gallery rendered via gallery shortcode.
+By default **rtMedia Sorting** provides sort options to sort media by Title, Upload Date and Media Size. More sorting option like sort by views, likes, comments and rate has been added for media gallery rendered via gallery shortcode.
 
-**Note:** This option is available in **rtMedia Pro** only.
+**Note:** This option is available in **rtMedia Sorting** only.
 
 You can use `sort_parameters` parameter in gallery shortcode and can specify sort options.
 

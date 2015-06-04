@@ -11,4 +11,4 @@ The following checklist can help you make an informed decision as to whether rtM
 
 If you answer **Yes** to any of these questions, then rtMedia is the best solution for your media needs.
 
-rtMedia is a free plugin and its settings and features can be extended with the help of the paid [rtMedia PRO add-on](https://rtcamp.com/products/rtmedia-pro/) and few more [premium add-on](https://rtcamp.com/products/category/plugins/)
+rtMedia is a free plugin and its settings and features can be extended with the help of the paid [premium add-ons](https://rtcamp.com/products/category/plugins/).

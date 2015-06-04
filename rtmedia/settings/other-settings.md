@@ -1,9 +1,9 @@
 ## Other Settings
 
-![rtmedia-other](https://cloud.githubusercontent.com/assets/1140051/7366410/a9e40164-edb5-11e4-99d9-f616e1b03ca1.png)
+![rtmedia-other](https://cloud.githubusercontent.com/assets/9261540/7980109/6e72a048-0ac2-11e5-87e3-307828b7d26d.png)
 
 1. Set this to ON to add the rtMedia menu to the WordPress Admin bar.
-2. Enable this to use [JSON API](../developer/api/json-api/README.md) to handle API requests sent to rtMedia through any mobile application.
+2. Enable this to use [JSON API](../developers/json-api.md) to handle API requests sent to rtMedia through any mobile application.
 3. Keeping this ON helps the rtMedia team learn about the theme and plugins you are using. This allows the team to make rtMedia more compatible with your websites.
 
       **Note**: We do not collect, nor does the plugin transmit any private information about your site or infrastructure to us.

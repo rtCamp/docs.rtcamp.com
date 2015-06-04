@@ -2,7 +2,7 @@
 
 You can add in [custom CSS](http://www.w3schools.com/css/) code to style rtMedia, the way you want.
 
-![rtmedia-css](https://cloud.githubusercontent.com/assets/1140051/7366144/bd7f6418-edb3-11e4-93c8-84ac68f28a39.png)
+!![rtmedia-css](https://cloud.githubusercontent.com/assets/9261540/7980039/eb578c0a-0ac1-11e5-8cc1-b6bcf5864432.png)
 
 1. To add your own CSS styling, set **rtMedia default styles** to ON. If its OFF, the website style may break and you must need to add custom CSS in step 2.
 2. Enter your custom CSS code.

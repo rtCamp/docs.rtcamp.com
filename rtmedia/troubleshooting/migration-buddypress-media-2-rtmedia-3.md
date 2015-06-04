@@ -11,4 +11,4 @@ Follow this guideline for migrating content smoothly from BuddyPress-Media 2.x t
 5. Make sure the test site has exactly the same server environment, permission and configuration. Otherwise, what works on the test site may fail on the live site.
 
 
-[![migration](https://rtcamp.com/wp-content/uploads/2013/10/migration_thumb.png)](https://rtcamp.com/wp-content/uploads/2013/10/migration.png)
+![migration](https://cloud.githubusercontent.com/assets/9261540/7981784/dd52b014-0ace-11e5-8c60-2cd22fb5f4dc.png)

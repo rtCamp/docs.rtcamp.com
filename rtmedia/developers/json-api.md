@@ -491,7 +491,7 @@ rtmedia_gallery method can be used to get different types of media with availabl
     }
 ```
 
-For more details refer: [gallery-shortcode](../getting_started/features/shortcodes/gallery-shortcode.html)
+For more details refer: [gallery-shortcode](../features/shortcodes/gallery.md)
 
 ##### [GET] rtmedia_get_media_details
 

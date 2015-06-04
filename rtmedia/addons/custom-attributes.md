@@ -36,4 +36,4 @@ You may want either single or multiple terms for each attribute. For single term
 
 ## Attributes Shortcodes
 
-Please read document here [http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code](http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code)
+Please read document here [gallery-shortcodes->AttributesShort-Code](../features/shortcodes/gallery.md)

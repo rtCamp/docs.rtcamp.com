@@ -1,6 +1,6 @@
 ## Keywords to Get rtMedia Image Sizes
 
-Image sizes used by rtMedia are described [here](../getting_started/settings/image-sizes.html).
+Image sizes used by rtMedia are described [here](../settings/image-sizes.md).
 
 You can use the following image size to retrieve rtMedia images.
 

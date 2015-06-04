@@ -15,4 +15,4 @@ When admin enables `Other` media type option and adds required type to `File Ext
 
 [![others-upload-tab](https://cloud.githubusercontent.com/assets/7771963/7885263/7e2e0832-0640-11e5-9c1a-4d20d8a8ae40.png)](https://cloud.githubusercontent.com/assets/7771963/7885263/7e2e0832-0640-11e5-9c1a-4d20d8a8ae40.png)
 
-If you wish to download `Documents` of any type, we suggest you to try our **rtmedia-downloads** addon for the same.
+If you wish to download `Documents` of any type, we suggest you to try our [(**rtmedia-downloads**)](https://rtcamp.com/products/rtmedia-direct-download-link/) addon for the same.

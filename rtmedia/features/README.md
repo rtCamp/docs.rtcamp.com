@@ -13,7 +13,7 @@ Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 5. [Privacy](/privacy.md)
 6. [Delete Media](/delete-media.md)
 7. [Edit Media](/edit-media.md)
-8. [Shortcodes](/shortcodes/upload-shortcode.md)
+8. [Shortcodes](/shortcodes/upload.md)
 9. [Advance User settings](/advance-user-setting.md)
 
 

@@ -1,7 +1,10 @@
 ## rtMedia Direct Download Link
 
-To download a media or any other file:
+To use this feature, the site admin first needs to enable the **Direct Download** option under **Types** tab from rtMedia admin settings. 
+![direct-download-setting](https://cloud.githubusercontent.com/assets/9261540/7983678/6e7c3536-0ae0-11e5-9a0c-336bc0ca9f7e.png)
 
+
+**To download a media or any other file:**
 
 1. Click the item to open it on its individual page or lightbox.
 2. Click **Download**.

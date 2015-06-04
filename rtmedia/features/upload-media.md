@@ -17,4 +17,4 @@ In BuddyPress site wide activity page and user activity page and buddypress grou
 Site admin just need to put a shortcode in any page or post. `[rtmedia_uploader]`
 ![uploader](https://cloud.githubusercontent.com/assets/1140051/7514119/34e46cc6-f4d8-11e4-823a-c392f3ec65e6.png)
 
-[More information about shortcodes can be found here](features/shortcodes/upload-shortcode.md).
+[More information about shortcodes can be found here](/shortcodes/upload.md).

@@ -7,7 +7,7 @@ Users of [BuddyPress Media](http://wordpress.org/extend/plugins/buddypress-media
 The issue is most often reported by iPhone and iPad users. You click a photo and upload it and expect it show straight up as illustrated below:
 
 ![What you expect](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect-283x350.jpg)](https://rtcamp.com/wp-content/uploads/2013/03/whatuexpect.jpg)
-What you expect
+What you expect,
 
 What happens instead is this:
 

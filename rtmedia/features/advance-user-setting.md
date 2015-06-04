@@ -11,9 +11,9 @@ rtMedia can be used anywhere in the form of an **uploader** and a **gallery**.
 
 The uploader shortcode can be used in any WordPress area, such as a page as follows:
 
-[![rtMedia uploader on page](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaUploaderOnPage.png)](https://rtcamp.com/wp-content/uploads/2013/08/rtMediaUploaderOnPage.png)
+![rtMedia uploader on page](https://cloud.githubusercontent.com/assets/9261540/7978336/f63de836-0ab1-11e5-85d7-30259551429b.png)
 
-More details on the [uploader shortcode can be found in the documentation page](/shortcodes/upload-shortcode.md)
+More details on the [uploader shortcode can be found in the documentation page](/shortcodes/upload.md)
 
 #### rtMedia Gallery
 
@@ -22,4 +22,4 @@ More details on the [uploader shortcode can be found in the documentation page](
 
 ![media display](https://cloud.githubusercontent.com/assets/1140051/7677571/c5db12c6-fd6a-11e4-9a2f-b2e5fca90ec6.png)
 
-More details on the [gallery shortcode can be found in the documentation page](/shortcodes/gallery-shortcode.md).
+More details on the [gallery shortcode can be found in the documentation page](/shortcodes/gallery.md).

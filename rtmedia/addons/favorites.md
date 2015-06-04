@@ -12,4 +12,4 @@ A new tab - **FavList** - will be added, along with the other media types, as sh
 User can find **Add to Favlist** option under **Options** tab while viewing media.
 [![add-to-favlist-option](https://cloud.githubusercontent.com/assets/7771963/7880321/17dfcac2-0616-11e5-9178-ed5cf8ebaae6.png)](https://cloud.githubusercontent.com/assets/7771963/7880321/17dfcac2-0616-11e5-9178-ed5cf8ebaae6.png)
 
-Media of FavList can be shown using rtMedia gallery shortcode. Check out [this page](/rtmedia/features/shortcodes/gallery-shortcode/) for more details.
+Media of FavList can be shown using rtMedia gallery shortcode. Check out [this page](../features/shortcodes/gallery.md) for more details.

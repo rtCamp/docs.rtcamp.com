@@ -24,9 +24,9 @@ If you do not remember the login details, do not panic. Reset your account passw
 Use the same email address you have used at the time of purchase.
 
 
-[![Selection_012](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_012-1024x241.png)](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_012.png)
+[![Selection_012](https://cloud.githubusercontent.com/assets/9261540/7982768/5df81210-0ad7-11e5-8a5f-750558016c49.png)](https://cloud.githubusercontent.com/assets/9261540/7982768/5df81210-0ad7-11e5-8a5f-750558016c49.png)
 
-[![Selection_013](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_013.png)](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_013.png)
+![Selection_013](https://cloud.githubusercontent.com/assets/9261540/7983021/f724150e-0ad9-11e5-84bb-2cecf1d3f396.png)
 
 Apart from this, for all future purchases, from September 20, 2014, the license key will also be emailed in all new purchase receipt emails.
 
@@ -52,7 +52,7 @@ Nothing will break. The license key is used only by the automated upgrade servic
 
 You can download new updates from "my-accounts" section at URL [https://rtcamp.com/my-account/](https://rtcamp.com/my-account/) and update your plugin manually like other plugins. Check the following screenshot for the download link:
 
-[![Selection_014](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_014-1024x224.png)](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_014.png)
+[![Selection_014](https://cloud.githubusercontent.com/assets/9261540/7982798/9abe397c-0ad7-11e5-9e0f-212adbfa3ca8.png)](https://cloud.githubusercontent.com/assets/9261540/7982798/9abe397c-0ad7-11e5-9e0f-212adbfa3ca8.png)
 
 
 ### I Have a Development Environment. Do I Need to Buy Another License?
@@ -70,7 +70,7 @@ If you wish to upgrade our products with any newer version on your development s
 
 If you have already activated license on an old domain, you can simply click **Deactivate** . Check the following screenshot:
 
-![license](https://cloud.githubusercontent.com/assets/1140051/7652278/96f5d142-fb28-11e4-9fa3-e7f134476a1d.png)
+![license](https://cloud.githubusercontent.com/assets/9261540/7983068/6b80d126-0ada-11e5-91b1-2ad66b3fb572.png)
 
 
 It may happen that the old domain was a temporary site and is already deleted. In that case, you may delete that site from the "my-accounts" section at URL [https://rtcamp.com/my-account/](https://rtcamp.com/my-account/).

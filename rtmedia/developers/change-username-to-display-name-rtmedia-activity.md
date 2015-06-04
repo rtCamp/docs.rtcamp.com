@@ -21,7 +21,7 @@ You can change (user_firstname) to (user_firstname user_lastname) or (display_na
 
 The following screen shows the username in activity feed.
 
-[![Change_username](http://docs.rtcamp.com/wp-content/uploads/2014/09/Change_username.png)](http://docs.rtcamp.com/wp-content/uploads/2014/09/Change_username.png)
+![Change_username](https://cloud.githubusercontent.com/assets/9261540/7981243/4126456e-0acb-11e5-84c2-393a2a8cbfd3.png)
 
 Use the following sample code to upload multiple media from the media tab.
 
