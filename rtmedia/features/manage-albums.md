@@ -46,7 +46,7 @@ To make changes to an album or its items, use these steps while referring to the
 4. To delete items:
     * Select the media/other files using the checkboxes. To select/unselect all items, click the relevant links.
     * Click **Delete Selected**.
-[![Making changes to an album and moving/deleting its items.](https://rtcamp.com/wp-content/uploads/2013/09/EditingAnAlbum.png)](https://rtcamp.com/wp-content/uploads/2013/09/EditingAnAlbum.png)
+![Making changes to an album and moving/deleting its items.](https://cloud.githubusercontent.com/assets/9261540/8003721/aa40f1bc-0b97-11e5-8cd2-02100b7170ea.png)
 
 ## Merging Albums
 
@@ -54,7 +54,7 @@ To make changes to an album or its items, use these steps while referring to the
 2. In the dialog that appears, use the dropdown to choose the album to merge the current album with.
 3. Click **Merge Album.**
 
-  [![Merge album dialog](https://rtcamp.com/wp-content/uploads/2013/09/mergeAlbumDialog.png)](https://rtcamp.com/wp-content/uploads/2013/09/mergeAlbumDialog.png)
+  ![Merge album dialog](https://cloud.githubusercontent.com/assets/9261540/8003738/c7a7e7a6-0b97-11e5-926a-2543ef60cc47.png)
 
 
 ## Deleting an Album

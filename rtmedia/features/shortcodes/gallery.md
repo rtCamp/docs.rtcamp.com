@@ -142,7 +142,7 @@ attribute_slug: is the slug of attributes which is created or generated when you
 
 term_slug: is the slug of terms which are created under the attributes. We can use a number of terms associate under the same attribute in single short-code. The terms must be comma separated.
 
-[![Selection_018](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0182.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_0182.png) [![Selection_017](https://rtcamp.com/wp-content/uploads/2013/06/Selection_017.png)](https://rtcamp.com/wp-content/uploads/2013/06/Selection_017.png)
+![Selection_018](https://cloud.githubusercontent.com/assets/9261540/8003858/8f2dcbd8-0b98-11e5-8aa1-b470c5fb6f4a.png) ![Selection_017](https://cloud.githubusercontent.com/assets/9261540/8003830/60fcc4e4-0b98-11e5-9794-1e8bf96052b9.png)
 
 As the above screenshots show, the short-code of attributes will look as follows:
 

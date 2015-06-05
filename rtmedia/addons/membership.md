@@ -277,10 +277,10 @@ Files exceeding the upload size limit are rejected.
 ![file-size-surpassed-media-gallery](https://cloud.githubusercontent.com/assets/1140051/7650988/55e90d54-fb19-11e4-99d6-4ab2c4a94af7.png)
 
 
-## Displayed Messages to End Users (rtMedia Pro)
+## Displayed Messages to End Users (rtMedia Restrictions)
 
 
-These messages are only shown to users using rtMedia Pro.
+These messages are only shown to users using rtMedia Restrictions.
 
 ###  Message in WordPress Comment when not Subscribed to Plan
 

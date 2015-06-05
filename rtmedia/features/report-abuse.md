@@ -1,6 +1,6 @@
 ## Report Abuse
 
-_Note: This feature works only in rtMedia PRO. The plugin can be [purchased from our store](https://rtcamp.com/store/rtmedia-pro/)._
+_Note: This feature works only in rtMedia Modaration. The plugin can be [purchased from our store](https://rtcamp.com/products/rtmedia-moderation/)._
 
 Media or other items can come with a **Report** button, if this feature is [enabled](https://rtcamp.com/rtmedia/docs/admin/rtmedia-settings/moderation/) by a site administrator.
 
