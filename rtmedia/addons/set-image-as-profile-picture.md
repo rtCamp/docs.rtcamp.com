@@ -1,6 +1,6 @@
 ## Set Image as Profile Picture
 
-
+### How it works
 Any image can be set as a profile picture in BuddyPress or WordPress, as shown below:
 
 ![](https://rtcamp.com/wp-content/uploads/2013/11/image10.png)

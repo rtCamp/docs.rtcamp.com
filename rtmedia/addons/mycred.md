@@ -1,7 +1,7 @@
 ## rtMedia myCRED
 
 
-## Prerequisite
+### Prerequisite
 
 
 Install myCRED plugin to use this feature.
@@ -43,7 +43,7 @@ The points system is currently supported for the following activities:
  Add media comment
 
 
-## Integration with myCRED
+### Integration with myCRED
 
 
 1. Install the [myCRED](http://wordpress.org/plugins/mycred/) plugin.

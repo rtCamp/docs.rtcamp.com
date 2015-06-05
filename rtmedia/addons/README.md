@@ -21,7 +21,7 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 13. [rtMedia Moderation](../addons/moderation.md) - Report media to be moderate by site admin.
 14. [rtMedia Custom Attributes](../addons/custom-attributes.md) - User can assign attributes to media to filter them.
 15. [rtMedia Docs and Other files](../addons/docs-and-other-files.md) - Allow users to upload document types as well as other ( user specified extension files ) files from media tab.
-16. [rtMedia Default Albums](../addons/default-albums.md) - Set a global album as the default album for uploads across your site.
+16. [rtMedia Default Albums](../addons/rtmedia-default-albums.md) - Set a global album as the default album for uploads across your site.
 17. [rtMedia Podcast (RSS and Atom feeds)](../addons/podcast.md) - Consume rtMedia uploads from iTunes as well as any feed-reader/podcasting software.
 18. [rtMedia Restrictions](../addons/restrictions.md) - Admins can set an upload limit on the basis of time and size.
 19. [rtMedia bbPress Attachments](../addons/bbpress-attachments.md) - Users can attach files to bbPress topics and replies.

@@ -1,11 +1,12 @@
 ## Sort Media
 
+### How it works
 Users can sort their media in ascending (ASC) and descending (DESC) order based on Upload Date, Size and Titles.
 
 ![selection_064](https://cloud.githubusercontent.com/assets/1140051/7628922/0edcd98c-fa46-11e4-8594-36892a2b8137.png)
 
 
-## Sort Parameters
+#### Sort Parameters
 
 By default **rtMedia Sorting** provides sort options to sort media by Title, Upload Date and Media Size. More sorting option like sort by views, likes, comments and rate has been added for media gallery rendered via gallery shortcode.
 

@@ -2,6 +2,7 @@
 
 This feature allows the creation of multiple global albums. One of these albums can be set as the default global album where all uploaded media will be saved.
 
+### Set Default Album
 Go to **rtMedia** > **Settings**, and click the **Global Albums** tab:
 [![default-album-setting](https://cloud.githubusercontent.com/assets/7771963/7906889/8714a1a2-084f-11e5-8a14-84e7d44fef39.png)](https://cloud.githubusercontent.com/assets/7771963/7906889/8714a1a2-084f-11e5-8a14-84e7d44fef39.png)
 

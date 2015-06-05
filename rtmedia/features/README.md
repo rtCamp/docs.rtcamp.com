@@ -8,7 +8,7 @@ Here is a list of features that end-users will enjoy with rtMedia (free) plugin.
 
 1. [Like Buttons for Media](./like.md)
 2. [Upload Media](/upload-media.md)
-3. [View Album Gallery and Items](/view-items.md)
+3. [View Album Gallery and Items](/view-media.md)
 4. [Manage Albums](/manage-albums.md)
 5. [Privacy](/privacy.md)
 6. [Delete Media](/delete-media.md)

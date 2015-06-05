@@ -1,7 +1,7 @@
 ## rtMedia Post Editor Shortcode button: Galleries
 
 
-Read more about shortcodes: [Shortcodes in rtMedia](/rtmedia/features/shortcodes/)
+Read more about shortcodes: [Shortcodes in rtMedia](../features/shortcodes/gallery.md)
 
 To create a gallery shortcode in the post editor:
 

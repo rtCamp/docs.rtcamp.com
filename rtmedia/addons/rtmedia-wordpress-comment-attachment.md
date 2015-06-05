@@ -10,6 +10,7 @@ To enable Attachments in Wordpress comment, go to `rtMedia > Settings > Wordpres
 
 3. This option provides control how to display uploaded media in comment.
 
+### How it works
 You can attach files to WordPress comments.
 ![selection_067](https://cloud.githubusercontent.com/assets/1140051/7629157/1919df88-fa48-11e4-961d-732edb68ddd4.png)
 

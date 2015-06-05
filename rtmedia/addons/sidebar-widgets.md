@@ -1,7 +1,7 @@
 ## Sidebar widgets: Galleries
 
-
-To create a sidebar gallery:
+### How it works
+**To create a sidebar gallery:**
 
 1. Go to **Appearance** > **Widgets**.
 2. Drag the rtMedia Gallery Widget from the **Available Widgets** panel and drop it in the desired sidebar area.
@@ -15,7 +15,8 @@ To create a sidebar gallery:
 
 ## Sidebar widgets: Uploaders
 
-To create a sidebar uploader:
+### How it works
+**To create a sidebar uploader:**
 
 1. Go to **Appearance** > **Widgets**.
 2. Drag the** rtMedia Sidebar uploader widget** from the **Available Widgets** panel and drop it in the desired sidebar area.
