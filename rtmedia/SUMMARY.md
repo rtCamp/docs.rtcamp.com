@@ -82,6 +82,7 @@
    * [Upgrading rtMedia from 3.7.x to 3.8](upgrading/upgrading-rtmedia-3-7-x-to-3-8.md)
    * [Upgrading rtMedia pro split migration](upgrading/rtmedia-pro-split-migration.md)
 * [Premium Addons](addons/README.md)
+  * [rtMedia Pro Bundle](addons/rtmedia-pro.md)
   * [rtMedia FFMpeg](addons/ffmpeg.md)
   * [rtMedia Instagram](addons/rtmedia-instagram.md)
   * [rtMedia Kaltura](addons/rtmedia-kaltura-addon.md)
