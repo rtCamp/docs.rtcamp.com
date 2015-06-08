@@ -1,5 +1,8 @@
 #! /bin/bash
 
+## git pull
+git reset --hard HEAD && git pull
+
 ## Usage: bash build.sh ../htdocs
 
 DEST=${1:-_site}
