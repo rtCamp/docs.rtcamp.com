@@ -50,8 +50,8 @@ build:
 
 deploy:
   steps:
-    - add-ssh-key
-        keyname:SSH
+    - add-ssh-key:
+        keyname: SSH
     # - install-packages:
     #     packages: sshpass  rsync #needed by cdn77
 
