@@ -1,6 +1,6 @@
 ## Upload Endpoint
 
-**Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/blog/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet. Not recommended for production environments.
+**Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/blog/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/rtMedia/tree/api/), yet. Not recommended for production environments.
 
 The upload endpoint is accessible on any WordPress url at `/upload/`. This means that the upload endpoint is available at:
 

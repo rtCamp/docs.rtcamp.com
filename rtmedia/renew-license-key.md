@@ -9,7 +9,7 @@ To renew your license:
 2. Go to "Purchase History" tab and click "View License".
 ![nv01vyi](https://cloud.githubusercontent.com/assets/1140051/7652331/36202c2c-fb29-11e4-8af6-3fe8c524b02e.png)
 3. If your license is expired, you will see the "Expire and renew now" link.
-![selection_017](https://cloud.githubusercontent.com/assets/1140051/7652324/1bd0154e-fb29-11e4-8699-ce7487104076.png)
+![selection_017](https://cloud.githubusercontent.com/assets/9261540/7983121/b8472cee-0ada-11e5-8642-498697b13610.png)
 
 Click the "Expire and renew now" link to renew the license key of products.
 

@@ -1,6 +1,6 @@
 ## rtMedia API
 
-**Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/blog/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet.
+**Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/blog/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/rtMedia/tree/api/), yet.
 
 rtMedia boasts of a very extensive API that allows fine grained control on rtMedia. It is highly flexible and can be used to customise rtMedia to a great extent
 

@@ -1,12 +1,12 @@
 ## rtMedia Cubepoints
 
 
-## Prerequisite
+### Prerequisite
 
 
 Install the [CubePoints](http://wordpress.org/plugins/cubepoints/) plugin to use this feature.
 
-Cubepoints is a point management systems for sites running on WordPress. Through it's integration with rtMedia PRO, site admins can award virtual points for various rtMedia activities.
+Cubepoints is a point management systems for sites running on WordPress. Through it's integration with rtMedia, site admins can award virtual points for various rtMedia activities.
 
 The points system is currently supported for the following activities:
 
@@ -43,7 +43,7 @@ The points system is currently supported for the following activities:
    Add media comment
 
 
-## Integration with Cubepoints
+### Integration with Cubepoints
 
 
 1. Install the [Cubepoints](http://wordpress.org/plugins/cubepoints/) plugin.

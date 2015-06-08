@@ -1,8 +1,8 @@
-## rtMedia Pro- Media Gallery Widget Hooks
+## rtMedia Sidebar Widgets Hooks
 
-rtMedia pro add-on has widget to display media in sidebar.
+rtMedia Sidebar add-on has widget to display media in sidebar.
 
-rtMedia Pro has provided hooks:
+rtMedia Sidebar Widgets add-on has provided hooks:
 
 **Before Media**
 
@@ -29,4 +29,4 @@ echo $rt_media_gallery->media_title;
 
 That's it. Now you can see the title of uploaded media in sidebar widget.
 
-[![Selection_103](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_103.png)](http://docs.rtcamp.com/wp-content/uploads/2014/09/Selection_103.png)
+![Selection_103](https://cloud.githubusercontent.com/assets/9261540/7981406/560ba6bc-0acc-11e5-818b-5c5257985782.png)

@@ -1,10 +1,11 @@
 ## rtMedia - Edit Mp3 Info (ID3 Tags)
 
-
+### Enable Tags for Audio
 The site admin first needs to enable the **Display Tags for audio ( mp3 ) files.** option from **Display** tab under rtMedia admin settings.
 
 [![edit-mp3-info-setting](https://cloud.githubusercontent.com/assets/7771963/7935376/154a9da6-094e-11e5-97be-5d5e0587f5ad.png)](https://cloud.githubusercontent.com/assets/7771963/7935376/154a9da6-094e-11e5-97be-5d5e0587f5ad.png)
 
+### How it works
 Site user can **View Mp3 Info** by viewing media in single view as shown:
 
 [![view-mp3-info](https://cloud.githubusercontent.com/assets/7771963/7935268/366b1656-094d-11e5-8603-2c8a704b0a29.png)](https://cloud.githubusercontent.com/assets/7771963/7935268/366b1656-094d-11e5-8603-2c8a704b0a29.png)

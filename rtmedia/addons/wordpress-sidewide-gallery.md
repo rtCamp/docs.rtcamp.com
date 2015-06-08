@@ -8,11 +8,12 @@ To enable WordPress album support, go to `rtMedia > Settings > WordPress` and sw
 
 ![enable album](https://cloud.githubusercontent.com/assets/1140051/7629379/a439a796-fa49-11e4-8d56-32aff43c14f6.png)
 
-### Creating An Album
+### How it works
+#### Creating An Album
 
 After activating `enable sitewide gallery` section and putting desired WP album permalink slug, all the default WordPress roles would be seeing a new `Albums tab` except subscribers role.
 
-### All Albums and upload
+#### All Albums and upload
 
 In this section you can see all the published, drafted and pending albums.
 

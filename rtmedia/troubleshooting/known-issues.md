@@ -1,4 +1,4 @@
-#3 Known Issues
+#Few Known Issues
 
 These are rtMedia's known issues, currently on the developer team's todo list to solve.
 

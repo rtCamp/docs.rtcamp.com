@@ -1,7 +1,7 @@
 # Upload API
 
 
-**Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/news/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/buddypress-media/tree/rtmedia), yet. Not recommended for production environments.
+**Read Me**: This documentation is for rtMedia 3.0. rtMedia is a successor of BuddyPress Media, and is [_currently under development_](https://rtcamp.com/news/getting-ready-for-rtmedia/). Parts of this document may not be implemented in the [code](https://github.com/rtCamp/rtMedia/tree/api/), yet. Not recommended for production environments.
 
 
 Using the Upload API, any media file can be added to rtMedia for display else where using the Media API. The uploader can be completely customised and custom upload/import methods can be added easily.

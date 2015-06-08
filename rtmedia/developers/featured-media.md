@@ -7,7 +7,7 @@ The older tag (**bp_media_featured()**) will continue to work till the next few 
 
 Used to display any media that the user has set as featured. It could be a video, audio or a photo.
 
-For this to work, the appropriate switch will need to be turned on in **rtMedia** > **Settings** >**Types**. Read more: [rtMedia settings' types](../addons/rtmedia-pro/settings/types.md) tab.
+For this to work, the appropriate switch will need to be turned on in **rtMedia** > **Settings** >**Types**. Read more: [rtMedia settings' types](../settings/types.md) tab.
 
 
 ## Arguments

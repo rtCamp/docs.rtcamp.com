@@ -9,7 +9,7 @@ We have made changes in the markup to the following templates:
 
 * media-single-edit.php
 * album-single-edit.php
-* playlist-single-edit.php ( rtMedia PRO )
+* playlist-single-edit.php ( [rtMedia Playlists](https://rtcamp.com/products/rtmedia-playlists/) )
 
 ## New Hooks Added
 
@@ -24,7 +24,7 @@ In following templates:
 
 * media-single-edit.php
 * album-single-edit.php
-* playlist-single-edit.php ( rtMedia PRO )
+* playlist-single-edit.php ( [rtMedia Playlists](https://rtcamp.com/products/rtmedia-playlists/) )
 
 ### Playlist Gallery Hook
 

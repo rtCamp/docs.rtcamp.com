@@ -2,7 +2,7 @@
 
 The buddypress tab will display only if [BuddyPress plugin](https://wordpress.org/plugins/buddypress/) installed on site.
 
-![rtmedia-buddypress](https://cloud.githubusercontent.com/assets/1140051/7365539/d1cc80ea-edae-11e4-967f-eaedaff0c6c9.png)
+![rtmedia-buddypress](https://cloud.githubusercontent.com/assets/9261540/7979750/901da98e-0abf-11e5-8d38-c76699e0dd9f.png)
 
 These settings fine tune integration of rtMedia with BuddyPress on your WordPress website.
 

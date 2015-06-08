@@ -1,6 +1,6 @@
 ## Privacy
 
-![rtmedia-privacy](https://cloud.githubusercontent.com/assets/1140051/7366010/d97b4b56-edb2-11e4-8afa-52fefe93bc9f.png)
+![rtmedia-privacy](https://cloud.githubusercontent.com/assets/9261540/7979979/72e1ffee-0ac1-11e5-87df-f57f25668801.png)
 
 1. When **Enable Privacy** option is switched ON, you can define access rights for your media items.
 2. Set the default privacy as either *Private*, *Logged in Users* or *Public*.

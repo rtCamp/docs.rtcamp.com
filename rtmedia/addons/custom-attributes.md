@@ -8,7 +8,7 @@ You can set as many attributes as you want for media such as Photo Category, Cam
 After adding attributes, you will need to add terms for that attribute. For example for the attribute *Camera*, terms can be *Digital*, *SLR*, and *DSLR*. You can also edit or delete attributes.
 
 
-## Create, delete or edit attributes
+### Create, delete or edit attributes
 
 By activating **Media Attributes** add-on. You can find `Attributes` tab under rtMedia section.
 
@@ -27,7 +27,7 @@ Also, site admin can found all these `Attributes` under `Media` section in WordP
 
 [![media-attribute-under-wp-media](https://cloud.githubusercontent.com/assets/7771963/7883076/48a6f82c-0631-11e5-8f8e-b4704238321f.png)](https://cloud.githubusercontent.com/assets/7771963/7883076/48a6f82c-0631-11e5-8f8e-b4704238321f.png)
 
-## Select attributes during media upload
+### Select attributes during media upload
 
 
 [![media-attribute-selection](https://cloud.githubusercontent.com/assets/7771963/7883751/82e9acfa-0636-11e5-9444-5c4efeb15d77.png)](https://cloud.githubusercontent.com/assets/7771963/7883751/82e9acfa-0636-11e5-9444-5c4efeb15d77.png)
@@ -36,4 +36,4 @@ You may want either single or multiple terms for each attribute. For single term
 
 ## Attributes Shortcodes
 
-Please read document here [http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code](http://docs.rtcamp.com/rtmedia/features/shortcodes/gallery-shortcode/#AttributesShort-Code)
+Please read document here [gallery-shortcodes->AttributesShort-Code](../features/shortcodes/gallery.md)

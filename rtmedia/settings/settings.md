@@ -12,4 +12,4 @@ To access the settings, click `rtMedia` > `Settings` from the admin dashboard of
 - [Custom CSS](custom-css.md)
 - [Other Settings](other-settings.md)
 
-**Note**: These are settings for the free version of rtMedia plugin. For extended settings with rtMedia Pro add-ons refer to the [rtMedia Addons documentation](../../addons/rtmedia-pro/rtmedia-pro.md).
+**Note**: These are settings for the free version of rtMedia plugin. For extended settings with rtMedia Premium add-ons refer to the [rtMedia Addons documentation](../addons/README.md).

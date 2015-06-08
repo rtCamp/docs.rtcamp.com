@@ -1,6 +1,6 @@
 ## Subscribers Unable to Modify Images
 
-[![](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaProImageEditModify.png)](https://rtcamp.com/wp-content/uploads/2013/09/rtMediaProImageEditModify.png)
+![image](https://cloud.githubusercontent.com/assets/9261540/7981900/d0530660-0acf-11e5-8752-87faa1f6e4cf.png)
 
 ### Description
 

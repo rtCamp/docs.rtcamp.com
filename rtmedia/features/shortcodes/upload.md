@@ -34,7 +34,7 @@ Sets the privacy level of the uploaded file. If the user has set a default priva
 
 ### media_type
 
-Type of media (photo, video, music ) to be uploaded using the shortcode. rtMedia PRO users can also specify media type as "document" or "other" for document and other media types as required.
+Type of media (photo, video, music ) to be uploaded using the shortcode. rtMedia Docs and other Files addon users can also specify media type as "document" or "other" for document and other media types as required.
 
 ### Examples
 

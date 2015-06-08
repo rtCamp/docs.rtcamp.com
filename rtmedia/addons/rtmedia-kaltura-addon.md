@@ -22,7 +22,7 @@ After creating your account on Kaltura, perfrom the following steps to install t
 ### Using rtMedia Kaltura Add-on
 
 
-rtMedia allows only mp4 video files to be uploaded. rtMedia PRO allows the following video types to be uploaded: mp4, mov, m4v, m2v, avi, mpg, flv, wmv, mkv, webm, ogv, mxf, asf, vob, mts, qt, mpeg. Videos having file extensions other than these cannot be uploaded. rtMedia Kaltura Add-on removes this limitation in the following way:
+rtMedia allows only mp4 video files to be uploaded. But once you will subscribe to** [rtMedia Audio/Video Encoding service](https://rtcamp.com/rtmedia/addons/compare-encoding-solutions/) **rtMedia allows the following video types to be uploaded: mp4, mov, m4v, m2v, avi, mpg, flv, wmv, mkv, webm, ogv, mxf, asf, vob, mts, qt, mpeg. Videos having file extensions other than these cannot be uploaded. rtMedia Kaltura Add-on removes this limitation in the following way:
 
 1. When a user uploads a video file, the plugin will check if the file is in a compatible file format.
 2. If the uploaded video file needs to be converted, the file will be sent to the Kaltura Server for conversion.

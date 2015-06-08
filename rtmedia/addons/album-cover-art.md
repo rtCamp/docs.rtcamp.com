@@ -1,5 +1,6 @@
 ## Set Image as Album Cover
 
+### How it works
 An image can be set as an album cover in BuddyPress profile or group albums, as indicated below.
 
 To set an image as album cover:

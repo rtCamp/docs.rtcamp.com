@@ -1,12 +1,12 @@
 ## rtMedia myCRED
 
 
-## Prerequisite
+### Prerequisite
 
 
 Install myCRED plugin to use this feature.
 
-myCRED is a point management system for sites running on WordPress. Through it's integration with rtMedia PRO, site admins can award virtual points for various rtMedia activities.
+myCRED is a point management system for sites running on WordPress. Through it's integration with rtMedia, site admins can award virtual points for various rtMedia activities.
 
 The points system is currently supported for the following activities:
 
@@ -43,7 +43,7 @@ The points system is currently supported for the following activities:
  Add media comment
 
 
-## Integration with myCRED
+### Integration with myCRED
 
 
 1. Install the [myCRED](http://wordpress.org/plugins/mycred/) plugin.

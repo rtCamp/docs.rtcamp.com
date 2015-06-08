@@ -1,5 +1,6 @@
 ## Bulk Media Edit
 
+### How it works
 While media files can be edited, deleted and moved individually, **Bulk Media Edit** has added functionality that allows users to edit media in bulk.
 
 Click the **Options** icon and select **Bulk Edit**.

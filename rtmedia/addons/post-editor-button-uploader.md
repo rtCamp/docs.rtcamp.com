@@ -1,7 +1,7 @@
 ## rtMedia Post Editor Shortcode button: Uploader
 
 
-Read more about shortcodes: [Shortcodes in rtMedia](https://rtcamp.com/rtmedia/docs/common/shortcodes/)
+Read more about shortcodes: [Shortcodes in rtMedia](../features/shortcodes/upload.md)
 
 To create an uploader shortcode in the post editor:
 
