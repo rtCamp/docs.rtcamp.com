@@ -1,9 +1,8 @@
 #! /bin/bash
+## Usage: bash build.sh ../htdocs
 
 ## git pull
 git reset --hard HEAD && git pull
-
-## Usage: bash build.sh ../htdocs
 
 DEST=${1:-_site}
 echo Destination is = $DEST
