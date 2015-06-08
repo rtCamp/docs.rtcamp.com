@@ -50,6 +50,8 @@ build:
 
 deploy:
   steps:
+    - add-ssh-key
+        keyname:SSH
     # - install-packages:
     #     packages: sshpass  rsync #needed by cdn77
 
@@ -59,7 +61,7 @@ deploy:
 
     - script:
         name: deploy jekyll docs and gitbooks to amazon ec2
-        code: rsync -avz --progress _site/* $DEST
+        code: rsync -avz --progress _site/* $USER@$HOST:$DEST
 
     # - script:
     #     name: deploy rtbiz core dev book
