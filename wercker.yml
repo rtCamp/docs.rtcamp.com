@@ -63,7 +63,7 @@ deploy:
     # - script:
     #     name: deploy jekyll docs and gitbooks to amazon ec2
     #     code: rsync -avz --progress -e "ssh -i $PRIVATEKEY_PATH -l root -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $HOST" _site/* $USER@$HOST:$DEST
-    - rsync-deploy:
+    - sjoerdmulder/rsync-deploy@0.1.0:
         host: $SSHHOST
         directory: $DESTDIR
         sshkey: $SSH_PRIVATE
