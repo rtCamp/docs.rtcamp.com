@@ -34,7 +34,7 @@ gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site
 gitbook install rtmedia && gitbook build rtmedia _site/rtmedia
 
 # rsync
-rsync -avz _site $DEST
+rsync -avz _site/ $DEST
 
 #deploy
 # install-packages:
