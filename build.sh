@@ -13,7 +13,7 @@ echo Destination is = $DEST
 bundle install
 
 #build jekyll site
-bundle exec jekyll build
+bundle exec jekyll build -q
 
 #install gitbook itself
 npm -g install gitbook-cli
