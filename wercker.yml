@@ -50,25 +50,27 @@ build:
 
 deploy:
   steps:
-    # - add-to-known_hosts:
-    #     hostname: $HOST
-    # - mktemp:
-    #     envvar: PRIVATEKEY_PATH
-    # - create-file:
-    #     name: write key
-    #     filename: $PRIVATEKEY_PATH
-    #     content: $SSH_PRIVATE
-    #     overwrite: true
-    #     hide-from-log: true
-    # - script:
-    #     name: deploy jekyll docs and gitbooks to amazon ec2
-    #     code: rsync -avz --progress -e "ssh -i $PRIVATEKEY_PATH -l root -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $HOST" _site/* $USER@$HOST:$DEST
-    - sjoerdmulder/rsync-deploy@0.1.0:
-        host: $SSHHOST
-        directory: $DESTDIR
-        sshkey: $SSH_PRIVATE
-        user: $SSHUSER
-        source: _site/
+    - add-to-known_hosts:
+        hostname: $SSHHOST
+    - mktemp:
+        envvar: PRIVATEKEY_PATH
+    - create-file:
+        name: write key
+        filename: $PRIVATEKEY_PATH
+        content: $SSH_PRIVATE
+        overwrite: true
+        hide-from-log: true
+    - script:
+        name: deploy jekyll docs and gitbooks to amazon ec2
+        code: rsync -avz --progress -e "ssh -i $PRIVATEKEY_PATH -l root -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $SSHHOST" _site/* $SSHUSER@$SSHHOST:$DESTDIR
+
+    #
+    # - sjoerdmulder/rsync-deploy@0.1.0:
+    #     host: $SSHHOST
+    #     directory: $DESTDIR
+    #     sshkey: $SSH_PRIVATE
+    #     user: $SSHUSER
+    #     source: _site/
 
 
     # - install-packages:
