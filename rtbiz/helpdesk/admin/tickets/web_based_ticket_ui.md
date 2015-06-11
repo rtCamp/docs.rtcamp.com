@@ -2,7 +2,7 @@
 
 Below is the screenshot of how a ticket looks on the front end
 
-![ticket_ui another copy](https://cloud.githubusercontent.com/assets/8191145/7630475/f6c578c8-fa53-11e4-83c3-740cc9b03b8a.png)
+![ticket_ui](https://cloud.githubusercontent.com/assets/9676513/8116362/572eb11e-109f-11e5-973c-6e4186034de0.png)
 
 
 ###  A. Ticket Content Area
