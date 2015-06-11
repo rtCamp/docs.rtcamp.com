@@ -38,16 +38,48 @@ build:
     # build gitbooks: rtbiz/helpdesk/staff
     - script:
         name: build rtbiz helpdesk staff book
-        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff 
+        code: gitbook install rtbiz/helpdesk/staff && gitbook build rtbiz/helpdesk/staff _site/rtbiz/helpdesk/staff
+
+    # build gitbooks: rtmedia
+    - script:
+        name: build rtmedia book
+        code: gitbook install rtmedia && gitbook build rtmedia _site/rtmedia
+
+
+
 
 deploy:
   steps:
-    - install-packages:
-        packages: sshpass  rsync #needed by cdn77
+    - add-to-known_hosts:
+        hostname: $SSHHOST
+    - mktemp:
+        envvar: PRIVATEKEY_PATH
+    - create-file:
+        name: write key
+        filename: $PRIVATEKEY_PATH
+        content: $SSH_PRIVATE
+        overwrite: true
+        hide-from-log: true
+    # - script:
+    #     name: deploy jekyll docs and gitbooks to amazon ec2
+    #     code: rsync -avz --progress -e "ssh -i $PRIVATEKEY_PATH" _site/* $SSHUSER@$SSHHOST:$DESTDIR
 
-    - script:
-        name: deploy jekyll docs to cdn
-        code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
+
+    - sjoerdmulder/rsync-deploy@0.1.0:
+        host: $SSHHOST
+        directory: $DESTDIR
+        sshkey: $PRIVATEKEY_PATH
+        user: $SSHUSER
+        source: _site/
+
+
+    # - install-packages:
+    #     packages: sshpass  rsync #needed by cdn77
+
+    # - script:
+    #     name: deploy jekyll docs to cdn
+    #     code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" _site/* $SSHUSER@$SSHHOST:/www/
+
 
     # - script:
     #     name: deploy rtbiz core dev book
@@ -65,10 +97,10 @@ deploy:
     #     name: deploy rtbiz helpdesk staff book
     #     code: rsync -avz --progress --rsh="sshpass -p $SSHPASS ssh -l $SSHUSER -o StrictHostKeyChecking=no" rtbiz/helpdesk/staff/_book/* $SSHUSER@$SSHHOST:/www/rtbiz/helpdesk/staff/
 
-  after-steps:
-    - script:
-        name: purge cdn
-        code: curl --data "cdn_id=$CDNID&login=$APIUSER&passwd=$APIPASS" https://client.cdn77.com/api/v2.0/data/purge-all
+  # after-steps:
+  #   - script:
+  #       name: purge cdn
+  #       code: curl --data "cdn_id=$CDNID&login=$APIUSER&passwd=$APIPASS" https://client.cdn77.com/api/v2.0/data/purge-all
 
     - sherzberg/slack-notify:
         subdomain: rtcamp

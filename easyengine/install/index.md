@@ -2,6 +2,20 @@
 title: "Install EasyEngine"
 ---
 
+## Supported distributions
+
+- Ubuntu 12.04 and 14.04
+- Debian 7 and 8
+
+## Port requirements
+
+- 22/TCP (Inbound/Outbound) : Standerd SSH port
+- 80/TCP (Inbound/Outbound) : Standerd HTTP port
+- 443/TCP(Inbound/Outbound) : Standerd HTTPS port
+- 22222/TCP (Inboud)        : To access EasyEngine admin tools
+- 11371/TCP (Outbound)      : To connect to GPG Key Server
+
+
 ## Launch/Deploy/Create Server Instance
 
 Launch/Deploy/Create your server instance with your hosting provider
