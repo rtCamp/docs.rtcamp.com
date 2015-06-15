@@ -1,4 +1,4 @@
-# Offerings
+# Products
 
 An offering is any product or service that an organization is selling. You have already chosen the offerings while doing the set up ( Ref Section 1.1, Point 2)
 
