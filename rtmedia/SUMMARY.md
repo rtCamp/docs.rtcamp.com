@@ -67,6 +67,7 @@
       * [Add User Media Link In Nav Menu](developers/themes/add-user-media-link-in-nav-menu.md)
       * [Theme Media Tab](developers/themes/theme-media-tab.md)
       * [Scroll Bar Missing in Media Tab](developers/themes/scroll-bar-missing-media-tab.md)
+   * [Display media title on hover for Masonry View](developers/display-media-title-on-hover-masonry.md)
 * [Troubleshooting](troubleshooting/README.md)
     * [Conflict Diagnosis Guide for WordPress Plugins](/troubleshooting/conflict-diagnosis-guide-wordpress-plugins.md)
     * [Fixing Orientation of Images in BuddyPress Media, Using PHP](troubleshooting/fixing-image-orientation-wordpress-uploads.md)
