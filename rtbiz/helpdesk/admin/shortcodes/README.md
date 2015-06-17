@@ -16,7 +16,7 @@ You can use the following shortcode in any WordPress page to display a support f
 
 Different attributes for tickets are shown below :
 
-**i. userid **: This attribute is to be used for displaying the tickets associated with a particular user.
+**i. userid** : This attribute is to be used for displaying the tickets associated with a particular user.
 
 *For example:* To show tickets for the user with an id of 1, you can use
 
