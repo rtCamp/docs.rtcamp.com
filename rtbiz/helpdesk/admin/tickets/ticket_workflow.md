@@ -9,7 +9,7 @@ The ticket workflow is as follows:
 
 3. The status reverts back to 'Unanswered' when customer adds a reply to the ticket.
 
-4. Once Staff team is convinced that ticket has been answered to customer's satisfaction, they can change the status to 'Solved'
+4. Once Staff team is convinced that ticket has been answered to customer's satisfaction, they can change the status to 'Archived'
 
 5. At any point if customer replies to 'Solved' ticket the status changes to 'Unanswered'.
 
@@ -22,6 +22,6 @@ Please see the flowchart below to understand the ticket workflow better:
 #### Manual update options for staff
 Apart from the auto-change features, all staff members have an option to edit the status either form the ticket Web UI or from the WordPress Dashboard.
 
-![Manual Update](https://cloud.githubusercontent.com/assets/9676513/6328362/aef5e3f8-bb8c-11e4-95d1-530590906656.png)
+![Manual Update]
 
 

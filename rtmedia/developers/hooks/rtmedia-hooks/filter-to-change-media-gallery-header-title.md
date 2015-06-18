@@ -12,3 +12,5 @@ Add the following code in your theme's functions.php file:
 ```
 
 _Where "New Media Label" will be name which you want to use._
+
+[![change-media-gallery-label](https://cloud.githubusercontent.com/assets/7771963/8180814/799e090a-143e-11e5-8636-d8341f69fdfc.png)](https://cloud.githubusercontent.com/assets/7771963/8180814/799e090a-143e-11e5-8636-d8341f69fdfc.png)

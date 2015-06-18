@@ -25,3 +25,4 @@
 * [rtMedia Defined Constants](./rtmedia-defined-constants.md)
 * [Show last N images in header](./show-last-n-images-in-header.md)
 * [Themes](./themes/themes.md)
+* [Display media title on hover for Masonry View](./display-media-title-on-hover-masonry.md)
