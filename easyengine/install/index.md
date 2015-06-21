@@ -9,9 +9,9 @@ title: "Install EasyEngine"
 
 ## Port requirements
 
-- 22/TCP (Inbound/Outbound) : Standerd SSH port
-- 80/TCP (Inbound/Outbound) : Standerd HTTP port
-- 443/TCP(Inbound/Outbound) : Standerd HTTPS port
+- 22/TCP (Inbound/Outbound) : Standard SSH port
+- 80/TCP (Inbound/Outbound) : Standard HTTP port
+- 443/TCP(Inbound/Outbound) : Standard HTTPS port
 - 22222/TCP (Inboud)        : To access EasyEngine admin tools
 - 11371/TCP (Outbound)      : To connect to GPG Key Server
 
