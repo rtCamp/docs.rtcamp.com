@@ -1,8 +1,16 @@
-# wp-cron
+#Cron Jobs
 
 Cron is a system originally built for UNIX that enables users to execute commands, programs and other actions at specified times.
 
-Helpdesk uses wp-cron for sending and reading email.
+### Helpdesk cron jobs
+
+1. rt_send_email_cron: for sending emails.
+2. rt_parse_email_cron: for reading emails.
+
+To see all cron jobs or run cron job manually you can install [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) plugin.
+Then go to `Tools -> Crontrol`.
+
+Read more about crons below.
 
 ###What is cron ?
 WordPress Cron is what many people refer to as a “pseudo-cron system.” The difference is in how UNIX cron and WordPress Cron take action. A typical UNIX cron system runs in this order:
@@ -24,10 +32,4 @@ You may be wondering, “What happens if no one visits my website at all? Does W
 
 If you have less visitor on your site or you want to make cron job precise, you could follow one of two methods. You could set up your server’s cron to hit wp-cron.php at a regular interval by following the instructions outlined in [rtCamp](https://rtcamp.com/tutorials/wordpress/wp-cron-crontab/)’s article. If this seems overly complicated, you could use a tool such as Pingdom to trigger an HTTP request directly to wp-cron.php.
 
-### Helpdesk cron jobs
 
-1. rt_send_email_cron : for sending emails.
-2. rt_parse_email_cron : for reading emails.
-
-To see all cron jobs or run cron job manually you can install [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) plugin.
-Then go to `Tools -> Crontrol`.

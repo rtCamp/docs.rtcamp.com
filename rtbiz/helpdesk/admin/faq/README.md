@@ -22,7 +22,7 @@ Read more about adult content settings in #7.5.
 
 You should do the following:
 * Check username and password
-* Enable IMAP for your mailbox (Gmail - [Link](https://support.google.com/mail/troubleshooter/1668960), Outlook - Link, Yahoo - [Link](https://help.yahoo.com/kb/mobile/imap%C2%A0settings-yahoo-mail-sln4075.html) )
+* Enable IMAP for your mailbox (Gmail - [Link](https://support.google.com/mail/troubleshooter/1668960), Yahoo - [Link](https://help.yahoo.com/kb/mobile/imap%C2%A0settings-yahoo-mail-sln4075.html), Outlook)
 * Check this link if your Google account does not get connected: https://support.google.com/mail/answer/78754
 
 ##General Questions
