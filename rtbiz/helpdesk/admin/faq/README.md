@@ -11,6 +11,12 @@ The ticket will still be linked to the customer's WordPress user. However, if th
 
 ## Settings
 
+#### How can I enable 'Reply via email' feature?
+
+You have to first connected a email to helpdesk. Go to Settings --> Mail Setup
+Once the mailbox is connected, you will see options to enable reply via email .
+See section 7.3 for more details.
+
 #### Q. One of my staff member is receiving adult content mails though I have already enabled the filter?
 
 Probably the customer did not check the 'Adult content' box while creating the ticket.
