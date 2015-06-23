@@ -1,7 +1,7 @@
 ## Conflict Diagnosis Guide for WordPress Plugins
 
 
-### What is a Conflict?
+### What is Conflict?
 
 
 There are many plugins and themes in the WordPress ecosystem. At times, multiple plugins try and modify the same feature in WordPress. WordPress recommends using the Hooks, Actions and Filters so that these can work in a coordinated way and minimize conflicts.
