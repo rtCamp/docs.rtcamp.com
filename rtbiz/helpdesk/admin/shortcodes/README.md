@@ -54,7 +54,7 @@ In this short code you have to pass either userid or email or orderid.
 
 ```[rtbiz_hd_tickets userid= 1 title=no]```
 
-####Parameters summary
+####Parameter summary
 * userid = '1'
 * email = "{{logged_in_user}}"
 * orderid = '510'

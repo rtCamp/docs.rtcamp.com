@@ -31,5 +31,3 @@ You may be wondering, “What happens if no one visits my website at all? Does W
 ### Solution
 
 If you have less visitor on your site or you want to make cron job precise, you could follow one of two methods. You could set up your server’s cron to hit wp-cron.php at a regular interval by following the instructions outlined in [rtCamp](https://rtcamp.com/tutorials/wordpress/wp-cron-crontab/)’s article. If this seems overly complicated, you could use a tool such as Pingdom to trigger an HTTP request directly to wp-cron.php.
-
-
