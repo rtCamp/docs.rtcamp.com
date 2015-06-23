@@ -8,10 +8,25 @@ The FAQ is a list of possible questions and their answers. These questions are k
 
 The ticket will still be linked to the customer's WordPress user. However, if the WordPress user too is deleted, then the ticket will then not have any creator.
 
+#### Q. Who can see content of a ticket?
+
+Customer, assignee of ticket and staff member who is added to ticket as a subscriber. All these are also called as ticket participants.
+
+Apart from participants, Helpdesk admin and editor too can see any ticket's content.
+
+
+#### Q. Who can see staff only replies?
+
+Only staff participants on the ticket, and the helpdesk editor & admin.
+
+#### Q. Who can see sensitive replies?
+
+All partcipants on a ticket. Though no content of sensitive reply is sent in the emails. 
+
 
 ## Settings
 
-#### How can I enable 'Reply via email' feature?
+#### Q. How can I enable 'Reply via email' feature?
 
 You have to first connected a email to helpdesk. Go to Settings --> Mail Setup
 Once the mailbox is connected, you will see options to enable reply via email .
