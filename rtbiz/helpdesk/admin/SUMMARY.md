@@ -28,7 +28,7 @@
    * [Mail Template](notification_mails/mail_template.md)
 * [Reports](reports/README.md)
 * [Staff and Roles ](staff_and_roles/README.md)
-* [Cron Jobs](wpcron/wp-cron.md)
+* [Cron Jobs](wpcron/README.md)
 * [Shortcodes](shortcodes/README.md)
 * [FAQ](faq/README.md)
 

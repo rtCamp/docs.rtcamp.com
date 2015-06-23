@@ -10,8 +10,10 @@ Shortcodes which you can use are explained below :
 You can use the following shortcode to display a support form.
 
 ```
-[rtbiz_hd_support_form]
+[rtbiz_hd_support_form title="yes"]
 ```
+**Title** : To show "Get support" as title, default value is yes. Accepts **yes/no**.
+
 ### 2. Shortcode for Tickets
 
 Different attributes for tickets are shown below :
@@ -52,4 +54,10 @@ In this short code you have to pass either userid or email or orderid.
 
 ```[rtbiz_hd_tickets userid= 1 title=no]```
 
-
+####Parameters summary
+* userid = '1'
+* email = "{{logged_in_user}}"
+* orderid = '510'
+* show_support_form_link = 'yes'
+* fav = 'true'
+* title = 'yes'
