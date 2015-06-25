@@ -2,6 +2,8 @@
 
 Following is the list of rtMedia defined constants along with with their default value. These values can be modified in the *wp-config.php* file.
 
+NOTE : Define constants anywhere but before  `require_once(ABSPATH . 'wp-settings.php');` file inclusion statement.
+
   * `define ( 'RTMEDIA_MEDIA_SLUG', 'media' );`
   * `define ( 'RTMEDIA_MEDIA_LABEL', 'Media' );`
   * `define ( 'RTMEDIA_ALL_SLUG', 'all' );`
