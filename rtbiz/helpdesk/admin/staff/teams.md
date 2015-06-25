@@ -1,6 +1,6 @@
 # Teams
 
-Heldpesk is perfect for teams - big or small ones.
+Helpdesk is perfect for teams - big or small ones.
 
 You can set teams to manage customer support tickets.
 
