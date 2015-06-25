@@ -29,4 +29,4 @@ After you have chosen a plan, you will be sent a unique API key by email. Enter 
 
 Note that the **Enter API Key** field is blank until an audio/video encoding plan is selected. In the screenshot above, the **Enter API KEY** field already contains a value because the Free plan has been chosen.
 
-Click [here](https://rtcamp.com/rtmedia/addons/compare-encoding-solutions/) to learn more about Audio/Video Encoding.
+Click [here](https://rtcamp.com/rtmedia/compare-encoding-solutions/) to learn more about Audio/Video Encoding.
