@@ -1,6 +1,6 @@
 # Products
 
-This section lists the products of an organisation. It includes products sold using WooCommerce plugin, Easy Digital Download plugin or the custom products created using this section or created while setting up the Helpdesk (Ref Section 1.1, Point 2)
+This section lists the products of an organisation. It includes products sold using WooCommerce plugin, Easy Digital Download plugin or the custom products created using this section or which were created while setting up the Helpdesk (Ref Section 1.1, Point 2)
 
 The Products page looks similar to the screenshot below
 
