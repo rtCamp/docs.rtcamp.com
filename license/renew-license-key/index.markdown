@@ -4,7 +4,7 @@ title: Renew License Key
 
 Follow steps below:
 
-1. Login to my account section https://rtcamp.com/my-account/, please use your purchased username and password.
+1. Login to my account section [https://rtcamp.com/my-account/](https://rtcamp.com/my-account/), please use your purchased username and password.
 
 [![Selection_035](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_035.png)](http://docs.rtcamp.com/wp-content/uploads/2014/11/Selection_035.png)
 
