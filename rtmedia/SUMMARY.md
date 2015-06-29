@@ -55,6 +55,7 @@
       * [rtMedia Media Edit Priv](developers/hooks/rtmedia-hooks/rtmedia-media-edit-priv.md)
       * [rtMedia js hooks](developers/hooks/rtmedia-hooks/rtmedia-js-hooks.md)
       * [rtmedia_upload_add_attribute_label](developers/hooks/rtmedia-hooks/filter-to-change-add-attribute-label.md)
+      * [rtmedia_gallery_sort_actions](developers/hooks/rtmedia-hooks/filter-to-modify-gallery-sort-actions.md)
    * [Keywords to Get rtMedia Image Sizes](developers/keywords-get-rtmedia-image-sizes.md)
    * [Remove media file names](developers/remove-media-file-names.md)
    * [Remove post-editor Shortcode Button](developers/remove-post-editor-shortcode-button.md)
