@@ -5,13 +5,13 @@
 
 Admins can customize email notifications for following members:
 
-i. **Ticket Author/ Client** : Any user/customer on whose request/mail ticket is created.
+**i. Ticket Author/Client** : Any user/customer on whose request/ mail ticket is created.
 
-ii.**Ticket Assignee** : Staff member assigned to the ticket
+**ii. Ticket Assignee** : Staff member assigned to the ticket
 
-iii.**Subscribers** : Staff members with access to Helpdesk and
+**iii. Subscribers** : Staff members with access to Helpdesk and
 
-iv.**Global list members** :  Members who will be notified of the events that occur in HelpDesk System.
+**iv. Global list members** :  Members who will be notified of the events that occur in HelpDesk System.
 
 Also they can customize the Email Signatures and titles for various events.
 
@@ -24,6 +24,12 @@ Global list emails could be added and removed as shown below
 
 ![global_list_members](https://cloud.githubusercontent.com/assets/8191145/6503071/8034d496-c34f-11e4-8297-71812dd76896.png)
 
+
+### Enable/Disable Notification
+
+###1. Enable
+
+When notifications are enabled, following notification events are enabled by default. You can always customize the events based on your preferences
 
 #### i. Notification Events for Customers
 
@@ -51,6 +57,11 @@ These are the notification settings used for global list users
 ![notification_acl_group](https://cloud.githubusercontent.com/assets/8191145/6503320/ba7fd9d2-c351-11e4-937e-f96b9450cff6.png)
 
 
+###2. Disable:
+
+All email notifications will be disabled on selecting this button.
+
+![disable_notification](https://cloud.githubusercontent.com/assets/8191145/8404693/9fac7694-1e6c-11e5-85f1-1c43c6847d03.png)
 
 #### Customize Notification Emails
 
