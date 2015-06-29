@@ -18,7 +18,7 @@ Updating Helpdesk Roles is a piece of cake! Here's how you can update Helpdesk R
 
 **i. Go to Staff** : Navigate to Staff members list by clicking at the menu on the left.
 
-**ii. Click**: Click on the Staff member's name whose Heldpesk role you want to change. It will lead you to Edit Contact page
+**ii. Click**: Click on the Staff member's name whose Helpdesk role you want to change. It will lead you to Edit Contact page
 
 **iii. Update Helpdesk Role:** Update the Helpdesk role from the Profile level Access as shown in the screenshot below.
 
@@ -52,7 +52,7 @@ In this screenshot, the same WordPress author and Helpdesk Admin is on the ticke
 
 This user can perform all the admin operations associated with the Helpdesk System like changing Customers or Staff data, Adding and updating Teams, Products and changing any Helpdesk Setting.
 
-Similarly, any user in your site can be assigned Helpdesk Roles of Admin, Editor, Author or No Role and their access level will change accordingly. (As explained im the top section)
+Similarly, any user in your site can be assigned Helpdesk Roles of Admin, Editor, Author or No Role and their access level will change accordingly. (As explained in the top section)
 
 **Important Note** : A WordPress administrator will have all access to Helpdesk. You cannot change Helpdesk Role for a WordPress administrator.
 <br/>
