@@ -4,16 +4,16 @@
 
 You can setup your support team in three ways :
 
-i. Search and add users :You can search and add users by name or email as shown in the screenshot below
+**i. Search and add users :**You can search and add users by name or email as shown in the screenshot below
 
 ![search_and_add_users](https://cloud.githubusercontent.com/assets/8191145/7654397/6d19bd04-fb3a-11e4-809a-07b176b75828.png)
 
 
-ii. Add all users from domain: You can use this option if you want add all the WordPress users who have similar domain name.
+**ii. Add all users from domain:** You can use this option if you want add all the WordPress users who have similar domain name.
 
-iii. Add all WordPress users : Using this option you can import all the WordPress users into Staff, in a single click.
+**iii. Add all WordPress users :** Using this option you can import all the WordPress users into Staff, in a single click.
 
-You can give roles to all these new staff members. The Helpdesk roles are same as WordPress roles.
+You can give roles to all these new staff members. The Helpdesk roles are somewhat similar to WordPress roles. ( Ref 10. Staff and Roles for details)
 * Admin - Can manage all tickets and Helpdesk settings.
 * Editor - Can manage all the tickets. No access to settings.
 * Author - Can manage only the tickets assigned to them. No access to settings.
