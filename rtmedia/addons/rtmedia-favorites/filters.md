@@ -115,7 +115,7 @@ function rtmedia_add_create_create_favlist_label( $label ) {
 
 * ####rtm_add_media_your_favlists_label <a name="rtm_add_media_your_favlists_label"></a> 
 ***
-Filter to modify **Add to Favlist** lable in single media option.
+Filter to modify **Add to Favlist** lable in option tab while viewing media.
 
 ```php
 add_filter( 'rtm_add_media_your_favlists_label', 'rtmedia_add_media_your_favlists_label' );
@@ -163,7 +163,7 @@ function rtmedia_create_favlist_popup_button( $title ) {
 
 * ####rtm_edit_favlist_option_lable <a name="rtm_edit_favlist_option_lable"></a>
 ***
-Filter to modify **Edit** lable for favlist in option.
+Filter to modify **Edit** lable in option tab while viewing Favlist.
 
 ```php
 add_filter( 'rtm_edit_favlist_option_lable', 'rtmedia_edit_favlist_option_lable' );
