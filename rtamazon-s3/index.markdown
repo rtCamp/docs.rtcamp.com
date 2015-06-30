@@ -71,6 +71,8 @@ After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's
 
 3. You can serve media URL with different options:
 
+  **Note**: This will affect only new uploads.
+
     1. **WordPress Media URL**: `http://sp.com/wp-content/uploads/2015/06/photo.jpg`
 
     2. **Bucket Name as Subdomain**: `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
