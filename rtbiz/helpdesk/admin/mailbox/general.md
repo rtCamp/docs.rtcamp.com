@@ -6,24 +6,26 @@
 
 i) The support page is used for product support. Customers enter their queries by filling the support form. Their query becomes a Helpdesk ticket.
 
-ii) The dropdown shows the helpdesk support form chosen during the setup. (Refer 1.1 Setup Wizard for more details)
+ii) The dropdown shows the helpdesk support form chosen during the setup. It will be blank if nothing was chosen during the Set up wizard. (Refer 1.1 Setup Wizard for more details)
 
-#### Using different support Page
-i) To use some other support page you need to follow the steps given below:
+### Steps to add a support page
 
-**a) Pages:** Click on Pages in WordPress dashboard.
+To add a support page you need to follow the steps given below:
 
-**b) Add New Page:** Click Add New button to add a new page
+**1. Pages:** Click on Pages in WordPress dashboard.
 
-**c) Page title:** Enter the desired title for the new page
+**2. Add New Page:** Click Add New button to add a new page
 
-**d) Shortcode:** Add shortcode ```[rt_hd_support_form]``` in the content area
+**3. Page title:** Enter the desired title for the new page
 
-**e) Publish page:** Click on Publish/Update when you are done.
+**4. Shortcode:** Add shortcode ```[rt_hd_support_form]``` in the content area
+
+**5. Publish page:** Click on Publish/Update when you are done.
 
 ![new_supportpage](https://cloud.githubusercontent.com/assets/8191145/7653966/36c134ba-fb37-11e4-9b43-a328d13e3ad8.png)
 
-##### Refresh Helpdesk Settings
+**6. Refresh Helpdesk Settings**
+
 Refresh the settings area. The newly created support page will be populated in the drop-down. You can select this page which then will be used by your customers to send support requests.
 
 ![select_support_form](https://cloud.githubusercontent.com/assets/9676513/6480262/f5026802-c277-11e4-81e1-62145daf208e.png)
@@ -39,6 +41,27 @@ The support form looks like the screenshot shown below
 <br/><br/>
 
 ![support](http://git.rtcamp.com/rtbiz/rtbiz/uploads/efe7fef540e97417beaa54de635c5019/support.png)
+
+**1. Title -** Customers need to enter the title or subject of their query here
+
+**2. Choose Product** -Customers have to chose the Product from this dropdown for which they want to enquire or raise an issue.
+
+**3. Email -** Customers have to enter their email address here. They can also add/subscribe another people to the ticket by clicking <u>**Add CC**</u> link.
+
+**4. Description-** Customers have to enter detailed description for their query here.
+
+**5. Preview -** Customers can preview the content they added in the description above by clicking Preview.
+
+**6. Markdown and HTML Support -** Customers can use Markdown syntax along with html tags in the Description box.
+
+Customers can use these HTML tags - a, abbr, acronym, b, blockquote, cite, code, del, em, i, q, s, strike and strong and Markdown Syntax. You can learn more about markdown from [here](https://help.github.com/articles/markdown-basics/) or from [here](https://guides.github.com/features/mastering-markdown/).
+
+**7. Adult Content -** Customers can mark the ticket as an adult ticket by checking Adult Content checkbox. This helps in filtering out this ticket and only show it to the appropriate staff members and make the adult ticket hidden from other staff members.(Refer 7.5 Advanced Settings for more details)
+
+**8. Attach Files -** This is used to add attachments
+
+**9. Submit -** Customers need to click on this button to submit their query.
+
 
 
 

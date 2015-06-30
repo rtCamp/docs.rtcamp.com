@@ -1,7 +1,7 @@
 # Advanced Settings
 ![advanced_settings](https://cloud.githubusercontent.com/assets/8191145/7652745/354fa940-fb2d-11e4-8f71-637d56d8d975.png)
 
-### 1. Enable auto assign
+## 1. Enable auto assign
 
 ![auto_assign_feature](https://cloud.githubusercontent.com/assets/8191145/6750093/e7fb5ba8-cf1c-11e4-82f0-fbc42cf01115.png)
 
@@ -14,7 +14,7 @@ If this option is selected then the ticket will be assigned to the staff member 
 If this option is selected then the ticket will automatically be assigned to **any** staff member who answers the ticket.
 
 
-### 2 . Enable auto response
+## 2 . Enable auto response
 
 Auto Response feature is used to send predefined response messages automatically to anyone who sends mail to a particular mailbox or creates a ticket by filling the support form.
 
@@ -46,21 +46,32 @@ Auto replies will only be sent on weekends.
 
 ![auto_response_weekend](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/50cb7274ae/auto_response_weekend.png)
 
-### 3. Enable Adult Content Filter
+## 3. Adult Content Filter
 
-i. Admins can set up adult content filtering by clicking Enable and saving the settings.
+#### i. Enable from Advanced Settings :
+
+Admins can set up adult content filtering by clicking Enable and saving the settings.
 
 ![adult_content_filter](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/60275e495d/adult_content_filter.png)
 
-ii. Customer can mark a ticket to be adult or not via  support form. By default the checkbox is unchecked.
+#### ii. Customers check Adult Content while filling Support Form
 
-![ac](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/78523d4141/ac.png)
+Customer can mark a ticket to be adult or not by checking Adult Content checkbox in the support form. By default the checkbox is unchecked.
 
-iii. Adult ticket will be displayed to only those users who have adult content allowed in their profile.
-Staff members have the option to allow or disallow tickets with adult content in their profile section.
+![support](http://git.rtcamp.com/rtbiz/rtbiz/uploads/efe7fef540e97417beaa54de635c5019/support.png)
 
-![helpdesk_adultcontent_preference](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/f7deaddd04/helpdesk_adultcontent_preference.png)
 
-iv. Staff can mark a ticket as a ticket with adult content by editing the ticket and checking the Adult Content checkbox at Ticket Information section.
+#### iii. Don't show Adult Content
+
+Adult ticket will be displayed to only those staff members who have adult content allowed in their profile.
+
+A Helpdesk admin or editor can mark **Don't show Adult content** as true for the staff members who don't want to view tickets with adult content as shown in the screenshot below
+
+![adult content](https://cloud.githubusercontent.com/assets/8191145/8426820/57a24990-1f30-11e5-8459-e27eac54ccb9.png)
+
+
+#### iv. Staff mark the ticket as adult
+
+Staff can mark a ticket as a ticket with adult content by editing the ticket and checking the Adult Content checkbox at Ticket Information section.
 
 ![adult_ticket_info](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/df608d4443/adult_ticket_info.png)
