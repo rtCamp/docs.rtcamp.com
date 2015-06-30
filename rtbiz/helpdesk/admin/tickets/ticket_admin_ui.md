@@ -1,6 +1,6 @@
 # Ticket Admin UI
 
-Backend of the ticket follows WordPress posts'native behaviour and UI. 'Ticket' is basically a custom post type.
+Backend of the ticket follows WordPress posts' native behaviour and UI. 'Ticket' is basically a custom post type.
 Below is the screenshot of how a ticket looks on the back end
 
 ![ticket_admin_ui_latest](https://cloud.githubusercontent.com/assets/8191145/7632633/a5a1813a-fa6c-11e4-9a6a-debce41883bc.png)

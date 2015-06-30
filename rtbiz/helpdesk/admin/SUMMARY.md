@@ -15,7 +15,7 @@
 * [Customers](customers/README.md)
 * [Staff](staff/README.md)
    * [Teams](staff/teams.md)
-* [Offerings](offerings/README.md)
+* [Products](offerings/README.md)
 * [Settings ](mailbox/index.md)
    * [General](mailbox/general.md)
    * [Setup Your Team](mailbox/setup_your_team.md)

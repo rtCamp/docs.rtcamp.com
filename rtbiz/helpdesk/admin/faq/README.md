@@ -21,7 +21,7 @@ Only staff participants on the ticket, and the helpdesk editor & admin.
 
 #### Q. Who can see sensitive replies?
 
-All partcipants on a ticket. Though no content of sensitive reply is sent in the emails. 
+All participants on a ticket. Though no content of sensitive reply is sent in the emails.
 
 
 ## Settings

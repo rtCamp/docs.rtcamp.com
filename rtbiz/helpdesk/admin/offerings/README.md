@@ -1,30 +1,32 @@
 # Products
 
-An offering is any product or service that an organization is selling. You have already chosen the offerings while doing the set up ( Ref Section 1.1, Point 2)
+This section lists the products of an organisation. It includes products sold using WooCommerce plugin, Easy Digital Download plugin or the custom products created using this section or which were created while setting up the Helpdesk (Ref Section 1.1, Point 2)
 
-The Offerings page shows similar to the screenshot below
+The Products page looks similar to the screenshot below
 
-![offerings_latest](https://cloud.githubusercontent.com/assets/8191145/7681812/d54ab434-fd90-11e4-905f-256f4f6050ea.png)
+![products](https://cloud.githubusercontent.com/assets/8191145/8355746/a04b8a14-1b6e-11e5-8d14-14d885ce4b05.png)
 
-A) Offerings - Click on Offerings menu item under Helpdesk to open it.
+A) Products - Click on Products menu item under Helpdesk to open the Products section.
 
-B) Add New Offering - You can add a new offering as shown in the screenshot above. Click Add New Offering button when details of your offering/product is done
+B) Add New Product - You can add new products as shown in the screenshot above. Click Add New Product button after entering details of your product.
 
-C) Name - Names of offerings/products will display here.
+C) Name - Names of product/products will display here.
 
-D) Description - Details of the offerings are shown here.
+D) Description - Details of the products are shown here.
 
-E) Count - Displays the number of tickets associated with the particular Offering.
+E) Count - Displays the number of tickets associated with the particular products.
 
-F) Product - Shows the Product id for Woocommerce or Easy Digital Download offerings.
+F) Product - Shows the Product id for Woocommerce or Easy Digital Download products.
 
-G) Helpdesk default assignee - Any ticket related to the offering will be first assigned to the default assignee. The assignee is set during the initial setup of the plugin. ( See section 1.1, Ponit 3(iii))
+G) Helpdesk default assignee - Any ticket related to the products will be first assigned to the default assignee. The assignee is set during the initial setup of the plugin. (Ref section 1.1, Point 3(iii))
 
-You can easily update the default assignees from this page by quick editing the offerings.
+You can easily update the default assignees from this page by quick editing the products.
 
-H) Bulk Actions - Using this you can perform Bulk delete operation on the Offerings.
+H) Bulk Actions - Using this you can perform Bulk delete operation on the products.
 
 I) Screen Options - You have an option to display the columns you want, which you can easily do via Screen Options available in the top right of the screen.
+
+
 
 
 

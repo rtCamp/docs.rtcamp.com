@@ -7,7 +7,7 @@ Below is the screenshot of how a ticket looks on the front end
 
 ###  A. Ticket Content Area
 
-'*' indicates the feature is visible only to the staff and not to the customers.
+`'*'` indicates the feature is visible only to the staff and not to the customers.
 
 
 1. Ticket Title - A combination of the unique ID genearted for each ticket and the title as set by the ticket author.
@@ -24,28 +24,29 @@ Below is the screenshot of how a ticket looks on the front end
 
 7. Collapsed follow-ups - The UI automatically collapses ticket replies if there are more than four. Click this button to expand and see all the follow-ups.
 ### B. Ticket Meta
-8. Edit Ticket* - Clicking this icon will lead the staff to access the backend of a ticket. See chapter 3.4 to know more about the backend UI.
+8. Edit Ticket`*` - Clicking this icon will lead the staff to access the backend of a ticket. See chapter 3.4 to know more about the backend UI.
 
 9. Subscribe/Unsubscribe - Option for a staff to get e-mail updates for the communication on the ticket. The assignee of a ticket by default is a subscriber to a ticket.
 
 10. Favorite - Mark the tickets as favorite ticket by clicking the star icon.
 
-11. Status* - Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can use this to update status without reaching the ticket backend.
+11. Status`*` - Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can use this to update status without reaching the ticket backend.
 
-12. Assignee* - The staff member to whom the ticket is assigned.
+12. Assignee`*` - The staff member to whom the ticket is assigned.
 Assign me - Another staff members can assign a ticket to themselves by clicking on the Assign Me option
 13. Offerings - The offering/product for which customer has created a ticket.
 
 14. Participants- Ticket Author, Subscriber and staff members can add people to the ticket. Gravatars of the participants will be displayed as shown in the above screenshot.
 If the people added have no prior access to the Helpdesk system, they will be added as Participants(Customers), if the persons added are staff members, then they will show as Participants(Staff) in that ticket's backend.
 
-15. Attachments - List of all the attachements that have been added to the replies, either by customer or staff.
+
 ### C. Customer meta
-16. Purchase History* - List of products, which a customer has either bought or has the order still under process. Order status is mentioned alongside the products name.
 
-17. Ticket History - List of all the tickets that the customer has created in the Helpdesk. Order status is mentioned alngside the ticket title.
+15.
+Purchase History`*` - List of products, which a customer has either bought or has the order still under process. Order status is mentioned alongside the products name.
 
-18. Related Tickets* - Shows related tickets links to the staff members for easier managament and navigation.
+16.
+Ticket History`*` - List of all the tickets that the customer has created in the Helpdesk. Order status is mentioned alngside the ticket title.
 
 
 ### Ticket Visibility for a Customer
