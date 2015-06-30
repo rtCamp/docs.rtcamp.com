@@ -10,7 +10,7 @@ You have the option to set up the mailbox during the Set up wizard (Ref 1.1 Setu
 ### 1. Mailboxes Set Up
 
 
-  **i. Email **:  Add here the email id you want to setup as a mailbox.
+  **i. Email**:  Add here the email id you want to setup as a mailbox.
 
 **ii. Password**: Enter the password for the above email id.
 
