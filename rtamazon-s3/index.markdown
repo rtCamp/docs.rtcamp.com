@@ -71,8 +71,6 @@ After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's
 
 3. You can serve media URL with different options:
 
-  **Note**: This will affect only new uploads.
-
     1. **WordPress Media URL**: `http://sp.com/wp-content/uploads/2015/06/photo.jpg`
 
     2. **Bucket Name as Subdomain**: `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
@@ -80,6 +78,8 @@ After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's
     3. **Bucket Name in Path**: `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
 
     4. **Custom Domain**: This option is useful for CDN, CloudFront, etc. For example if you enter **abc** in the textbox, media URL will become `http://abc/wp-content/uploads/2015/06/photo.jpg`
+
+    **Note**: This will affect only new uploads.
 
 4. You can directly copy uploaded media files to **S3 Bucket** as they are uploaded from media library, blog post or rtmedia plugin.
 
