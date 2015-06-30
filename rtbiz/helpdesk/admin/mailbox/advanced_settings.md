@@ -30,7 +30,7 @@ Select weekdays and hours of operation for the dayshift. When customers create t
 
 ![dayshift](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/59b8decd0d/dayshift.png)
 
-For example, If setting is saved as in the screenshot above and  a customer sends a mail to the mailbox on Monday, 7:00 PM the customer will get the set auto response message as shown in the screenshot below
+For example, If setting is saved as in the screenshot above and  a customer sends a mail to the mailbox on Monday, 19:00 Hours the customer will get the set auto response message as shown in the screenshot below
 
 ![auto_response_message](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/5edfcedddd/auto_response_message.png)
 

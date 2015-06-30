@@ -2,7 +2,7 @@
 
 It is required to configure a mailbox for the Helpdesk system for sending emails/ notifications to the users. Admins can set up multiple mailboxes.
 
-You have the option to set up the mailbox during the Set up wizard (Ref 1.1 Setup Wizard. Point 5) or you could do the same  by going to **Helpdesk Settings -> Mail Setup**
+You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup)) or you could do the same  by going to **Helpdesk Settings -> Mail Setup**
 
 ![Mail_Setup](http://git.rtcamp.com/rtbiz/rtbiz/uploads/22db71ed9a5d9ce1f4479aeca9a09144/Mail_Setup.png)
 
@@ -10,13 +10,21 @@ You have the option to set up the mailbox during the Set up wizard (Ref 1.1 Setu
 ### 1. Mailboxes Set Up
 
 
-  **i. Email**:  Add here the email id you want to setup as a mailbox.
+  **i. Email**
 
-**ii. Password**: Enter the password for the above email id.
+ Add here the email id you want to setup as a mailbox.
 
-**iii. Provider**: Select a provider from the options
+**ii. Password**
 
-**iv. Test Connection**: Click Test Connection
+Enter the password for the above email id.
+
+**iii. Provider**
+
+Select any provider from the options.
+
+**iv. Test Connection**
+
+Click Test Connection to add the mailbox.
 
 ![Mailbox_Setup](http://git.rtcamp.com/rtbiz/rtbiz/uploads/a1d46c4c26b2e3d5fdcb43a10f5dee2b/Mailbox_Setup.png)
 
@@ -26,18 +34,23 @@ If added successfully the connected mailbox  will show like this
 
 ![added_successfully](https://cloud.githubusercontent.com/assets/8191145/6484791/e5f53736-c2a4-11e4-87aa-751a0065c885.png)
 
-**vi. Another Mailbox**: Repeat the same steps as above in order to set up another mailbox account.
+**vi. Another Mailbox**
 
-**vii. Send email to mailbox for creating tickets**: Once setup, the Ticket Authors or customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
+Repeat the same steps as above in order to set up another mailbox account.
+
+**vii. Send email to mailbox for creating tickets**
+
+Once setup, the Ticket Authors or customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
 
 
 ### 2. Mailbox Reading
 
-![enable_mailbox_reading](https://cloud.githubusercontent.com/assets/8191145/6487363/bee796b8-c2b6-11e4-8b84-0f761513cb48.png)
 
 **i. Enable** : When enabled, ticket Authors can directly send mails to the mailboxes and their tickets will be created in the Helpdesk. Ticket authors and Staff can add followups via mail.
 
 **ii. Disable** :When Disabled, tickets will not be created via mail and new followups by customer and Staff cannot be added via mail.
+
+![enable_mailbox_reading](https://cloud.githubusercontent.com/assets/8191145/6487363/bee796b8-c2b6-11e4-8b84-0f761513cb48.png)
 
 ### 3. Reply Via Email
 

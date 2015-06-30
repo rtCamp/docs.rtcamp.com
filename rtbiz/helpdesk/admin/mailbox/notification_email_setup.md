@@ -22,7 +22,8 @@ Admin can set up a global list of users who will be notified of the events occur
 
 Global list emails could be added and removed as shown below
 
-![global_list_members](https://cloud.githubusercontent.com/assets/8191145/6503071/8034d496-c34f-11e4-8297-71812dd76896.png)
+![notif_emails](https://cloud.githubusercontent.com/assets/8191145/8434602/f9051f36-1f69-11e5-8972-f53ddca1caac.png)
+
 
 
 ### Enable/Disable Notification
