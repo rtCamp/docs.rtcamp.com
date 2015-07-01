@@ -1,60 +1,62 @@
 # Customers
 
-Customers are the people who have purchased a product/offering from an organisation
+Customers are people who have purchased a product from an organisation.
 
 Customers will automatically be created when they create a support ticket by submitting support form or when they send an email to the Helpdesk mailbox.
 
+Click on  Customers menu item under Helpdesk menu to reach customers page.
 The customer page will be shown similar to the screenshot below:
 
-![customerss](https://cloud.githubusercontent.com/assets/8191145/7679321/350fe8c0-fd79-11e4-97df-bebc90160877.png)
-
-A) Customers - Click on  Customers menu item under Helpdesk menu to reach customers page
-
-B) Name - Shows the names of your customers
-
-C) User - Shows the WordPress users associated with the customers.
-
-D) Helpdesk Role - Displays the role of the customers in Helpdesk.
-
-E) Ticket - This displays the number of tickets associated with the particluar customer.
-
-F) Bulk Actions - You, as an admin can edit multiple customers from this option.
-
-Bulk Edit - Select multiple customers  from the checkbox as shown below. Click on Bulk Actions dropdown click Edit then click on the Apply Button as shown in the screenshot below
-
-![customers_bulkedit](https://cloud.githubusercontent.com/assets/8191145/7679532/4675b3e0-fd7b-11e4-84cb-9b979bf6a3f9.png)
-
-Now, you will see the bulk edit area where you can easily change various settings related to the customers as shown below
-![customersbulkedit](https://cloud.githubusercontent.com/assets/8191145/7679654/7a2a6b76-fd7c-11e4-9ae0-e69c0ac582b7.png)
-
-Click on update button when done
-
-or
+![customer](https://cloud.githubusercontent.com/assets/8191145/8449079/c24ee788-1feb-11e5-9420-ad3e515c24bf.png)
 
 
-you can also quickly edit the individual customer by doing a mouseover and clicking the Quick Edit link as shown in the screenshot below
+
+###**Columns**
+
+####**A) Name**
+
+Shows the names of your customers
+
+####**B) Tickets**
+
+This displays the number of tickets associated with the particular customer.
+
+### **All Customers**
+
+Clicking **All** displays the list of customers and the number of tickets associated with them as shown in the screenshot above
+
+### **With Tickets**
+
+Clicking this will display the customers with ticket count >= 1
+
+![customer_with_ticket](https://cloud.githubusercontent.com/assets/8191145/8450340/abd7c5f4-1ff7-11e5-80e1-7b02ea8c4194.png)
+### **Without Tickets**
+
+Clicking this will display the customers with ticket count = 0
+
+#### **All Dates Filter**
+
+You can use this filter to quickly open the customers added in particular months.
+
+### Edit Customer Page
+
+Clicking on any customer's name leads to the Edit page where editing could be done.The page looks similar to the screenshot below
+
+![edit_contact](https://cloud.githubusercontent.com/assets/8191145/8429659/89405b10-1f47-11e5-9af1-6b806b0cfa5c.png)
 
 
-![quickeditcustomer](https://cloud.githubusercontent.com/assets/8191145/7679709/086e613a-fd7d-11e4-8d54-58b73c31441c.png)
 
-Clicking quick edit will show similar to the screenshot below where you can edit various details related to the customer
 
-![customersquickedit](https://cloud.githubusercontent.com/assets/8191145/7679665/a0cee4c8-fd7c-11e4-955a-25ed1474505b.png)
+###**New Customer**
 
-G) All Dates Filter - You can use this filter to quickly open the customers added in particular months.
+Users with Helpdesk roles of either Admin or Editor can create new customers from the backend.
 
-H) Screen Options- You have an option to display the columns you want, which you can easily do via Screen Options available in the top right of the screen.
+#### Click New Customer button next to Customers label
 
-It looks similar to the screenshot below:
+You can create a new customer by clicking New Customer button next to Customers label.
 
-![screen_options_staff](https://cloud.githubusercontent.com/assets/8191145/7679034/9d193032-fd76-11e4-950e-309a8eca95b8.png)
+On clicking New Customer button, you will see Add Customer page as shown in the screenshot below
 
-I)** New Customer**
-
-i) You can create a new customer by clicking New Customer button next to Customers label as shown in the previous screenshot.
-
-ii) On clicking New Customer button, you will see Add Customer page as shown in the screenshot below
-
-![new_customer](https://cloud.githubusercontent.com/assets/8191145/7655225/c32b61f2-fb3f-11e4-9e3b-198d27b6e689.png)
+![new_customer](https://cloud.githubusercontent.com/assets/8191145/8450393/18390d34-1ff8-11e5-8a50-634ce114ed54.png)
 
 

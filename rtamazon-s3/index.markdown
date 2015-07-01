@@ -63,13 +63,23 @@ After clicking on `Create new Bucket`, you will be able to see `Bucket Creation 
 
 After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's` or `Created Bucket's` Settings.
 
-[![rtamazon-s3-bucket-settings](https://cloud.githubusercontent.com/assets/7807348/7202203/c1cdc700-e52d-11e4-9d44-f744eaf8671f.png)](https://cloud.githubusercontent.com/assets/7807348/7202203/c1cdc700-e52d-11e4-9d44-f744eaf8671f.png)
+[![rtamazon-s3-bucket-settings](https://cloud.githubusercontent.com/assets/7807348/8429046/acee8358-1f41-11e5-9dc9-fd1de0a4fa33.png)](https://cloud.githubusercontent.com/assets/7807348/8429046/acee8358-1f41-11e5-9dc9-fd1de0a4fa33.png)
 
 1. Upload media files to **Virtual Folder** on Amazon S3 Bucket. For example if the name of input folder is **test**, media are stored under **test** folder, if folder name is `test/sample`, media are stored under **sample** folder which is a folder under **test** and so on.
 
 2. You can delete local media files after they have been successfully uploaded to your **S3 Bucket**. If you enable this option then uploaded files are served with their `S3 URL`. **Strongly Not Recommended!**
 
-3. You can serve media URL with from **S3 Bucket URL**
+3. You can serve media URL with different options:
+
+    1. **WordPress Media URL**: `http://sp.com/wp-content/uploads/2015/06/photo.jpg`
+
+    2. **Bucket Name as Subdomain**: `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
+
+    3. **Bucket Name in Path**: `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
+
+    4. **Custom Domain**: This option is useful for CDN, CloudFront, etc. For example if you enter **abc** in the textbox, media URL will become `http://abc/wp-content/uploads/2015/06/photo.jpg`
+
+    **Note**: This will affect only new uploads.
 
 4. You can directly copy uploaded media files to **S3 Bucket** as they are uploaded from media library, blog post or rtmedia plugin.
 

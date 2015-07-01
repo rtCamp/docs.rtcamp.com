@@ -7,25 +7,43 @@ Here is a screenshot of the same
 
 ![ticket_listing_latest copy](https://cloud.githubusercontent.com/assets/8191145/7650567/806acfe4-fb15-11e4-91f6-19b3507a08a7.png)
 
-#### A. Listing Columns
+### A. Listing Columns
 
-1. Ticket - Helpdesk automatically assigns a unique id for each ticket. Along with ID, the ticket title shows here which is the mail subject or support form title, as submitted by the ticket author.
+**1. Ticket**
 
-2. Status -  Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can update the status from ticket's web ui too. (Refer Section 3.4, Point 11)
+Helpdesk automatically assigns a unique id for each ticket. Along with ID, the ticket title shows here which is the mail subject or support form title, as submitted by the ticket author.
 
-3. Ticket Assignee - The staff member to whom the ticket is assigned.
+**2. Status**
 
-4. Ticket Author - Name of the person who created the ticket, appended by the ticket creation timestamp.
+Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Archived'. Staff can update the status from ticket's Web UI too. ( [Refer Section 3.4, Point 11](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/web_based_ticket_ui.html#b-ticket-meta) for details)
 
-5. Reply Count - The number of replies on a ticket.
+**3. Ticket Assignee**
 
-6. Last reply by - Details of the user who replied last in the ticket.
+The staff member to whom the ticket is assigned.
 
-7. Offerings -  The offering/product for which the customer is creating the ticket. Staff can assign offerings for the tickets created via mails by simply doing a Quick Edit. (Ref: C. Ticket Editing below)
+**4. Ticket Author**
 
-8. Teams - You can assign a ticket to various teams (Ref Section 5.1)
+Name of the person who created the ticket, appended by the ticket creation timestamp.
 
-9. Contacts - Includes the ticket author,any member he has added in cc while creating the ticket.
+**5. Reply Count**
+
+The number of replies on a ticket.
+
+**6. Last reply by**
+
+Details of the user who replied last in the ticket.
+
+**7. Products**
+
+The offering/product for which the customer is creating the ticket. Staff can assign products for the tickets  by simply doing a Quick Edit. (Ref: [C.Ticket Editing](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_listing_ui.html#c-ticket-editing) below)
+
+**8. Teams**
+
+You can assign a ticket to various teams (Ref Section 5.1)
+
+**9. Contacts**
+
+Includes the ticket author,any member he has added in cc while creating the ticket.
 
 
 ### B. Sorting and Filters
@@ -33,34 +51,58 @@ Here is a screenshot of the same
 ![sorting_n_filters](https://cloud.githubusercontent.com/assets/8191145/7651616/20581480-fb20-11e4-8aa2-e3bab5545b45.png)
 
 
-1. Mine - Clicking mine lists all the tickets assigned to the logged-in staff member.
+**1. Mine**
 
-2. All - Option used to list all tickets with any status, sorted as latest first.
+Clicking mine lists all the tickets assigned to the logged-in staff member.
 
-3. Unanswered - Lists all the unanswered tickets
+**2. All**
 
-4. Answered - Lists all the answered tickets
+Option used to list all tickets with any status, sorted as latest first.
 
-5. Solved - Lists all the solved tickets
+**3. Unanswered**
 
-6. Subscribed - Lists the tickets which the logged in user has subscribed to.
+Lists all the unanswered tickets
 
-7. Bulk Actions - Used for Bulk Editing and moving the tickets to trash.
+**4. Answered**
 
-8. Filter by Dates - Option to filter tickets by date.
+Lists all the answered tickets
 
-9. Filter by Status - Option to filter tickets by ticket status.
+**5. Archived**
 
-10. Filter by Assignee - Option to filter tickets by assignee.
+Lists all the archived tickets
 
-11. Filter by Product - Option to filter tickets by assignee.
+**6. Subscribed**
 
-The filters #8 - #11 can be used together to filter tickets. Choose the values and click the Filter button.
+Lists the tickets which the logged in user has subscribed to.
+
+**7. Bulk Actions**
+
+Used for Bulk Editing and moving the tickets to trash.
+
+**8. Filter by Dates**
+
+Option to filter tickets by date.
+
+**9. Filter by Status**
+
+Option to filter tickets by ticket status.
+
+**10. Filter by Assignee**
+
+Option to filter tickets by assignee.
+
+**11. Filter by Product**
+
+Option to filter tickets by assignee.
+
+**The filters #8 - #11 can be used together to filter tickets. Choose the values and click the Filter button.**
 
 
 ### C. Ticket Editing
 
-**1. Quick Edit -** i) Mouseover any ticket to quickly edit it.
+**1. Quick Edit**
+
+i) Mouseover any ticket to quickly edit it.
 
 ![quick_edit](https://cloud.githubusercontent.com/assets/8191145/7651073/257aa762-fb1a-11e4-9e43-276d6a2657c2.png)
 
@@ -74,7 +116,9 @@ iii) Click on the Update button when editing is done.
  Note : Admin role cannot be changed via quick/ bulk edit
 
 
-**2. Bulk edit -** i) You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click on Apply button.
+**2. Bulk edit**
+
+i) You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click on Apply button.
 
 ii) You will see the selected tickets under Bulk Edit similar to  the screenshot below.
 You as an admin and staff members with Editor role in helpdesk will be able to edit the details for multiple tickets as shown in the screenshot below. Staff with author role will only be able to edit the tickets assigned to them.
@@ -86,9 +130,13 @@ iii) Click on Update button when editing is finished.
 
 ### D. View Options
 
-1. List View - For viewing tickets in List View
+**1. List View**
 
-2. Pagination- For easily navigating to other pages. You can set number of tickets that can be viewed in one page in Screen Options as explained below.
+For viewing tickets in List View
+
+**2. Pagination**
+
+For easily navigating to other pages. You can set number of tickets that can be viewed in one page in Screen Options as explained below.
 
 ### E. Screen Options
 

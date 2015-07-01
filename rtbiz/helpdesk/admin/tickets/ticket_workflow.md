@@ -1,6 +1,6 @@
 # Ticket Workflow
 
-Please see section 3.1 to know more about ticket status.
+Please see [section 3.1](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_status.html) to know more about ticket status.
 
 The ticket workflow is as follows:
 1. A new ticket has default status as 'Unanswered'

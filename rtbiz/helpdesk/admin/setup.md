@@ -61,7 +61,7 @@ The admin of the Heldesk is kept as default assignee for all the offerings. You 
 
 ![4_setup_assignee](https://cloud.githubusercontent.com/assets/8191145/7610595/a5ebfcbe-f99b-11e4-9526-dcfdbd1c0c1f.png)
 
-### 5.Mailbox Setup
+### 5. Mailbox Setup
 
 Mailbox is required by Helpdesk for:
 * sending emails/ notifications to the customers and staff.
@@ -82,7 +82,7 @@ If you receive a error message while testing connection, you should do the follo
 * Enable IMAP for your mailbox (Gmail - [Link](https://support.google.com/mail/troubleshooter/1668960), Outlook - Link, Yahoo - [Link](https://help.yahoo.com/kb/mobile/imap%C2%A0settings-yahoo-mail-sln4075.html) )
 * Check this link if your Google account does not get connected: https://support.google.com/mail/answer/78754
 
-### 6.Finish
+### 6. Finish
 
 Click finish to complete the setup.
 
