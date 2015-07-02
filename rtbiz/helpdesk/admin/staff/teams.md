@@ -32,4 +32,4 @@ Using Screen options in the top right of the page, you can customize the columns
 
 ![show_on_screen](https://cloud.githubusercontent.com/assets/8191145/8433023/11cfb8b8-1f61-11e5-9a7d-d4993e2d155e.png)
 
-Teams will be helpful in reporting and filtering . You can sort the tickets as per teams (Ref Section 9. Reports)
+Teams will be helpful in reporting and filtering . You can sort the tickets as per teams (Ref [Section 9. Reports](http://docs.rtcamp.com/rtbiz/helpdesk/admin/reports/index.html) for details)

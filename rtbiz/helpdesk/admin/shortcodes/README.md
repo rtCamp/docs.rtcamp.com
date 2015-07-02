@@ -2,7 +2,7 @@
 
 rtBiz Helpdesk offers you various shortcodes to display a ready made support form or show tickets in any WordPress page.
 
-Shortcodes which you can use are explained below :
+Shortcodes which you can use in WordPress pages are explained below :
 
 
 ### 1. Shortcode for Support Form

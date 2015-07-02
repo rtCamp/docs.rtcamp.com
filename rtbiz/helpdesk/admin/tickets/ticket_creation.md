@@ -4,7 +4,7 @@
 Based on the settings, a new ticket will be created:
 1. When a user sends a mail to designated (set up) mail box
 
-2. When a user submits a support web form (See [section 7.1](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#support-form) for details)
+2. When a user submits a support web form (See <a href="http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#support-form" target="_parent">section 7.1</a> for details)
 
 3. When a user submit an entry to a synced Gravity form (feature releasing soon)
 

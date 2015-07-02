@@ -42,7 +42,7 @@ Here are two screenshots to illustrate the above point
 
 **i. Screenshot of a WordPress Author who's a Helpdesk Admin while viewing Posts:**
 
-In this screenshot, a WordPress author who has Admin role in Helpdesk is on the Posts section where the Author can only view the posts of other members.
+In this screenshot, a WordPress Author who has Admin role in Helpdesk is on the Posts section where the Author can only view the posts of other members.
 
 ![wpauthorhelpdeskadmin](https://cloud.githubusercontent.com/assets/8191145/8380309/b2a194c2-1c42-11e5-84b2-7681b7ae5148.png)
 

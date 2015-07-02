@@ -1,22 +1,28 @@
 # Notification Email Setup
 
 
-![notif_emails](https://cloud.githubusercontent.com/assets/8191145/8357554/098c4bee-1b79-11e5-84c3-93150ffcdbc3.png)
+![notif_emails](https://cloud.githubusercontent.com/assets/1902154/8472525/a386d9ee-20bf-11e5-9714-5d5d59c057d7.png)
+
 
 Admins can customize email notifications for following members:
 
-**i. Ticket Author/Client** : Any user/customer on whose request/ mail ticket is created.
+####**i. Customer**
 
-**ii. Ticket Assignee** : Staff member assigned to the ticket
+User who raises a support request by sending an email to the Helpdesk mailbox or by filling the support form.
 
-**iii. Subscribers** : Staff members with access to Helpdesk and
+####**ii. Assignee**
 
-**iv. Global list members** :  Members who will be notified of the events that occur in HelpDesk System.
+The staff member assigned to the ticket.
 
-Also they can customize the Email Signatures and titles for various events.
+####**iii. Staff**
 
+Other staff members who can subscribe to the tickets and get notifications.
 
-## Notification Emails
+They can make themeselves the Ticket Assignees by clicking Assign Me link below the Assignee dropdown. (Refer  3.4 Ticket Web UI for details)
+
+####**iv. Group**
+
+Members who will be notified of the events that occur in HelpDesk System.
 
 Admin can set up a global list of users who will be notified of the events occuring in the system.
 
@@ -44,9 +50,9 @@ These are the notification settings used for  customers/clients/ticket creators
 
 ![notification_acl_assignee](https://cloud.githubusercontent.com/assets/8191145/6503322/baae82a0-c351-11e4-8925-97738ed59217.png)
 
-#### iii. Notification Events for Staff/Subscribers
+#### iii. Notification Events for Staff Participants
 
-These are the notification settings used for Staff/Subscribers
+These are the notification settings used for Staff participants who subscribe to the tickets assigned to some other staff member/ Assignee.
 
 ![notification_acl_staff](https://cloud.githubusercontent.com/assets/8191145/6503319/ba4af974-c351-11e4-9a68-347b68da824a.png)
 

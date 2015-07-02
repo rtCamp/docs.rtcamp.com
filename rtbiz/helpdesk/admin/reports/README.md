@@ -55,4 +55,4 @@ Authorised Staff members can check ticket statuses  in different formats as show
 ![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7612951/814298a4-f9ab-11e4-89ea-2a9d601e9d9b.png)
 
 
-
+(Refer [2. Dashboard](http://docs.rtcamp.com/rtbiz/helpdesk/admin/dashboard.html) for details)

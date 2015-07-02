@@ -7,10 +7,11 @@ You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Set
 ![Mail_Setup](http://git.rtcamp.com/rtbiz/rtbiz/uploads/22db71ed9a5d9ce1f4479aeca9a09144/Mail_Setup.png)
 
 
+
 ### 1. Mailboxes Set Up
 
 
-  **i. Email**
+ **i. Email**
 
  Add here the email id you want to setup as a mailbox.
 

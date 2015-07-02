@@ -12,7 +12,7 @@ Click on Products menu item under Helpdesk to open the Products section. The Pro
 
 Any products created in WooCommerce or Easy Digital Downloads will sync with Helpdesk Products section. You can also create custom products as shown below
 
-###Steps to Add a New Custom Products
+###Steps to Add New Custom Products
 
 #### 1) Name
 
@@ -40,7 +40,7 @@ This default assignee will override the default assignee set in the General Sett
 
 This is also an optional field.
 
-All Helpdesk Products will be visible in Choose Products dropdown in the support form (Ref Section 7.1. General) for details
+All Helpdesk Products will be visible in Choose Products dropdown in the support form (Ref Section 7.1. General for details)
 
 ###Columns
 
@@ -69,7 +69,7 @@ You can easily update the default assignees from this page by doing a mouseover 
 
 ####Screen Options
 
-Screen Options in top right of the page gives you the choice to display the desired columnsand number of products you want to show per page.
+Screen Options in top right of the page gives you the choice to display the desired columns and number of products you want to show per page.
 
 
 

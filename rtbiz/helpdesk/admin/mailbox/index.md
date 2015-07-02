@@ -23,8 +23,3 @@ The interface looks as in the screenshot below. Every settings tab is being cove
 ![settings](https://cloud.githubusercontent.com/assets/8191145/7652152/fd3ef2fa-fb26-11e4-9883-5a5512e35835.png)
 
 
-# Mailbox
-
-![Helpdesk_Mail_Workflow](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/b669c8b5b6/Helpdesk_Mail_Workflow.png)
-
-![Helpdesk User Mail Access](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/c20ea9d3a5/Helpdesk_User_Mail_Access.png)

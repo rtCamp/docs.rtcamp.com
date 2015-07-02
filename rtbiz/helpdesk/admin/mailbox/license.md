@@ -7,7 +7,7 @@ To get automatic updates for the Helpdesk plugin, users need to enter their lice
 ![enterlicensekey](https://cloud.githubusercontent.com/assets/8191145/6554052/2d209232-c67d-11e4-8c8f-2689e3d03103.png)
 
 <br/>
-Users can find the license keys from their “[My Account](https://rtcamp.com/my-account/)” section.
+Users can find the license keys from their [My Account](https://rtcamp.com/my-account/) section.
 
 More details about the License keys are given **[here](http://docs.rtcamp.com/license/)** .
 
