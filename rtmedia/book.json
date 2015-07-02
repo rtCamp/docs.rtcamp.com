@@ -1,6 +1,12 @@
 {
 "gitbook": "2.0.1",
 
-  "plugins": ["collapsible-menu","youtube"]
+  "plugins": ["edit-link","collapsible-menu","youtube"],
+"pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/rtCamp/docs.rtcamp.com/tree/master/rtmedia/",
+      "label": "Edit This Page"
+    }
+}
 
 }
