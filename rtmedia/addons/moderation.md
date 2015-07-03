@@ -13,4 +13,5 @@ A new Button -  **Report** - will be added while viewing media, as shown.
 
 If a pre-decided number of users report a particular item for abuse, the item is automatically prevented from being viewed by users and sent in for moderation. This number is set by a site admin.
 
-To withdraw your report, click **Withdraw Report** for the reported media or other item:[![Withdraw Report button in lightbox](https://cloud.githubusercontent.com/assets/9261540/8005173/98edc144-0ba4-11e5-94db-113133d3ce99.png)](https://cloud.githubusercontent.com/assets/9261540/8005173/98edc144-0ba4-11e5-94db-113133d3ce99.png)
+To withdraw your report, click **Withdraw Report** for the reported media or other item:[![Withdraw Report button in lightbox](https://cloud.githubusercontent.com/assets/1140051/8493657/dea9f7ac-217a-11e5-9ead-52542b000776.png)
+
