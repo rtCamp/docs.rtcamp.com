@@ -37,7 +37,7 @@ The staff member to whom the ticket is assigned.
 
 **ii)  Status**
 
-Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'.
+Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Archived'.
 
 **iii) Created By**
 

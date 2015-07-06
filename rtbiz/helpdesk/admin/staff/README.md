@@ -32,17 +32,48 @@ Clicking this will show the staff members who have Helpdesk role of editor.
 
 Clicking this will show the staff members who have Helpdesk role of author.
 
-### Edit Staff Page
-
-Clicking on any staff member's name leads to the Edit page where editing could be done.The page looks similar to the screenshot below
-
-![edit_staff](https://cloud.githubusercontent.com/assets/8191145/8431560/05f9f23c-1f58-11e5-9f2f-318aa389d1cb.png)
-
-###**New Staff**
+##**New Staff**
 
 Clicking New Staff button next to the label Staff leads to the page from where new staff members could be created.
 
-![new_staff](https://cloud.githubusercontent.com/assets/8191145/7655273/068baa88-fb40-11e4-9e02-1842ba868633.png)
+Here are the important things to consider while adding a new staff member:
+
+####1. Add Staff Name
+
+Enter the name of the new staff member
+
+####2. Add email address
+
+Enter email address of the staff member.
+
+####3. Profile Level Access
+
+In profile level access block, enable the Staff Member checkbox and assign a Helpdesk role to staff.
+
+####5. Products
+
+Add the product/s where the staff member will be working on.
+
+####6. Teams
+
+Make the staff member part of an existing team or create new teams.
+
+The Add Staff page looks like the screenshot below
+
+![new-staff-details](https://cloud.githubusercontent.com/assets/8191145/8517944/3d126f8a-23e3-11e5-831e-016f8e6c84a2.png)
+
+
+
+## Edit Staff Page
+
+Clicking on any staff member's name leads to the Edit Contact page where editing could be done.
+
+Here Staff's name, emails, tickets, Helpdesk Role, Teams are displayed and could be updated by Heldpesk Admin or Editor.
+
+The page looks similar to the screenshot below
+
+![edit_staff](https://cloud.githubusercontent.com/assets/8191145/8431560/05f9f23c-1f58-11e5-9f2f-318aa389d1cb.png)
+
 
 **Screen Options**
 

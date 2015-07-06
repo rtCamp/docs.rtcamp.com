@@ -9,10 +9,10 @@ Person who raises support request by sending an email to the Helpdesk mailbox or
 
 ####2. Notification Group members
 
-Members who are notified of the events that occur in HelpDesk System.( Refer 7.4 Notification Emails for details)
+Members who are notified of the events that occur in HelpDesk System.
 
-####3. Ticket Assignee
-Staff member responsible for ticket
+####3. Assignee
+Ticket Assignee is the staff member responsible for ticket
 
 ####4. Staff Participants
 
@@ -20,16 +20,15 @@ Other Staff members subscribed to ticket
 
 ####5. Participants (Customer)
 
-Added on CC by customer while submitting a query via email or while filling the support form.
+Added on CC by customer while submitting a query via email.(Refer 7.1 for details) or while filling the support form (Refer 7.3).
 
- ([Refer 7.4 Notification Email Setup for details](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/notification_email_setup.html#notification-emails))
 
 
 Each entry in the matrix below suggests whether a mail is sent to an entity (column) on an action (row).
 
 **Note:** This is the **default notification behaviour** that Helpdesk follows. You can change this from settings. ([Refer 7.4 Notification Email Setup for details](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/notification_email_setup.html#notification-emails))
 
-| Event |  Customer | Notification Group | Ticket Assignee  |Participants(Staff) |Participants(Customer)
+| Event |  Customer | Group | Assignee |Staff Participants|Customer Participants
     ---|----------|---------|-------|----------|------------|--------
      1 | **Ticket Created** | Yes | Yes | Yes | Yes | Yes
      2 | **Edit Ticket content** by Assignee / Staff Participants | No | Yes | Yes | Yes | No

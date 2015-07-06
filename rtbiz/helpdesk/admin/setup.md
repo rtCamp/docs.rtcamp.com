@@ -12,12 +12,16 @@ You will see the screen as below:
 
 Here you need to select a WordPress Page to be used as a support page.
 
-i) Select from existing pages: From the dropdown, you can select any page already there in your site to be used as support page.
+####i) Select from existing pages
+
+From the dropdown, you can select any page already there in your site to be used as the support page.
 
 ![support_page](https://cloud.githubusercontent.com/assets/8191145/7454947/02883148-f296-11e4-9302-0f0feadd2bee.png)
 
 
-ii) Create a new Support Page: You can create a new support form page by clicking on 'Create New Page' and enter the name of the page in the textbox.
+####ii) Create a new Support Page
+
+You can create a new support form page by clicking on 'Create New Page' and enter the name of the page in the textbox.
 
 ![new_support_page](https://cloud.githubusercontent.com/assets/8191145/7455191/a16a6ece-f297-11e4-8981-ad4775d21885.png)
 
@@ -37,12 +41,18 @@ The products from the selected plugin/s and/or the custom created product, will 
 
 You can setup your support team in three ways
 
-i) Search and add WordPress users as shown in the screenshot below
+####i) Search and add users
+
+Search and add WordPress users as shown in the screenshot below
 ![3_setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7610069/69c8de68-f997-11e4-8780-68f9c92558c7.png)
 
-ii) Add users from a domain - You can use this option if you want add all the WordPress users who have similar domain name.
+####ii) Add all users from domain
 
-iii) Add all WordPress users - Using this option you can import all the WordPress users into Staff, in a single click.
+You can use this option if you want add all the WordPress users who have similar domain name.
+
+####iii) Add all WordPress users
+
+Using this option you can import all the WordPress users into Staff, in a single click.
 
 #### Helpdesk Roles
 You can give roles to all these new staff members. The Helpdesk roles are same as WordPress roles.
