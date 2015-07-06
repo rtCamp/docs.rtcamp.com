@@ -9,19 +9,17 @@ If you want to change the color of right sidebar from black to any other color, 
 
 Note: Change the color code as per your need.
 
-<code> .rtp-slide-panel { background-color: #fff !important; }
+<code> 
+.rtp-slide-panel { background-color: #fff !important; }
 .rtp-nav-container a { color: #333 !important; }
 .rtp-site-logo.rtp-site-logo a, .rtp-site-logo.rtp-site-logo a:hover { color: #333; }
 .rtp-nav-container li { border-bottom: 1px solid rgba(0,0,0,0.08); }
-
 .rtp-nav-container a:hover, .rtp-nav-container a:focus { background: #f5f5f5 !important; }
-
 .rtp-nav-container [class*="inspirebook-icon-"]:before { color: rgba(0,0,0,0.4); }
-
 .rtp-nav-container ul { background: #f5f5f5 !important; }
-
 .rtp-nav-container li:hover>a { background: #f5f5f5 !important; }
 .current-menu-item>a, .current-menu-ancestor>a, .current-menu-parent>a, .current_page_ancestor>a, .current_page_item>a {
-  background: #f5f5f5 !important;}
+background: #f5f5f5 !important;}
+
 </code>
 
