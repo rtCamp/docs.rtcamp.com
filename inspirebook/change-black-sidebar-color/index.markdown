@@ -1,3 +1,7 @@
+---
+title: Change Black Sidebar Color
+---
+
 If you want to change the color of right sidebar from black to any other color, use below css code under Inspirebook -> Settings -> Custom Code.
 
 ![selection_208](https://cloud.githubusercontent.com/assets/1140051/8516690/39c3cc56-23d5-11e5-83e0-5f345fbd65c2.png)
