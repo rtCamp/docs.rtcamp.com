@@ -4,7 +4,7 @@ This product is now converted into a bundle product. It was previously rtMedia p
 
 This bundle content 31 premium addons, all the addons listed below. You can purchase from the [rtCamp Store](https://rtcamp.com/products/rtmedia-pro).
 
-### rtMedia Addons and Paid Services
+### rtMedia Addons
 
 1. [rtMedia myCRED addon](../addons/mycred.md) - Points management system for media activity by rtMedia
 2. [rtMedia Cubepoints addon](../addons/cubepoints.md) - Points management system for media activity by rtMedia
