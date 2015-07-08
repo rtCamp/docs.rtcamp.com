@@ -6,7 +6,7 @@ You can set teams to manage customer support tickets.
 
 Click on Teams sub menu under menu item Staff to open the Teams page.The Teams page looks similar to the screenshot below
 
-![team](https://cloud.githubusercontent.com/assets/8191145/8432806/c706ae46-1f5f-11e5-9fc2-df8e5c612dd0.png)
+![teams](https://cloud.githubusercontent.com/assets/8191145/8517658/7d3bf8b8-23e0-11e5-9508-9a5b09e899cc.png)
 
 ## **Columns**
 
@@ -26,6 +26,9 @@ This shows the number of people part of the particular teams.
 
 You can add email address for the team here. You are not seeing this column because it is unchecked in Screen Options.
 
+#### Add New Team
+
+As shown in the above screenshot,you can add new teams by filling out thse fields. Entering the Name for the new team is mandatory.
 #### Screen Options
 
 Using Screen options in the top right of the page, you can customize the columns to be displayed and the number of teams per page. It looks similar to the screenshot below

@@ -40,7 +40,11 @@ You can use this filter to quickly open the customers added in particular months
 
 ### Edit Customer Page
 
-Clicking on any customer's name leads to the Edit page where editing could be done.The page looks similar to the screenshot below
+Clicking on any customer's name leads to the Edit page. Here customer's name, emails and tickets are displayed and could be updated by Heldpesk Admin or Editor.
+
+
+
+The page looks similar to the screenshot below
 
 ![edit_contact](https://cloud.githubusercontent.com/assets/8191145/8429659/89405b10-1f47-11e5-9af1-6b806b0cfa5c.png)
 
@@ -55,7 +59,7 @@ Users with Helpdesk roles of either Admin or Editor can create new customers fro
 
 You can create a new customer by clicking New Customer button next to Customers label.
 
-On clicking New Customer button, you will see Add Customer page as shown in the screenshot below
+On clicking New Customer button, you will see Add Customer page. Adding required details and clicking Publish button will create a new customer in Helpdesk.
 
 ![new_customer](https://cloud.githubusercontent.com/assets/8191145/8450393/18390d34-1ff8-11e5-8a50-634ce114ed54.png)
 

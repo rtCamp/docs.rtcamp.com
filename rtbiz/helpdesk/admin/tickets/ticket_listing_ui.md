@@ -5,7 +5,8 @@ Helpdesk uses the WordPress behaviour to show tickets listing.
 Here is a screenshot of the same
 
 
-![ticket_listing_ui](https://cloud.githubusercontent.com/assets/1902154/8470534/7df8af28-20aa-11e5-8667-cb45d4e3c67a.png)
+![ticket_listing_user_interface](https://cloud.githubusercontent.com/assets/8191145/8516800/a5900dcc-23d6-11e5-90c5-6ffbafe1966d.png)
+
 
 
 ### A. Columns
@@ -40,7 +41,7 @@ The chosen product will display in the ticket row as shown in the screenshot.
 
 Staff can also assign products for the tickets  by simply doing a Quick Edit. (Ref: [C.Ticket Editing](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_listing_ui.html#c-ticket-editing) below)
 
-**8. Teams**
+**7. Teams**
 
 You can assign a ticket to various teams (Ref Section 5.1 for details). Teams column is not visible in this screenshot as it is not selected in the Screen Option on the top-right of the page.  Using Screen Options, you can choose the columns to show on screen.
 

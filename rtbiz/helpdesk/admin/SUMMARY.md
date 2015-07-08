@@ -22,6 +22,7 @@
    * [Mail Setup](mailbox/mail_setup.md)
    * [Notification Email Setup](mailbox/notification_email_setup.md)
    * [Advanced Settings](mailbox/advanced_settings.md)
+   * [Gravity Importer](mailbox/gravity_importer.md)
    * [License](mailbox/license.md)
    * [Miscelleneous](mailbox/miscelleneous.md)
 * [Notification Mails ](notification_mails/README.md)
