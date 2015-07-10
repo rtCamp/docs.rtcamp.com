@@ -96,3 +96,4 @@
   * [rtmedia_gallery_title](./rtmedia-hooks/filter-to-change-media-gallery-header-title.md)
   * [rtmedia_upload_add_attribute_label](./rtmedia-hooks/filter-to-change-add-attribute-label.md)
   * [rtmedia_gallery_sort_actions](./rtmedia-hooks/filter-to-modify-gallery-sort-actions.md)
+  * [rtmedia_privacy_levels](./rtmedia-hooks/filter-to-modify-default-privacy-options.md)
