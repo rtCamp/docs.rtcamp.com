@@ -62,7 +62,6 @@
   * rtmedia_default_thumbnail
   * [rtmedia_allowed_types](./rtmedia-hooks/rtmedia-allowed-types.md)
   * rtmedia_allowed_sizes
-  * rtmedia_privacy_levels
   * rtmedia_class_construct
   * rtmedia_single_activity_filter
   * rtmedia_plupload_files_filter
