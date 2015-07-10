@@ -8,9 +8,15 @@ You can use this filter in your theme and can modify the default privacy options
 
 For example, below code will remove Private & friends options from default privacy options.
 
-Add the following code in your theme's functions.php file:
+You can add following code to your separate custom plugin to call this filter:
 
 ```
+add_action( 'plugins_loaded', 'my_custom_plugin_plugins_loaded', 10 );
+
+function my_custom_plugin_plugins_loaded(){
+	add_filter( 'rtmedia_privacy_levels', 'custom_rtmedia_privacy_levels', 10, 1 );
+}
+
 function custom_rtmedia_privacy_levels( $custom ) {
         $custom = array(
         'levels' => array(
@@ -18,9 +24,8 @@ function custom_rtmedia_privacy_levels( $custom ) {
             0 => '<strong>Public for all</strong> - Visible to the world',
             )
         );
-	return $custom;
+    return $custom;
 }
-add_filter( 'rtmedia_privacy_levels', 'custom_rtmedia_privacy_levels', 10, 1 );
 ```
 
 [![edit-default-privacy-options](https://cloud.githubusercontent.com/assets/7771963/8614457/723712c0-2707-11e5-846d-1d681e9379a7.png)]((https://cloud.githubusercontent.com/assets/7771963/8614457/723712c0-2707-11e5-846d-1d681e9379a7.png))
