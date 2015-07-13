@@ -23,7 +23,7 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 5. The Setup Wizard will appear, which will guide you to customize the Helpdesk plugin.(See [Section 1.1](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#setup-wizard) for details)
 
- 
+
 
 ### Theme Compatibility
 This plugin has been optimized to work with default WordPress themes, namely: Twenty Fifteen, Twenty Thirteen and Twenty Twelve.

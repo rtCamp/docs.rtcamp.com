@@ -17,47 +17,65 @@ iii. How to edit a form from [here](http://www.gravityhelp.com/documentation/gra
 
 ### 2. Importing Gravity Forms
 
-#### i. Go to ```Helpdesk Settings -> Gravity Importer``` .
+##### i. Go to `````Helpdesk Settings -> Gravity Importer````` .
 
-####ii. Select Exisiting Form
+#####ii. Select Exisiting Form
 
 Select any exisiting Gravity Form from the dropdown as shown below and click on 'Next'
 
-![select_existing_form](https://cloud.githubusercontent.com/assets/8191145/8518862/be380126-23eb-11e5-9a7e-fd8d1818d945.png)
+![select gravity form](https://cloud.githubusercontent.com/assets/8191145/8644026/f5f8da32-2958-11e5-8bc9-b9d1ca9a85fd.png)
 
 ####iii. Map the fields with entity.
 
 Title, Contact Name, Contact Email and Description are mandatory while mapping.
-![gravityform-importer](https://cloud.githubusercontent.com/assets/8191145/8519067/5e4e430e-23ed-11e5-88db-c910cc0eec42.png)
+
+As shown in the screenshot below, you can set a title prefix which will show in tickets created from Gravity Forms, set the status, select default assignee. These values will refelct in the Tickets created by filling the Gravity forms. You can also choose additional fields to map from the dropdown.
+![gravityformimport](https://cloud.githubusercontent.com/assets/8191145/8644272/3566c682-295b-11e5-90e0-1dad1fdc781f.png)
+
 
 ####iv. Import previous Gravity Form entries
 
-Click on 'import' to import previous form entries and to save the changes made click 'Save Changes'
+After updating the Settings, click on 'Import' button to import the previous Gravity Form entries.
 
-![import_entries](https://cloud.githubusercontent.com/assets/8191145/6553648/d5c28a26-c678-11e4-8fa6-44f85f4ae29d.png)
+![import_entries](https://cloud.githubusercontent.com/assets/8191145/8644427/899da760-295c-11e5-876e-1c12e95d359a.png)
 
 ####v. Import future Gravity Form entries
 
-Can choose or choose not to import future entries in the gravity form automatically.
+You can  choose to automatically import future entries in the Gravity Forms by selecting Yes. Then click on 'Save Changes' to save the settings.
 
-![import_future_entries](https://cloud.githubusercontent.com/assets/8191145/6553858/4f263244-c67b-11e4-871b-dd9445137c6c.png)
-
-
-####Note:
-
-When Gravity Form plugin is not installed, the setting tab for gravity importer will not be shown.
 
 After successfully importing a Gravity form. Any entry in that form will be converted to a Helpdesk ticket.
-You can add the Gravity form as your support form as explained in [General Settings](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#1-support-page)
+
 
 ###Importer Mapper
 
-You can choose which Gravity form to sync with Helpdesk from the Importer Mapper. You can stop the Gravity form entries from becoming a Helpdesk Ticket by unchecking Enable checkbox for that imported form.
-![importer-mapper](https://cloud.githubusercontent.com/assets/8191145/8519674/189132fe-23f2-11e5-9817-742fa3484434.png)
+The Gravity forms imported in the previous step will display in Importer Mapper.
+
+You can update which Gravity form to sync with Helpdesk from here. You can stop  Gravity form entries from becoming a Helpdesk Ticket by unchecking Enable checkbox for that imported form. Sync is used to import all the entries in the Gravity Form. And clicking  'x' icon will remove the mapping with Helpdesk tickets.
+
+![imported_gf](https://cloud.githubusercontent.com/assets/8191145/8644496/1d5635e4-295d-11e5-878f-a73dc5822861.png)
 
 
-Sync is used to import all the entries in the Gravity Form.
+### Selecting Gravity Form as the Support Form
+
+i. You can embed a Gravity form to a WordPress Page as explained [here](https://www.gravityhelp.com/documentation/article/embedding-a-form/#page-post-editor).
+
+ii. Select the page with Gravity form shotcode as a Support Page from General Settings as shown in the screenshot below
+![select-in-general](https://cloud.githubusercontent.com/assets/8191145/8644768/7d80a538-295f-11e5-9d80-a2bd90525857.png)
 
 
+### Making form entries creates Tickets
+
+#### Gravity Form
+![filling-gravity-form](https://cloud.githubusercontent.com/assets/8191145/8644940/b68bb484-2960-11e5-88cc-bfea64905360.png)
+
+###Helpdesk Ticket
+
+The title prefix 'GF' as shown in the screenshot below is the one selected while importing the form. Status and Assignee values are also the ones selected in Map the fields with Entity step as described above.
+
+![imported_gravity_form](https://cloud.githubusercontent.com/assets/8191145/8645098/0b61c72c-2962-11e5-9434-d166672beef9.png)
 
 
+####Note :
+
+When Gravity Form plugin is not installed, the setting tab for gravity importer will not be shown.
