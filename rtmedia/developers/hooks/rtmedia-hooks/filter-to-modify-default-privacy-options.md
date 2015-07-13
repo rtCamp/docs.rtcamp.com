@@ -2,7 +2,7 @@
 
 Filter name : **rtmedia_privacy_levels**
 
-This filter is called on `pluigns_laoded` hook with priority 20 so, in order to use this filter, you need to add it in `plugins_loaded` hook with prioity less than 20.
+This filter is called on `plugins_loaded` hook with priority 20 so, in order to use this filter, you need to add it in `plugins_loaded` hook with prioity less than 20.
 
 [![default-privacy-options](https://cloud.githubusercontent.com/assets/7771963/8614368/9d673d0e-2706-11e5-848e-7cdc19872fcf.png)](https://cloud.githubusercontent.com/assets/7771963/8614368/9d673d0e-2706-11e5-848e-7cdc19872fcf.png)
 
