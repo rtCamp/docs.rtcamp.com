@@ -29,6 +29,92 @@ Perform the following steps to install rtAmazon s3 plugin:
 
 5. Do not use your root credentials to login, it is best practice to use [IAM user](http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPractices.html) and assign amazon s3 full access to the user,as this will protect your sensitive data.
 
+## WP Config Options
+
+You can directly add the settings right from your `wp-config.php` file. It will make a website faster and more secure.
+
+The following options are available for general use:
+
+ - **Access Keys**
+   
+   Access keys consist of an **Access Key ID** and **Secret Access Key**, which are used to sign programmatic requests that you make to AWS. You can read more about it [here](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSGettingStartedGuide/AWSCredentials.html).
+   
+   Replace ***access_key_id*** and ***secret_access_key*** in the example code below with your ***Amazon Access Key ID*** and ***Amazon Secret Access Key*** respectively.
+   
+   ```define( 'RTAMAZON_S3_ACCESS_KEY_ID', 'access_key_id' );
+   define( 'RTAMAZON_S3_SECRET_ACCESS_KEY', 'secret_access_key' );```
+
+ - **RTAMAZON_S3_BUCKET_NAME**
+
+  To upload your data (photos, videos, documents etc.), you first create a bucket in one of the AWS regions. You can read rules for creating a bucket [here](http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html).
+  
+  After creating a bucket replace ***bucket_name*** in the example code below with the ***Bucket*** you have just created or you want to access any.
+
+  ```define( 'RTAMAZON_S3_BUCKET_NAME', 'bucket_name' );```
+
+ - **RTAMAZON_S3_VIRTUAL_FOLDER_NAME**
+
+  This option allows you to store your objects under folders on s3. For example if the name of your input folder is **test**, objects are stored under **test** folder, if folder name is **test/sample** objects are stored under **sample** folder which is a folder under **test** and so on.
+
+  Replace ***virtual_folder*** in the example code below with the ***Folder*** you want.
+
+  ```define( 'RTAMAZON_S3_VIRTUAL_FOLDER_NAME', 'virtual_folder' );```
+
+ - **RTAMAZON_S3_DELETE_LOCAL_MEDIA**
+
+  This option allows you to delete local server media after they have been successfully uploaded to your S3 account. You just need to set it **TRUE**. And if you don't want then you can remove this option or simply set it to **FALSE**. It is **Strongly Not Recommended** to delete local server media.
+
+  For example use below code:
+
+  ```define( 'RTAMAZON_S3_DELETE_LOCAL_MEDIA', 'TRUE' );```
+
+ - **RTAMAZON_S3_FILE_URLS**
+
+  There are four ways to serve media URL:
+
+   1. **rtawss3_wp_url**: WordPress Media URL, i.e., `http://site.com/wp-content/uploads/2015/06/photo.jpg`
+   2. **rtawss3_subdomain**: Bucket Name as Subdomain, i.e., `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
+   3. **rtawss3_path**: Bucket Name in Path, i.e., `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
+   4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **abc** in the textbox, media URL will become, i.e., `http://abc/wp-content/uploads/2015/06/photo.jpg`
+
+ - **RTAMAZON_S3_CUSTOM_DOMAIN_NAME**
+
+  If **RTAMAZON_S3_FILE_URLS** is set to **rtawss3_custom**, then this option must be set. For example if you set
+  ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'abc' );``` 
+  then your media URL will become `http://abc/wp-content/uploads/2015/06/photo.jpg`.
+
+ - **RTAMAZON_S3_SYNC_UPLOAD**
+
+  This option enables you to sync upload media files to S3 as they are uploaded from media library, blog post or rtMedia plugin. You just need to set it **TRUE**. And if you don't want then you can remove this option or simply set it to **FALSE**.
+
+  ```define( 'RTAMAZON_S3_SYNC_UPLOAD', 'TRUE' );``` 
+
+ - **RTAMAZON_S3_ALLOW_BUCKET_CREATION**
+
+  This option allows you to give access for creating a bucket. If you want to allow to create a bucket, simply set it **TRUE**. And if you don't want then set it **FALSE** or remove this option.
+  
+  ```define( 'RTAMAZON_S3_ALLOW_BUCKET_CREATION', 'TRUE' );``` 
+
+ - **RTAMAZON_S3_SHOW_ADMIN_SETTINGS_PAGE**
+
+  This option is for showing **Settings** page. If set to **TRUE**, settings page will be displayed and if set to **FALSE**, settings page will not be displayed.
+
+  ```define( 'RTAMAZON_S3_SHOW_ADMIN_SETTINGS_PAGE', 'TRUE' );```
+
+ - **RTAMAZON_S3_SHOW_ADMIN_MENU**
+
+  This option is for showing **Menus**. If set to **TRUE**, menus will be displayed and if set to **FALSE**, menus will not be displayed.
+
+  ```define( 'RTAMAZON_S3_SHOW_ADMIN_MENU', 'TRUE' );```
+
+ - **RTAMAZON_S3_BUCKET_REGION**
+
+  This option is for setting bucket region. If your bucket is from **US Standard** region then you don't need to set this option. You can read more about region [here](http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region).
+
+  For example if you want to set region as **US West (Oregon)** then use below code:
+
+  ```define( 'RTAMAZON_S3_BUCKET_REGION', 'us-west-2' );```
+
 ## Bucket Selection
 
 After successfully logged in, a dropdown will appear to select `Bucket selection` page.
