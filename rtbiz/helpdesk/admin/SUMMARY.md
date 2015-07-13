@@ -32,4 +32,5 @@
 * [Cron Jobs](wpcron/README.md)
 * [Shortcodes](shortcodes/README.md)
 * [FAQ](faq/README.md)
+* [Troubleshooting](faq/troubleshooting.md)
 
