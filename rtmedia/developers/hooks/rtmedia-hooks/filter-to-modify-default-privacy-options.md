@@ -2,13 +2,13 @@
 
 Filter name : **rtmedia_privacy_levels**
 
-You can use this filter in your theme and can modify the default privacy options.
+This filter is called on `pluigns_laoded` hook with priority 20 so, in order to use this filter, you need to add it in `plugins_loaded` hook with prioity less than 20.
 
 [![default-privacy-options](https://cloud.githubusercontent.com/assets/7771963/8614368/9d673d0e-2706-11e5-848e-7cdc19872fcf.png)](https://cloud.githubusercontent.com/assets/7771963/8614368/9d673d0e-2706-11e5-848e-7cdc19872fcf.png)
 
 For example, below code will remove Private & friends options from default privacy options.
 
-You can add following code to your separate custom plugin to call this filter:
+You can add following code in your separate custom plugin:
 
 ```
 add_action( 'plugins_loaded', 'my_custom_plugin_plugins_loaded', 10 );
