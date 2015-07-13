@@ -41,11 +41,8 @@ The following options are available for general use:
    
    Replace ***access_key_id*** and ***secret_access_key*** in the example code below with your ***Amazon Access Key ID*** and ***Amazon Secret Access Key*** respectively.
    
-   ```
-   define( 'RTAMAZON_S3_ACCESS_KEY_ID', 'access_key_id' );
-
-   define( 'RTAMAZON_S3_SECRET_ACCESS_KEY', 'secret_access_key' );
-   ```
+   ```define( 'RTAMAZON_S3_ACCESS_KEY_ID', 'access_key_id' );```
+   ```define( 'RTAMAZON_S3_SECRET_ACCESS_KEY', 'secret_access_key' );```
 
  - **RTAMAZON_S3_BUCKET_NAME**
 
@@ -79,7 +76,8 @@ The following options are available for general use:
      2. **rtawss3_subdomain**: Bucket Name as Subdomain, i.e., `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
      3. **rtawss3_path**: Bucket Name in Path, i.e., `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
      4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **abc** in the textbox, media URL will become, i.e., `http://abc/wp-content/uploads/2015/06/photo.jpg`
-     
+
+ 
 
  - **RTAMAZON_S3_CUSTOM_DOMAIN_NAME**
 
