@@ -247,3 +247,11 @@ You can upload media directly from WordPress' Media Library to **S3 Bucket** or 
 4. `Link` to see the uploaded media
 
 5. You can `Bulk Upload` by selecting multiple media and select `Upload to S3` from Bulk Actions DropDown.
+
+## Reupload All
+
+You can reupload all the media from your site to your amazon s3 account.
+
+[![rtamazon-s3-reupload-all-media](https://cloud.githubusercontent.com/assets/7807348/8647856/4e26a444-2979-11e5-9937-5c74faa87de3.png)](https://cloud.githubusercontent.com/assets/7807348/8647856/4e26a444-2979-11e5-9937-5c74faa87de3.png)
+
+After clicking on reupload link, you will be redirected to reupload all media page. On that page you just need to press **Start** button to start upload process.
