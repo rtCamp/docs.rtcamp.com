@@ -44,7 +44,7 @@ After updating the Settings, click on 'Import' button to import the previous Gra
 You can  choose to automatically import future entries in the Gravity Forms by selecting Yes. Then click on 'Save Changes' to save the settings.
 
 
-After successfully importing a Gravity form. Any entry in that form will be converted to a Helpdesk ticket.
+After successfully importing a Gravity form, any entry in that form will be converted to a Helpdesk ticket.
 
 
 ###Importer Mapper
@@ -60,7 +60,7 @@ You can update which Gravity form to sync with Helpdesk from here. You can stop 
 
 i. You can embed a Gravity form to a WordPress Page as explained [here](https://www.gravityhelp.com/documentation/article/embedding-a-form/#page-post-editor).
 
-ii. Select the page with Gravity form shotcode as a Support Page from General Settings as shown in the screenshot below
+ii. Select the page with Gravity form shortcode as a Support Page from General Settings as shown in the screenshot below
 ![select-in-general](https://cloud.githubusercontent.com/assets/8191145/8644768/7d80a538-295f-11e5-9d80-a2bd90525857.png)
 
 
@@ -71,7 +71,7 @@ ii. Select the page with Gravity form shotcode as a Support Page from General Se
 
 ###Helpdesk Ticket
 
-The title prefix 'GF' as shown in the screenshot below is the one selected while importing the form. Status and Assignee values are also the ones selected in Map the fields with Entity step as described above.
+The title prefix 'GF' as shown in the screenshot below is the one selected while importing the form. Status and Assignee values are also the ones selected in [Map the fields with Entity step](https://github.com/rtCamp/docs.rtcamp.com/blob/39b54c7896b900660a60c7a15facd8b2801a47e5/rtbiz/helpdesk/admin/mailbox/gravity_importer.md#iii-map-the-fields-with-entity) as described above.
 
 ![imported_gravity_form](https://cloud.githubusercontent.com/assets/8191145/8645098/0b61c72c-2962-11e5-9434-d166672beef9.png)
 
