@@ -100,7 +100,7 @@ Read more here: https://rtcamp.com/refund-policy/
 
 
 ##Error/Warnings
-#### Q. when I log in as a user from the front end and submit a ticket, I get a notice. 
+#### Q. When I log in as a user from the front end and submit a ticket, I get notice as below: 
 
 ```The ticket is successfully submitted but a notice appears that has the following content - NOTICE: UNDEFINED INDEX: RTHDDEFAULTUSER IN /HOME/WDMRESP/PUBLIC_HTML/SITE/WP-CONTENT/PLUGINS/RTBIZ-HELPDESK/ADMIN/CLASSES/RTBIZ-HD-IMPORT-OPERATION/CLASS-RTBIZ-HD-IMPORT-OPERATION.PHP ON LINE 489```
 
