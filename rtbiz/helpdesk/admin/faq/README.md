@@ -4,6 +4,18 @@ The FAQ is a list of possible questions and their answers. These questions are k
 
 ## Tickets
 
+#### Q. Who can create support tickets and How? Can a non logged in user create a support ticket?
+
+There are three ways a ticket could be created which are mentioned in [3.2. Ticket Creation](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_creation.html).
+
+A user has to be logged in when creating tickets via web support form. However, when tickets are created via email, any user (including non-logged users) can create tickets by sending ther emails to the support [mailbox(es)](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/mail_setup.html).
+
+
+#### Q.How to find Helpdesk Contact for a WordPress User?
+
+Go to your Users area in the Wordpress dashboard. For example: yoursitename.com/wp-admin/users.php. You will find the column Staff/customer, which represents the respective helpdesk contact for that user. When clicked, it will redirect you to the contact where you can see the tickets created by that user.
+
+
 #### Q. What will happen if I delete the Helpdesk contact of a customer who has created a ticket?
 
 The ticket will still be linked to the customer's WordPress user. However, if the WordPress user too is deleted, then the ticket will then not have any creator.
@@ -22,6 +34,8 @@ Only staff participants on the ticket, and the helpdesk editor & admin.
 #### Q. Who can see sensitive replies?
 
 All participants on a ticket. Though no content of sensitive reply is sent in the emails.
+
+
 
 #### Q. For some reason, the tickets are left in the mailbox itself. How to adjust or know how often the plugin checks the mail server and what's the use of wp_cron?
 
