@@ -42,14 +42,18 @@ Similarly, you can use these commands.
 	ee site update example.com --wp --wpfc
 	ee site update example.com --wp --w3tc
 	ee site update example.com --wp --wpsc
+	ee site update example.com --wp --wpredis
 	ee site update example.com --wpsubdir
 	ee site update example.com --wpsubdir --wpfc
 	ee site update example.com --wpsubdir --w3tc
 	ee site update example.com --wpsubdir --wpsc
+	ee site update example.com --wpsubdir --wpredis
 	ee site update example.com --wpsubdomain
 	ee site update example.com --wpsubdomain --wpfc
 	ee site update example.com --wpsubdomain --w3tc
 	ee site update example.com --wpsubdomain --wpsc
+	ee site update example.com --wpsubdomain --wpredis
+
 
 
 ### Enable/Disable HHVM on site

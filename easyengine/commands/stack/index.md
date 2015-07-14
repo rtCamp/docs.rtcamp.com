@@ -53,6 +53,10 @@ Refer: [How to change HTTP Authentication](/easyengine/commands/secure)
 
 	ee stack install --wpcli
 
+## Install Redis
+
+	ee stack install --redis
+
 ## Install Adminer
 
 	ee stack install --adminer
@@ -60,6 +64,10 @@ Refer: [How to change HTTP Authentication](/easyengine/commands/secure)
 ## Install phpMyAdmin
 
 	ee stack install --phpmyadmin
+
+## Install phpRedisAdmin
+
+	ee stack install --phpredisadmin
 
 ## Install Utilities
 
@@ -177,6 +185,10 @@ If you are thinking removing all packages is not suitable for you, can remove si
 
 	ee stack remove --wpcli
 
+## Remove WP-CLI
+
+	ee stack remove --redis
+
 ## Remove Adminer
 
 	ee stack remove --adminer
@@ -184,6 +196,10 @@ If you are thinking removing all packages is not suitable for you, can remove si
 ## Remove phpMyAdmin
 
 	ee stack remove --phpmyadmin
+
+## Remove phpRedisAdmin
+
+	ee stack remove --phpredisadmin	
 
 ## Remove Utilities
 
@@ -253,6 +269,10 @@ If you are thinking removing all packages is not suitable for you, can remove si
 
 	ee stack purge --wpcli
 
+## Purge Redis
+
+	ee stack purge --redis
+
 ## Purge Adminer
 
 	ee stack purge --adminer
@@ -260,6 +280,11 @@ If you are thinking removing all packages is not suitable for you, can remove si
 ## Purge phpMyAdmin
 
 	ee stack purge --phpmyadmin
+
+## Purge phpRedisAdmin
+
+	ee stack purge --phpredisadmin
+
 
 ## Purge Utilities
 
@@ -388,6 +413,19 @@ This will upgrade mail server to their latest version
 To upgrade to PHP5.6 from PHP5.5 use command as:
 
 	 ee stack upgrade --php56
+
+## Redis
+
+	ee stack upgrade --redis
+
+This will upgrade redis-server to their latest version
+
+## WP-CLI
+
+	ee stack upgrade --wpcli
+
+This will upgrade wpcli to its latest version mentioned in latest EasyEngine.
+
 
 
 
