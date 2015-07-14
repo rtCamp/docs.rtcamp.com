@@ -97,3 +97,16 @@ Only you. The plugin will be installed into your WordPress on server owned by yo
 
 Yes, no questions asked. :)
 Read more here: https://rtcamp.com/refund-policy/
+
+
+##Error/Warnings
+#### Q. When I log in as a user from the front end and submit a ticket, I get notice as below: 
+
+```NOTICE: UNDEFINED INDEX: RTHDDEFAULTUSER IN /HOME/WDMRESP/PUBLIC_HTML/SITE/WP-CONTENT/PLUGINS/RTBIZ-HELPDESK/ADMIN/CLASSES/RTBIZ-HD-IMPORT-OPERATION/CLASS-RTBIZ-HD-IMPORT-OPERATION.PHP ON LINE 489```
+
+This might be because a default assignee has not been selected. Please follow steps as below:
+
+1. Go to Settings
+2. Open General
+3. Select a Default Assignee
+4. Click on Save
