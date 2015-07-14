@@ -19,7 +19,7 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 3. Activate it through the ‘Plugins’ section.
 
-4. The rtBiz Helpdesk plugin will automatically install and activate rtBiz & Posts to Posts plugins.
+4. The rtBiz Helpdesk plugin will automatically install and activate [rtBiz plugin](https://wordpress.org/plugins/rtbiz). This plugin is used to manage the helpdesk contacts.  
 
 5. The Setup Wizard will appear, which will guide you to customize the Helpdesk plugin.(See [Section 1.1](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#setup-wizard) for details)
 
