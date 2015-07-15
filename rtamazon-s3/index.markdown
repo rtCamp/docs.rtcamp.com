@@ -87,7 +87,7 @@ The following options are available for general use:
          You can use below code:
          
          ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_path' );```
-     4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **example.com**, media URL will become, i.e., `http://example.com/wp-content/uploads/2015/06/photo.jpg`.
+     4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc.
 
         You can use below code:
 
@@ -95,7 +95,8 @@ The following options are available for general use:
 
         **Note:** If this option is set to **rtawss3_custom**, then **RTAMAZON_S3_CUSTOM_DOMAIN_NAME** option must be set. For example if you set 
         ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'example.com' );``` 
-        then your media URL will become http://example.com/wp-content/uploads/2015/06/photo.jpg.
+        then your media URL will become 
+        ```http://example.com/wp-content/uploads/2015/06/photo.jpg.```
 
  - **RTAMAZON_S3_SYNC_UPLOAD**
 
