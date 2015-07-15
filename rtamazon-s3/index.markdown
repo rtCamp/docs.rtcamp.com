@@ -75,15 +75,15 @@ The following options are available for general use:
      1. **rtawss3_wp_url**: WordPress Media URL, i.e., `http://site.com/wp-content/uploads/2015/06/photo.jpg`
      2. **rtawss3_subdomain**: Bucket Name as Subdomain, i.e., `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
      3. **rtawss3_path**: Bucket Name in Path, i.e., `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
-     4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **example.com**, media URL will become, i.e., `http://example.com/wp-content/uploads/2015/06/photo.jpg`
+     4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **example.com**, media URL will become, i.e., `http://example.com/wp-content/uploads/2015/06/photo.jpg`.
 
- 
+        You can use below code:
 
- - **RTAMAZON_S3_CUSTOM_DOMAIN_NAME**
+        ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_path' );```
 
-    If **RTAMAZON_S3_FILE_URLS** is set to **rtawss3_custom**, then this option must be set. For example if you set
-    ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'example.com' );``` 
-    then your media URL will become `http://example.com/wp-content/uploads/2015/06/photo.jpg`.
+        **Note:** If this option is set to **rtawss3_custom**, then **RTAMAZON_S3_CUSTOM_DOMAIN_NAME** option must be set. For example if you set 
+        ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'example.com' );``` 
+        then your media URL will become http://example.com/wp-content/uploads/2015/06/photo.jpg.
 
  - **RTAMAZON_S3_SYNC_UPLOAD**
 
@@ -165,7 +165,7 @@ After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's
 
     3. **Bucket Name in Path**: `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
 
-    4. **Custom Domain**: This option is useful for CDN, CloudFront, etc. For example if you enter **abc** in the textbox, media URL will become `http://abc/wp-content/uploads/2015/06/photo.jpg`
+    4. **Custom Domain**: This option is useful for CDN, CloudFront, etc. For example if you enter **example.com** in the textbox, media URL will become `http://example.com/wp-content/uploads/2015/06/photo.jpg`
 
     **Note**: This will affect only new uploads.
 
