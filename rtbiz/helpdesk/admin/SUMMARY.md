@@ -31,6 +31,5 @@
 * [Staff and Roles ](staff_and_roles/README.md)
 * [Cron Jobs](wpcron/README.md)
 * [Shortcodes](shortcodes/README.md)
-* [FAQ](faq/README.md)
-* [Troubleshooting](faq/troubleshooting.md)
+* [FAQ and Troubleshooting](faq/README.md)
 
