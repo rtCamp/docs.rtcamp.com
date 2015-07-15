@@ -17,17 +17,19 @@ Perform the following steps to install rtAmazon s3 plugin:
 
 ## Settings
 
-[![rtamazon-s3-login](https://cloud.githubusercontent.com/assets/7807348/7199130/c345f6f2-e50f-11e4-9702-ef813c9a3f86.png)](https://cloud.githubusercontent.com/assets/7807348/7199130/c345f6f2-e50f-11e4-9702-ef813c9a3f86.png)
+[![rtamazon-s3-login](https://cloud.githubusercontent.com/assets/7807348/8697331/b39a7d70-2b11-11e5-9ea7-160e5b6ebba6.png)](https://cloud.githubusercontent.com/assets/7807348/8697331/b39a7d70-2b11-11e5-9ea7-160e5b6ebba6.png)
 
-1. Enter `Amazon Access Kay ID`
+1. You can define your `Access Key ID` and `Secret Access Key` in `wp-config.php` file. You can read more about wp-config options [here](#WPConfigOptions).
 
-2. Enter `Amazon Secret Access Key`
+2. Enter `Amazon Access Kay ID`
 
-3. Click `Next` to get started
+3. Enter `Amazon Secret Access Key`
 
-4. If you don't have an account then you can [Sign Up](https://console.aws.amazon.com/iam/home?region=us-east-1#users) to Amazon S3
+4. Click `Next` to get started
 
-5. Do not use your root credentials to login, it is best practice to use [IAM user](http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPractices.html) and assign amazon s3 full access to the user,as this will protect your sensitive data.
+5. If you don't have an account then you can [Sign Up](https://console.aws.amazon.com/iam/home?region=us-east-1#users) to Amazon S3
+
+6. Do not use your root credentials to login, it is best practice to use [IAM user](http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPractices.html) and assign amazon s3 full access to the user,as this will protect your sensitive data.
 
 ## WP Config Options
 
@@ -134,7 +136,7 @@ The following options are available for general use:
 
 After successfully logged in, a dropdown will appear to select `Bucket selection` page.
 
-[![rtamazon-s3-bucket-selection](https://cloud.githubusercontent.com/assets/7807348/7202116/cca169e4-e52c-11e4-8b75-0c9676a365f7.png)](https://cloud.githubusercontent.com/assets/7807348/7202116/cca169e4-e52c-11e4-8b75-0c9676a365f7.png)
+[![rtamazon-s3-bucket-selection](https://cloud.githubusercontent.com/assets/7807348/8697527/3a26c6fe-2b13-11e5-9eee-ce6698885f27.png)](https://cloud.githubusercontent.com/assets/7807348/8697527/3a26c6fe-2b13-11e5-9eee-ce6698885f27.png)
 
 1. You can see your `Access Key ID` and `Secret Access Key`
 
@@ -148,7 +150,7 @@ After successfully logged in, a dropdown will appear to select `Bucket selection
 
 After clicking on `Create new Bucket`, you will be able to see `Bucket Creation Popup`
 
-[![rtamazon-s3-create-bucket](https://cloud.githubusercontent.com/assets/7807348/7202131/0324ad00-e52d-11e4-8612-2d474d4c62d0.png)](https://cloud.githubusercontent.com/assets/7807348/7202131/0324ad00-e52d-11e4-8612-2d474d4c62d0.png)
+[![rtamazon-s3-create-bucket](https://cloud.githubusercontent.com/assets/7807348/8697591/f2f44c10-2b13-11e5-84bf-9c0ef7b9abba.png)](https://cloud.githubusercontent.com/assets/7807348/8697591/f2f44c10-2b13-11e5-84bf-9c0ef7b9abba.png)
 
 1. Enter `Bucket Name`
 
@@ -164,7 +166,7 @@ After clicking on `Create new Bucket`, you will be able to see `Bucket Creation 
 
 After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's` or `Created Bucket's` Settings.
 
-[![rtamazon-s3-bucket-settings](https://cloud.githubusercontent.com/assets/7807348/8429046/acee8358-1f41-11e5-9dc9-fd1de0a4fa33.png)](https://cloud.githubusercontent.com/assets/7807348/8429046/acee8358-1f41-11e5-9dc9-fd1de0a4fa33.png)
+[![rtamazon-s3-bucket-settings](https://cloud.githubusercontent.com/assets/7807348/8697753/1fd5fb42-2b15-11e5-9509-ae7aeba33e01.png)](https://cloud.githubusercontent.com/assets/7807348/8697753/1fd5fb42-2b15-11e5-9509-ae7aeba33e01.png)
 
 1. Upload media files to **Virtual Folder** on Amazon S3 Bucket. For example if the name of input folder is **test**, media are stored under **test** folder, if folder name is `test/sample`, media are stored under **sample** folder which is a folder under **test** and so on.
 
@@ -208,7 +210,7 @@ After `Selecting a Bucket` or `Creating a Bucket` you can see `Selected Bucket's
 
 ## Bucket Objects
 
-[![rtamazon-s3-bucket-objects](https://cloud.githubusercontent.com/assets/7807348/7202755/d1589060-e532-11e4-85e8-78bdda52bbf9.png)](https://cloud.githubusercontent.com/assets/7807348/7202755/d1589060-e532-11e4-85e8-78bdda52bbf9.png)
+[![rtamazon-s3-bucket-objects](https://cloud.githubusercontent.com/assets/7807348/8697809/d85d3ca2-2b15-11e5-9dda-ca5aefcbb550.png)](https://cloud.githubusercontent.com/assets/7807348/8697809/d85d3ca2-2b15-11e5-9dda-ca5aefcbb550.png)
 
 1. If you want to list the latest bucket objects then click on **Refresh Bucket Object List**
 
@@ -239,7 +241,7 @@ After Upload complete, click the link to navigate to **rtAmazon S3 Settings** as
 ### Upload Media
 You can upload selected media to Amazon S3 Bucket.
 
-[![rtamazon-s3-upload-media](https://cloud.githubusercontent.com/assets/7807348/7202476/4d0bc9f0-e530-11e4-894e-295c993e81f6.png)](https://cloud.githubusercontent.com/assets/7807348/7202476/4d0bc9f0-e530-11e4-894e-295c993e81f6.png)
+[![rtamazon-s3-upload-media](https://cloud.githubusercontent.com/assets/7807348/8697857/452794c2-2b16-11e5-8aa8-0ae169c60b8b.png)](https://cloud.githubusercontent.com/assets/7807348/8697857/452794c2-2b16-11e5-8aa8-0ae169c60b8b.png)
 
 1. Select the media you want to **Upload** to S3 Bucket
 
