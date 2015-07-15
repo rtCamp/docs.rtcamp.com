@@ -113,3 +113,5 @@ If it doesn't work, please write to [support@rtcamp.com](mailto:support@rtcamp.
 We understand that after paying for a product, last thing you wish to go through licensing-related issues. So feel free to directly email our support team and allow us to handle this issue for you.
 
 **Our support email address:** [support@rtcamp.com](mailto:support@rtcamp.com)
+
+**Please Note:** We are giving flat 50% discount on purchased price for the renewal (excluding discount coupon code)
