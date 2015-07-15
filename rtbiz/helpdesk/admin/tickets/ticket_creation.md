@@ -2,11 +2,11 @@
 # How a Ticket is created in Helpdesk?
 
 Based on the settings, a new ticket will be created:
-1. When a user sends a mail to designated (set up) mail box
+1. When a user sends a mail to designated (set up) mail box (See [section 7.3](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/mail_setup.html) for details)
 
 2. When a user submits a support web form (See <a href="http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#support-form" target="_parent">section 7.1</a> for details)
 
-3. When a user submits an entry to a synced Gravity form.
+3. When a user submits an entry to a synced Gravity form (See [section 7.6](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/gravity_importer.html) for details)
 
 ![ticket-creation](https://cloud.githubusercontent.com/assets/9676513/6509592/5308dde6-c386-11e4-9539-2498934fa531.jpg)
 
