@@ -72,14 +72,26 @@ The following options are available for general use:
 
     There are four ways to serve media URL:
 
-     1. **rtawss3_wp_url**: WordPress Media URL, i.e., `http://site.com/wp-content/uploads/2015/06/photo.jpg`
-     2. **rtawss3_subdomain**: Bucket Name as Subdomain, i.e., `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
-     3. **rtawss3_path**: Bucket Name in Path, i.e., `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
+     1. **rtawss3_wp_url**: WordPress Media URL, i.e., `http://site.com/wp-content/uploads/2015/06/photo.jpg`.
+     
+         You can use below code:
+         
+         ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_wp_url' );```
+     2. **rtawss3_subdomain**: Bucket Name as Subdomain, i.e., `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`.
+     
+         You can use below code:
+         
+         ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_subdomain' );```
+     3. **rtawss3_path**: Bucket Name in Path, i.e., `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`.
+     
+         You can use below code:
+         
+         ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_path' );```
      4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **example.com**, media URL will become, i.e., `http://example.com/wp-content/uploads/2015/06/photo.jpg`.
 
         You can use below code:
 
-        ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_path' );```
+        ```define( 'RTAMAZON_S3_FILE_URLS', 'rtawss3_custom' );```
 
         **Note:** If this option is set to **rtawss3_custom**, then **RTAMAZON_S3_CUSTOM_DOMAIN_NAME** option must be set. For example if you set 
         ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'example.com' );``` 
