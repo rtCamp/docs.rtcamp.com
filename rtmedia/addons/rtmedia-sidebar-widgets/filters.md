@@ -52,7 +52,7 @@ function rtm_allow_uploader_view ( $flag, $uploader ){
 
 ####rtmedia_upload_not_allowed_message <a name="rtmedia_upload_not_allowed_message"></a>
 ***
-This filter is use to modify '**Upload media not allowed**'' warning message.
+This filter is use to modify '**Upload media not allowed**' warning message.
 
 ```php
 add_filter( 'rtmedia_upload_not_allowed_message', 'rtm_uploader_not_allowed_message', 10, 2);
