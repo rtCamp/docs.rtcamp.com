@@ -31,7 +31,7 @@ Perform the following steps to install rtAmazon s3 plugin:
 
 ## WP Config Options
 
-You can directly add the settings right from your `wp-config.php` file. It will make website faster and more secure.
+You can directly add the settings right from your `wp-config.php` file. It will be more secure and only server team can do required changes. Site admin can't change any settings related to AWS S3 account and plugin settings. 
 
 The following options are available for general use:
 
@@ -75,15 +75,15 @@ The following options are available for general use:
      1. **rtawss3_wp_url**: WordPress Media URL, i.e., `http://site.com/wp-content/uploads/2015/06/photo.jpg`
      2. **rtawss3_subdomain**: Bucket Name as Subdomain, i.e., `http://bucket-name.s3.amazonaws.com/wp-content/uploads/2015/06/photo.jpg`
      3. **rtawss3_path**: Bucket Name in Path, i.e., `http://s3.amazonaws.com/bucket-name/wp-content/uploads/2015/06/photo.jpg`
-     4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **abc** in the textbox, media URL will become, i.e., `http://abc/wp-content/uploads/2015/06/photo.jpg`
+     4. **rtawss3_custom**: Custom Domain. This option is useful for CDN, CloudFront, etc. For example if you enter **example.com**, media URL will become, i.e., `http://example.com/wp-content/uploads/2015/06/photo.jpg`
 
  
 
  - **RTAMAZON_S3_CUSTOM_DOMAIN_NAME**
 
     If **RTAMAZON_S3_FILE_URLS** is set to **rtawss3_custom**, then this option must be set. For example if you set
-    ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'abc' );``` 
-    then your media URL will become `http://abc/wp-content/uploads/2015/06/photo.jpg`.
+    ```define( 'RTAMAZON_S3_CUSTOM_DOMAIN_NAME', 'example.com' );``` 
+    then your media URL will become `http://example.com/wp-content/uploads/2015/06/photo.jpg`.
 
  - **RTAMAZON_S3_SYNC_UPLOAD**
 
