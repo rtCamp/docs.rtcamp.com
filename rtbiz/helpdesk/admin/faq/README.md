@@ -8,7 +8,7 @@ The FAQ is a list of possible questions and their answers. These questions are k
 
 There are three ways a ticket could be created which are mentioned in [3.2. Ticket Creation](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_creation.html).
 
-A user has to be logged in when creating tickets via web support form. However, when tickets are created via email, any user (including non-logged users) can create tickets by sending ther emails to the support [mailbox(es)](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/mail_setup.html).
+A user has to be logged in when creating tickets via web support form. However, when tickets are created via email, any user (including non-logged users) can create tickets by sending their emails to the support [mailbox(es)](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/mail_setup.html).
 
 
 #### Q.How to find Helpdesk Contact for a WordPress User?
@@ -48,6 +48,9 @@ Please check the  [doc](http://docs.rtcamp.com/rtbiz/helpdesk/admin/wpcron/index
 You can customize the look and feel of the plugin.
 You can find the classes that we used in /public/css folder.It is advised that your dev team use the helpdesk classes and update them in the theme itself. This way any future plugin updates will not override the styling changes.
 
+#### Q. What are the acceptable file types which could be used in Helpdesk Web user interface or sent via email?
+
+Helpdesk supports file types mentioned [here](https://en.support.wordpress.com/accepted-filetypes/)
 
 ## Settings
 
@@ -75,24 +78,6 @@ Probably the customer did not check the 'Adult content' box while creating the t
 Or you (admin) might not have checked the filter from the staff's his/her profile.
 
 Read more about adult content settings in [#7.5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/advanced_settings.html#3-adult-content-filter).
-
-####Q. On logging in as a user from the front end and submitting a ticket, I'm getting notice as shown below:
-
-```NOTICE: UNDEFINED INDEX: RTHDDEFAULTUSER IN /HOME/WDMRESP/PUBLIC_HTML/SITE/WP-CONTENT/PLUGINS/RTBIZ-HELPDESK/ADMIN/CLASSES/RTBIZ-HD-IMPORT-OPERATION/CLASS-RTBIZ-HD-IMPORT-OPERATION.PHP ON LINE 489```
-
-
-####Solution
-This might be because a default assignee has not been selected. Please follow the steps as shown below:
-
-Step 1. Go to Settings
-
-Step 2. Open General
-
-Step 3. Select a Default Assignee
-
-Step 4. Click on Save
-
-For more details regarding default assignee please check http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#3-default-assignee
 
 
 ##Setup Wizard
@@ -127,8 +112,27 @@ Read more here: https://rtcamp.com/refund-policy/
 
 
 
+##Errors/Warnings/Notices
+
+###UI
+
+####Q. On logging in as a user from the front end and submitting a ticket, I'm getting notice as shown below:
+
+```NOTICE: UNDEFINED INDEX: RTHDDEFAULTUSER IN /HOME/WDMRESP/PUBLIC_HTML/SITE/WP-CONTENT/PLUGINS/RTBIZ-HELPDESK/ADMIN/CLASSES/RTBIZ-HD-IMPORT-OPERATION/CLASS-RTBIZ-HD-IMPORT-OPERATION.PHP ON LINE 489```
 
 
+####Solution
+This might be because a default assignee has not been selected. Please follow the steps as shown below:
+
+Step 1. Go to Settings
+
+Step 2. Open General
+
+Step 3. Select a Default Assignee
+
+Step 4. Click on Save
+
+For more details regarding default assignee please check http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#3-default-assignee
 
 
 
