@@ -50,7 +50,7 @@ You can find the classes that we used in /public/css folder.It is advised that y
 
 #### Q. What are the acceptable file types which could be used in Helpdesk Web user interface or sent via email?
 
-Helpdesk supports file types mentioned [here](https://en.support.wordpress.com/accepted-filetypes/)
+Helpdesk supports file types mentioned [here](https://codex.wordpress.org/Uploading_Files).
 
 ## Settings
 
