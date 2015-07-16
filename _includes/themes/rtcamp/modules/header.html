@@ -12,24 +12,28 @@
     </div>
 
     <nav class="collapse navbar-collapse" role="navigation">
-		<ul class="nav navbar-nav">
-        {% for nav_item in site.rtp_header %}
+	<ul class="nav navbar-nav">
+      <!--  {% for nav_item in site.rtp_header %}
             {% if page.url == nav_item.url %}
             <li class="active"><a href="{{ BASE_PATH }}{{ nav_item.url }}">{{ nav_item.title }}</a></li>
             {% else %}
             <li><a href="{{ BASE_PATH }}{{ nav_item.url }}">{{ nav_item.title }}</a></li>
             {% endif %}
             {% endfor %}
-		</ul>
+            -->
+            <li class="active"><a href="https://rtcamp.com/" target ="_blank">rtCamp</a></li>
+            <li class="active"><a href="https://rtcamp.com/support/" target ="_blank">Support</a></li>
+            <li class="active"><a href="https://rtcamp.com/products/" target ="_blank">rtCamp Store</a></li>
+	</ul>
 
         <ul class="nav navbar-nav rtp-nav-right">
             <li class="navbar-form navbar-left rtp-search-slide hidden-sm hidden-xs">
                 {% include themes/rtcamp/modules/search-form.html %}
             </li>
 			<li class="dropdown hidden-sm hidden-md hidden-xs"></li>
-            <li class="hidden-sm hidden-xs">
+            <!--<li class="hidden-sm hidden-xs">
                 <a class="rtp-back-store" href="https://rtcamp.com/products/" target ="_blank">rtCamp Store</a>
-            </li>
+            </li> -->
         </ul>
 	</nav>
 </header>
