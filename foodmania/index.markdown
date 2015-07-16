@@ -1,8 +1,8 @@
 ---
-title: Foomania
+title: Foodmania
 ---
 
-Foomania is a premium WordPress theme, designed for BuddyPress and rtMedia powered social-networks.
+Foodmania is a premium WordPress theme, designed for BuddyPress and rtMedia powered social-networks.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/6297436/8306033/347be218-19d2-11e5-9c1a-209aa0126f90.png)
 
