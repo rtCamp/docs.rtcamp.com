@@ -52,6 +52,28 @@ You can find the classes that we used in /public/css folder.It is advised that y
 
 Helpdesk supports file types mentioned [here](https://codex.wordpress.org/Uploading_Files).
 
+#### Q.How to control the layout of the tickets being displayed? Tickets in xyz.com/ticket are displaying using full width of the page?
+
+To customize display, you can add your own css in `.rthd-container` class in your theme.
+
+```
+.rthd-container{
+/* Your css */
+}
+
+```
+
+For example :
+
+```
+.rthd-container {
+  width: 100%;
+  margin: 0px auto;
+  max-width: 67.5em;
+}
+
+```
+
 ## Settings
 
 #### Q. I am getting error message when I try to connect my mailbox with Helpdesk.
@@ -78,6 +100,14 @@ Probably the customer did not check the 'Adult content' box while creating the t
 Or you (admin) might not have checked the filter from the staff's his/her profile.
 
 Read more about adult content settings in [#7.5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/advanced_settings.html#3-adult-content-filter).
+
+#### Q. How do attributes work?
+
+Attributes adds dynamic [taxonomy](https://codex.wordpress.org/Taxonomies) to the ticket post type.
+
+For example: You can create an attribute named Ticket priority. You can add terms as High, Medium and Low.
+
+A New column(Ticket priority) will be added in ticket listing page in the backend and you can filter your tickets using ticket priority and assign ticket priority from ticket's backend.
 
 
 ##Setup Wizard
