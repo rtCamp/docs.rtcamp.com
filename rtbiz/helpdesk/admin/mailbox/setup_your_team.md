@@ -15,7 +15,7 @@ You can search and add users by name or email as shown in the screenshot below
 
 **2. Add all users from domain:**
 
-You can use this option if you want add all the WordPress users who have similar domain name.
+You can use this option if you want to add all the WordPress users who have the similar domain name.
 
 **3. Add all WordPress users :**
 
