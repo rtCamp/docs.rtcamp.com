@@ -2,26 +2,14 @@
 
 Based on the settings done by the admin, you will receive mails for the events listed below:
 
- * When a customer creates a ticket via the web form or email
- * When a new follow-up is added to a ticket
- * When a follow-up is edited
- * When a follow-up is deleted
- * When a ticket is reassigned
- * When a staff-only follow-up is added/edited on a ticket
- * When any status or metadata changed for a ticket
- * When a staff member subscribes to a ticket
- * When a subscriber is removed from a ticket
-
-
- ### Email Messages
-
-Screenshots of emails that you will receive for the events mentioned in the section above.
 
  ####When a customer creates a ticket via email
 
 
+
 ![ticket_created_email_staff](https://cloud.githubusercontent.com/assets/8191145/7700035/7bb3675a-fe39-11e4-9b3d-de2ac52390b8.png)
 
+<br/>
 #### When a customer creates a ticket via webform
 
 
