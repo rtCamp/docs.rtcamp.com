@@ -1,5 +1,11 @@
 # Gravity Importer
 
+You may checkout the video shown below to understand how to import a Gravity form in Helpdesk.
+
+[![Gravity Importer](http://img.youtube.com/vi/pIF-JpyAcUM/0.jpg)](http://www.youtube.com/watch?v=pIF-JpyAcUM)
+
+
+
 ## Gravity Form Importer Settings
 
 Administrators can import customized forms made using popular plugins like [Gravity Forms](http://gravityforms.com) .

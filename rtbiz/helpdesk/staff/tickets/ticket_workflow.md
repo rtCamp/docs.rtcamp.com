@@ -1,6 +1,6 @@
 # Ticket Workflow
 
-Please see section 2.1 to know more about ticket status.
+Please see [section 2.1](http://docs.rtcamp.com/rtbiz/helpdesk/staff/tickets/ticket_status.html) to know more about ticket status.
 
 The ticket workflow is as follows:
 1. A new ticket has default status as 'Unanswered'
@@ -9,19 +9,19 @@ The ticket workflow is as follows:
 
 3. The status reverts back to 'Unanswered' when customer adds a reply to the ticket.
 
-4. Once Staff team is convinced that ticket has been answered to customer's satisfaction, they can change the status to 'Solved'
+4. Once Staff team is convinced that ticket has been answered to customer's satisfaction, they can change the status to 'Archived'
 
-5. At any point if customer replies to 'Solved' ticket the status changes to 'Unanswered'.
+5. At any point if customer replies to 'Archived' ticket the status changes to 'Unanswered'.
 
 6. Staff can keep a ticket 'Unanswered' while replying by checking 'keep unanswered' option.
 
-Please see the flowchart below to better understand the ticket workflow :
+Please see the flowchart below to understand the ticket workflow better:
 
 ![Workflow](https://cloud.githubusercontent.com/assets/9676513/6328106/d0e9fccc-bb89-11e4-8354-4c406f07a98f.jpg)
 
 #### Manual update options for staff
-Apart from the auto-change features, staff can update the status either form the ticket Web UI or from the WordPress Dashboard.
+Apart from the auto-change features, all staff members have an option to edit the status either from the Status dropdown present in ticket's Web UI or from the ticket's backend.
 
-![Manual Update](https://cloud.githubusercontent.com/assets/9676513/6328362/aef5e3f8-bb8c-11e4-95d1-530590906656.png)
+(Refer [2.4 Ticket Web UI](http://docs.rtcamp.com/rtbiz/helpdesk/staff/tickets/web_based_ticket_ui.html) Point 11 or [2.5 Ticket Admin UI](http://docs.rtcamp.com/rtbiz/helpdesk/staff/tickets/ticket_admin_ui.html) Point 6 for details)
 
 

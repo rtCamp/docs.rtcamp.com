@@ -29,6 +29,8 @@ In this short code you have to pass either userid or email or orderid.
 
 ```[rtbiz_hd_tickets email="{{logged_in_user}}" ]```
 
+
+
 **iii. orderid** : This attribute is to be used for displaying tickets related with WooCommerce orders or EDD downloads.
 
  *For example:* To display tickets for WooCommerce order #69, you can use
@@ -61,3 +63,7 @@ In this short code you have to pass either userid or email or orderid.
 * show_support_form_link = 'yes'
 * fav = 'true'
 * title = 'yes'
+
+###Note :
+
+Staff members will only see the tickets **assigned** to them and customers will see the tickets **created** by them.
