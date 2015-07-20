@@ -67,3 +67,16 @@ In this short code you have to pass either userid or email or orderid.
 ###Note :
 
 Staff members will only see the tickets **assigned** to them and customers will see the tickets **created** by them.
+
+###Other Shortcodes used in demo/rtCamp
+##### Autoselecting purchased product in Support Page's Products dropdown while creating new support request
+
+
+In [demo](http://demo.rtcamp.com/rtbiz-helpdesk/download-history/) we have used Easy digital download's `[download_history]` shortcode. You can check by logging in as [EDD customer](http://demo.rtcamp.com/rtbiz-helpdesk/). Clicking `Create ticket` link will open the support page with that order/product selected.
+
+In [rtCamp](https://rtcamp.com/my-account/#purchase-history), we have used Easy digital download's `[purchase_history]` shortcode for similar purpose.
+
+
+
+
+
