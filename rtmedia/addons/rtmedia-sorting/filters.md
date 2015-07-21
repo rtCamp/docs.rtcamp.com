@@ -38,5 +38,16 @@ function rtm_change_sort_parameters_label ( $rtmedia_sort_labels ) {
 
 ####rtmedia_gallery_sort_actions <a name="rtmedia_gallery_sort_actions"></a>
 ***
-This filter is use to modify actions for sorting in gallery.
-***
+If you want to removes Sort menu from gallery Shortcode then you can use this filter.
+
+```php
+add_filter( 'rtmedia_gallery_sort_actions', 'rtm_remove_rtmedia_gallery_sort_actions', 10, 1 );
+
+function rtm_remove_rtmedia_gallery_sort_actions( $options ) {
+  global $rtmedia_query;
+  if (isset( $rtmedia_query->is_gallery_shortcode ) && $rtmedia_query->is_gallery_shortcode ) {
+    return array();
+  }
+  return $options;
+}
+```
