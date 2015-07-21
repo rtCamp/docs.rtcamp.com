@@ -120,6 +120,27 @@ After selecting the support Page in [Setup Wizard](http://docs.rtcamp.com/rtbiz/
 
 This might be a JavaScript issue. Try refreshing the browser cache and recheck. The wizard should work after the refresh.
 
+##Errors/Warnings/Notices
+
+####UI
+
+####Q. On logging in as a user from the front end and submitting a ticket, I'm getting notice as shown below:
+
+```NOTICE: UNDEFINED INDEX: RTHDDEFAULTUSER IN /HOME/WDMRESP/PUBLIC_HTML/SITE/WP-CONTENT/PLUGINS/RTBIZ-HELPDESK/ADMIN/CLASSES/RTBIZ-HD-IMPORT-OPERATION/CLASS-RTBIZ-HD-IMPORT-OPERATION.PHP ON LINE 489```
+
+
+####Solution
+This might be because a default assignee has not been selected. Please follow the steps as shown below:
+
+Step 1. Go to Settings
+
+Step 2. Open General
+
+Step 3. Select a Default Assignee
+
+Step 4. Click on Save
+
+For more details regarding default assignee please check http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#3-default-assignee
 
 
 ##General Questions
@@ -140,29 +161,11 @@ Only you. The plugin will be installed into your WordPress on server owned by yo
 Yes, no questions asked. :)
 Read more here: https://rtcamp.com/refund-policy/
 
+####Q. None of the above solves my problem. How to reach out for support?
+
+We encourage you to check out the doc including FAQ before asking for support. But if the problem you are facing isn't mentioned here or not described in detail, you are requested to create a ticket on our [premium support form](https://rtcamp.com/premium-support/.). We'll be happy to help.
 
 
-##Errors/Warnings/Notices
-
-###UI
-
-####Q. On logging in as a user from the front end and submitting a ticket, I'm getting notice as shown below:
-
-```NOTICE: UNDEFINED INDEX: RTHDDEFAULTUSER IN /HOME/WDMRESP/PUBLIC_HTML/SITE/WP-CONTENT/PLUGINS/RTBIZ-HELPDESK/ADMIN/CLASSES/RTBIZ-HD-IMPORT-OPERATION/CLASS-RTBIZ-HD-IMPORT-OPERATION.PHP ON LINE 489```
-
-
-####Solution
-This might be because a default assignee has not been selected. Please follow the steps as shown below:
-
-Step 1. Go to Settings
-
-Step 2. Open General
-
-Step 3. Select a Default Assignee
-
-Step 4. Click on Save
-
-For more details regarding default assignee please check http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#3-default-assignee
 
 
 
