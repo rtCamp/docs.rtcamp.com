@@ -99,6 +99,10 @@ List out friend's media which has privacy set to 'Friend' ( contex_id = user_id 
 
 ``` [rtmedia_gallery context=profile context_id=5 privacy=40] ```
 
+List out all the public default albums of a user
+
+``` [rtmedia_gallery global="true" media_type="album" media_author=5]  ```
+
 Note: Default rtMedia **privacy levels** and their values are as follow :
 
 1. Public : 0
