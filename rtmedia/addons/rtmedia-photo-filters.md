@@ -1,11 +1,11 @@
-## rtMedia Photo Filters (Instagram)
+## rtMedia Photo Filters
 ---
+
+**rtMedia Instagram** has been renamed to **rtMedia Photo Filters.**
 
 ### Installation
 
 **Important**: You must have **ImageMagick** installed on the server on which you are running WordPress and BuddyPress Media. Click [here ](http://devilsworkshop.org/php54-imagemagick-pecl-installation/)to access the tutorial for installing ImageMagick.
-
-**rtMedia Instagram** has been renamed to **rtMedia Photo Filters.**
 
 Follow these simple steps to get your rtMedia Photo Filters add-on running:
 
