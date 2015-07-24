@@ -14,7 +14,7 @@ Follow these simple steps to get your rtMedia Photo Filters add-on running:
 * Click the **Activate Plugin** link to activate the plugin.
 * Your users will now be able to add effects on the photo edit screen, you will see number of filters to choose for effect.
 
-[![rtmedia-photo-filters](https://cloud.githubusercontent.com/assets/7807348/8872596/11eb4d58-321c-11e5-86d1-a481ddfa6033.png)](https://cloud.githubusercontent.com/assets/7807348/8872596/11eb4d58-321c-11e5-86d1-a481ddfa6033.png)
+[![rtmedia-photo-filters](https://cloud.githubusercontent.com/assets/7807348/8872725/4b7ff22a-321d-11e5-9dc3-90f048f8443a.png)](https://cloud.githubusercontent.com/assets/7807348/8872725/4b7ff22a-321d-11e5-9dc3-90f048f8443a.png)
 
 ## **Troubleshooting**
 
