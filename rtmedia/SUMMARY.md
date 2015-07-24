@@ -88,7 +88,7 @@
 * [Premium Addons](addons/README.md)
   * [rtMedia Pro Bundle](addons/rtmedia-pro.md)
   * [rtMedia FFMpeg](addons/ffmpeg.md)
-  * [rtMedia Instagram](addons/rtmedia-instagram.md)
+  * [rtMedia Photo Filters](addons/rtmedia-photo-filters.md)
   * [rtMedia Kaltura](addons/rtmedia-kaltura-addon.md)
   * [rtMedia Photo Tagging](addons/photo-tagging.md)
   * [rtMedia Watermark](addons/rtmedia-watermark.md)

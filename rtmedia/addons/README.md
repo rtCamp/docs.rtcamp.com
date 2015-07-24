@@ -7,7 +7,7 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 ### rtMedia Addons and Paid Services
 
 1. [rtMedia FFmpeg](../addons/ffmpeg.md) - Convert audio-video files of any format to mp3 & mp4.
-2. [rtMedia Photo Filters](../addons/rtmedia-instagram.md) - Provid instagram photo effects on uploaded images.
+2. [rtMedia Photo Filters](../addons/rtmedia-photo-filters.md) - Provide shades/effects on images uploaded by rtMedia.
 3. [rtMedia Kaltura](../addons/rtmedia-kaltura-addon.md) - Automatically converts videos uploaded from rtMedia via Kaltura account
 4. [rtMedia Photo Tagging](../addons/photo-tagging.md) - Users can tag themselves or their friends on their own or friends photos.
 5. [rtMedia Watermark Add-on](../addons/rtmedia-watermark.md) Add watermarks text to uploaded images.
