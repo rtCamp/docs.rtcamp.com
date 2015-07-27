@@ -20,6 +20,7 @@
    * [General](mailbox/general.md)
    * [Setup Your Team](mailbox/setup_your_team.md)
    * [Mail Setup](mailbox/mail_setup.md)
+       * [Email Only Support](mailbox/email_only_support.md)
    * [Notification Email Setup](mailbox/notification_email_setup.md)
    * [Advanced Settings](mailbox/advanced_settings.md)
    * [Gravity Importer](mailbox/gravity_importer.md)
