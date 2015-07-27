@@ -20,7 +20,7 @@ Follow these simple steps to get your rtMedia Photo Filters add-on running:
 
 ** How do I check if ImageMagick is installed on my server? **
 
-Go to BuddyPress Media’s **support** tab in your WordPress dashboard. You will see the following:
+Go to rtMedia’s support tab --> **Debug info** in your WordPress dashboard. You will see the following:
 
 *ImageMagick is not installed*
 
