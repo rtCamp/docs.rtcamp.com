@@ -142,6 +142,12 @@ Step 4. Click on Save
 
 For more details regarding default assignee please check http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#3-default-assignee
 
+###Other Issues
+
+####Q.Users are not receiving registration emails, even though there profile is successfully created in Helpdesk. Staff with company email addresses are able to register and receive registration emails.
+
+This issue is not caused by our plugin but it might be caused when your IP service is blocking other mail accounts by default.You may check out this link
+https://wordpress.org/support/topic/registration-email-not-sent-1. If you don't know the solution,we suggest you to seek out the support of a system admin in this case.
 
 ##General Questions
 #### Q. Are there any monthly costs to use this plugin?
@@ -163,7 +169,9 @@ Read more here: https://rtcamp.com/refund-policy/
 
 ####Q. None of the above solves my problem. How to reach out for support?
 
-We encourage you to check out the doc including FAQ before asking for support. But if the problem you are facing isn't mentioned here or not described in detail, you are requested to create a ticket on our [premium support form](https://rtcamp.com/premium-support/.). We'll be happy to help.
+We want you to be completely satisfied. We encourage you to check out the doc including FAQ before asking for support. But if the problem you are facing isn't mentioned here or not described in detail, you are requested to create a ticket on our [premium support form](https://rtcamp.com/premium-support/.).  We’ll get back to you within a couple of business days.
+
+
 
 
 

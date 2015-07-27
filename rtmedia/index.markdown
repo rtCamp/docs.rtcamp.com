@@ -34,7 +34,7 @@ Read through this document to learn how to easily use *rtMedia* to satisfy your 
 * [rtMedia PRO](/rtmedia/addons/rtmedia-pro/)	
 * [rtMedia Photo Tagging](/rtmedia/addons/photo-tagging/)	
 * [rtMedia FFMPEG](/rtmedia/addons/ffmpeg/)	
-* [rtMedia Photo Filters](/rtmedia/addons/rtmedia-instagram/)	
+* [rtMedia Photo Filters](/rtmedia/addons/rtmedia-photo-filters/)	
 * [rtMedia Kaltura Add-on](/rtmedia/addons/rtmedia-kaltura-add-on/)	
 * [rtMedia Watermark](/rtmedia/addons/watermark/)	
 * [rtMedia Membership](/rtmedia/addons/membership)

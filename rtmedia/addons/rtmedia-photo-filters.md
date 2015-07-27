@@ -1,24 +1,22 @@
-## rtMedia Instagram (Photo Filter)
+## rtMedia Photo Filters
 ---
+
+**rtMedia Instagram** has been renamed to **rtMedia Photo Filters.**
 
 ### Installation
 
+**Important**: You must have **ImageMagick** installed on the server on which you are running WordPress and BuddyPress Media. Click [here ](http://devilsworkshop.org/php54-imagemagick-pecl-installation/)to access the tutorial for installing ImageMagick.
 
-Important: You must have ImageMagick installed on the server on which you are running WordPress and BuddyPress Media. Click [here ](http://devilsworkshop.org/php54-imagemagick-pecl-installation/)to access the tutorial for installing ImageMagick.
+Follow these simple steps to get your rtMedia Photo Filters add-on running:
 
-Follow these simple steps to get your rtMedia Instagram add-on running:
-
-* Once you complete the purchase, you will get a download link for rtMedia Instagram in your email inbox.
-* In your **WordPress Dashboard**, click on **Plugins** > **Add New** > **Upload**. Select the **bpm-instagram.zip** file from your computer and click **Upload**.
+* Once you complete the purchase, you will get a download link for rtMedia Photo Filters in your email inbox.
+* In your **WordPress Dashboard**, click on **Plugins** > **Add New** > **Upload**. Select the **rtmedia-photo-filters.zip** file from your computer and click **Upload**.
 * Click the **Activate Plugin** link to activate the plugin.
 * Your users will now be able to add effects on the photo edit screen, you will see number of filters to choose for effect.
 
-
-![selection_094](https://cloud.githubusercontent.com/assets/1140051/7649480/0a7e6930-fb0b-11e4-8740-94ff27b7e042.png)
-
+[![rtmedia-photo-filters](https://cloud.githubusercontent.com/assets/7807348/8872725/4b7ff22a-321d-11e5-9dc3-90f048f8443a.png)](https://cloud.githubusercontent.com/assets/7807348/8872725/4b7ff22a-321d-11e5-9dc3-90f048f8443a.png)
 
 ## **Troubleshooting**
-
 
 ** How do I check if ImageMagick is installed on my server? **
 
@@ -40,9 +38,7 @@ Once ImageMagick is installed on your server, you can cross check it in your Wor
 
 Now, you can enjoy the feel of photo filter effects in your WordPress website.
 
-
-**While editing photos, you can see all the Instagram effect options, but none of them are working.**
-
+**While editing photos, you can see all the Photo Filters effect options, but none of them are working.**
 
 Cross-check whether all the packages are installed properly on your server.
 
@@ -72,6 +68,6 @@ extension=imagick.so
 
 If not, then install the missing packages.
 
-Restart php on your server. Everything will work fine with Instagram add-on.
+Restart php on your server. Everything will work fine with Photo Filters add-on.
 
-If you are still facing problems with the rtMedia Instagram add-on, feel free to [contact us](https://rtcamp.com/contact/) or use our [support forum](https://rtcamp.com/premium-support).
+If you are still facing problems with the rtMedia Photo Filters add-on, feel free to [contact us](https://rtcamp.com/contact/) or use our [support forum](https://rtcamp.com/premium-support).
