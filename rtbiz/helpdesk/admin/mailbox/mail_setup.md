@@ -33,11 +33,15 @@ Click Test Connection to add the mailbox.
 
 If added successfully the connected mailbox  will show like this
 
-![added_successfully](https://cloud.githubusercontent.com/assets/8191145/6484791/e5f53736-c2a4-11e4-87aa-751a0065c885.png)
+![mb_setup1](https://cloud.githubusercontent.com/assets/8191145/8983819/e9c8f612-36ea-11e5-93fe-6c2ea37c1d92.png)
+
+You have the option to configure folders to be parsed and select Products and Staff members connected with the mailbox(es).
+
+![mb_setup](https://cloud.githubusercontent.com/assets/8191145/8983820/e9ef99de-36ea-11e5-9012-182ffd0077bf.png)
 
 **vi. Another Mailbox**
 
-Repeat the same steps as above in order to set up another mailbox account.
+Click Add Another Mailbox button and repeat the same steps as above in order to set up another mailbox account.
 
 **vii. Send email to mailbox for creating tickets**
 
