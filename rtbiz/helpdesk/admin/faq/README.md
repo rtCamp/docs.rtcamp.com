@@ -48,9 +48,10 @@ Please check the  [doc](http://docs.rtcamp.com/rtbiz/helpdesk/admin/wpcron/index
 You can customize the look and feel of the plugin.
 You can find the classes that we used in /public/css folder.It is advised that your dev team use the helpdesk classes and update them in the theme itself. This way any future plugin updates will not override the styling changes.
 
-#### Q. What are the acceptable file types which could be used in Helpdesk Web user interface or sent via email?
+#### Q. What are the acceptable file types which could be used in Helpdesk plugin?
 
-Helpdesk supports file types mentioned [here](https://codex.wordpress.org/Uploading_Files).
+Helpdesk supports file types mentioned [here](https://codex.wordpress.org/Function_Reference/get_allowed_mime_types).
+If you'd like to attach other files, you may do that by attaching them as a zip file.
 
 #### Q.How to control the layout of the tickets being displayed? Tickets in xyz.com/ticket are displaying using full width of the page?
 
