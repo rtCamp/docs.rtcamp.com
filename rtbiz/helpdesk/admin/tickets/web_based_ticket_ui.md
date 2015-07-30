@@ -54,7 +54,7 @@ Mark the tickets as favorite ticket by clicking the star icon.
 
 **11. Status`*`**
 
-Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Solved'. Staff can use this to update status without reaching the ticket backend.
+Based on the state of the ticket the ticket status can be 'Answered', 'Unanswered' or 'Archived'. Staff can use this to update status without reaching the ticket backend.
 
 **12. Assignee`*`**
 
