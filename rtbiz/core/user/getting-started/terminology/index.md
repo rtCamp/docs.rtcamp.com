@@ -4,7 +4,7 @@ You may go through the following terminology in order to understand this documen
 
 * `Organisation` - The company which is using rtBiz.
 * `Employee` - Member of the organisation, which is using rtBiz
-* `Offerings` - Products and services offered by the organisation.
+* `Products` - Products and services offered by the organisation.
 * `Departments` - Working units of the organisation.
 * `Contact` - Core entity of rtBiz. Represents a individual, client, vendor, customer, company employee.  
 * `Company` - Represents an enterprise, firm. It basically a group to which a cluster of contacts belong to. Contacts under a Company represents that they are part/employee of that company.  
