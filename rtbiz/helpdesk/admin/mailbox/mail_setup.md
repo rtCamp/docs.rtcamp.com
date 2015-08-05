@@ -37,14 +37,14 @@ If added successfully the connected mailbox  will show like this
 
 **vi. Mailbox Products and Assignee**
 
-You have the option to configure mailbox folders to be parsed and select products and assignee for each mailbox.
+You have the option to configure mailbox folders to be parsed and select a product and assignee for each mailbox.
 
-* **Select Folder** - Click Select Folder button to customize the *Product* and *Assignee* associated with the mailbox(es)
+* **Select Folder** - Click Select Folder button to customize the *Product* and *Assignee* associated with the mailbox.
 
-* **Select product** - Select the product which belongs to the tickets created via this mailbox.
+* **Select Product** - Select the product which belongs to the tickets created via this mailbox.
 This is an optional field.
 
-* **Select Assignee** - Select the assignee who will be responsible to the tickets created via this mailbox. This field is also optional.
+* **Select Assignee** - Select the assignee who will be responsible for the tickets created via this mailbox. This field is also optional.
 
 * **Save** - Click this button to save the changes.
 
