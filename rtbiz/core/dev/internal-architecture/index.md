@@ -67,7 +67,7 @@ This particular article talks about how rtBiz has been architectured internally.
 
 - Contact Groups
 - Departments
-- Offerings
+- Products
 - Attributes
 
 ###taxonomymeta

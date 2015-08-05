@@ -74,7 +74,7 @@ Overridden from `Rtbiz_Entity` parent class. Here all the meta values will be sa
 
 ##### `post_table_columns( $columns )`
 
-Modifies the columns array for new sequence for Company List Table, i.e., Country, Offerings, etc. This method is overridden from `Rtbiz_Entity` parent class.
+Modifies the columns array for new sequence for Company List Table, i.e., Country, Products, etc. This method is overridden from `Rtbiz_Entity` parent class.
 
 ``` php
 @param $columns array - Existing columns for Company List Table.

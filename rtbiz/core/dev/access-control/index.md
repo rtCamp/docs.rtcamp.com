@@ -110,7 +110,7 @@ function my_custom_module( $modules ) {
 			'label' => __( 'rtBiz' ),                                                                   // module label
 			'post_types' => array( 'post', 'page', 'rt_contact', 'rt_lead', ),                          // array of post type for given module
 			'department_support' => array( 'rt_contact', 'rt_ticket' ),                                 // array of post types for which department taxonomy is to be registered
-			'offering_support' => array( 'rt_contact', 'rt_ticket' ),                                   // array of post types for which offerings taxonomy is to be registered
+			'product_support' => array( 'rt_contact', 'rt_ticket' ),                                   // array of post types for which products taxonomy is to be registered
 			'setting_option_name' => 'redux_biz_settings',                                              // redux opions Name, if used
 			'setting_page_url' => 'http://rtbiz.rtcamp.net/wp-admin/admin.php?page=rt-biz-settings',    // Settings Page URL, if Mailbox module is used.
 		),

@@ -72,7 +72,7 @@ Common hooks that are needed to be added for entity
 @uses is_admin()                - WordPress Core. To check for admin section.
 @uses add_action()              - WordPress Core.
 @uses add_filter()              - WordPress Core.
-@uses rt_biz_get_redux_settings()  - rtBiz Core. To check for offerings settings.
+@uses rt_biz_get_redux_settings()  - rtBiz Core. To check for products settings.
 @uses do_action()               - WordPress Core. To introduce an action hook.
 
 @defined Rtbiz_Entity    - Custom WP Action. This can be used to add extra hooks from other plugins/themes.
@@ -93,23 +93,23 @@ function my_custom_init() {
 }
 ```
 
-##### `edit_offering_columns( $offering_columns )`
+##### `edit_product_columns( $product_columns )`
 
-This method adds additional column into the list table of Offerings Taxonomy. It adds those columns for CPT with which Offerings are linked.
+This method adds additional column into the list table of Products Taxonomy. It adds those columns for CPT with which Products are linked.
 
 ``` php
-@param $offering_columns array      - An array of all the columns with their labels for Offerings Taxonomy List Table.
-@return $offering_columns array     - An updated array of columns.
+@param $products_columns array      - An array of all the columns with their labels for Products Taxonomy List Table.
+@return $products_columns array     - An updated array of columns.
 
 @uses apply_filter()                - WordPress Core. To introduce a filter hook.
 
-@defined rt_biz_offerings_columns   - Custom WP Filter. This can be used to add/remove additional column in Offerings List Table.
+@defined rt_biz_products_columns   - Custom WP Filter. This can be used to add/remove additional column in Products List Table.
 ```
 
 *Example*
 
 ``` php
-add_filter( 'rt_biz_offerings_columns', 'my_offerings_columns' );
+add_filter( 'rt_biz_products_columns', 'my_offerings_columns' );
 
 function my_offerings_columns( $columns ) {
     $columns[ 'my-custom-column' ] = __( 'My Custom Column' );
@@ -117,7 +117,7 @@ function my_offerings_columns( $columns ) {
 }
 ```
 
-##### `add_offering_column_content( $content, $column_name, $term_id )`
+##### `add_products_column_content( $content, $column_name, $term_id )`
 
 This method is used to put content for for each row for all the custom columns that we have added using the above method.
 
@@ -130,13 +130,13 @@ This method is used to put content for for each row for all the custom columns t
 
 @uses apply_filter()                        - WordPress Core. To add a filter hook.
 
-@defined rt_biz_offering_column_content     - Custom WP Filter. This is used to add custom content in Offerings table column.
+@defined rt_biz_product_column_content     - Custom WP Filter. This is used to add custom content in Products table column.
 ```
 
 *Example*
 
 ``` php
-add_filter( 'rt_biz_offering_column_content', 'my_offering_column_content' );
+add_filter( 'rt_biz_product_column_content', 'my_offering_column_content' );
 
 function my_offering_column_content( $content, $column_name, $term_id ) {
     if ( $column_name == 'my-custom-column' ) {
