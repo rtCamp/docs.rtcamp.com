@@ -8,12 +8,12 @@ rtBiz ACL will define the usability matrix for the users of the system.
 It will decide who will get how much access of the system based on the access level a user has got.
 
 - ACL is used to define the access level for a department and hence all the contacts of that department.
-- The access levels are defined for the department at the group level.  Any (departmentâs) contact can be assigned to any role (listed below in 4.2) from its profile page, which will be assumed Contactâs Profile Level Access Control.
+- The access levels are defined for the department at the group level.  Any (department's) contact can be assigned to any role (listed below in 4.2) from its profile page, which will be assumed Contact's Profile Level Access Control.
 - Group Level Access Control will always be overridden by Contact Profile Level Access Control. WordPress Site Admins will have the Admin role for all the modules by default.
 
 ### ACL Screen Content/ Structure
 
-The ACL is present as a Matrix and has the layout, which maps rtBiz-modules with the departments. Every entry represents access control of a departmentâs contacts to an rtBiz module.
+The ACL is present as a Matrix and has the layout, which maps rtBiz-modules with the departments. Every entry represents access control of a department's contacts to an rtBiz module.
 
 Imagine a matrix as follows and try to understand the following explanation:
 
@@ -28,7 +28,7 @@ rtBiz Addon 5		| No Role		| Author		| No Role
 
 
 - *Columns:* First column lists of all the rtBiz modules that have been registered with rtBiz. Since rtBiz itself is registered for its ACL use,  therefore rtBiz is there as the first item of the column.
-- *Rows:* The first row represents the departments. The subsequent rows represents the access level of that departmentâs contacts to a module.
+- *Rows:* The first row represents the departments. The subsequent rows represents the access level of that department's contacts to a module.
 
 ### Roles and Access Levels
 
