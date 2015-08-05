@@ -35,7 +35,7 @@ If added successfully the connected mailbox  will show like this
 
 ![new-mailbox-added](https://cloud.githubusercontent.com/assets/8191145/9084353/75445430-3b90-11e5-82c1-ade342117676.png)
 
-**vi. Mailbox Products and Assignee**
+**vi. Set Assignee and Product for each Mailbox**
 
 You have the option to configure mailbox folders to be parsed and select a product and assignee for each mailbox.
 
