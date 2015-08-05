@@ -16,12 +16,12 @@ The contacts are categorized by taxonomy as below:
 
 These three groups are the default ones which will always be there in the system. You can define your custom groups as well.
 
-### Offerings
+### Product
 
-The contacts can also be segregated based on Offerings. These offerings can be populated in two ways:
+The contacts can also be segregated based on Products. These products can be populated in two ways:
 
 - Manually, by adding terms of your choice.
-- Offerings module has a nice feature of syncing products from your WordPress e-Store (WooCommerce / EDD) with these Offering terms.
+- Products module has a nice feature of syncing products from your WordPress e-Store (WooCommerce / EDD) with these Product terms.
 
 ### Contact Connections
 
