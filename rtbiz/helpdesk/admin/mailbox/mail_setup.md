@@ -21,29 +21,42 @@ Enter the password for the above email id.
 
 **iii. Provider**
 
-Select any provider from the options.
+Select correct provider from the options.
 
 **iv. Test Connection**
 
 Click Test Connection to add the mailbox.
 
-![Mailbox_Setup](http://git.rtcamp.com/rtbiz/rtbiz/uploads/a1d46c4c26b2e3d5fdcb43a10f5dee2b/Mailbox_Setup.png)
+![mail-setup](https://cloud.githubusercontent.com/assets/8191145/9084311/f59e4baa-3b8f-11e5-9537-8ffa1b406430.png)
 
 **v. Connected Mailbox**
 
 If added successfully the connected mailbox  will show like this
 
-![mb_setup1](https://cloud.githubusercontent.com/assets/8191145/8983819/e9c8f612-36ea-11e5-93fe-6c2ea37c1d92.png)
+![new-mailbox-added](https://cloud.githubusercontent.com/assets/8191145/9084353/75445430-3b90-11e5-82c1-ade342117676.png)
 
-You have the option to configure folders to be parsed and select Products and Staff members connected with the mailbox(es).
+**vi. Mailbox Products and Assignee**
+
+You have the option to configure mailbox folders to be parsed and select products and assignee for each mailbox.
+
+* **Select Folder** - Click Select Folder button to customize the *Product* and *Assignee* associated with the mailbox(es)
+
+* **Select product** - Select the product which belongs to the tickets created via this mailbox.
+This is an optional field.
+
+* **Select Assignee** - Select the assignee who will be responsible to the tickets created via this mailbox. This field is also optional.
+
+* **Save** - Click this button to save the changes.
+
+The tickets created from this mailbox will be assigned to the assignee selected here and belong to the product saved here.
 
 ![mb_setup](https://cloud.githubusercontent.com/assets/8191145/8983820/e9ef99de-36ea-11e5-9012-182ffd0077bf.png)
 
-**vi. Another Mailbox**
+**vii. Another Mailbox**
 
 Click Add Another Mailbox button and repeat the same steps as above in order to set up another mailbox account.
 
-**vii. Send email to mailbox for creating tickets**
+**viii. Send email to mailbox for creating tickets**
 
 Once setup, the Ticket Authors or customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
 

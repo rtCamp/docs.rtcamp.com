@@ -44,11 +44,11 @@ The UI automatically collapses ticket replies if there are more than four. Click
 
 Clicking this icon will lead the staff to access the backend of a ticket. (See [chapter 3.5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_admin_ui.html) for more details)
 
-**9. Subscribe/Unsubscribe**
+**9. Subscribe/Unsubscribe`*`**
 
 Option for a staff to get e-mail updates for the communication on the ticket. The assignee of a ticket by default is a subscriber to a ticket.
 
-**10. Favorite**
+**10. Favorite`*`**
 
 Mark the tickets as favorite ticket by clicking the star icon.
 
@@ -82,7 +82,7 @@ List of products, which a customer has either bought or has the order still unde
 **16.
 Ticket History`*`**
 
-List of all the tickets that the customer has created in the Helpdesk. Order status is mentioned alngside the ticket title.
+List of all the tickets that the customer has created in the Helpdesk. Order status is mentioned alongside the ticket title.
 
 
 ### Ticket Visibility for a Customer
