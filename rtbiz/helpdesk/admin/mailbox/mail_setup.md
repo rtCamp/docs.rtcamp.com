@@ -58,13 +58,13 @@ Click Add Another Mailbox button and repeat the same steps as above in order to 
 
 **viii. Send email to mailbox for creating tickets**
 
-Once setup, the Ticket Authors or customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
+Once setup, customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
 
 
 ### 2. Mailbox Reading
 
 
-**i. Enable** : When enabled, ticket Authors can directly send mails to the mailboxes and their tickets will be created in the Helpdesk. Ticket authors and Staff can add followups via mail.
+**i. Enable** : When enabled,customers can directly send emails to the mailboxes and their tickets will be created in the Helpdesk. Customers and staff can add followups via email.
 
 **ii. Disable** :When Disabled, tickets will not be created via mail and new followups by customer and Staff cannot be added via mail.
 
@@ -74,9 +74,9 @@ Once setup, the Ticket Authors or customers can send emails to the mailboxes and
 
 This is used to allow or block the email followups.
 
-**i. Enable** : Ticket Authors and staff members connected to the ticket can create followups to the tickets when replying via email
+**i. Enable** : Customers and staff members connected to the ticket can create followups to the tickets by replying via email
 
-**ii. Disable** : Ticket Authors and staff members connected to the ticket can not create followups to the tickets when replying via email
+**ii. Disable** : Customers and staff connected to the ticket can not create followups to the tickets by replying via email
 
 ![Reply via Email](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/46a4d1e93f/Reply_via_Email.png)
 
@@ -89,14 +89,26 @@ Select any of the configured Mailboxes which will be used to send outgoing email
 
 ### 5. Outgoing Emails' FROM Name
 
-Here Administrators can set any name to be used for outbound emails. This Name will be used as ```from: Name <email address>``` for all outgoing emails as shown in the screenshot below
+Here admins can set any name to be used for outbound emails. This Name will be used as ```from: Name <email address>``` for all outgoing emails as shown in the screenshot below
 
 ![outgoing_sysname_helpdesk](https://cloud.githubusercontent.com/assets/8191145/6501154/efa7c12c-c33a-11e4-8b76-936fc21bd2a2.png)
 
 ![name](https://cloud.githubusercontent.com/assets/8191145/6501114/52b3b830-c33a-11e4-9dad-5f6f832b66a5.png)
 
 
-### 5. Blacklist Emails
+### 6. Outgoing Emails' FROM Same mailbox
+
+This setting is useful when there are multiple mailboxes as shown in the screenshot below.
+
+**i. Enable :** When enabled, the outgoing emails will be delivered from the same mailbox using which the tickets were initially created.This setting will override the outgoing mailbox configured in 4.Outgoing Emails' Mailbox.
+
+**ii. Disable:** When this setting is disabled, outgoing emails to every configured mailbox will be delivered only by the mailbox set in 4.Outgoing Emails' Mailbox.
+
+![mailbox](https://cloud.githubusercontent.com/assets/8191145/9136923/e86a9d5e-3d37-11e5-9419-d8d8630d5c13.png)
+
+
+
+### 7. Blacklist Emails
 
 These are email addresses which are barred by the Administrator from creating any ticket.
 
