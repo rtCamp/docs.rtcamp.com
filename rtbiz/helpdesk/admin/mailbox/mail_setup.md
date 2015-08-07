@@ -102,7 +102,7 @@ This setting is useful when there are multiple mailboxes as shown in the screens
 
 **i. Enable :** When enabled, the outgoing emails will be delivered from the same mailbox using which the tickets were initially created.This setting will override the outgoing mailbox configured in 4.Outgoing Emails' Mailbox.
 
-**ii. Disable:** When this setting is disabled, outgoing emails to every configured mailbox will be delivered only by the mailbox set in 4.Outgoing Emails' Mailbox.
+**ii. Disable:** When this setting is disabled, outgoing emails will only be delivered by the mailbox set in 4.Outgoing Emails' Mailbox.
 
 ![mailbox](https://cloud.githubusercontent.com/assets/8191145/9136923/e86a9d5e-3d37-11e5-9419-d8d8630d5c13.png)
 
@@ -112,7 +112,7 @@ This setting is useful when there are multiple mailboxes as shown in the screens
 
 These are email addresses which are barred by the Administrator from creating any ticket.
 
-Enter email id's to be blacklisted and blocked by Helpdesk as in screenshot below. Each  mail id should be in separate line and commas should** not** be used.
+Enter email id's to be blacklisted and blocked by Helpdesk as in screenshot below. Each  email id should be in separate line and commas should** not** be used.
 
 ![blacklist_emails](https://cloud.githubusercontent.com/assets/8191145/6487587/1f9e311e-c2b8-11e4-82ab-00a51d017331.png)
 
