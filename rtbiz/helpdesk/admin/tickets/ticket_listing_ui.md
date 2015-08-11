@@ -5,8 +5,7 @@ Helpdesk uses the WordPress behaviour to show tickets listing.
 Here is a screenshot of the same
 
 
-![ticket_listing_user_interface](https://cloud.githubusercontent.com/assets/8191145/8516800/a5900dcc-23d6-11e5-90c5-6ffbafe1966d.png)
-
+![tickets](https://cloud.githubusercontent.com/assets/8191145/9193024/d64a5bb6-402d-11e5-847a-8b4a053a8c99.png)
 
 
 ### A. Columns
@@ -43,8 +42,7 @@ Staff can also assign products for the tickets  by simply doing a Quick Edit. (R
 
 **7. Teams**
 
-You can assign a ticket to various teams (Ref Section 5.1 for details). Teams column is not visible in this screenshot as it is not selected in the Screen Option on the top-right of the page.  Using Screen Options, you can choose the columns to show on screen.
-
+You can assign a ticket to various teams. (Refer [Section 5.1](http://docs.rtcamp.com/rtbiz/helpdesk/admin/staff/teams.html) for details)
 
 
 ### B. Sorting and Filters
@@ -78,23 +76,23 @@ Lists all the archived tickets
 
 Lists the tickets which the logged in user has subscribed to.
 
-#### Bulk Actions
+**8. Bulk Actions**
 
 Used for Bulk Editing and moving the tickets to trash.
 
-####Filter by Dates
+**9. Filter by Dates**
 
 Option to filter tickets by date.
 
-####Filter by Status
+**10. Filter by Status**
 
 Option to filter tickets by ticket status.
 
-####Filter by Assignee
+**11. Filter by Assignee**
 
 Option to filter tickets by assignee.
 
-#### Filter by Product
+**12. Filter by Product**
 
 Option to filter tickets by products. Select the Product from the dropdown and click the Filter button, it will then display only the tickets for the selected Product.
 
@@ -103,30 +101,46 @@ Option to filter tickets by products. Select the Product from the dropdown and c
 
 ### C. Ticket Editing
 
-**1. Quick Edit**
+####**1. Quick Edit**
 
-i) Mouseover any ticket to quickly edit it.
+**i) Mouseover tickets to Quick Edit**
 
-![quick_edit](https://cloud.githubusercontent.com/assets/8191145/7651073/257aa762-fb1a-11e4-9e43-276d6a2657c2.png)
+Mouseover any ticket to quickly edit it.
 
-
-ii) Clicking Quick Edit link will open the screen as shown below where you can quickly edit and update the important ticket details like ticket's Title,Offerings, Teams, Status etc.
-
-iii) Click on the Update button when editing is done.
+![quick edit](https://cloud.githubusercontent.com/assets/8191145/9193440/1745a6fe-4031-11e5-9ad7-e253fffb242e.png)
 
 
+**ii) Click Quick Edit**
 
- Note : Admin role cannot be changed via quick/ bulk edit
+Clicking Quick Edit link will open the screen as shown below where you can quickly edit and update the important ticket details like ticket's Title, Products, Teams, Status etc.
+
+![quick-update](https://cloud.githubusercontent.com/assets/8191145/9193553/de6e0cd0-4031-11e5-909d-61d7fcab8a11.png)
+
+**iii) Click Update**
+
+Click on the Update button when editing is finished.
 
 
-**2. Bulk edit**
 
-i) You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click on Apply button.
 
-ii) You will see the selected tickets under Bulk Edit similar to  the screenshot below.
-You as an admin and staff members with Editor role in helpdesk will be able to edit the details for multiple tickets as shown in the screenshot below. Staff with author role will only be able to edit the tickets assigned to them.
+####**2. Bulk edit**
 
-iii) Click on Update button when editing is finished.
+**i) Edit multiple tickets**
+
+You can use bulk edit for editing multiple tickets. You can select as many tickets you want from the ticket checkboxes then choose the Edit option from the Bulk Actions dropdown and click the Apply button.
+
+![bulk editing](https://cloud.githubusercontent.com/assets/8191145/9193628/7947540a-4032-11e5-96c3-835aae575b68.png)
+
+**ii) Bulk Editing**
+
+Selecting tickets and clicking Apply button will open the screen as shown below where you can bulk edit and update the important ticket details like ticket's Products, Teams, Status etc.
+
+![bulk-editing](https://cloud.githubusercontent.com/assets/8191145/9193699/10f8f59c-4033-11e5-8d04-15b339472042.png)
+
+
+**iii) Click Update**
+
+Click on Update button when editing is finished.
 
 
 
