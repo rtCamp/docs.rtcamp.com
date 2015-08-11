@@ -27,7 +27,7 @@ Select Disable and save the changes. Disabling Web Support and keeping Email Sup
 
 ####Please note:
 
-** WordPress users will not be created**
+**WordPress users will not be created**
 
 With the above Settings, WordPress users will not be created for the customers. Only their Helpdesk contacts will be created.
 
