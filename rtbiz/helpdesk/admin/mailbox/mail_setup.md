@@ -4,12 +4,11 @@ It is required to configure a mailbox for the Helpdesk system for sending emails
 
 You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup)) or you could do the same  by going to **Helpdesk Settings -> Mail Setup**
 
-![Mail_Setup](http://git.rtcamp.com/rtbiz/rtbiz/uploads/22db71ed9a5d9ce1f4479aeca9a09144/Mail_Setup.png)
+![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
 
 
 ### 1. Mailboxes Set Up
-
 
  **i. Email**
 
@@ -27,13 +26,14 @@ Select correct provider from the options.
 
 Click Test Connection to add the mailbox.
 
-![mail-setup](https://cloud.githubusercontent.com/assets/8191145/9084311/f59e4baa-3b8f-11e5-9537-8ffa1b406430.png)
+![mailsetup-2](https://cloud.githubusercontent.com/assets/8191145/9195964/6d535baa-4044-11e5-8314-e5ec670060ed.png)
+
 
 **v. Connected Mailbox**
 
 If added successfully the connected mailbox  will show like this
 
-![new-mailbox-added](https://cloud.githubusercontent.com/assets/8191145/9084353/75445430-3b90-11e5-82c1-ade342117676.png)
+![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
 **vi. Set Assignee and Product for each Mailbox**
 
@@ -104,7 +104,7 @@ This setting is useful when there are multiple mailboxes as shown in the screens
 
 **ii. Disable:** When this setting is disabled, outgoing emails will only be delivered by the mailbox set in Outgoing Emails Mailbox.
 
-![mailbox](https://cloud.githubusercontent.com/assets/8191145/9136923/e86a9d5e-3d37-11e5-9419-d8d8630d5c13.png)
+![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
 
 

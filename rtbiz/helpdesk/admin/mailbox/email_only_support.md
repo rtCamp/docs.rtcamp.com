@@ -1,5 +1,11 @@
 # Email Only Support
 
+You have the option to provide support to your customers exclusively via emails. Please follow the steps described below to provide email only support.
+
+![email-only](https://cloud.githubusercontent.com/assets/8191145/9194951/dbf1c572-403c-11e5-82ea-4541949f9865.png)
+
+
+
 ### Steps to provide Email Only support
 
 The following steps will give you the option to provide support to your customers only by sending emails to the configured mailbox:
@@ -7,6 +13,8 @@ The following steps will give you the option to provide support to your customer
 **1. Enable Email Support :**
 
 Navigate to ```Helpdesk Settings -> Mail Setup -> Email Support``` and select Enable button if it is not selected already.
+
+
 
 **2. Enable Mailbox Reading and Reply via Email :**
 

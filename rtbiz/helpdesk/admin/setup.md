@@ -114,7 +114,8 @@ For every mailbox you can choose the products and assigned staff members from th
 
 Click on Next and add a name for the Outgoing Emails and select the mailbox from the mailboxes created by you in the previous step.
 
-![5 1_mailbox_setup](https://cloud.githubusercontent.com/assets/8191145/7610587/98bd740a-f99b-11e4-8d36-df29e3d8e24f.png)
+![setup-wizard-outgoing-mail](https://cloud.githubusercontent.com/assets/8191145/9196407/c1778bbc-4048-11e5-8047-64dbd4c9e2bf.png)
+
 
 ##### Error Message
 If you receive a error message while testing connection, you should do the following:
