@@ -10,7 +10,7 @@
 
 ## Install git-flow
 
-    apt-get install git-flow```
+    apt-get install git-flow
 
 ## Initializing git-flow
 
