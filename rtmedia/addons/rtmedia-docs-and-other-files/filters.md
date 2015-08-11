@@ -5,6 +5,7 @@
 * [rtmedia_documents_slug](#rtmedia_documents_slug)
 * [rtmedia_disable_google_doc_service](#rtmedia_disable_google_doc_service)
 * [rtmedia_other_files_document_other_files_list_date_filter](#rtmedia_other_files_document_other_files_list_date_filter)
+* [rtm_docs_file_add_column](#rtm_docs_file_add_column)
 
 ###description
 
@@ -61,5 +62,31 @@ add_filter( 'rtmedia_other_files_document_other_files_list_date_filter', 'rtm_ot
 
 function rtm_other_files_document_other_files_list_date_filter ( $date_time ) {
 	return $date_time;
+}
+```
+
+* ####rtm_docs_file_add_column <a name="rtm_docs_file_add_column"></a>
+***
+Filter to add new column in **table view style** for document and other file types.
+Below example is to add column for **Type of file** in table view style.
+```php
+add_filter( 'rtm_docs_file_add_column', 'rtm_docs_file_add_column_type', 10, 1 );
+/**
+ * This function is to add column heading, class and callback function.
+ */
+function rtm_docs_file_add_column_type( $column ) {
+    $column = array('columns' => 'Type',
+                    'class' => 'rtmedia-list-document-td-size',
+                    'callback' => 'rtmedia_render_docs_type_content',
+                    );
+    return $column;
+}
+
+/**
+ * This function is callback function for new column added using filter.
+ */
+function rtmedia_render_docs_type_content( $media_id ) {
+    $type = rtmedia_media_ext( $media_id );
+echo '<td data-value="'. $type .'">'. $type .'</td>';
 }
 ```
