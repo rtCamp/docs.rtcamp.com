@@ -1,5 +1,7 @@
 # Email Only Support
 
+*Note: This feature will be released shortly*
+
 You have the option to provide support to your customers exclusively via emails. Please follow the steps described below to provide email only support.
 
 ![email-only](https://cloud.githubusercontent.com/assets/8191145/9194951/dbf1c572-403c-11e5-82ea-4541949f9865.png)
