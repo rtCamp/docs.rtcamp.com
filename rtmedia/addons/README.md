@@ -41,6 +41,6 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 33. [rtMedia View Counter](../addons/view-counter.md) - Display the number of times a media item has been viewed.
 34. [rtMedia shortcode generator](../addons/shortcode-generator.md) - Site administrators can quickly create gallery and uploader shortcodes by using the shortcode generator button in WordPress’ post editor.
 35. [rtMedia Album Privacy](../addons/album-privacy.md) - Users can set privacy to the albums.
-36. [rtMedia Set Custom Thumbnails](../addons/set-custom-thumbnail.md) - Allows media owner to upload a custom image as a thumbnail for audio and video files.
+36. [rtMedia Set Custom Thumbnails](../addons/set-custom-thumbnail.md) - Allows media owner to upload a custom image as a thumbnail for audio, video, playlist and favlist.
 37. [rtMedia BuddyPress Group Media Control](../addons/buddypress-group-media-control.md) - Allow group owner to provide media upload feature for their group.
 38. [rtMedia WordPress Comment Attachment](../addons/rtmedia-wordpress-comment-attachment.md) - Allow users to upload media in post/page comments section.
