@@ -4,9 +4,7 @@ It is required to configure a mailbox for the Helpdesk system for sending emails
 
 You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup)) or you could do the same  by going to ```Helpdesk Settings -> Mail Setup``` as explained in the video below
 
-
- [![Setting Mailbox in Helpdesk](http://img.youtube.com/vi/ziIclF-Tzq4/0.jpg)](https://www.youtube.com/watch?v=ziIclF-Tzq4)
-
+{% youtube %}https://www.youtube.com/watch?v=ziIclF-Tzq4{% endyoutube %}
 
 ## 1. Mailboxes Set Up
 
