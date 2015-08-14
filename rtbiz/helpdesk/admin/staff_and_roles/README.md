@@ -43,13 +43,13 @@ You can change a member's role to No role, Author, Editor or Admin.
 ### Helpdesk roles are different than WordPress roles
 Helpdesk roles aren't exactly mapped to the WordPress roles. They can have different behaviour than WordPress roles.
 
-**For example**
+####**Example**
 
-A user who is a WordPress Author can be a Helpdesk admin. That user will have WordPress Author like access to Posts, Media but he/she will be able to perform Admin operations in Helpdesk.
+A user who is a WordPress Author can be a Helpdesk admin. That user will have WordPress Author like access to WordPress Posts, Media but he/she will be able to perform Admin operations in Helpdesk.
 
-**Here are two screenshots to illustrate the above point**
+####**Here are two screenshots to illustrate the above point**
 
-**1. Screenshot of a WordPress Author who's a Helpdesk Admin while viewing Posts:**
+####**1. Screenshot of a WordPress Author who's a Helpdesk Admin while viewing Posts:**
 
 In this screenshot, a WordPress Author who has Admin role in Helpdesk is on the Posts section where the Author can only view the posts of other members.
 
@@ -57,7 +57,7 @@ In this screenshot, a WordPress Author who has Admin role in Helpdesk is on the 
 
 
 <br/>
-**2. Screenshot of the same  WordPress Author and Helpdesk Admin while viewing Tickets:**
+####**2. Screenshot of the same  WordPress Author and Helpdesk Admin while viewing Tickets:**
 
 In this screenshot, the same WordPress Author and Helpdesk Admin is on the tickets section and is able to  Edit, Quick Edit, Trash or View anyone's tickets.
 

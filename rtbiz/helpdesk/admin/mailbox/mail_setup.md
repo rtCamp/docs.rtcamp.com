@@ -8,34 +8,34 @@ You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Set
 
 
 
-### 1. Mailboxes Set Up
+## 1. Mailboxes Set Up
 
- **i. Email**
+### **i. Email**
 
  Add here the email id you want to setup as a mailbox.
 
-**ii. Password**
+###**ii. Password**
 
 Enter the password for the above email id.
 
-**iii. Provider**
+###**iii. Provider**
 
 Select correct provider from the options.
 
-**iv. Test Connection**
+###**iv. Test Connection**
 
 Click Test Connection to add the mailbox.
 
 ![mailsetup-2](https://cloud.githubusercontent.com/assets/8191145/9195964/6d535baa-4044-11e5-8314-e5ec670060ed.png)
 
 
-**v. Connected Mailbox**
+###**v. Connected Mailbox**
 
 If added successfully the connected mailbox  will show like this
 
 ![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
-**vi. Set Assignee and Product for each Mailbox**
+###**vi. Set Assignee and Product for each Mailbox**
 
 You have the option to configure mailbox folders to be parsed and select a product and assignee for each mailbox.
 
@@ -52,16 +52,16 @@ The tickets created from this mailbox will be assigned to the assignee selected 
 
 ![mb_setup](https://cloud.githubusercontent.com/assets/8191145/8983820/e9ef99de-36ea-11e5-9012-182ffd0077bf.png)
 
-**vii. Another Mailbox**
+###**vii. Another Mailbox**
 
 Click Add Another Mailbox button and repeat the same steps as above in order to set up another mailbox account.
 
-**viii. Send email to mailbox for creating tickets**
+###**viii. Send email to mailbox for creating tickets**
 
 Once setup, customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
 
 
-### 2. Mailbox Reading
+## 2. Mailbox Reading
 
 
 **i. Enable**: When enabled,customers can directly send emails to the mailboxes and their tickets will be created in the Helpdesk. Customers and staff can add followups via email.
@@ -70,7 +70,7 @@ Once setup, customers can send emails to the mailboxes and their tickets will be
 
 ![enable_mailbox_reading](https://cloud.githubusercontent.com/assets/8191145/6487363/bee796b8-c2b6-11e4-8b84-0f761513cb48.png)
 
-### 3. Reply Via Email
+## 3. Reply Via Email
 
 This is used to allow or block the email followups.
 
@@ -80,14 +80,14 @@ This is used to allow or block the email followups.
 
 ![Reply via Email](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/46a4d1e93f/Reply_via_Email.png)
 
-### 4. Outgoing Emails Mailbox
+## 4. Outgoing Emails Mailbox
 
 Select any of the configured mailboxes which will be used to send outgoing emails/notifications.
 
 ![outgoing_emails_mailbox](https://cloud.githubusercontent.com/assets/8191145/6487585/1f68f206-c2b8-11e4-9ba1-c0d6d52a2612.png)
 
 
-### 5. Outgoing Emails 'From' Name
+## 5. Outgoing Emails 'From' Name
 
 Here admins can set any name to be used for outbound emails. This name will be used as```From: Name <email address>``` for all outgoing emails as shown in the screenshot below
 
@@ -96,7 +96,7 @@ Here admins can set any name to be used for outbound emails. This name will be u
 ![name](https://cloud.githubusercontent.com/assets/8191145/6501114/52b3b830-c33a-11e4-9dad-5f6f832b66a5.png)
 
 
-### 6. Outgoing Emails From Same mailbox
+## 6. Outgoing Emails From Same mailbox
 
 This setting is useful when there are multiple mailboxes as shown in the screenshot below.
 
@@ -107,8 +107,7 @@ This setting is useful when there are multiple mailboxes as shown in the screens
 ![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
 
-
-### 7. Blacklist Emails
+## 7. Blacklist Emails
 
 These are email addresses which are barred by the Administrator from creating any ticket.
 

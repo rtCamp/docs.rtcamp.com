@@ -2,10 +2,10 @@
 
 ![setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7652576/963467c0-fb2b-11e4-9cf2-15818fbc9529.png)
 
-**You can setup your support team in three ways :**
+##**You can setup your support team in three ways :**
 
 
-**1. Search and add users :**
+###**1. Search and add users :**
 
 You can search and add users by name or email as shown in the screenshot below
 <br/>
@@ -13,11 +13,11 @@ You can search and add users by name or email as shown in the screenshot below
 ![search_and_add_users](https://cloud.githubusercontent.com/assets/8191145/7654397/6d19bd04-fb3a-11e4-809a-07b176b75828.png)
 
 
-**2. Add all users from domain:**
+###**2. Add all users from domain:**
 
 You can use this option if you want to add all the WordPress users who have the similar domain name.
 
-**3. Add all WordPress users :**
+###**3. Add all WordPress users :**
 
 Using this option you can import all the WordPress users into Staff, in a single click.
 

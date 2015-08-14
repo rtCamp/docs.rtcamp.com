@@ -57,7 +57,7 @@ You can use this option if you want add all the WordPress users who have similar
 
 Using this option you can import all the WordPress users into Helpdesk Staff, in a single click.
 You can assign Helpdesk roles to all these new staff members from the options.
-#### Helpdesk Roles
+#### What are Helpdesk Roles?
 The Helpdesk roles are like WordPress roles with some differences (For details you may refer to [Staff and Roles](http://docs.rtcamp.com/rtbiz/helpdesk/admin/staff_and_roles/index.html))
 
 ##### **Helpdesk Admin**
@@ -71,7 +71,7 @@ Can manage all the tickets. No access to settings.
  Can manage only the tickets assigned to them. No access to settings.
 ##### **No Role**
 
- No access to Helpdesk backend. Access only to the front end of ticket to which they are assigned to.
+ Users with no role in Helpdesk have no access to the Helpdesk backend. These users can only access the front end of the ticket to which they are assigned to.
 
 ![3_2_setup_your_team](https://cloud.githubusercontent.com/assets/8191145/7610686/57f6ff58-f99c-11e4-83b1-97bf282a3e37.png)
 
@@ -118,7 +118,7 @@ Click on Next and add a name for the Outgoing Emails and select the mailbox from
 
 
 ##### Error Message
-If you receive a error message while testing connection, you should do the following:
+If you receive an error message while testing connection, you should do the following:
 * Check username and password
 * Enable IMAP for your mailbox (Gmail - [Link](https://support.google.com/mail/troubleshooter/1668960), Outlook - Link, Yahoo - [Link](https://help.yahoo.com/kb/mobile/imap%C2%A0settings-yahoo-mail-sln4075.html) )
 * Check this link if your Google account does not get connected: https://support.google.com/mail/answer/78754

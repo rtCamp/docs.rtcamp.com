@@ -1,10 +1,10 @@
 # Products
 
-This section lists the products of an organization. It includes products sold using WooCommerce plugin, Easy Digital Download plugin, custom products created using this section or which were created while setting up the Helpdesk (Ref[ Section 1.1 Setup Wizard, Point 2](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#2-connect-store))
+This section lists the products of an organization. It includes products sold using WooCommerce, Easy Digital Download plugins and custom products created using this section or while setting up the Helpdesk (Ref[ Section 1.1 Setup Wizard, Point 2](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#2-connect-store))
 
 
 
-Click on Products menu item under Helpdesk to open the Products section. The Products page looks similar to the screenshot below
+Click on Products menu item under Helpdesk to open the Products section. It looks similar to the screenshot below
 
 ![products](https://cloud.githubusercontent.com/assets/8191145/8355746/a04b8a14-1b6e-11e5-8d14-14d885ce4b05.png)
 
@@ -12,7 +12,7 @@ Click on Products menu item under Helpdesk to open the Products section. The Pro
 
 Any products created in WooCommerce or Easy Digital Downloads will sync with Helpdesk Products section. You can also create custom products as shown below
 
-###Steps to Add New Custom Products
+###Steps to add new custom products
 
 #### 1) Name
 
@@ -42,7 +42,7 @@ This is also an optional field.
 
 All Helpdesk Products will be visible in Choose Products dropdown in the support form (Ref Section 7.1. General for details)
 
-###Columns
+##Columns
 
 #### A) Name
 
@@ -66,6 +66,7 @@ Any ticket related to the products will be first assigned to the default assigne
 
 You can easily update the default assignees from this page by doing a mouseover on Product and quick editing.
 
+![products](https://cloud.githubusercontent.com/assets/8191145/8355746/a04b8a14-1b6e-11e5-8d14-14d885ce4b05.png)
 
 ####Screen Options
 

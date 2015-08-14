@@ -6,61 +6,35 @@ To reach to Staff page click on Staff menu item under Helpdesk menu.The staff pa
 
 ![staff](https://cloud.githubusercontent.com/assets/8191145/8430727/3b4552e4-1f51-11e5-8d85-071b81ed855c.png)
 
-###**Columns**
+##**Columns**
 
-####A) Name
+###A) Name
 
 Shows the names of the staff members
 
-####B) Teams
+###B) Teams
 
-You can group staff members in various teams. This column displays the teams of which the staff members are part of. One member can be part of multiple teams
+You can group staff members in various teams. This column displays the teams of which the staff members belong to. One member can be a part of multiple teams.
 
-####C) Tickets
+###C) Tickets
 
 This displays the number of tickets associated with the staff member.
 
-#### Admin
+## **All Staff**
 
-Clicking this will show the staff members who have Helpdesk role of admin.
+Clicking **All** displays all the staff members.
 
-#### Editor
+## Admin
 
-Clicking this will show the staff members who have Helpdesk role of editor.
+Clicking 'Admin' will show the staff members who are Helpdesk administrators.
 
-#### Author
+## Editor
 
-Clicking this will show the staff members who have Helpdesk role of author.
+Clicking 'Editor' will show the staff members who have Helpdesk editors.
 
-##**New Staff**
+## Author
 
-Clicking New Staff button next to the label Staff leads to the page from where new staff members could be created.
-
-Here are the important things to consider while adding a new staff member:
-
-####1. Add Staff Name
-
-Enter the name of the new staff member
-
-####2. Add email address
-
-Enter email address of the staff member.
-
-####3. Profile Level Access
-
-In profile level access block, enable the Staff Member checkbox and assign a Helpdesk role to staff.
-
-####5. Products
-
-Add the product/s where the staff member will be working on.
-
-####6. Teams
-
-Make the staff member part of an existing team or create new teams.
-
-The Add Staff page looks like the screenshot below
-
-![new-staff-details](https://cloud.githubusercontent.com/assets/8191145/8517944/3d126f8a-23e3-11e5-831e-016f8e6c84a2.png)
+Clicking 'Author' this will show the staff members who are Helpdesk authors.
 
 
 

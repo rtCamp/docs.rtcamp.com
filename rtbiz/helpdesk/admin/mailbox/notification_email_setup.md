@@ -3,24 +3,24 @@
 
 ![notif_emails](https://cloud.githubusercontent.com/assets/1902154/8472525/a386d9ee-20bf-11e5-9714-5d5d59c057d7.png)
 
-
+## Notification Emails
 Admins can customize email notifications for following members:
 
-####**i. Customer**
+###**i. Customer**
 
 User who raises a support request by sending an email to the Helpdesk mailbox or by filling the support form.
 
-####**ii. Assignee**
+###**ii. Assignee**
 
 The staff member assigned to the ticket.
 
-####**iii. Staff**
+###**iii. Staff**
 
 Other staff members who can subscribe to the tickets and get notifications.
 
 They can make themeselves the Ticket Assignees by clicking Assign Me link below the Assignee dropdown. (Refer  3.4 Ticket Web UI for details)
 
-####**iv. Group**
+###**iv. Group**
 
 Members who will be notified of the events that occur in HelpDesk System.
 
@@ -32,7 +32,7 @@ Global list emails could be added and removed as shown below
 
 
 
-### Enable/Disable Notification
+## Enable/Disable Notification
 
 ###1. Enable
 
@@ -70,7 +70,7 @@ All email notifications will be disabled on selecting this button.
 
 ![disable_notification](https://cloud.githubusercontent.com/assets/8191145/8404693/9fac7694-1e6c-11e5-85f1-1c43c6847d03.png)
 
-#### Customize Notification Emails
+## Customize Notification Emails
 
 Admins can customize the notification emails as per their requirements.
 
