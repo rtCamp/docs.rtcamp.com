@@ -9,7 +9,7 @@ Click on Customers menu item under Helpdesk menu to reach the customers page as 
 
 
 
-##**Columns**
+## Columns
 
 ###**A) Name**
 
@@ -19,17 +19,19 @@ Shows the names of your customers
 
 Displays the number of tickets associated with the particular customer.
 
-## **All Customers**
+##  Links
+
+### **All**
 
 Clicking **All** displays the list of customers and the number of tickets associated with them as shown in the screenshot above
 
-## **With Tickets**
+### **With Tickets**
 
 Clicking 'With Tickets' will display the customers with ticket count greater than or equal to one.
 
 ![with tickets](https://cloud.githubusercontent.com/assets/8191145/9269775/42ea660e-428a-11e5-8e2b-fe03633f5d3c.png)
 
-## **Without Tickets**
+### **Without Tickets**
 
 Clicking 'Without Tickets' will display the customers with no tickets.
 

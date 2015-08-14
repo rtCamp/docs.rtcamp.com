@@ -26,9 +26,9 @@ iv. Click on Products to filter tickets by Products.
 
 ##Dashboard Widgets
 
-Authorised Staff members can check ticket statuses  in different formats as shown below :
+Authorised Staff members can check ticket statuses  in different formats as shown below:
 
-![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/7612951/814298a4-f9ab-11e4-89ea-2a9d601e9d9b.png)
+![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/9268895/478ab92e-4281-11e5-8219-f601cf517148.png)
 
 
 (Refer [2. Dashboard](http://docs.rtcamp.com/rtbiz/helpdesk/admin/dashboard.html) for details)

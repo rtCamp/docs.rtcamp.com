@@ -96,6 +96,7 @@ Option to filter tickets by assignee.
 
 Option to filter tickets by products. Select the Product from the dropdown and click the Filter button, it will then display only the tickets for the selected Product.
 
+![tickets](https://cloud.githubusercontent.com/assets/8191145/9193024/d64a5bb6-402d-11e5-847a-8b4a053a8c99.png)
 
 
 

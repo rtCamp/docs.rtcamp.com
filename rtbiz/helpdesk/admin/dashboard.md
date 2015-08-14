@@ -31,7 +31,7 @@ Shows the number and percentage of tickets created per product.
 
 
 
-## 5. WorkLoad
+## 5. Work Load
 
 Shows the number of Unanswered , Answered and Archived tickets per staff members in a tabular format.
 

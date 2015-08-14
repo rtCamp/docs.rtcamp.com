@@ -20,19 +20,21 @@ You can group staff members in various teams. This column displays the teams of 
 
 This displays the number of tickets associated with the staff member.
 
-## **All Staff**
+##  Links
+
+### All
 
 Clicking **All** displays all the staff members.
 
-## Admin
+### Admin
 
 Clicking 'Admin' will show the staff members who are Helpdesk administrators.
 
-## Editor
+### Editor
 
 Clicking 'Editor' will show the staff members who have Helpdesk editors.
 
-## Author
+### Author
 
 Clicking 'Author' this will show the staff members who are Helpdesk authors.
 

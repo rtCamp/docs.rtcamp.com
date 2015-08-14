@@ -15,7 +15,7 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 1. Once you complete the purchase, you’ll get download link for rtBiz Helpdesk.
 
-2. Go to **Plugins > Add New > Upload**. Please select the **rtbiz-helpdesk.zip** file from your computer and click upload.
+2. Go to ```Plugins > Add New > Upload```. Please select the ```rtbiz-helpdesk.zip``` file from your computer and click upload.
 
 3. Activate it through the ‘Plugins’ section.
 
@@ -26,6 +26,6 @@ Please follow these simple steps to install rtBiz Helpdesk plugin.
 
 
 ### Theme Compatibility
-This plugin has been optimized to work with default WordPress themes, namely: Twenty Fifteen, Twenty Thirteen and Twenty Twelve.
+This plugin has been optimized to work with standard WordPress themes, namely: Twenty Fifteen, Twenty Thirteen and Twenty Twelve.
 
 
