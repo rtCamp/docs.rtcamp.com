@@ -2,10 +2,10 @@
 
 It is required to configure a mailbox for the Helpdesk system for sending emails/ notifications to the users. Admins can set up multiple mailboxes.
 
-You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup)) or you could do the same  by going to **Helpdesk Settings -> Mail Setup**
+You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup)) or you could do the same  by going to ```Helpdesk Settings -> Mail Setup``` as explained in the video below
 
-![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
+ [![Setting Mailbox in Helpdesk](http://img.youtube.com/vi/ziIclF-Tzq4/0.jpg)](https://www.youtube.com/watch?v=ziIclF-Tzq4)
 
 
 ## 1. Mailboxes Set Up
