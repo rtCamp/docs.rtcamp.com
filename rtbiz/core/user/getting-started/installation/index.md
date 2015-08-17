@@ -11,12 +11,11 @@ You can install the rtBiz plugin on your WordPress website in two ways. You can 
 
 ### From WordPress Dashboard
 
-![Image From Dashboard](https://cloud.githubusercontent.com/assets/2236554/5556376/7e20cb64-8cff-11e4-9478-6f8a57c0c2a2.png)
-
 1. Login to admin dashboard of your WordPress site and goto `Plugins` menu.
 2. Click `Add New` and search for `rtBiz`. rtBiz plugin details will be displayed.
 3. Click `Install Now`.
 4. From the next page, Click `Activate Plugin`.
+
 
 ### Manual Upload
 

@@ -1,11 +1,11 @@
-Companies
-=========
+#Companies
+
 
 - *Company* represents a cluster of contacts, which belongs to same organisation.
-- *Company* allows you to group all your contacts (customers, vendors etc) together under their respective companies.
+- *Company* allows you to group all your contacts (customers, vendors etc) together under their respective companies.
 - A company can be assigned to the team member, who will handle all the aspects for that company account.
 
-### Offerings
+### Products
 
 Just like Contacts, Companies can also be categorized usig Offerings. This time, no new terms needs to be created. Since Offerings taxonomy is shared globally between all the entities of rtBiz family, same terms can be used to categorize companies.
 
