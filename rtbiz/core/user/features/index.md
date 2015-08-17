@@ -2,13 +2,13 @@ Once rtBiz has been installed on your WordPress site, it has many features that 
 
 ## rtBiz Top Level Structure & Features
 
-- [Dashboard](/features/dashboard)
-- [Contacts](/features/contacts)
+- [Dashboard](/dashboard)
+- [Contacts](/contacts)
 	- Contact Groups (*TODO*)
-- [Companies](/features/companies)
-- [Access Control](/features/acl)
+- [Companies](/companies)
+- [Access Control](/acl)
 	- Departments (*TODO*)
-- [Offerings](/features/offerings)
-- [Attributes](/features/attributes)
-- [Mailbox](/features/mailbox)
+- [Offerings](/offerings)
+- [Attributes](/attributes)
+- [Mailbox](/mailbox)
 - [Settings](/getting-started/settings/)
