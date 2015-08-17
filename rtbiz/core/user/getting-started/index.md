@@ -1,8 +1,8 @@
 ## 1. Getting Started
 
-- [Overview](/getting-started/overview)
-- [Installation](/getting-started/installation)
-- [Manage Settings](/getting-started/settings)
+- [Overview](/overview)
+- [Installation](/installation)
+- [Manage Settings](/settings)
 
 ## 2. Features
 
