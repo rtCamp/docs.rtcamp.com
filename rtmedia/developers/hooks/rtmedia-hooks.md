@@ -49,6 +49,7 @@
   * rtmedia_before_
   * rtmedia_after_
   * rtmedia_after_uploader
+  * [rtmedia_add_admin_bar_media_sub_menu](./rtmedia-hooks/action-to-add-admin-bar-media-sub-menu.md)
 
 
 ### Filters
