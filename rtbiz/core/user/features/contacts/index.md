@@ -30,7 +30,7 @@ A contact make various connections. These connection will appear based on the rt
 The possible connections are listed below:
 
 1. Wordpress Users
-2. Departments
+2. Teams
 3. Products
 4. Companies
 5. Leads

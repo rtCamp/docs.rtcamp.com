@@ -6,6 +6,7 @@ You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Set
 
 {% youtube %}https://www.youtube.com/watch?v=ziIclF-Tzq4 {% endyoutube %}
 
+![new-mail-setup](https://cloud.githubusercontent.com/assets/8191145/9351734/86513754-4679-11e5-8456-5c02bbc14588.png)
 
 ## 1. Mailboxes Set Up
 
@@ -25,14 +26,15 @@ Select correct provider from the options.
 
 Click Test Connection to add the mailbox.
 
-![mailsetup-2](https://cloud.githubusercontent.com/assets/8191145/9195964/6d535baa-4044-11e5-8314-e5ec670060ed.png)
+![mail-setup-test-connection](https://cloud.githubusercontent.com/assets/8191145/9351899/a14954dc-467a-11e5-8ffb-789545fcb6da.png)
+
 
 
 ###**v. Connected Mailbox**
 
 If added successfully the connected mailbox  will show like this
 
-![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
+![mail-setup-connected-mailbox](https://cloud.githubusercontent.com/assets/8191145/9351978/436417f2-467b-11e5-97d3-30d9edba1197.png)
 
 ###**vi. Set Assignee and Product for each Mailbox**
 
@@ -59,17 +61,32 @@ Click Add Another Mailbox button and repeat the same steps as above in order to 
 
 Once setup, customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
 
+## 2. Email Support
 
-## 2. Mailbox Reading
+This setting enables customer support via emails.
+
+###**i. Enable**:
+
+When enabled, staff can provide support to the customers by replying to their assigned tickets via email.
+
+###**ii. Disable**:
+
+When disabled, staff cannot provide email support to the customers.
+
+***Note:*** For **email only** support, please refer [7.3.1 Email Only Support](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/email_only_support.html).
+
+![mail-setup-connected-mailbox](https://cloud.githubusercontent.com/assets/8191145/9351978/436417f2-467b-11e5-97d3-30d9edba1197.png)
+
+## 3. Mailbox Reading
 
 
-**i. Enable**: When enabled,customers can directly send emails to the mailboxes and their tickets will be created in the Helpdesk. Customers and staff can add followups via email.
+**i. Enable**: When enabled, customers can directly send emails to the mailboxes and their tickets will be created in the Helpdesk. Customers and staff can add followups via email.
 
 **ii. Disable**: When Disabled, tickets will not be created via mail and new followups by customer and Staff cannot be added via mail.
 
 ![enable_mailbox_reading](https://cloud.githubusercontent.com/assets/8191145/6487363/bee796b8-c2b6-11e4-8b84-0f761513cb48.png)
 
-## 3. Reply Via Email
+## 4. Reply Via Email
 
 This is used to allow or block the email followups.
 
@@ -79,34 +96,49 @@ This is used to allow or block the email followups.
 
 ![Reply via Email](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/46a4d1e93f/Reply_via_Email.png)
 
-## 4. Outgoing Emails Mailbox
+## 5. Web Support
+
+###**i. Enable**:
+
+When enabled, customers will be able to submit their issues via support form and will be able to access ticket's front end user interface.
+
+###**ii. Disable**:
+
+When disabled, customers won't be able to access the support form and they won't have access to ticket's front end user interface.
+
+![mail-setup-connected-mailbox](https://cloud.githubusercontent.com/assets/8191145/9351978/436417f2-467b-11e5-97d3-30d9edba1197.png)
+
+## 6. Outgoing Emails Mailbox
 
 Select any of the configured mailboxes which will be used to send outgoing emails/notifications.
 
-![outgoing_emails_mailbox](https://cloud.githubusercontent.com/assets/8191145/6487585/1f68f206-c2b8-11e4-9ba1-c0d6d52a2612.png)
 
 
-## 5. Outgoing Emails 'From' Name
+## 7. Outgoing Emails 'From' Name
 
 Here admins can set any name to be used for outbound emails. This name will be used as```From: Name <email address>``` for all outgoing emails as shown in the screenshot below
 
-![outgoing_sysname_helpdesk](https://cloud.githubusercontent.com/assets/8191145/6501154/efa7c12c-c33a-11e4-8b76-936fc21bd2a2.png)
+
 
 ![name](https://cloud.githubusercontent.com/assets/8191145/6501114/52b3b830-c33a-11e4-9dad-5f6f832b66a5.png)
 
 
-## 6. Outgoing Emails From Same mailbox
+## 8. Outgoing Emails From Same mailbox
 
 This setting is useful when there are multiple mailboxes as shown in the screenshot below.
 
-**i. Enable:** When enabled, the outgoing emails will be delivered from the same mailbox using which the tickets were initially created. This setting will override the outgoing mailbox configured in Outgoing Emails Mailbox.
+###**i. Enable:**
 
-**ii. Disable:** When this setting is disabled, outgoing emails will only be delivered by the mailbox set in Outgoing Emails Mailbox.
+When enabled, the outgoing emails will be delivered from the same mailbox using which the tickets were initially created. This setting will override the outgoing mailbox configured in Outgoing Emails Mailbox.
+
+###**ii. Disable:**
+
+When this setting is disabled, outgoing emails will only be delivered by the mailbox set in Outgoing Emails Mailbox.
 
 ![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
 
 
-## 7. Blacklist Emails
+## 9. Blacklist Emails
 
 These are email addresses which are barred by the Administrator from creating any ticket.
 
