@@ -3,7 +3,7 @@
 Backend of the ticket follows WordPress posts native behaviour and UI. 'Ticket' is basically a custom post type.
 Below is the screenshot of how a ticket looks on the back end
 
-![ticket_admin_ui_latest](https://cloud.githubusercontent.com/assets/8191145/7632633/a5a1813a-fa6c-11e4-9a6a-debce41883bc.png)
+![edit-ticket-1](https://cloud.githubusercontent.com/assets/8191145/9361201/ee79121e-46b7-11e5-9fca-db5fc778a734.png)
 
 
 ###**1. Ticket Number**
@@ -84,33 +84,22 @@ Shows the order history of the customer.
 
 ![purchase_history](https://cloud.githubusercontent.com/assets/8191145/7634757/a61877d2-fa7a-11e4-862a-72987af64d16.png)
 
-###**11. Related Tickets**
 
-Option for staff to connect to tickets. Auto-suggestions can help staff to find a Related Tickets easily. Auto-suggestions works for ticket ID, ticket title and ticket content.
-
-![related_tickets](https://cloud.githubusercontent.com/assets/8191145/7634919/8bf2494a-fa7b-11e4-9a7b-89b16823b07e.png)
-
-###**12. Teams**
-
-You or other staff members can mark the tickets to be a part of appropriate teams. You have an option to add new teams as well.
-
-![teams](https://cloud.githubusercontent.com/assets/8191145/7634758/a61bab32-fa7a-11e4-8356-7200e51d1332.png)
-
-###**13. Blacklist Contacts**
+###**11. Blacklist Contacts**
 
 Staff can directly blacklist a contact from the ticket itself. Previously they had to reach admin to get the contacts blacklisted.
 
 ![blacklist_contacts](https://cloud.githubusercontent.com/assets/8191145/7634762/a68ed4c2-fa7a-11e4-8993-65e85920060b.png)
 
 
-###**14. Attachments**
+###**12. Attachments**
 
 List all the files that have been added to a ticket. Apart from the front end, staff can add files to the ticket from here too by clicking Add button.
 
 
 ![attachments](https://cloud.githubusercontent.com/assets/8191145/7634760/a61fbd58-fa7a-11e4-9c5b-8a26b348399e.png)
 
-###**15. Screen Options**
+###**13. Screen Options**
 
 Staff can add more options or remove existing ones as per requirement. Can also adjust screen layout and editor preferences from the Screen Options area in top right of the page.
 
@@ -118,7 +107,7 @@ Staff can add more options or remove existing ones as per requirement. Can also 
 
 
 
-###**16. Publish**
+###**14. Publish**
 
 Click on Update button to publish or update the ticket. There is also an option to delete the ticket by clicking Move to Trash.
 

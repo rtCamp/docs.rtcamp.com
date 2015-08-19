@@ -4,8 +4,7 @@
 Helpdesk uses the WordPress behaviour to show tickets listing.
 Here is a screenshot of the same
 
-
-![tickets](https://cloud.githubusercontent.com/assets/8191145/9193024/d64a5bb6-402d-11e5-847a-8b4a053a8c99.png)
+![tl-1](https://cloud.githubusercontent.com/assets/8191145/9361195/ee375c16-46b7-11e5-9134-c3090962de4b.png)
 
 
 ## A. Columns
@@ -96,8 +95,6 @@ Option to filter tickets by assignee.
 
 Option to filter tickets by products. Select the Product from the dropdown and click the Filter button, it will then display only the tickets for the selected Product.
 
-![tickets](https://cloud.githubusercontent.com/assets/8191145/9193024/d64a5bb6-402d-11e5-847a-8b4a053a8c99.png)
-
 
 
 ## C. Ticket Editing
@@ -108,7 +105,7 @@ Option to filter tickets by products. Select the Product from the dropdown and c
 
 Mouseover any ticket to quickly edit it.
 
-![quick edit](https://cloud.githubusercontent.com/assets/8191145/9193440/1745a6fe-4031-11e5-9ad7-e253fffb242e.png)
+![tl-2](https://cloud.githubusercontent.com/assets/8191145/9361194/ee311b1c-46b7-11e5-84a0-a7f2c6c94020.png)
 
 
 ####**ii) Click Quick Edit**

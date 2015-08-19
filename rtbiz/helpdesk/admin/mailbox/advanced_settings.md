@@ -1,20 +1,21 @@
 # Advanced Settings
-![advanced_settings](https://cloud.githubusercontent.com/assets/8191145/7652745/354fa940-fb2d-11e4-8f71-637d56d8d975.png)
 
-## 1. Enable auto assign
+![advanced-settings-1](https://cloud.githubusercontent.com/assets/8191145/9361197/ee5687da-46b7-11e5-9ef4-032dee4b67f3.png)
 
-![auto_assign_feature](https://cloud.githubusercontent.com/assets/8191145/6750093/e7fb5ba8-cf1c-11e4-82f0-fbc42cf01115.png)
 
-#### i. When first followup is added to a ticket by any staff member
+## 1. Auto Assign Tickets
+
+
+#### a. When first followup is added to a ticket by any staff member
 
 If this option is selected then the ticket will be assigned to the staff member who adds the **first followup** to the customer's ticket
 
-#### ii. When any followup is added to a ticket by any staff member
+#### b. When any followup is added to a ticket by any staff member
 
 If this option is selected then the ticket will automatically be assigned to **any** staff member who answers the ticket.
 
 
-## 2 . Enable auto response
+## 2. Auto response
 
 Auto Response feature is used to send predefined response messages automatically to anyone who sends mail to a particular mailbox or creates a ticket by filling the support form.
 
@@ -22,29 +23,33 @@ Auto response message is useful to instantly notify the customers who create a t
 
 ![Auto Response](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/98282b6aef/Auto_Response.png)
 
-### i. Select working shift.
+### a. Select working shift.
 
-#### a) Dayshift
+#### i. Dayshift
 
-Select weekdays and hours of operation for the dayshift. When customers create tickets in times other than those saved in this setting, they will receive the auto response message.
+Select weekdays and hours of operation for the dayshift. When customers create tickets in times other than those saved in this setting, they will receive the auto response message (Check
 
 ![dayshift](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/59b8decd0d/dayshift.png)
 
-For example, If setting is saved as in the screenshot above and  a customer sends a mail to the mailbox on Monday, 19:00 Hours the customer will get the set auto response message as shown in the screenshot below
 
-![auto_response_message](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/5edfcedddd/auto_response_message.png)
 
-#### b) Nightshift
+#### ii. Day-Night Shift
 Select the weekdays and hours of operation for the nightshift from here. When customers create tickets in times other than those saved in this setting, they will receive the auto response message.
 
 ![nightshift](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/f1da898317/nightshift.png)
 
-#### iii. Auto respond on weekends only -
+### c. Auto respond on weekends only
 
 Auto replies will only be sent on weekends.
 <br/>
 
 ![auto_response_weekend](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/50cb7274ae/auto_response_weekend.png)
+
+### d. Auto response message
+
+You can set the auto response message as shown in the screenshot below
+
+![auto_response_message](http://git.rtcamp.com/uploads/rtbiz/rtbiz-helpdesk/5edfcedddd/auto_response_message.png)
 
 ## 3. Adult Content Filter
 

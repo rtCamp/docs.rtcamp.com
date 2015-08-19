@@ -5,9 +5,7 @@ Customers will be created automatically when they create a support ticket by sub
 
 Click on Customers menu item under Helpdesk menu to reach the customers page as shown in the screenshot below
 
-![customer](https://cloud.githubusercontent.com/assets/8191145/8449079/c24ee788-1feb-11e5-9420-ad3e515c24bf.png)
-
-
+![customer-1](https://cloud.githubusercontent.com/assets/8191145/9361192/ee2f2cb2-46b7-11e5-94d8-74075b3a37d3.png)
 
 ## Columns
 
@@ -21,17 +19,17 @@ Displays the number of tickets associated with the particular customer.
 
 ##  Links
 
-### **All**
+### **1. All**
 
 Clicking **All** displays the list of customers and the number of tickets associated with them as shown in the screenshot above
 
-### **With Tickets**
+### **2. With Tickets**
 
 Clicking 'With Tickets' will display the customers with ticket count greater than or equal to one.
 
 ![with tickets](https://cloud.githubusercontent.com/assets/8191145/9269775/42ea660e-428a-11e5-8e2b-fe03633f5d3c.png)
 
-### **Without Tickets**
+### **3. Without Tickets**
 
 Clicking 'Without Tickets' will display the customers with no tickets.
 

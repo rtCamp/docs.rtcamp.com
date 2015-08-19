@@ -23,11 +23,11 @@ Using this option you can import all the WordPress users into Staff, in a single
 
 You can give roles to all these new staff members. The Helpdesk roles are somewhat similar to WordPress roles. (Refer 10. [Staff and Roles](http://docs.rtcamp.com/rtbiz/helpdesk/admin/staff_and_roles/index.html) for details)
 
-* Admin - Can manage all tickets and Helpdesk settings.
+* **Admin** - Can manage all tickets and Helpdesk settings.
 
-* Editor - Can manage all the tickets. No access to settings.
+* **Editor** - Can manage all the tickets. No access to settings.
 
-* Author - Can manage only the tickets assigned to them. No access to settings.
+* **Author** - Can manage only the tickets assigned to them. No access to settings.
 
 
 ![add_all_wp_users](https://cloud.githubusercontent.com/assets/8191145/7654458/edf9c77a-fb3a-11e4-834f-e54e1876a11f.png)

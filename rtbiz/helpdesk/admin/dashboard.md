@@ -2,8 +2,7 @@
 
 The Helpdesk dashboard is a collection of useful widgets. The Helpdesk dashboard looks similar to screenshot below:
 
-![new_helpdesk_dashboard](https://cloud.githubusercontent.com/assets/8191145/9268895/478ab92e-4281-11e5-8219-f601cf517148.png)
-
+![dashboard-1](https://cloud.githubusercontent.com/assets/8191145/9361200/ee66d324-46b7-11e5-9dd0-af5a41bb7b9b.png)
 
 ## 1. Welcome Widget
 

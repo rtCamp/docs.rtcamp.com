@@ -3,25 +3,26 @@
 ##Backend reporting
  The staff members with access to Helpdesk backend can sort and filter the tickets based on Dates , Ticket Status , Assignee , Ticket Authors, Products, Teams and more. (See [Section 3.6](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_listing_ui.html) for details)
 
-Navigate to the ticket listing page by clicking Helpdesk -> Tickets
+Navigate to the ticket listing page by clicking ```Helpdesk -> Tickets```
 
-### Filters
+### 1. Filters
 
-![filters](https://cloud.githubusercontent.com/assets/9676513/6465970/7adbf31e-c1ea-11e4-8dfd-56dd7c311bd7.png)
+You can filter the tickets as explained in [Section 3.6 ticket Listing UI](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_listing_ui.html#b-sorting-and-filters)
 
-(See [Section 3.6 ticket Listing UI](http://docs.rtcamp.com/rtbiz/helpdesk/admin/tickets/ticket_listing_ui.html#b-sorting-and-filters) for details)
 
-####Click on links for filtering
+### 2. Filter by customer gravatars
 
-i. Go to the Tickets section
+Click on customer's gravatars as highlighted in screenshot below to see all the tickets created by that customer.
 
-ii. Click on customer's gravatar to check the tickets connected with that customer.
+### 3. Filter by staff gravatars
 
-iii. Click on staff's gravatar to see all the tickets where that staff member is involved.
+Click on staff's gravatar to see all the tickets where that staff member is involved.
 
-iv. Click on Products to filter tickets by Products.
+### 4. Filter by clicking products
 
-![ticket_listing_user_interface](https://cloud.githubusercontent.com/assets/8191145/8516800/a5900dcc-23d6-11e5-90c5-6ffbafe1966d.png)
+Click on the product names to filter tickets which belong to them.
+
+![reports-1](https://cloud.githubusercontent.com/assets/8191145/9361199/ee5a54a0-46b7-11e5-91cf-bdc128853961.png)
 
 
 ##Dashboard Widgets

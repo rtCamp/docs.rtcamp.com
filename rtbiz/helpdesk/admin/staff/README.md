@@ -4,7 +4,9 @@ Staff are the members of the support team which are part of an organisation whic
 
 To reach to Staff page click on Staff menu item under Helpdesk menu.The staff page will look similar to the screenshot below:
 
-![staff](https://cloud.githubusercontent.com/assets/8191145/8430727/3b4552e4-1f51-11e5-8d85-071b81ed855c.png)
+![staff-1](https://cloud.githubusercontent.com/assets/8191145/9361203/eea3efca-46b7-11e5-97d8-36d87b8ac924.png)
+
+
 
 ##**Columns**
 
@@ -22,19 +24,19 @@ This displays the number of tickets associated with the staff member.
 
 ##  Links
 
-### All
+### 1.  All
 
 Clicking **All** displays all the staff members.
 
-### Admin
+### 2. Admin
 
 Clicking 'Admin' will show the staff members who are Helpdesk administrators.
 
-### Editor
+### 3. Editor
 
 Clicking 'Editor' will show the staff members who have Helpdesk editors.
 
-### Author
+### 4. Author
 
 Clicking 'Author' this will show the staff members who are Helpdesk authors.
 

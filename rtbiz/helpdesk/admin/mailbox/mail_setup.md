@@ -6,23 +6,24 @@ You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Set
 
 {% youtube %}https://www.youtube.com/watch?v=ziIclF-Tzq4 {% endyoutube %}
 
-![new-mail-setup](https://cloud.githubusercontent.com/assets/8191145/9351734/86513754-4679-11e5-8456-5c02bbc14588.png)
+![mail-setup-1](https://cloud.githubusercontent.com/assets/8191145/9361196/ee5369d8-46b7-11e5-8f93-1bf5a14de8e1.png)
+
 
 ## 1. Mailboxes Set Up
 
-### **i. Email**
+### **a. Email**
 
  Add here the email id you want to setup as a mailbox.
 
-###**ii. Password**
+###**b. Password**
 
 Enter the password for the above email id.
 
-###**iii. Provider**
+###**c. Provider**
 
 Select correct provider from the options.
 
-###**iv. Test Connection**
+###**d. Test Connection**
 
 Click Test Connection to add the mailbox.
 
@@ -30,34 +31,41 @@ Click Test Connection to add the mailbox.
 
 
 
-###**v. Connected Mailbox**
+###**e. Connected Mailbox**
 
 If added successfully the connected mailbox  will show like this
 
-![mail-setup-connected-mailbox](https://cloud.githubusercontent.com/assets/8191145/9351978/436417f2-467b-11e5-97d3-30d9edba1197.png)
+![mail-setup-2](https://cloud.githubusercontent.com/assets/8191145/9361198/ee590d5c-46b7-11e5-87a1-a33e5f5f9069.png)
 
-###**vi. Set Assignee and Product for each Mailbox**
+
+###**f. Set Assignee and Product for each Mailbox**
 
 You have the option to configure mailbox folders to be parsed and select a product and assignee for each mailbox.
 
-* **Select Folder** - Click Select Folder button to customize the *Product* and *Assignee* associated with the mailbox.
+####**i. Select Folder**
 
-* **Select Product** - Select the product which belongs to the tickets created via this mailbox.
+Click Select Folder button to customize the *Product* and *Assignee* associated with the mailbox.
+
+####ii. **Select Product**
+
+Select the product which belongs to the tickets created via this mailbox.
 This is an optional field.
 
-* **Select Assignee** - Select the assignee who will be responsible for the tickets created via this mailbox. This field is also optional.
+####iii. **Select Assignee**
 
-* **Save** - Click this button to save the changes.
+Select the assignee who will be responsible for the tickets created via this mailbox. This field is also optional.
+
+####iv. **Save**
+
+Click this button to save the changes.
 
 The tickets created from this mailbox will be assigned to the assignee selected here and belong to the product saved here.
 
-![mb_setup](https://cloud.githubusercontent.com/assets/8191145/8983820/e9ef99de-36ea-11e5-9012-182ffd0077bf.png)
+![mail-setup-3](https://cloud.githubusercontent.com/assets/8191145/9361191/ee2d5cca-46b7-11e5-99df-dbe8053c03e5.png)
 
-###**vii. Another Mailbox**
+###**g. Another Mailbox**
 
-Click Add Another Mailbox button and repeat the same steps as above in order to set up another mailbox account.
-
-###**viii. Send email to mailbox for creating tickets**
+Click Add Another Mailbox button as shown in the above screenshot and repeat the same steps as above in order to set up another mailbox account.
 
 Once setup, customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
 
