@@ -6,7 +6,8 @@ This section lists the products of an organization. It includes products sold us
 
 Click on Products menu item under Helpdesk to open the Products section. It looks similar to the screenshot below
 
-![products](https://cloud.githubusercontent.com/assets/8191145/8355746/a04b8a14-1b6e-11e5-8d14-14d885ce4b05.png)
+![products-1](https://cloud.githubusercontent.com/assets/8191145/9383390/521ef78a-4766-11e5-8956-845d49df27a4.png)
+
 
 ### Custom Products
 
@@ -26,7 +27,7 @@ The “slug” is the URL-friendly version of the name. It is usually all lowerc
 
 From this dropdown you can choose the parent product for new product or you can keep the default value.
 
-![add new prod](https://cloud.githubusercontent.com/assets/8191145/8449630/e55340b2-1ff0-11e5-84b4-2a633ec8a419.png)
+
 
 ####4) Description
 
@@ -36,11 +37,11 @@ Here you can add some details regarding the Product. This is an optional field.
 
 You can select the default staff member for the Product tickets. This dropdown will list the available staff members. The staff member choosen here will be assigned to the tickets created for this Product.
 
-This default assignee will override the default assignee set in the General Settings. (Ref 7.1 General for details)
+This product assignee will override the default assignee set in the General Settings. (Ref [Section 7.1. General](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#3-default-assignee) for details)
 
 This is also an optional field.
 
-All Helpdesk Products will be visible in Choose Products dropdown in the support form (Ref Section 7.1. General for details)
+All Helpdesk Products will be visible in Choose Products dropdown in the support form (Ref [Section 7.1. General](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/general.html#support-form) for details)
 
 ##Columns
 
@@ -62,11 +63,11 @@ Shows the Product id for Woocommerce or Easy Digital Download products.
 
 ####E) Helpdesk default assignee
 
-Any ticket related to the products will be first assigned to the default assignee. The assignee is set during the initial setup of the plugin. (Ref [section 1.1 Setup Wizard, Point 4](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#4-set-assignee) for details)
+Any ticket related to the products will be first assigned to the default assignee. The assignee is set during the initial setup of the plugin. (Refer [section 1.1 Setup Wizard, Point 4](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#4-set-assignee) for details)
 
 You can easily update the default assignees from this page by doing a mouseover on Product and quick editing.
 
-![products](https://cloud.githubusercontent.com/assets/8191145/8355746/a04b8a14-1b6e-11e5-8d14-14d885ce4b05.png)
+![products-1](https://cloud.githubusercontent.com/assets/8191145/9383390/521ef78a-4766-11e5-8956-845d49df27a4.png)
 
 ####Screen Options
 

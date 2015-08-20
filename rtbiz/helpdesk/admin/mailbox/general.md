@@ -1,8 +1,8 @@
 # General Settings
 
-![settings_general](https://cloud.githubusercontent.com/assets/8191145/7652193/846b27da-fb27-11e4-8db0-0017933c5625.png)
+![genral-settings-1](https://cloud.githubusercontent.com/assets/8191145/9383391/52214436-4766-11e5-9834-ce972eb51928.png)
 
-### 1. Support Page
+## 1. Support Page
 
 i) The support page is used for product support. Customers enter their queries by filling the support form. Their query becomes a Helpdesk ticket.
 
@@ -51,7 +51,7 @@ Refresh the settings area. The newly created support page will be populated in t
 The support form looks like the screenshot shown below
 <br/><br/>
 
-![support](http://git.rtcamp.com/rtbiz/rtbiz/uploads/efe7fef540e97417beaa54de635c5019/support.png)
+![get-support-1](https://cloud.githubusercontent.com/assets/8191145/9383389/51e121f8-4766-11e5-8ad5-c05154e15c03.png)
 
 
 
