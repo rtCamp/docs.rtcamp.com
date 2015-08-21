@@ -22,7 +22,7 @@ Click on *Launch Instance* to start your amazon EC2 Instance Launch.
 
 - Configure Instance Details
 
-    Here you should select **Shotdown Behaviour** as **Stop** Otherwise your instance will get terminated on shutdown/reboot.
+    Here you should select **Shutdown Behaviour** as **Stop** Otherwise your instance will get terminated on shutdown/reboot.
 ![Configure Instance Details](https://rtcamp.com/wp-content/uploads/2014/10/Screenshot-from-2014-08-12-190908.png)
 
 - Add Storage
