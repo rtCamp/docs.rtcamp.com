@@ -2,15 +2,15 @@
 
 It is required to configure a mailbox for the Helpdesk system for sending emails/ notifications to the users. Admins can set up multiple mailboxes.
 
-You have the option to set up the mailbox during the Set up wizard (Ref [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup)) or you could do the same  by going to ```Helpdesk Settings -> Mail Setup``` as explained in the video below
+You have the option to set up the mailbox during the Set up wizard (Refer [1.1 Setup Wizard. Point 5](http://docs.rtcamp.com/rtbiz/helpdesk/admin/setup.html#5-mailbox-setup) for details) or you could do the same  by going to ```Helpdesk Settings -> Mail Setup``` as explained in the video below
 
 [![Mail Setup](http://img.youtube.com/vi/ziIclF-Tzq4/0.jpg)](https://www.youtube.com/watch?v=ziIclF-Tzq4)
 
 ## Mail setup settings
 
-Mail setup settings looks like the screenshot below
+Mail setup settings look like the image shown below
 
-![mail-setup-1](https://cloud.githubusercontent.com/assets/8191145/9361196/ee5369d8-46b7-11e5-8f93-1bf5a14de8e1.png)
+![mail-setup-2](https://cloud.githubusercontent.com/assets/8191145/9407077/c41b2832-4823-11e5-8c87-ca64206f97d5.png)
 
 
 ## 1. Mailboxes Set Up
@@ -30,8 +30,6 @@ Select correct provider from the options.
 ###**d. Test Connection**
 
 Click Test Connection to add the mailbox.
-
-![mail-setup-test-connection](https://cloud.githubusercontent.com/assets/8191145/9351899/a14954dc-467a-11e5-8ffb-789545fcb6da.png)
 
 
 
@@ -87,7 +85,7 @@ When disabled, staff cannot provide email support to the customers.
 
 ***Note:*** For **email only** support, please refer [7.3.1 Email Only Support](http://docs.rtcamp.com/rtbiz/helpdesk/admin/mailbox/email_only_support.html).
 
-![mail-setup-connected-mailbox](https://cloud.githubusercontent.com/assets/8191145/9351978/436417f2-467b-11e5-97d3-30d9edba1197.png)
+![mail-setup-2](https://cloud.githubusercontent.com/assets/8191145/9407077/c41b2832-4823-11e5-8c87-ca64206f97d5.png)
 
 ## 3. Mailbox Reading
 
@@ -118,7 +116,8 @@ When enabled, customers will be able to submit their issues via support form and
 
 When disabled, customers won't be able to access the support form and they won't have access to ticket's front end user interface.
 
-![mail-setup-connected-mailbox](https://cloud.githubusercontent.com/assets/8191145/9351978/436417f2-467b-11e5-97d3-30d9edba1197.png)
+
+
 
 ## 6. Outgoing Emails Mailbox
 
@@ -147,7 +146,7 @@ When enabled, the outgoing emails will be delivered from the same mailbox using 
 
 When this setting is disabled, outgoing emails will only be delivered by the mailbox set in Outgoing Emails Mailbox.
 
-![new-mailsetup-image](https://cloud.githubusercontent.com/assets/8191145/9195862/bb04fba2-4043-11e5-86d4-56b3b371e4ac.png)
+
 
 
 ## 9. Blacklist Emails
