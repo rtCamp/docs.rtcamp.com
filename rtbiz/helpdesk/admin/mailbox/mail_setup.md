@@ -123,18 +123,7 @@ When disabled, customers won't be able to access the support form and they won't
 
 Select any of the configured mailboxes which will be used to send outgoing emails/notifications.
 
-
-
-## 7. Outgoing Emails 'From' Name
-
-Here admins can set any name to be used for outbound emails. This name will be used as```From: Name <email address>``` for all outgoing emails as shown in the screenshot below
-
-
-
-![name](https://cloud.githubusercontent.com/assets/8191145/6501114/52b3b830-c33a-11e4-9dad-5f6f832b66a5.png)
-
-
-## 8. Outgoing Emails From Same mailbox
+## 7. Outgoing Emails From Same mailbox
 
 This setting is useful when there are multiple mailboxes as shown in the screenshot below.
 
@@ -145,6 +134,17 @@ When enabled, the outgoing emails will be delivered from the same mailbox using 
 ###**ii. Disable:**
 
 When this setting is disabled, outgoing emails will only be delivered by the mailbox set in Outgoing Emails Mailbox.
+
+
+
+## 8. Outgoing Emails 'From' Name
+
+Here admins can set any name to be used for outbound emails. This name will be used as```From: Name <email address>``` for all outgoing emails as shown in the screenshot below
+
+
+
+![name](https://cloud.githubusercontent.com/assets/8191145/6501114/52b3b830-c33a-11e4-9dad-5f6f832b66a5.png)
+
 
 
 
