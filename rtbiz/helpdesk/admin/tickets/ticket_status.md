@@ -17,3 +17,4 @@ Represents that a ticket has been resolved by staff.
 Note: The new versions of helpdesk will have provision to create custom statuses.
 
 
+![ticket-overflow](https://cloud.githubusercontent.com/assets/8191145/9410477/1bdf66f4-483e-11e5-94cc-03b699673ec0.png)

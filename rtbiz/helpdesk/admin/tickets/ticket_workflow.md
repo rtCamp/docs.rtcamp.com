@@ -17,7 +17,8 @@ The ticket workflow is as follows:
 
 Please see the flowchart below to understand the ticket workflow better:
 
-![Workflow](https://cloud.githubusercontent.com/assets/9676513/6328106/d0e9fccc-bb89-11e4-8354-4c406f07a98f.jpg)
+![ticket-overflow](https://cloud.githubusercontent.com/assets/8191145/9410477/1bdf66f4-483e-11e5-94cc-03b699673ec0.png)
+
 
 #### Manual update options for staff
 Apart from the auto-change features, all staff members have an option to edit the status either from the Status dropdown present in ticket's Web UI or from the ticket's backend.
