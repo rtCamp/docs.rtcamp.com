@@ -4,14 +4,16 @@
 
 ![rtmedia-seo-settings](https://cloud.githubusercontent.com/assets/9261540/9434396/23dd689a-4a5c-11e5-9662-2d754e43eaa9.png)
 
-1. This button enables sitemap for public media uploaded via rtMedia plugin only. By activating this feature admin can create sitemap for all public media by using yoast SEO plugin or manually with rtMedia SEO addon.
+1. By activating this button, it allows you to generate sitemap for all the media files uploaded via rtMedia plugin.
 
 2. This is for maximum number of entries per sitemap page.
 
 3. This link will redirect you to install yoast SEO or activate yoast Sitemap feature.
 If you want to create/handle sitemap automatically by yoast SEO plugin.
 
-4. This link will redirect you to generate sitemap file. 
+4. If Yoast SEO plugin not installed or used on your site, this link will automatically manage to create sitemap for media files.
+
+If you are using Yoast SEO plugin, sitemap for media files can be found under plugin settings.
 
 
 ## Features
