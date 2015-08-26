@@ -38,4 +38,4 @@ title: "Install EasyEngine on Linode"
 
 - Login with SSH
 
-- Next Step is to [Install EasyEngine](/easyengine/install/#QuickSetup) On your Fresh Droplet
+- Next Step is to [Install EasyEngine](/easyengine/install/#QuickSetup) On your Fresh Linode
