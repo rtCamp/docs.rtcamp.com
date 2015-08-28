@@ -1,6 +1,6 @@
 # Email Only Support
 
-*Note: This feature will be released shortly*
+
 
 You have the option to provide support to your customers exclusively via emails. Please follow the steps described below to provide email only support.
 
