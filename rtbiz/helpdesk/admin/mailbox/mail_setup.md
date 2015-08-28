@@ -42,7 +42,7 @@ If added successfully the connected mailbox  will show like this
 
 ###**f. Set Assignee and Product for each Mailbox**
 
-You have the option to configure mailbox folders to be parsed and select a product and assignee for each mailbox.
+You have the option to configure the mailbox folders to be parsed and select a product and assignee for each mailbox.
 
 ####**i. Select Folder**
 
@@ -70,6 +70,8 @@ The tickets created from this mailbox will be assigned to the assignee selected 
 Click Add Another Mailbox button as shown in the above screenshot and repeat the same steps as above in order to set up another mailbox account.
 
 Once setup, customers can send emails to the mailboxes and their tickets will be created in the Helpdesk.
+
+*Note: Only unread mails in the mailbox are created as tickets.*
 
 ## 2. Email Support
 
