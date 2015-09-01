@@ -44,3 +44,4 @@ rtMedia addons can be purchased from the [rtCamp Store](https://rtcamp.com/produ
 36. [rtMedia Set Custom Thumbnails](../addons/set-custom-thumbnail.md) - Allows media owner to upload a custom image as a thumbnail for audio, video, playlist and favlist.
 37. [rtMedia BuddyPress Group Media Control](../addons/buddypress-group-media-control.md) - Allow group owner to provide media upload feature for their group.
 38. [rtMedia WordPress Comment Attachment](../addons/rtmedia-wordpress-comment-attachment.md) - Allow users to upload media in post/page comments section.
+38. [rtMedia SEO](../addons/rtmedia-seo.md) - Allow users to generate sitemap for media uploaded via rtmedia using yoast SEO plugin or by this plugin manually.
