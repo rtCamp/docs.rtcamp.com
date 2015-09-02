@@ -115,6 +115,7 @@ Open the following file in your favorite text and editor set 'email = yourmail@e
 ##### Q 19. What is MySQL username and password?
 
 MySQL username and password is saved in /etc/mysql/conf.d/my.cnf file while installing mysql. EasyEngine reads username and password from this file.
+
 If my.cnf is not found on above location , EasyEngine also searches for same in ~/.my.cnf .
 
 
