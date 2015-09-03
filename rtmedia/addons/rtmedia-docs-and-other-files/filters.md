@@ -68,17 +68,26 @@ function rtm_other_files_document_other_files_list_date_filter ( $date_time ) {
 * ####rtm_docs_file_add_column <a name="rtm_docs_file_add_column"></a>
 ***
 Filter to add new column in **table view style** for document and other file types.
-Below example is to add column for **Type of file** in table view style.
+Below example is to add column for **Type of file** and to add columns for **Media author** in table view style.
 ```php
-add_filter( 'rtm_docs_file_add_column', 'rtm_docs_file_add_column_type', 10, 1 );
+add_filter( 'rtm_docs_file_add_column', 'rtm_docs_file_add_column_type_owner', 10, 1 );
 /**
  * This function is to add column heading, class and callback function.
  */
-function rtm_docs_file_add_column_type( $column ) {
-    $column = array('columns' => 'Type',
-                    'class' => 'rtmedia-list-document-td-size',
-                    'callback' => 'rtmedia_render_docs_type_content',
-                    );
+function rtm_docs_file_add_column_type_owner( $column ) {
+
+	$column[] = array(
+		'columns' => 'Owner',
+		'class' => 'rtmedia-list-document-td-size',
+		'callback' => 'rtmedia_render_docs_owner_content',
+	);
+
+	$column[] = array(
+		'columns' => 'Type',
+		'class' => 'rtmedia-list-document-td-size',
+		'callback' => 'rtmedia_render_docs_type_content',
+	);
+
     return $column;
 }
 
@@ -88,5 +97,11 @@ function rtm_docs_file_add_column_type( $column ) {
 function rtmedia_render_docs_type_content( $media_id ) {
     $type = rtmedia_media_ext( $media_id );
 echo '<td data-value="'. $type .'">'. $type .'</td>';
+}
+
+function rtmedia_render_docs_owner_content( $media_id ) {
+	global $rtmedia_media;
+	$type = rtmedia_get_author_name( $rtmedia_media->media_author );
+	echo '<td data-value="'. $type .'">'. $type .'</td>';
 }
 ```
