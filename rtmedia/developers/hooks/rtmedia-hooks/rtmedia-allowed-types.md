@@ -29,9 +29,11 @@ add_filter('rtmedia_allowed_types', 'custom_rtmedia_allowed_types');
 Below Example changes the default thumbnail for music. You need to use the following piece of code in your theme's functions.php file:
 
 ```php
-function custom_rtmedia_default_music_thumb($allowed_types) {
-        $allowed_types['music']['thumbnail'] = get_stylesheet_directory_uri().'/images/default_music_thumb.jpg';
-        return $allowed_types;
+function custom_rtmedia_default_music_thumb( $types ){
+        if( isset( $types['music'] ) ){
+			$types['music']['thumbnail'] = get_stylesheet_directory_uri().'/images/default_music_thumb.jpg';
+        }
+        return $types;
     }
-add_filter('rtmedia_allowed_types', 'custom_rtmedia_default_music_thumb');
+add_filter('rtmedia_allowed_types', 'custom_rtmedia_default_music_thumb', 999, 1);
 ```
