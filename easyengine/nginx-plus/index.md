@@ -17,7 +17,7 @@ http://docs.rtcamp.com/easyengine/install/#QuickSetup
 
 *--wpredis* option will not work while creating site with EasyEngine.
 
-*--wpfc* cache purge may not work as NGINX PLUS does not provide fastcgi_cache_purge module.
+*--wpfc*  with NGINX PLUS you can purge cache as given here.  http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html#fastcgi_cache_purge
 
 You may receive following warning when using `ee debug --nginx=on` if you have not nginx with debug option.
 
