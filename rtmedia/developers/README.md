@@ -10,7 +10,6 @@
 * [Change Username to User's Display Name in rtMedia Activity](./change-username-to-display-name-rtmedia-activity.md)
 * [Conditional Tags](./conditional-tags.md)
 * [Context](./context.md)
-* [Custom sorting for media gallery](./custom-sort-for-media-gallery.md)
 * [Custom thumbnail for each file type](./custom-thumbnail-for-each-file-type.md)
 * [Customize Media Gallery Template](customize-media-gallery-template.md)
 * [Database Description](./database-description.md)
