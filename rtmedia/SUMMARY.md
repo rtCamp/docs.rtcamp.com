@@ -39,6 +39,7 @@
    * [Custom thumbnail for each file type](developers/custom-thumbnail-for-each-file-type.md)
    * [Customize Media Gallery Template](developers/customize-media-gallery-template.md)
    * [Database Description](developers/database-description.md)
+   * [Add or remove buddypress tabs](developers/add-or-remove-buddypress-tabs.md)
    * [Featured Media](developers/featured-media.md)
    * [Hooks](developers/hooks/rtmedia-hooks.md)
       * [Change Default Media Found Message Media Tab](developers/hooks/rtmedia-hooks/change-default-media-found-message-media-tab.md)

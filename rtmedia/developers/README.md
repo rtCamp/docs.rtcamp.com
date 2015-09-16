@@ -20,6 +20,7 @@
 * [Remove post-editor Shortcode Button](./remove-post-editor-shortcode-button.md)
 * [Rename rtMedia Upload Directory](./rename-rtmedia-upload-directory.md)
 * [Reordering Media Tab in BuddyPress](./reordering-media-tab-buddypress.md)
+* [Add or remove buddypress tabs](./add-or-remove-buddypress-tabs.md)
 * [Replace Default Mediaplayer](./replace-default-mediaplayer.md)
 * [rtMedia Defined Constants](./rtmedia-defined-constants.md)
 * [Show last N images in header](./show-last-n-images-in-header.md)
