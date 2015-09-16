@@ -9,3 +9,5 @@ If **User Override** is enabled by setting the switch to **ON**, a drop-down lis
 ![User privacy settings can override the rtMedia back end settings](https://rtcamp.com/wp-content/uploads/2013/09/UsersSettingPrivacyBuddyPressUpdates.png)
 
 User privacy preferences will override the default privacy setting made in the `rtMedia > Settings > Privacy`.
+
+
