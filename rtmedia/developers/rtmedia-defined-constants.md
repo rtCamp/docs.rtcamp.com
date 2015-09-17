@@ -39,3 +39,6 @@ NOTE : Define constants anywhere but before  `require_once(ABSPATH . 'wp-setting
   * `define ( 'RTMEDIA_FAVLIST_SLUG', 'favlist' );`
   * `define ( 'RTMEDIA_FAVLIST_LABEL', 'FavList' );`
   * `define ( 'RTMEDIA_FAVLIST_PLURAL_LABEL', 'FavList' );`
+  * `define ( 'RTMEDIA_USER_LIKES_LABEL', 'UserLike');`
+  * `define ( 'RTMEDIA_USER_LIKES_PLURAL_LABEL', 'UserLikes');`
+  
