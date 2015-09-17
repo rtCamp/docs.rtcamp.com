@@ -4,6 +4,7 @@ Following is the list of rtMedia defined constants along with with their default
 
 NOTE : Define constants anywhere but before  `require_once(ABSPATH . 'wp-settings.php');` file inclusion statement.
 
+
   * `define ( 'RTMEDIA_MEDIA_SLUG', 'media' );`
   * `define ( 'RTMEDIA_MEDIA_LABEL', 'Media' );`
   * `define ( 'RTMEDIA_ALL_SLUG', 'all' );`
@@ -17,7 +18,7 @@ NOTE : Define constants anywhere but before  `require_once(ABSPATH . 'wp-setting
   * `define ( 'RTMEDIA_GLOBAL_ALBUM_LABEL', 'Wall Post' );`
   * `define ( 'RTMEDIA_PHOTO_SLUG', 'photo' );`
   * `define ( 'RTMEDIA_PHOTO_PLURAL_SLUG', 'photos' );`
-	* `define ( 'RTMEDIA_PHOTO_LABEL', 'Photo' );`
+  * `define ( 'RTMEDIA_PHOTO_LABEL', 'Photo' );`
   * `define ( 'RTMEDIA_PHOTO_PLURAL_LABEL', 'Photos' );`
   * `define ( 'RTMEDIA_VIDEO_SLUG', 'video' );`
   * `define ( 'RTMEDIA_VIDEO_PLURAL_SLUG', 'videos' );`
@@ -38,7 +39,6 @@ NOTE : Define constants anywhere but before  `require_once(ABSPATH . 'wp-setting
   * `define ( 'RTMEDIA_OTHER_PLURAL_LABEL', 'Others' );`
   * `define ( 'RTMEDIA_FAVLIST_SLUG', 'favlist' );`
   * `define ( 'RTMEDIA_FAVLIST_LABEL', 'FavList' );`
-  * `define ( 'RTMEDIA_FAVLIST_PLURAL_LABEL', 'FavList' );`
+  * `define ( 'RTMEDIA_FAVLIST_PLURAL_LABEL', 'FavLists' );`
   * `define ( 'RTMEDIA_USER_LIKES_LABEL', 'UserLike');`
   * `define ( 'RTMEDIA_USER_LIKES_PLURAL_LABEL', 'UserLikes');`
-  
