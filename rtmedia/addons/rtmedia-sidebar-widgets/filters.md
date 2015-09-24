@@ -4,6 +4,7 @@
 * [rtm_gallery_widget_media_type_title](#rtm_gallery_widget_media_type_title)
 * [rtmedia_allow_uploader_view](#rtmedia_allow_uploader_view)
 * [rtmedia_upload_not_allowed_message](#rtmedia_upload_not_allowed_message)
+* [rtmedia_widget_show_public_media_only](#rtmedia_widget_show_public_media_only)
 
 ### Descriptions
 
@@ -62,5 +63,18 @@ function rtm_uploader_not_allowed_message( $msg, $uploader ) {
 		$msg = 'You are not allowed to upload media from this widget.'; 
 	}
 	return $msg;
+}
+```
+
+####rtmedia_widget_show_public_media_only <a name="rtmedia_widget_show_public_media_only"></a>
+***
+By default gallery widget will only show media with public privacy. Use this filter to modify that behaviour. 
+Retrun either true / false as per your requirement.
+
+```php
+add_filter( 'rtmedia_widget_show_public_media_only', 'rtmedia_widget_modify_show_public_media_only', 10, 1);
+
+function rtmedia_widget_modify_show_public_media_only( $show ) {
+	return false;
 }
 ```
