@@ -98,3 +98,4 @@
   * [rtmedia_gallery_sort_actions](./rtmedia-hooks/filter-to-modify-gallery-sort-actions.md)
   * [rtmedia_privacy_levels](./rtmedia-hooks/filter-to-modify-default-privacy-options.md)
   * [rtmedia_share_media_description](./rtmedia-hooks/filter-to-share-media-description.md)
+  * [rtmedia_media_tab_slug](./rtmedia-hooks/filter-to-make-album-as-default-media-tab.md)

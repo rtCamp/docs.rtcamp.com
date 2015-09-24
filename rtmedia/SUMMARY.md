@@ -59,6 +59,7 @@
       * [rtmedia_privacy_levels](developers/hooks/rtmedia-hooks/filter-to-modify-default-privacy-options.md)
       * [rtmedia_share_media_description](developers/hooks/rtmedia-hooks/filter-to-share-media-description.md)
       * [rtmedia_add_admin_bar_media_sub_menu](developers/hooks/rtmedia-hooks/action-to-add-admin-bar-media-sub-menu.md)
+      * [rtmedia_media_tab_slug](developers/hooks/rtmedia-hooks/filter-to-make-album-as-default-media-tab.md)
    * [Keywords to Get rtMedia Image Sizes](developers/keywords-get-rtmedia-image-sizes.md)
    * [Remove media file names](developers/remove-media-file-names.md)
    * [Remove post-editor Shortcode Button](developers/remove-post-editor-shortcode-button.md)
