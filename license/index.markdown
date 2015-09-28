@@ -87,6 +87,19 @@ If you have already activated license on old domain, you can simply click deac
 
 It may happen that old domain was a temporary site and is already deleted. In that case, you may delete that site from "my-accounts" section at URL [https://rtcamp.com/my-account/](https://rtcamp.com/my-account/).
 
+Follow below screenshots:
+
+![selection_173](https://cloud.githubusercontent.com/assets/1140051/10135712/ddcb9cdc-660d-11e5-9f57-555f3efa9c98.jpg)
+
+Deactivate old site:
+
+![selection_174](https://cloud.githubusercontent.com/assets/1140051/10135718/ea2dfe98-660d-11e5-82b6-89b602ebb107.jpg)
+
+Add new site:
+
+![selection_175](https://cloud.githubusercontent.com/assets/1140051/10135730/fb4b2f52-660d-11e5-915f-296d5a895d41.jpg)
+
+
 
 
 
