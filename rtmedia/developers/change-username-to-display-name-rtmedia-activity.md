@@ -12,7 +12,7 @@ function change_rtmedia_activity_username_single_media( $action, $username, $cou
     $user     = get_userdata( $user_id );
     $username = '<a href="' . get_rtmedia_user_link ( $user_id ) . '">' . $user->display_name . '</a>';
     $media_type_label = $count > 1 ? constant( 'RTMEDIA_' . strtoupper( $media_type ) .  '_PLURAL_LABEL' ) : constant( 'RTMEDIA_' . strtoupper( $media_type ) .  '_LABEL' );
-    $action   = sprintf( __( '%s added %d %s', 'rtmedia' ), $username, $count, $media_type_label );
+    $action   = sprintf( __( '%s added %d %s', 'buddypress-media' ), $username, $count, $media_type_label );
     return $action;
 }
 add_filter('rtmedia_buddypress_action_text_fitler', 'change_rtmedia_activity_username_single_media', 10, 5);
@@ -31,7 +31,7 @@ function change_rtmedia_activity_username_multiple_media( $action, $username, $c
     $user_id  = get_current_user_id();
     $user     = get_userdata( $user_id );
     $username = '<a href="' . get_rtmedia_user_link ( $user_id ) . '">' . $user->display_name . '</a>';
-    $action   = sprintf( __( '%s added %d %s', 'rtmedia' ), $username, $count, RTMEDIA_MEDIA_SLUG );
+    $action   = sprintf( __( '%s added %d %s', 'buddypress-media' ), $username, $count, RTMEDIA_MEDIA_SLUG );
     return $action;
 }
 add_filter('rtmedia_buddypress_action_text_fitler_multiple_media', 'change_rtmedia_activity_username_multiple_media', 10, 4);

@@ -15,8 +15,8 @@ function custom_rtmedia_allowed_types($allowed_types) {
 $allowed_types['document'] = array(
 'name' => 'document',
 'plural' => 'documents',
-'label' => __('Document', 'rtmedia'),
-'plural_label' => __('Documents', 'rtmedia'),
+'label' => __('Document', 'buddypress-media'),
+'plural_label' => __('Documents', 'buddypress-media'),
 'extn' => array('doc','pdf'),
 'thumbnail' => get_stylesheet_directory_uri().'/images/default_doc_thumb.jpg'
 );
