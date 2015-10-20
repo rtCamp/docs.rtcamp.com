@@ -21,12 +21,12 @@ Once the order is placed in Easy Digital Downloads and user select option to mak
 
 ### How it Works:
 
-This plugin only work with shmart account https://shmart.in/. You must have valid merchant ID, API key and secret keys.
+This plugin only work with shmart account [https://shmart.in/](https://shmart.in/). You must have valid merchant ID, API key and secret keys.
 First, you can contact to Shmart team and complete all the documentation work to get live account details.
 
 Shmart only accept payment in INR. Hence all the pricing of your product first need to convert into INR and then it will redirect towards shmart pyament page.
 
-For the conversion of any other currency to INR, we are using openexchangerate API (https://openexchangerates.org/) . By default, https://openexchangerates.org/ provide free API if we are converting USD to INR.
+For the conversion of any other currency to INR, we are using openexchangerate API (https://openexchangerates.org/) . By default, [https://openexchangerates.org/](https://openexchangerates.org/) provide free API if we are converting USD to INR.
 If your live store running with any other currency like Euro, Yen, etc. Then you must need to purchase paid API from https://openexchangerates.org/.
 
 ## Troubleshooting:
@@ -45,6 +45,6 @@ Kindly check if the mobile number is added by customer or not. Also verify that 
 
 The contact number is required fields by shmart payment gateway, hence in plugin we have implemented.
 
-If you are facing any other issues related to plugins, feel free to create a premium support ticket https://rtcamp.com/premium-support/.
+If you are facing any other issues related to plugins, feel free to create a premium support ticket [https://rtcamp.com/premium-support/](https://rtcamp.com/premium-support/).
 
 If you are getting errors related to shmart API or openexchnage, please try to contact respective support team.
