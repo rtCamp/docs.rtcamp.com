@@ -1,4 +1,7 @@
-## Shmart Payment Gateway - EDD extension
+---
+title: Shmart Payment Gateway - EDD extension
+---
+
 
 ### Description:
 
