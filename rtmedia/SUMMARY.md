@@ -25,6 +25,7 @@
     * [Other Settings](settings/other-settings.md)
     * [Regenerate Video Thumbnails](settings/regenerate-video-thumbnails.md)
     * [Audio Video Encoding Service](settings/audio-video-encoding.md)
+* [Shmart Payment Gateway](shmart-gateway-edd-addon/shmart.md)
 * [Developers](developers/README.md)
    * [Adding rtMedia updates to activity](developers/add-rtmedia-updates-to-activity-show-dropdown.md)
    * [Allow Custom Media Types](developers/allow-custom-media-types.md)
