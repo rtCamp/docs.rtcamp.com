@@ -45,7 +45,7 @@ Note: License key is just to provide future updates and support from our team fo
 We have provided a filter for the same. Check the below sample code:
 
 ```
-add_filter( 'edd_shmart_currency_conversion', 'alter_edd_shmart_currency_conversion', 10, 4 );
+            add_filter( 'edd_shmart_currency_conversion', 'alter_edd_shmart_currency_conversion', 10, 4 );
 
             function alter_edd_shmart_currency_conversion( $converted_amount, $amount, $base_currency, $currency ){
 
