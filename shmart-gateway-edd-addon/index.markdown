@@ -45,20 +45,17 @@ Note: License key is just to provide future updates and support from our team fo
 We have provided a filter for the same. Check the below sample code:
 
 ```
-            add_filter( 'edd_shmart_currency_conversion', 'alter_edd_shmart_currency_conversion', 10, 4 );
-
+add_filter( 'edd_shmart_currency_conversion', 'alter_edd_shmart_currency_conversion', 10, 4 );
             function alter_edd_shmart_currency_conversion( $converted_amount, $amount, $base_currency, $currency ){
 
                 // $converted_amount: Amount after conversion
                 // $amount: Actual product amount, may be in USD
                 // $base_currency: Base currency, for example INR
                 // $currency: INR
-
                 $exchange_rate = 60; // exchange rate for example 1 USD into INR
                 $converted_amount = ( $amount * $exchange_rate );
-
                 return $converted_amount;
-            }
+}
 ```
 
 ## Troubleshooting:
