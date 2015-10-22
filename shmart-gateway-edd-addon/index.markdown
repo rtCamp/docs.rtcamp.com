@@ -29,32 +29,32 @@ Shmart only accept payment in INR. Hence all the pricing of your product first n
 For the conversion of any other currency to INR, we are using openexchangerate API (https://openexchangerates.org/) . By default, [https://openexchangerates.org/](https://openexchangerates.org/) provide free API if we are converting USD to INR.
 If your live store running with any other currency like Euro, Yen, etc. Then you must need to purchase paid API from https://openexchangerates.org/.
 
-## License Key 
+## License Key
 
-Once this plugin has been purchased from our [store](https://rtcamp.com/products/shmart-payment-gateway-for-edd/), you will receive an email with plugin zip file along with license key. 
+Once this plugin has been purchased from our [store](https://rtcamp.com/products/shmart-payment-gateway-for-edd/), you will receive an email with plugin zip file along with license key.
 
 Use that license key under Downloads -> Settings -> License tab and activate it. Which will be helpful to receive future updates of this plugin.
 
 ![selection_025](https://cloud.githubusercontent.com/assets/1140051/10630834/6109d91a-77f7-11e5-8eb4-0a1a5efaace7.png)
 
 
-Note: License key is just to provide future updates and support from our team for the plugin. If license key is not activated on your site, still all the features will work fine. 
+Note: License key is just to provide future updates and support from our team for the plugin. If license key is not activated on your site, still all the features will work fine.
 
 ## Want to use another currency exchange API
 
 We have provided a filter for the same. Check the below sample code:
 
-```
+```php
 add_filter( 'edd_shmart_currency_conversion', 'alter_edd_shmart_currency_conversion', 10, 4 );
-            function alter_edd_shmart_currency_conversion( $converted_amount, $amount, $base_currency, $currency ){
 
-                // $converted_amount: Amount after conversion
-                // $amount: Actual product amount, may be in USD
-                // $base_currency: Base currency, for example INR
-                // $currency: INR
-                $exchange_rate = 60; // exchange rate for example 1 USD into INR
-                $converted_amount = ( $amount * $exchange_rate );
-                return $converted_amount;
+function alter_edd_shmart_currency_conversion( $converted_amount, $amount, $base_currency, $currency ){
+	// $converted_amount: Amount after conversion
+	// $amount: Actual product amount, may be in USD
+	// $base_currency: Base currency, for example INR
+	// $currency: INR
+	$exchange_rate = 60; // exchange rate for example 1 USD into INR
+	$converted_amount = ( $amount * $exchange_rate );
+	return $converted_amount;
 }
 ```
 
