@@ -3,7 +3,7 @@ title: Easy Digital Downloads - Shmart Payment Gateway
 ---
 
 
-### Description:
+## Description:
 
 This plugin is an extension for Easy Digital Downloads, allowing you to take payments through popular Indian service Shmart.
 
@@ -11,15 +11,18 @@ Shmart accepts payments via all VISA & MasterCard debit and credit cards and int
 
 Once the order is placed in Easy Digital Downloads and user select option to make payment through Shmart payment gateway then he will be taken to Shmart secure payment page for making payment. After payment process is completed user will be taken back to the main site.
 
-### Installation:
+## Installation:
 
 1. Download a plugin from my-account section.
 2. Install it like other WordPress plugins.
 3. Activate it and go to Downloads -> Payment Gateway tab.
 4. Select “Shmart (recommended for Indian users)”
-5. Scroll down the page for Shmart Settings, there you can add all the keys/ids related to shmart account and checkout label.
+5. Scroll down the page for Shmart Settings, there you can add all the keys/ids related to shmart account and checkout label. Find all the keys from [this section](https://merchant.shmart.in/developer_api_pay_by_shmart) (make sure you are logged in to shmart account).
 
-### How it Works:
+![selection_032](https://cloud.githubusercontent.com/assets/1140051/10691369/1fb1dba6-79a6-11e5-9a66-44f5a683fea2.png)
+
+
+## How it Works:
 
 This plugin only work with shmart account [https://shmart.in/](https://shmart.in/). You must have valid merchant ID, API key and secret keys.
 First, you can contact to Shmart team and complete all the documentation work to get live account details.
@@ -27,6 +30,8 @@ First, you can contact to Shmart team and complete all the documentation work to
 Shmart only accept payment in INR. Hence all the pricing of your product first need to convert into INR and then it will redirect towards shmart pyament page.
 
 For the conversion of any other currency to INR, we are using openexchangerate API (https://openexchangerates.org/) . By default, [https://openexchangerates.org/](https://openexchangerates.org/) provide free API if we are converting USD to INR.
+If your store using INR currency only, then openexchange API not required.
+
 If your live store running with any other currency like Euro, Yen, etc. Then you must need to purchase paid API from https://openexchangerates.org/.
 
 ## License Key
@@ -44,7 +49,7 @@ Note: License key is just to provide future updates and support from our team fo
 
 We have provided a filter for the same. Check the below sample code:
 
-<code>
+```
 add_filter( 'edd_shmart_currency_conversion', 'alter_edd_shmart_currency_conversion', 10, 4 );
 
 function alter_edd_shmart_currency_conversion( $converted_amount, $amount, $base_currency, $currency ){
@@ -56,7 +61,7 @@ function alter_edd_shmart_currency_conversion( $converted_amount, $amount, $base
 	$converted_amount = ( $amount * $exchange_rate );
 	return $converted_amount;
 }
-</code>
+```
 
 ## Troubleshooting:
 
