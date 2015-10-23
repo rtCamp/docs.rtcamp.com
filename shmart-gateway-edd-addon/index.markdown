@@ -1,5 +1,5 @@
 ---
-title: Shmart Payment Gateway - EDD extension
+title: Easy Digital Downloads - Shmart Payment Gateway
 ---
 
 
@@ -31,7 +31,7 @@ If your live store running with any other currency like Euro, Yen, etc. Then you
 
 ## License Key
 
-Once this plugin has been purchased from our [store](https://rtcamp.com/products/shmart-payment-gateway-for-edd/), you will receive an email with plugin zip file along with license key.
+Once this plugin has been purchased from our [store](https://rtcamp.com/products/easydigitaldownloads-shmart-payment-gateway), you will receive an email with plugin zip file along with license key.
 
 Use that license key under Downloads -> Settings -> License tab and activate it. Which will be helpful to receive future updates of this plugin.
 
