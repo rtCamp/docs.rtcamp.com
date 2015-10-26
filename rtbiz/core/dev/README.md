@@ -1,6 +1,6 @@
 Developers Documentation
 ========================
-- [Dashboard](/rtbiz/core/dev/dashboard/)
+- [Dashboard](/dashboard/index.md)
 - [Entity](/rtbiz/core/dev/entity/)
 	- [Contact](/rtbiz/core/dev/entity/contact/)
 	- [Company](/rtbiz/core/dev/entity/company/)
