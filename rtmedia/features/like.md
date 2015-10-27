@@ -8,6 +8,7 @@ To use this feature:
 
 ![like media](https://cloud.githubusercontent.com/assets/1140051/7513004/95c0407e-f4ce-11e4-830b-799618d501b0.png)
 
+From rtMedia v3.9, media author will be notified if other members likes the media.
 
 **Note:**: If you are the end-user and do not see the Like button feature available, you will need to contact website Admin.
 
