@@ -14,17 +14,13 @@ You can use the following shortcode to display a support form.
 ```
 ####**i. title**
 
-To show title in shortcode for support form or not.
+You can use the title attribute as shown above. This will show "Get support" as title. The default value is yes.
 Accepted Values = 'yes' / 'no' 
 
 ####**ii. allow_guest**
 
-To allow non logged in user to create support ticket or not.
+To allow non logged in user to create support ticket or not. Default value is no.
 Accepted Values = 'yes' / 'no' 
-
-####**Title attribute**
-
-You can use the title attribute as shown above. This will show "Get support" as title. The default value is yes. Accepts yes/no.
 
 ### 2. Shortcode for Tickets
 
