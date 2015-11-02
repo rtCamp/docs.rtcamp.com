@@ -10,8 +10,18 @@ rtBiz Helpdesk offers you various shortcodes to display a ready made support for
 You can use the following shortcode to display a support form.
 
 ```
-[rtbiz_hd_support_form title="yes"]
+[rtbiz_hd_support_form title="yes" allow_guest="no"]
 ```
+####**i. title**
+
+To show title in shortcode for support form or not.
+Accepted Values = 'yes' / 'no' 
+
+####**ii. allow_guest**
+
+To allow non logged in user to create support ticket or not.
+Accepted Values = 'yes' / 'no' 
+
 ####**Title attribute**
 
 You can use the title attribute as shown above. This will show "Get support" as title. The default value is yes. Accepts yes/no.
