@@ -7,26 +7,26 @@ rtBiz-Helpdesk Hooks
 
 * rthd_followup_classes
  
- This filter will allows uses to add their custom classes params are `$comment_type_class` and `$comment_id` 
+ This filter will allows uses to add their custom classes Parameter are `$comment_type_class` and `$comment_id` 
 * rtbiz_hd_filter_adult_emails
   
- This is used for filtering adult tickets emails params are `$bccemails` and `$post_id`.
+ This is used for filtering adult tickets emails Parameter are `$bccemails` and `$post_id`.
 
 * rtbiz_hd_locate_template
   
- This filter is used if you want to change helpdesk default templates. Params are `$template, $template_name, $template_path`
+ This filter is used if you want to change helpdesk default templates. Parameter are `$template, $template_name, $template_path`
 
 * rthd_email_template
 
- This filter is used to change email template of rtbiz-helpdesk. Param is `$path` of email template. 
+ This filter is used to change email template of rtbiz-helpdesk. Parameter is `$path` of email template. 
  
 * rthd_ticket_front_page_login_url
  
- This filter is used to change login url. Param is `$login_link` and `$current_page_link`
+ This filter is used to change login url. Parametereter is `$login_link` and `$current_page_link`
 
 * rtbiz_hd_support_form_shortcode
  
- This filter is given to modify support form markup. Accepts params `$markup` and `$attr`.
+ This filter is given to modify support form markup. Accepts Parameter `$markup` and `$attr`.
 
 
 * rthd_before_email_body
@@ -39,7 +39,7 @@ rtBiz-Helpdesk Hooks
 
 * rtbiz_hd_support_from_product_title
 
- On support form we show default project as `Choose Product` and if you want to change that you can use this filter. Params `$product_string`. 
+ On support form we show default project as `Choose Product` and if you want to change that you can use this filter. Parameter `$product_string`. 
 
 
 
@@ -47,28 +47,28 @@ rtBiz-Helpdesk Hooks
 
 * rt_hd_after_ticket_information
 
- Called after ticket information box ui render on backend. Param `$post`.
+ Called after ticket information box ui render on backend. Parameter `$post`.
  
 * rthd_update_attribute
   
-  Allows to update custom attribute. Params are `$attr, $post_id, $newTicket`
+  Allows to update custom attribute. Parameters are `$attr, $post_id, $newTicket`
 
 * rthd_render_attribute
-  Allows to modify custom attribute. Params are `$attr, $post_id, $edit`
+  Allows to change custom attribute. Parameters are `$attr, $post_id, $edit`
  
  
 * rthd_render_taxonomy
  
- Allows to render taxonomy. Params are `$attr, $post_id, $edit`. 
+ Allows to render taxonomy. Parameter are `$attr, $post_id, $edit`. 
 
 * rthd_render_meta
   
- Allows to render meta. Params are `$attr, $post_id, $edit`.
+ Allows to render meta. Parameters are `$attr, $post_id, $edit`.
 
  
 * rtbiz_hd_user_purchase_history
  
- Renders purchase history of user on frontend. Param `$post_id`.
+ Renders purchase history of user on frontend. Parameter `$post_id`.
 
 * rthd_dashboard_add_meta_boxes
 
