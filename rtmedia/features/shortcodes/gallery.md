@@ -69,6 +69,10 @@ Set this option to **FALSE**, if you do not want to show media title in gallery 
 
 ### Some examples for your easy understanding
 
+List all public media [ Public gallery ]
+
+```[rtmedia_gallery global=true]```
+
 List out media of a perticular album_id ( Default Album ).
 
 ``` [rtmedia_gallery global=true album_id=125 sort_parameters="new,view,like,rate,comment" media_type=photo per_page=21] ```
