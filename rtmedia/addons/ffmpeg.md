@@ -29,13 +29,14 @@ You can test this on our [live demo server](http://demo.rtcamp.com/rtmedia-ffmpe
 * If uploaded file requires to be converted, the file is sent to the Media-Node Server for conversion.
 * After conversion, the converted file is downloaded and stored on the Web hosting server.
 
-![selection_097](https://cloud.githubusercontent.com/assets/1140051/7650402/844ded46-fb13-11e4-9ae0-c6700360ba19.png)
+![rtmedia-ffmpeg-admin-settings](https://cloud.githubusercontent.com/assets/2941333/10966625/cd119b72-83da-11e5-8bcc-8d1fd8c6f006.png)
 
 
 ### Features
 
 * As an admin, you can restrict your users to uploading only certain type of Media (image, audio or video)
 * You can change the Server URL as per your needs. (By default it is http://localhost:1203/upload)
+* As from rtMedia FFMPEG v2.2, admin can now set start and end time to trim the converted video.
 
 
 ### Roadmap
