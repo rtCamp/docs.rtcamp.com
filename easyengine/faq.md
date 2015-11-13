@@ -37,7 +37,7 @@ EasyEngine always installs the latest version of PHP.
 
 ##### Q 9. Which operating systems are supported by EasyEngine?
 
-EasyEngine v3 supports all Ubuntu Distro ( till its end of Life) and Debian 7.
+EasyEngine v3.x supports  Ubuntu vsersion 12.04 , 14.04 and Debian 7 & 8.
 
 Centros or any other Linux Distro is not currently supported. They are also not on the product roadmap in the near future.
 
