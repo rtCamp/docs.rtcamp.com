@@ -8,6 +8,10 @@ Install myCRED plugin to use this feature.
 
 myCRED is a point management system for sites running on WordPress. Through it's integration with rtMedia, site admins can award virtual points for various rtMedia activities.
 
+NOTE : Site admin must need to disable ```rtMedia Galleries``` setting in order to enable credit points from rtMedia.
+
+[![rtmedia-gallery-credits](https://cloud.githubusercontent.com/assets/7771963/11421742/95b3f0e8-945c-11e5-8d31-a4250b7aa67d.png)]((https://cloud.githubusercontent.com/assets/7771963/11421742/95b3f0e8-945c-11e5-8d31-a4250b7aa67d.png))
+
 The points system is currently supported for the following activities:
 
  Upload image
