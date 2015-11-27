@@ -15,11 +15,10 @@ After that, if you are existing customer and want to renew license just "existin
 
 If you have any discount coupon with you, click on "Click to enter it" link. A text box will open. Enter your Coupon code there and hit "Apply " button.
 
-[![coupon-code](https://cloud.githubusercontent.com/assets/7771963/11436439/a2d9700a-950a-11e5-9ac9-71d8c6860917.png)](https://cloud.githubusercontent.com/assets/7771963/11436439/a2d9700a-950a-11e5-9ac9-71d8c6860917.png)
-
+[![payment](https://cloud.githubusercontent.com/assets/7771963/11436456/c2e133e2-950a-11e5-8450-80ec591be7b0.png)](https://cloud.githubusercontent.com/assets/7771963/11436456/c2e133e2-950a-11e5-8450-80ec591be7b0.png)
 
 At the end, follow the process to payment. The discount has been added on your order.
 
-[![payment](https://cloud.githubusercontent.com/assets/7771963/11436456/c2e133e2-950a-11e5-8450-80ec591be7b0.png)](https://cloud.githubusercontent.com/assets/7771963/11436456/c2e133e2-950a-11e5-8450-80ec591be7b0.png)
+[![coupon-code](https://cloud.githubusercontent.com/assets/7771963/11436439/a2d9700a-950a-11e5-9ac9-71d8c6860917.png)](https://cloud.githubusercontent.com/assets/7771963/11436439/a2d9700a-950a-11e5-9ac9-71d8c6860917.png)
 
 [![checkout](https://cloud.githubusercontent.com/assets/7771963/11436465/d70fc518-950a-11e5-9dca-1506a5032108.png)](https://cloud.githubusercontent.com/assets/7771963/11436465/d70fc518-950a-11e5-9dca-1506a5032108.png)
