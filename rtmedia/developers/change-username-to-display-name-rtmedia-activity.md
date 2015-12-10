@@ -26,9 +26,7 @@ function change_rtmedia_activity_username_single_media( $action, $username, $cou
 add_filter('rtmedia_buddypress_action_text_fitler', 'change_rtmedia_activity_username_single_media', 10, 5);
 ```
 
-You can change (user_firstname) to (user_firstname user_lastname) or (display_name) or anything else as per your requirement.
-
-Use the following sample code to upload multiple media from the media tab.
+Use the following sample code to change action when user upload multiple media from the media tab.
 
 ```php
 function change_rtmedia_activity_username_multiple_media( $action, $username, $count, $user_nicename ) {
@@ -42,7 +40,7 @@ add_filter('rtmedia_buddypress_action_text_fitler_multiple_media', 'change_rtmed
 ```
 **Filter name :** `rtmedia_bp_activity_action_text`
 
-Description : This filter won't change anything into database but used to display correct display name while viewing the activity feed.
+Description : This filter won't change anything into database but used to update activity action text while viewing the activity feed. Below example is to change username to it's diaplay name.
 
 ```php
 function change_rtmedia_activity_username( $action, $username, $count, $user, $media_type, $activity_id ) {
