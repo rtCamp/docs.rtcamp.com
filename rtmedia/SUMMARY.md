@@ -33,6 +33,7 @@
       * [rtmedia API](developers/rtmedia-api.md)
       * [Upload API](developers/upload-api.md)
       * [Endpoint API](developers/upload-endpoint.md)
+   * [Add media description while uploading media](developers/add-media-description-with-uploader.md)
    * [Change Username to User's Display Name in rtMedia Activity](developers/change-username-to-display-name-rtmedia-activity.md)
    * [Conditional Tags](developers/conditional-tags.md)
    * [Context](developers/context.md)
