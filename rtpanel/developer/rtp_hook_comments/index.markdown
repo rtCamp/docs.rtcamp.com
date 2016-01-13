@@ -1,8 +1,1 @@
----
-title: rtp_hook_comments
----
-
-### Description
-
-
-This hook holds the comments template section.
+This page is moved to https://github.com/rtCamp/rtpanel/wiki/rtp_hook_comments
