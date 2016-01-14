@@ -8,7 +8,7 @@ This filter is called on `plugins_loaded` hook with priority 20 so, in order to 
 
 For example, below code will remove Private & friends options from default privacy options.
 
-You can add following code in your separate custom plugin:
+You can add following code in your separate custom plugin or `bp-custom.php`
 
 ```
 add_action( 'plugins_loaded', 'my_custom_plugin_plugins_loaded', 10 );
