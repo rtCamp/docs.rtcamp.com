@@ -2,11 +2,11 @@
 title: "clean"
 ---
 
-Clean NGINX FastCGI cache, Opcacache, Memcache
+Clean NGINX FastCGI cache, Opcache, Memcache
 
 	ee clean
 
-clean fastgi cache by default.
+clean fastcgi cache by default.
 
 
 ### Clean FastCGI cache
@@ -27,7 +27,7 @@ clean fastgi cache by default.
 
 ### Clean Redis cache
 
-    ee clean --redis
+	ee clean --redis
 
 ### Clean FastCGI, Memcache, OPcache and PageSpeed cache
 
