@@ -1,1 +1,1 @@
-This page is moved to https://github.com/rtCamp/rtpanel/wiki/rtp_hook_comments
+This page is moved to https://github.com/rtCamp/rtpanel/wiki/rtPanel-Hooks/
