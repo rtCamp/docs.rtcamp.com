@@ -2,7 +2,8 @@
 title: rtAmazon S3
 ---
 
-rtAmazon S3 allows site admin to move WordPress media uploads to Amazon S3 Bucket. This plugin works fine with [rtMedia](https://wordpress.org/plugins/buddypress-media/) plugin also.
+rtAmazon S3 allows site admin to move and/or store WordPress media uploads to Amazon S3 Bucket. It works for all the WordPress media library images and other types of files. 
+This plugin works fine with [rtMedia](https://wordpress.org/plugins/buddypress-media/) plugin also.
 
 ## Installation
 Perform the following steps to install rtAmazon s3 plugin:
