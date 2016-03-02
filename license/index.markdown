@@ -4,7 +4,7 @@ title: License
 
 **Important:** License key is needed to receive automatic upgrades only. No features in any product gets blocked if you do not activate license key.
 
-If license key is expired (after 1 year), you can renew it by following steps mentioned on [this page](http://docs.rtcamp.com/license/renew-license-key/).
+_If license key is expired (after 1 year), you can renew it by following steps mentioned on [this page](http://docs.rtcamp.com/license/renew-license-key/)_.
 
 Our premium themes and some WordPress plugins e.g.rtMedia addons, may ask you for license key.
 
