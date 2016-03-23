@@ -6,8 +6,7 @@ If you have purchased any of our [premium add-on](https://rtcamp.com/products/),
 
 ![support form](https://cloud.githubusercontent.com/assets/1140051/7612534/194b74f2-f9a9-11e4-9ba3-a5899316d4f5.png)
 
-### You can hire the rtMedia Team for the following:
 
-1. rtMedia Customization (in Upgrade Safe manner)
-2. Wordpress/BuddyPress Theme Design and Development
-3. Wordpress/BuddyPress Plugin Development
+## Debug info
+
+![selection_145](https://cloud.githubusercontent.com/assets/1140051/13976998/32940d40-f0eb-11e5-94d3-9efbc42c82b3.png)
