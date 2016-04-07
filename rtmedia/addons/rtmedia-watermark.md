@@ -40,6 +40,7 @@ You can:
 
 ![watermark-settings](https://cloud.githubusercontent.com/assets/1140051/7649387/319b5344-fb0a-11e4-9c95-bf2d7d814691.png)
 
+Font Family used from Google Fonts - [https://www.google.com/fonts](https://www.google.com/fonts)
 
 ### Demo
 
