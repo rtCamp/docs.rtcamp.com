@@ -65,7 +65,7 @@ You can use our demo activeCollab setup to test some git functionality for real.
 
 
 	
-  * You can create a webhook-end point using [http://requestb.in/](http://requestb.in/)
+  * You can create a webhook-end point using [https://requestbin.com/](https://requestbin.com/)
 
 	
   * Then you can do some work on git repo and see what happens on `git push` at your request-bin.
