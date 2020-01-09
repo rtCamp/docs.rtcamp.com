@@ -12,7 +12,7 @@ You can manage webhooks for each repo from "Hooks" menu that you will see when y
 
 On next screen you can add as many hook as you want for each repo. For each hook URL endpoint, there is a Test button. You can use that to test webhook.
 
-We highly recommend using [http://requestb.in/](http://requestb.in/) to test webhooks.
+We highly recommend using [https://requestbin.com/](https://requestbin.com/) to test webhooks.
 
 [![manage-webhooks-activecollab-gitolite](https://rtcamp.com/files/2013/01/manage-webhooks-activecollab-gitolite-620x200.png)](https://rtcamp.com/files/2013/01/manage-webhooks-activecollab-gitolite.png)
 
