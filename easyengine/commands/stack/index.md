@@ -171,7 +171,7 @@ If you are thinking removing all packages is not suitable for you, can remove si
 
 ## Remove HHVM
 
-	ee stack hhvm --hhvm
+	ee stack remove --hhvm
 
 ## Remove MariaDB MySQL
 
