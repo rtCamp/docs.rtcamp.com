@@ -38,7 +38,7 @@ To create Standard/Single WordPress site use following command.
 
 	ee site create example.com --wp # install wordpress without any page caching
 	ee site create example.com --w3tc # install wordpress with w3-total-cache plugin
-	ee site create example.com --wpsc # install wordpress with whisp-super-cache plugin
+	ee site create example.com --wpsc # install wordpress with wp-super-cache plugin
 	ee site create example.com --wpfc # install wordpress + nginx fastcgi_cache
 	ee site create example.com --wpredis # install wordpress + nginx redis_cache
 
