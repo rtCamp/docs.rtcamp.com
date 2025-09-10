@@ -34,7 +34,7 @@ The points system is currently supported for the following activities:
 
  Edit media
 
- Edit album
+ Rename album
 
  Delete media _(you can add negative points for this)_
 
