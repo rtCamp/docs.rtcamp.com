@@ -28,13 +28,13 @@ In the **Album Gallery**, click an album cover photo or its name to view the ite
 
 ![album and its media](https://cloud.githubusercontent.com/assets/1140051/7676680/9a6117b4-fd63-11e4-94be-3f628af50c96.png)
 
-## Editing an Album
+## Renaming an Album
 
 To make changes to an album or its items, use these steps while referring to the screen shot that follows:
 
-1. Click on the **Edit Album** , after opening an album as explained in the sections 'Viewing Album Gallery' and 'Viewing album items' above.
+1. Click on the **Rename Album**, after opening an album as explained in the sections 'Viewing Album Gallery' and 'Viewing album items' above.
 ![edit albums](https://cloud.githubusercontent.com/assets/1140051/7516828/4a458ab6-f4ef-11e4-8260-41dff646b452.png)
-2. You can make changes on the **Edit Album** page that opens:
+2. You can make changes on the **Rename Album** page that opens:
     * Modify the title.
     * Enter/modify the description.
     * Click **Save**.
